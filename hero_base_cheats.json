@@ -1,0 +1,1948 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Orrin Movement",
+      27278285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin EXP",
+      27278289,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 1",
+      27278353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 2",
+      27278357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 3",
+      27278361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 4",
+      27278365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 5",
+      27278369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 6",
+      27278373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Type Slot 7",
+      27278377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 1",
+      27278381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 2",
+      27278385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 3",
+      27278389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 4",
+      27278393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 5",
+      27278397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 6",
+      27278401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Unit Count Slot 7",
+      27278405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Pathfinding",
+      27278409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Archery",
+      27278410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Logistics",
+      27278411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Scouting",
+      27278412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Diplomacy",
+      27278413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Navigation",
+      27278414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Leadership",
+      27278415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Wisdom",
+      27278416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Mysticism",
+      27278417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Luck",
+      27278418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Ballistics",
+      27278419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Eagle Eye",
+      27278420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Necromancy",
+      27278421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Estates",
+      27278422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Fire Magic",
+      27278423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Air Magic",
+      27278424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Water Magic",
+      27278425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Earth Magic",
+      27278426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Scholar",
+      27278427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Tactics",
+      27278428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Artillery",
+      27278429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Learning",
+      27278430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Offence",
+      27278431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Armourer",
+      27278432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Intelligence",
+      27278433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Sorcery",
+      27278434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Resistance",
+      27278435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin First Aid",
+      27278436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Pathfinding Slot",
+      27278437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Archery Slot",
+      27278438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Logistics Slot",
+      27278439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Scouting Slot",
+      27278440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Diplomacy Slot",
+      27278441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Navigation Slot",
+      27278442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Leadership Slot",
+      27278443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Wisdom Slot",
+      27278444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Mysticism Slot",
+      27278445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Luck Slot",
+      27278446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Ballistics Slot",
+      27278447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Eagle Eye Slot",
+      27278448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Necromancy Slot",
+      27278449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Estates Slot",
+      27278450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Fire Magic Slot",
+      27278451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Air Magic Slot",
+      27278452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Water Magic Slot",
+      27278453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Earth Magic Slot",
+      27278454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Scholar Slot",
+      27278455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Tactics Slot",
+      27278456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Artillery Slot",
+      27278457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Learning Slot",
+      27278458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Offense Slot",
+      27278459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Armourer Slot",
+      27278460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Intelligence Slot",
+      27278461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Sorcery Slot",
+      27278462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Resistance Slot",
+      27278463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin First Aid Slot",
+      27278464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Skill Count",
+      27278465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Ballista equipped (4 or -1)",
+      27278613,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Ammo Cart equipped (5 or -1)",
+      27278621,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin First Aid equipped Item (6 or -1)",
+      27278629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Catapult equipped (3 or -1)",
+      27278637,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spellbook equipped (0 or -1)",
+      27278645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 1",
+      27278676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 2",
+      27278684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 3",
+      27278692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 4",
+      27278700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 5",
+      27278708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 6",
+      27278716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 7",
+      27278724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 8",
+      27278732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 9",
+      27278740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 10",
+      27278748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 11",
+      27278756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 12",
+      27278764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 13",
+      27278772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 14",
+      27278780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 15",
+      27278788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 16",
+      27278796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 17",
+      27278804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 18",
+      27278812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 19",
+      27278820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 20",
+      27278828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 21",
+      27278836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 22",
+      27278844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 23",
+      27278852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 24",
+      27278860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 25",
+      27278868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 26",
+      27278876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 27",
+      27278884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 28",
+      27278892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 29",
+      27278900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 30",
+      27278908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 31",
+      27278916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 32",
+      27278924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 33",
+      27278932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 34",
+      27278940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 35",
+      27278948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 36",
+      27278956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 37",
+      27278964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 38",
+      27278972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 39",
+      27278980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 40",
+      27278988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 41",
+      27278996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 42",
+      27279004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 43",
+      27279012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 44",
+      27279020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 45",
+      27279028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 46",
+      27279036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 47",
+      27279044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 48",
+      27279052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 49",
+      27279060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 50",
+      27279068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 51",
+      27279076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 52",
+      27279084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 53",
+      27279092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 54",
+      27279100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 55",
+      27279108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 56",
+      27279116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 57",
+      27279124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 58",
+      27279132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 59",
+      27279140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 60",
+      27279148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 61",
+      27279156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 62",
+      27279164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 63",
+      27279172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Backpack Slot 64",
+      27279180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Summon Boat",
+      27279280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Scuttle Boat",
+      27279281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Visions",
+      27279282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell View Earth",
+      27279283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Disguise",
+      27279284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell View Air",
+      27279285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fly",
+      27279286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Water Walk",
+      27279287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Dimension Door",
+      27279288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Town Portal",
+      27279289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Quicksand",
+      27279290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Land Mine",
+      27279291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Force Field",
+      27279292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fire Wall",
+      27279293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Earthquake",
+      27279294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Magic Arrow",
+      27279295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Ice Bolt",
+      27279296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Lightning Bolt",
+      27279297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Implosion",
+      27279298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Chain Lightning",
+      27279299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Frost Ring",
+      27279300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fireball",
+      27279301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Inferno",
+      27279302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Meteor Shower",
+      27279303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Death Ripple",
+      27279304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Destroy Undead",
+      27279305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Armageddon",
+      27279306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Shield",
+      27279307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Air Shield",
+      27279308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fire Shield",
+      27279309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Protection from Air",
+      27279310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Protection from Fire",
+      27279311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Protection from Water",
+      27279312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Protection from Earth",
+      27279313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Anti Magic",
+      27279314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Dispel",
+      27279315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Magic Mirror",
+      27279316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Cure",
+      27279317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Resurrection",
+      27279318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Animate Dead",
+      27279319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Sacrifice",
+      27279320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Bless",
+      27279321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Curse",
+      27279322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Bloodlust",
+      27279323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Precision",
+      27279324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Weakness",
+      27279325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Stone Skin",
+      27279326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Disrupting Ray",
+      27279327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Prayer",
+      27279328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Mirth",
+      27279329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Sorrow",
+      27279330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fortune",
+      27279331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Misfortune",
+      27279332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Haste",
+      27279333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Slow",
+      27279334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Slayer",
+      27279335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Frenzy",
+      27279336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Titan's Lighting Bolt",
+      27279337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Counterstrike",
+      27279338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Berserk",
+      27279339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Hypnotize",
+      27279340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Forgetfulness",
+      27279341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Blind",
+      27279342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Teleport",
+      27279343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Remove Obstacle",
+      27279344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Clone",
+      27279345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Fire Elemental",
+      27279346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Earth Elemental",
+      27279347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Water Elemental",
+      27279348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spell Air Elemental",
+      27279349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Attack",
+      27279350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Def",
+      27279351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Spellpower",
+      27279352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Orrin Knowledge",
+      27279353,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}
