@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Synca Name",
+      27378863,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Movement",
+      27378905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca EXP",
+      27378909,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 1",
+      27378973,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 2",
+      27378977,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 3",
+      27378981,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 4",
+      27378985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 5",
+      27378989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 6",
+      27378993,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Type Slot 7",
+      27378997,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 1",
+      27379001,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 2",
+      27379005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 3",
+      27379009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 4",
+      27379013,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 5",
+      27379017,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 6",
+      27379021,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Unit Count Slot 7",
+      27379025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Pathfinding",
+      27379029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Archery",
+      27379030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Logistics",
+      27379031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Scouting",
+      27379032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Diplomacy",
+      27379033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Navigation",
+      27379034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Leadership",
+      27379035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Wisdom",
+      27379036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Mysticism",
+      27379037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Luck",
+      27379038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Ballistics",
+      27379039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Eagle Eye",
+      27379040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Necromancy",
+      27379041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Estates",
+      27379042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Fire Magic",
+      27379043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Air Magic",
+      27379044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Water Magic",
+      27379045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Earth Magic",
+      27379046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Scholar",
+      27379047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Tactics",
+      27379048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Artillery",
+      27379049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Learning",
+      27379050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Offence",
+      27379051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Armourer",
+      27379052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Intelligence",
+      27379053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Sorcery",
+      27379054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Resistance",
+      27379055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca First Aid",
+      27379056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Pathfinding Slot",
+      27379057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Archery Slot",
+      27379058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Logistics Slot",
+      27379059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Scouting Slot",
+      27379060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Diplomacy Slot",
+      27379061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Navigation Slot",
+      27379062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Leadership Slot",
+      27379063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Wisdom Slot",
+      27379064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Mysticism Slot",
+      27379065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Luck Slot",
+      27379066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Ballistics Slot",
+      27379067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Eagle Eye Slot",
+      27379068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Necromancy Slot",
+      27379069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Estates Slot",
+      27379070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Fire Magic Slot",
+      27379071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Air Magic Slot",
+      27379072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Water Magic Slot",
+      27379073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Earth Magic Slot",
+      27379074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Scholar Slot",
+      27379075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Tactics Slot",
+      27379076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Artillery Slot",
+      27379077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Learning Slot",
+      27379078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Offense Slot",
+      27379079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Armourer Slot",
+      27379080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Intelligence Slot",
+      27379081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Sorcery Slot",
+      27379082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Resistance Slot",
+      27379083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca First Aid Slot",
+      27379084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Skill Count",
+      27379085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Ballista equipped (4 or -1)",
+      27379233,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Ammo Cart equipped (5 or -1)",
+      27379241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca First Aid equipped Item (6 or -1)",
+      27379249,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Catapult equipped (3 or -1)",
+      27379257,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spellbook equipped (0 or -1)",
+      27379265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 1",
+      27379296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 2",
+      27379304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 3",
+      27379312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 4",
+      27379320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 5",
+      27379328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 6",
+      27379336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 7",
+      27379344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 8",
+      27379352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 9",
+      27379360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 10",
+      27379368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 11",
+      27379376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 12",
+      27379384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 13",
+      27379392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 14",
+      27379400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 15",
+      27379408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 16",
+      27379416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 17",
+      27379424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 18",
+      27379432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 19",
+      27379440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 20",
+      27379448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 21",
+      27379456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 22",
+      27379464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 23",
+      27379472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 24",
+      27379480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 25",
+      27379488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 26",
+      27379496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 27",
+      27379504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 28",
+      27379512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 29",
+      27379520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 30",
+      27379528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 31",
+      27379536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 32",
+      27379544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 33",
+      27379552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 34",
+      27379560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 35",
+      27379568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 36",
+      27379576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 37",
+      27379584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 38",
+      27379592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 39",
+      27379600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 40",
+      27379608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 41",
+      27379616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 42",
+      27379624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 43",
+      27379632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 44",
+      27379640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 45",
+      27379648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 46",
+      27379656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 47",
+      27379664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 48",
+      27379672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 49",
+      27379680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 50",
+      27379688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 51",
+      27379696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 52",
+      27379704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 53",
+      27379712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 54",
+      27379720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 55",
+      27379728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 56",
+      27379736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 57",
+      27379744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 58",
+      27379752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 59",
+      27379760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 60",
+      27379768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 61",
+      27379776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 62",
+      27379784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 63",
+      27379792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Backpack Slot 64",
+      27379800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Summon Boat",
+      27379900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Scuttle Boat",
+      27379901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Visions",
+      27379902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell View Earth",
+      27379903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Disguise",
+      27379904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell View Air",
+      27379905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fly",
+      27379906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Water Walk",
+      27379907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Dimension Door",
+      27379908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Town Portal",
+      27379909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Quicksand",
+      27379910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Land Mine",
+      27379911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Force Field",
+      27379912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fire Wall",
+      27379913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Earthquake",
+      27379914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Magic Arrow",
+      27379915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Ice Bolt",
+      27379916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Lightning Bolt",
+      27379917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Implosion",
+      27379918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Chain Lightning",
+      27379919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Frost Ring",
+      27379920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fireball",
+      27379921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Inferno",
+      27379922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Meteor Shower",
+      27379923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Death Ripple",
+      27379924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Destroy Undead",
+      27379925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Armageddon",
+      27379926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Shield",
+      27379927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Air Shield",
+      27379928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fire Shield",
+      27379929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Protection from Air",
+      27379930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Protection from Fire",
+      27379931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Protection from Water",
+      27379932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Protection from Earth",
+      27379933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Anti Magic",
+      27379934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Dispel",
+      27379935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Magic Mirror",
+      27379936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Cure",
+      27379937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Resurrection",
+      27379938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Animate Dead",
+      27379939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Sacrifice",
+      27379940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Bless",
+      27379941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Curse",
+      27379942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Bloodlust",
+      27379943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Precision",
+      27379944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Weakness",
+      27379945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Stone Skin",
+      27379946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Disrupting Ray",
+      27379947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Prayer",
+      27379948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Mirth",
+      27379949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Sorrow",
+      27379950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fortune",
+      27379951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Misfortune",
+      27379952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Haste",
+      27379953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Slow",
+      27379954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Slayer",
+      27379955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Frenzy",
+      27379956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Titan's Lighting Bolt",
+      27379957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Counterstrike",
+      27379958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Berserk",
+      27379959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Hypnotize",
+      27379960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Forgetfulness",
+      27379961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Blind",
+      27379962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Teleport",
+      27379963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Remove Obstacle",
+      27379964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Clone",
+      27379965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Fire Elemental",
+      27379966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Earth Elemental",
+      27379967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Water Elemental",
+      27379968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spell Air Elemental",
+      27379969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Attack",
+      27379970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Def",
+      27379971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Spellpower",
+      27379972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Synca Knowledge",
+      27379973,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Verdish Name",
+      27422153,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Movement",
+      27422195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish EXP",
+      27422199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 1",
+      27422263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 2",
+      27422267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 3",
+      27422271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 4",
+      27422275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 5",
+      27422279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 6",
+      27422283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Type Slot 7",
+      27422287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 1",
+      27422291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 2",
+      27422295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 3",
+      27422299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 4",
+      27422303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 5",
+      27422307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 6",
+      27422311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Unit Count Slot 7",
+      27422315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Pathfinding",
+      27422319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Archery",
+      27422320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Logistics",
+      27422321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Scouting",
+      27422322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Diplomacy",
+      27422323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Navigation",
+      27422324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Leadership",
+      27422325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Wisdom",
+      27422326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Mysticism",
+      27422327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Luck",
+      27422328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Ballistics",
+      27422329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Eagle Eye",
+      27422330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Necromancy",
+      27422331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Estates",
+      27422332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Fire Magic",
+      27422333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Air Magic",
+      27422334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Water Magic",
+      27422335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Earth Magic",
+      27422336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Scholar",
+      27422337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Tactics",
+      27422338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Artillery",
+      27422339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Learning",
+      27422340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Offence",
+      27422341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Armourer",
+      27422342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Intelligence",
+      27422343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Sorcery",
+      27422344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Resistance",
+      27422345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish First Aid",
+      27422346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Pathfinding Slot",
+      27422347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Archery Slot",
+      27422348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Logistics Slot",
+      27422349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Scouting Slot",
+      27422350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Diplomacy Slot",
+      27422351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Navigation Slot",
+      27422352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Leadership Slot",
+      27422353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Wisdom Slot",
+      27422354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Mysticism Slot",
+      27422355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Luck Slot",
+      27422356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Ballistics Slot",
+      27422357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Eagle Eye Slot",
+      27422358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Necromancy Slot",
+      27422359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Estates Slot",
+      27422360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Fire Magic Slot",
+      27422361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Air Magic Slot",
+      27422362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Water Magic Slot",
+      27422363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Earth Magic Slot",
+      27422364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Scholar Slot",
+      27422365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Tactics Slot",
+      27422366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Artillery Slot",
+      27422367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Learning Slot",
+      27422368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Offense Slot",
+      27422369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Armourer Slot",
+      27422370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Intelligence Slot",
+      27422371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Sorcery Slot",
+      27422372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Resistance Slot",
+      27422373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish First Aid Slot",
+      27422374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Skill Count",
+      27422375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Ballista equipped (4 or -1)",
+      27422523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Ammo Cart equipped (5 or -1)",
+      27422531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish First Aid equipped Item (6 or -1)",
+      27422539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Catapult equipped (3 or -1)",
+      27422547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spellbook equipped (0 or -1)",
+      27422555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 1",
+      27422586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 2",
+      27422594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 3",
+      27422602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 4",
+      27422610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 5",
+      27422618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 6",
+      27422626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 7",
+      27422634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 8",
+      27422642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 9",
+      27422650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 10",
+      27422658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 11",
+      27422666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 12",
+      27422674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 13",
+      27422682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 14",
+      27422690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 15",
+      27422698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 16",
+      27422706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 17",
+      27422714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 18",
+      27422722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 19",
+      27422730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 20",
+      27422738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 21",
+      27422746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 22",
+      27422754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 23",
+      27422762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 24",
+      27422770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 25",
+      27422778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 26",
+      27422786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 27",
+      27422794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 28",
+      27422802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 29",
+      27422810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 30",
+      27422818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 31",
+      27422826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 32",
+      27422834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 33",
+      27422842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 34",
+      27422850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 35",
+      27422858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 36",
+      27422866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 37",
+      27422874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 38",
+      27422882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 39",
+      27422890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 40",
+      27422898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 41",
+      27422906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 42",
+      27422914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 43",
+      27422922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 44",
+      27422930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 45",
+      27422938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 46",
+      27422946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 47",
+      27422954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 48",
+      27422962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 49",
+      27422970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 50",
+      27422978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 51",
+      27422986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 52",
+      27422994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 53",
+      27423002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 54",
+      27423010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 55",
+      27423018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 56",
+      27423026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 57",
+      27423034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 58",
+      27423042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 59",
+      27423050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 60",
+      27423058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 61",
+      27423066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 62",
+      27423074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 63",
+      27423082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Backpack Slot 64",
+      27423090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Summon Boat",
+      27423190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Scuttle Boat",
+      27423191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Visions",
+      27423192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell View Earth",
+      27423193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Disguise",
+      27423194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell View Air",
+      27423195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fly",
+      27423196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Water Walk",
+      27423197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Dimension Door",
+      27423198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Town Portal",
+      27423199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Quicksand",
+      27423200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Land Mine",
+      27423201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Force Field",
+      27423202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fire Wall",
+      27423203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Earthquake",
+      27423204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Magic Arrow",
+      27423205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Ice Bolt",
+      27423206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Lightning Bolt",
+      27423207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Implosion",
+      27423208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Chain Lightning",
+      27423209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Frost Ring",
+      27423210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fireball",
+      27423211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Inferno",
+      27423212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Meteor Shower",
+      27423213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Death Ripple",
+      27423214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Destroy Undead",
+      27423215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Armageddon",
+      27423216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Shield",
+      27423217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Air Shield",
+      27423218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fire Shield",
+      27423219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Protection from Air",
+      27423220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Protection from Fire",
+      27423221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Protection from Water",
+      27423222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Protection from Earth",
+      27423223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Anti Magic",
+      27423224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Dispel",
+      27423225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Magic Mirror",
+      27423226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Cure",
+      27423227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Resurrection",
+      27423228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Animate Dead",
+      27423229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Sacrifice",
+      27423230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Bless",
+      27423231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Curse",
+      27423232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Bloodlust",
+      27423233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Precision",
+      27423234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Weakness",
+      27423235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Stone Skin",
+      27423236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Disrupting Ray",
+      27423237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Prayer",
+      27423238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Mirth",
+      27423239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Sorrow",
+      27423240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fortune",
+      27423241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Misfortune",
+      27423242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Haste",
+      27423243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Slow",
+      27423244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Slayer",
+      27423245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Frenzy",
+      27423246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Titan's Lighting Bolt",
+      27423247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Counterstrike",
+      27423248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Berserk",
+      27423249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Hypnotize",
+      27423250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Forgetfulness",
+      27423251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Blind",
+      27423252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Teleport",
+      27423253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Remove Obstacle",
+      27423254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Clone",
+      27423255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Fire Elemental",
+      27423256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Earth Elemental",
+      27423257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Water Elemental",
+      27423258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spell Air Elemental",
+      27423259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Attack",
+      27423260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Def",
+      27423261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Spellpower",
+      27423262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Verdish Knowledge",
+      27423263,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

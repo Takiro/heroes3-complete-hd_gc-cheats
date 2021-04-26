@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Thane Name",
+      27316853,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Movement",
+      27316895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane EXP",
+      27316899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 1",
+      27316963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 2",
+      27316967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 3",
+      27316971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 4",
+      27316975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 5",
+      27316979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 6",
+      27316983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Type Slot 7",
+      27316987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 1",
+      27316991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 2",
+      27316995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 3",
+      27316999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 4",
+      27317003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 5",
+      27317007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 6",
+      27317011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Unit Count Slot 7",
+      27317015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Pathfinding",
+      27317019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Archery",
+      27317020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Logistics",
+      27317021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Scouting",
+      27317022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Diplomacy",
+      27317023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Navigation",
+      27317024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Leadership",
+      27317025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Wisdom",
+      27317026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Mysticism",
+      27317027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Luck",
+      27317028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Ballistics",
+      27317029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Eagle Eye",
+      27317030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Necromancy",
+      27317031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Estates",
+      27317032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Fire Magic",
+      27317033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Air Magic",
+      27317034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Water Magic",
+      27317035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Earth Magic",
+      27317036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Scholar",
+      27317037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Tactics",
+      27317038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Artillery",
+      27317039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Learning",
+      27317040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Offence",
+      27317041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Armourer",
+      27317042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Intelligence",
+      27317043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Sorcery",
+      27317044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Resistance",
+      27317045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane First Aid",
+      27317046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Pathfinding Slot",
+      27317047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Archery Slot",
+      27317048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Logistics Slot",
+      27317049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Scouting Slot",
+      27317050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Diplomacy Slot",
+      27317051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Navigation Slot",
+      27317052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Leadership Slot",
+      27317053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Wisdom Slot",
+      27317054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Mysticism Slot",
+      27317055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Luck Slot",
+      27317056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Ballistics Slot",
+      27317057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Eagle Eye Slot",
+      27317058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Necromancy Slot",
+      27317059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Estates Slot",
+      27317060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Fire Magic Slot",
+      27317061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Air Magic Slot",
+      27317062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Water Magic Slot",
+      27317063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Earth Magic Slot",
+      27317064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Scholar Slot",
+      27317065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Tactics Slot",
+      27317066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Artillery Slot",
+      27317067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Learning Slot",
+      27317068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Offense Slot",
+      27317069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Armourer Slot",
+      27317070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Intelligence Slot",
+      27317071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Sorcery Slot",
+      27317072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Resistance Slot",
+      27317073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane First Aid Slot",
+      27317074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Skill Count",
+      27317075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Ballista equipped (4 or -1)",
+      27317223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Ammo Cart equipped (5 or -1)",
+      27317231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane First Aid equipped Item (6 or -1)",
+      27317239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Catapult equipped (3 or -1)",
+      27317247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spellbook equipped (0 or -1)",
+      27317255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 1",
+      27317286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 2",
+      27317294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 3",
+      27317302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 4",
+      27317310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 5",
+      27317318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 6",
+      27317326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 7",
+      27317334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 8",
+      27317342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 9",
+      27317350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 10",
+      27317358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 11",
+      27317366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 12",
+      27317374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 13",
+      27317382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 14",
+      27317390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 15",
+      27317398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 16",
+      27317406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 17",
+      27317414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 18",
+      27317422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 19",
+      27317430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 20",
+      27317438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 21",
+      27317446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 22",
+      27317454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 23",
+      27317462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 24",
+      27317470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 25",
+      27317478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 26",
+      27317486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 27",
+      27317494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 28",
+      27317502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 29",
+      27317510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 30",
+      27317518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 31",
+      27317526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 32",
+      27317534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 33",
+      27317542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 34",
+      27317550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 35",
+      27317558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 36",
+      27317566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 37",
+      27317574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 38",
+      27317582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 39",
+      27317590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 40",
+      27317598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 41",
+      27317606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 42",
+      27317614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 43",
+      27317622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 44",
+      27317630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 45",
+      27317638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 46",
+      27317646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 47",
+      27317654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 48",
+      27317662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 49",
+      27317670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 50",
+      27317678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 51",
+      27317686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 52",
+      27317694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 53",
+      27317702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 54",
+      27317710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 55",
+      27317718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 56",
+      27317726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 57",
+      27317734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 58",
+      27317742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 59",
+      27317750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 60",
+      27317758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 61",
+      27317766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 62",
+      27317774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 63",
+      27317782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Backpack Slot 64",
+      27317790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Summon Boat",
+      27317890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Scuttle Boat",
+      27317891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Visions",
+      27317892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell View Earth",
+      27317893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Disguise",
+      27317894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell View Air",
+      27317895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fly",
+      27317896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Water Walk",
+      27317897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Dimension Door",
+      27317898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Town Portal",
+      27317899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Quicksand",
+      27317900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Land Mine",
+      27317901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Force Field",
+      27317902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fire Wall",
+      27317903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Earthquake",
+      27317904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Magic Arrow",
+      27317905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Ice Bolt",
+      27317906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Lightning Bolt",
+      27317907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Implosion",
+      27317908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Chain Lightning",
+      27317909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Frost Ring",
+      27317910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fireball",
+      27317911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Inferno",
+      27317912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Meteor Shower",
+      27317913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Death Ripple",
+      27317914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Destroy Undead",
+      27317915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Armageddon",
+      27317916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Shield",
+      27317917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Air Shield",
+      27317918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fire Shield",
+      27317919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Protection from Air",
+      27317920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Protection from Fire",
+      27317921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Protection from Water",
+      27317922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Protection from Earth",
+      27317923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Anti Magic",
+      27317924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Dispel",
+      27317925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Magic Mirror",
+      27317926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Cure",
+      27317927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Resurrection",
+      27317928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Animate Dead",
+      27317929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Sacrifice",
+      27317930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Bless",
+      27317931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Curse",
+      27317932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Bloodlust",
+      27317933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Precision",
+      27317934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Weakness",
+      27317935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Stone Skin",
+      27317936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Disrupting Ray",
+      27317937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Prayer",
+      27317938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Mirth",
+      27317939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Sorrow",
+      27317940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fortune",
+      27317941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Misfortune",
+      27317942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Haste",
+      27317943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Slow",
+      27317944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Slayer",
+      27317945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Frenzy",
+      27317946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Titan's Lighting Bolt",
+      27317947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Counterstrike",
+      27317948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Berserk",
+      27317949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Hypnotize",
+      27317950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Forgetfulness",
+      27317951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Blind",
+      27317952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Teleport",
+      27317953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Remove Obstacle",
+      27317954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Clone",
+      27317955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Fire Elemental",
+      27317956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Earth Elemental",
+      27317957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Water Elemental",
+      27317958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spell Air Elemental",
+      27317959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Attack",
+      27317960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Def",
+      27317961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Spellpower",
+      27317962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thane Knowledge",
+      27317963,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

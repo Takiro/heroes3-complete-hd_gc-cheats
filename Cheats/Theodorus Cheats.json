@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Theodorus Name",
+      27329723,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Movement",
+      27329765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus EXP",
+      27329769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 1",
+      27329833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 2",
+      27329837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 3",
+      27329841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 4",
+      27329845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 5",
+      27329849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 6",
+      27329853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Type Slot 7",
+      27329857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 1",
+      27329861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 2",
+      27329865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 3",
+      27329869,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 4",
+      27329873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 5",
+      27329877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 6",
+      27329881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Unit Count Slot 7",
+      27329885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Pathfinding",
+      27329889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Archery",
+      27329890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Logistics",
+      27329891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Scouting",
+      27329892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Diplomacy",
+      27329893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Navigation",
+      27329894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Leadership",
+      27329895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Wisdom",
+      27329896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Mysticism",
+      27329897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Luck",
+      27329898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Ballistics",
+      27329899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Eagle Eye",
+      27329900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Necromancy",
+      27329901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Estates",
+      27329902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Fire Magic",
+      27329903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Air Magic",
+      27329904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Water Magic",
+      27329905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Earth Magic",
+      27329906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Scholar",
+      27329907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Tactics",
+      27329908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Artillery",
+      27329909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Learning",
+      27329910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Offence",
+      27329911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Armourer",
+      27329912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Intelligence",
+      27329913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Sorcery",
+      27329914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Resistance",
+      27329915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus First Aid",
+      27329916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Pathfinding Slot",
+      27329917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Archery Slot",
+      27329918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Logistics Slot",
+      27329919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Scouting Slot",
+      27329920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Diplomacy Slot",
+      27329921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Navigation Slot",
+      27329922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Leadership Slot",
+      27329923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Wisdom Slot",
+      27329924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Mysticism Slot",
+      27329925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Luck Slot",
+      27329926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Ballistics Slot",
+      27329927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Eagle Eye Slot",
+      27329928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Necromancy Slot",
+      27329929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Estates Slot",
+      27329930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Fire Magic Slot",
+      27329931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Air Magic Slot",
+      27329932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Water Magic Slot",
+      27329933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Earth Magic Slot",
+      27329934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Scholar Slot",
+      27329935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Tactics Slot",
+      27329936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Artillery Slot",
+      27329937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Learning Slot",
+      27329938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Offense Slot",
+      27329939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Armourer Slot",
+      27329940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Intelligence Slot",
+      27329941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Sorcery Slot",
+      27329942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Resistance Slot",
+      27329943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus First Aid Slot",
+      27329944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Skill Count",
+      27329945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Ballista equipped (4 or -1)",
+      27330093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Ammo Cart equipped (5 or -1)",
+      27330101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus First Aid equipped Item (6 or -1)",
+      27330109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Catapult equipped (3 or -1)",
+      27330117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spellbook equipped (0 or -1)",
+      27330125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 1",
+      27330156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 2",
+      27330164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 3",
+      27330172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 4",
+      27330180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 5",
+      27330188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 6",
+      27330196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 7",
+      27330204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 8",
+      27330212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 9",
+      27330220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 10",
+      27330228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 11",
+      27330236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 12",
+      27330244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 13",
+      27330252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 14",
+      27330260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 15",
+      27330268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 16",
+      27330276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 17",
+      27330284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 18",
+      27330292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 19",
+      27330300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 20",
+      27330308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 21",
+      27330316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 22",
+      27330324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 23",
+      27330332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 24",
+      27330340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 25",
+      27330348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 26",
+      27330356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 27",
+      27330364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 28",
+      27330372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 29",
+      27330380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 30",
+      27330388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 31",
+      27330396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 32",
+      27330404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 33",
+      27330412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 34",
+      27330420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 35",
+      27330428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 36",
+      27330436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 37",
+      27330444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 38",
+      27330452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 39",
+      27330460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 40",
+      27330468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 41",
+      27330476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 42",
+      27330484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 43",
+      27330492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 44",
+      27330500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 45",
+      27330508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 46",
+      27330516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 47",
+      27330524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 48",
+      27330532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 49",
+      27330540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 50",
+      27330548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 51",
+      27330556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 52",
+      27330564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 53",
+      27330572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 54",
+      27330580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 55",
+      27330588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 56",
+      27330596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 57",
+      27330604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 58",
+      27330612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 59",
+      27330620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 60",
+      27330628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 61",
+      27330636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 62",
+      27330644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 63",
+      27330652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Backpack Slot 64",
+      27330660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Summon Boat",
+      27330760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Scuttle Boat",
+      27330761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Visions",
+      27330762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell View Earth",
+      27330763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Disguise",
+      27330764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell View Air",
+      27330765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fly",
+      27330766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Water Walk",
+      27330767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Dimension Door",
+      27330768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Town Portal",
+      27330769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Quicksand",
+      27330770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Land Mine",
+      27330771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Force Field",
+      27330772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fire Wall",
+      27330773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Earthquake",
+      27330774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Magic Arrow",
+      27330775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Ice Bolt",
+      27330776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Lightning Bolt",
+      27330777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Implosion",
+      27330778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Chain Lightning",
+      27330779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Frost Ring",
+      27330780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fireball",
+      27330781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Inferno",
+      27330782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Meteor Shower",
+      27330783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Death Ripple",
+      27330784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Destroy Undead",
+      27330785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Armageddon",
+      27330786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Shield",
+      27330787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Air Shield",
+      27330788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fire Shield",
+      27330789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Protection from Air",
+      27330790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Protection from Fire",
+      27330791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Protection from Water",
+      27330792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Protection from Earth",
+      27330793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Anti Magic",
+      27330794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Dispel",
+      27330795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Magic Mirror",
+      27330796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Cure",
+      27330797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Resurrection",
+      27330798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Animate Dead",
+      27330799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Sacrifice",
+      27330800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Bless",
+      27330801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Curse",
+      27330802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Bloodlust",
+      27330803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Precision",
+      27330804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Weakness",
+      27330805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Stone Skin",
+      27330806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Disrupting Ray",
+      27330807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Prayer",
+      27330808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Mirth",
+      27330809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Sorrow",
+      27330810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fortune",
+      27330811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Misfortune",
+      27330812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Haste",
+      27330813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Slow",
+      27330814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Slayer",
+      27330815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Frenzy",
+      27330816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Titan's Lighting Bolt",
+      27330817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Counterstrike",
+      27330818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Berserk",
+      27330819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Hypnotize",
+      27330820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Forgetfulness",
+      27330821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Blind",
+      27330822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Teleport",
+      27330823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Remove Obstacle",
+      27330824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Clone",
+      27330825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Fire Elemental",
+      27330826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Earth Elemental",
+      27330827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Water Elemental",
+      27330828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spell Air Elemental",
+      27330829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Attack",
+      27330830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Def",
+      27330831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Spellpower",
+      27330832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Theodorus Knowledge",
+      27330833,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

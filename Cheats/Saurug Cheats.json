@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Saurug Name",
+      27408113,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Movement",
+      27408155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug EXP",
+      27408159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 1",
+      27408223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 2",
+      27408227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 3",
+      27408231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 4",
+      27408235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 5",
+      27408239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 6",
+      27408243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Type Slot 7",
+      27408247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 1",
+      27408251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 2",
+      27408255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 3",
+      27408259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 4",
+      27408263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 5",
+      27408267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 6",
+      27408271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Unit Count Slot 7",
+      27408275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Pathfinding",
+      27408279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Archery",
+      27408280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Logistics",
+      27408281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Scouting",
+      27408282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Diplomacy",
+      27408283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Navigation",
+      27408284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Leadership",
+      27408285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Wisdom",
+      27408286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Mysticism",
+      27408287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Luck",
+      27408288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Ballistics",
+      27408289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Eagle Eye",
+      27408290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Necromancy",
+      27408291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Estates",
+      27408292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Fire Magic",
+      27408293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Air Magic",
+      27408294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Water Magic",
+      27408295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Earth Magic",
+      27408296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Scholar",
+      27408297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Tactics",
+      27408298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Artillery",
+      27408299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Learning",
+      27408300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Offence",
+      27408301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Armourer",
+      27408302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Intelligence",
+      27408303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Sorcery",
+      27408304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Resistance",
+      27408305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug First Aid",
+      27408306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Pathfinding Slot",
+      27408307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Archery Slot",
+      27408308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Logistics Slot",
+      27408309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Scouting Slot",
+      27408310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Diplomacy Slot",
+      27408311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Navigation Slot",
+      27408312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Leadership Slot",
+      27408313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Wisdom Slot",
+      27408314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Mysticism Slot",
+      27408315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Luck Slot",
+      27408316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Ballistics Slot",
+      27408317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Eagle Eye Slot",
+      27408318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Necromancy Slot",
+      27408319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Estates Slot",
+      27408320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Fire Magic Slot",
+      27408321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Air Magic Slot",
+      27408322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Water Magic Slot",
+      27408323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Earth Magic Slot",
+      27408324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Scholar Slot",
+      27408325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Tactics Slot",
+      27408326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Artillery Slot",
+      27408327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Learning Slot",
+      27408328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Offense Slot",
+      27408329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Armourer Slot",
+      27408330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Intelligence Slot",
+      27408331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Sorcery Slot",
+      27408332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Resistance Slot",
+      27408333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug First Aid Slot",
+      27408334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Skill Count",
+      27408335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Ballista equipped (4 or -1)",
+      27408483,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Ammo Cart equipped (5 or -1)",
+      27408491,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug First Aid equipped Item (6 or -1)",
+      27408499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Catapult equipped (3 or -1)",
+      27408507,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spellbook equipped (0 or -1)",
+      27408515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 1",
+      27408546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 2",
+      27408554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 3",
+      27408562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 4",
+      27408570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 5",
+      27408578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 6",
+      27408586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 7",
+      27408594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 8",
+      27408602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 9",
+      27408610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 10",
+      27408618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 11",
+      27408626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 12",
+      27408634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 13",
+      27408642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 14",
+      27408650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 15",
+      27408658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 16",
+      27408666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 17",
+      27408674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 18",
+      27408682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 19",
+      27408690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 20",
+      27408698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 21",
+      27408706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 22",
+      27408714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 23",
+      27408722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 24",
+      27408730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 25",
+      27408738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 26",
+      27408746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 27",
+      27408754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 28",
+      27408762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 29",
+      27408770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 30",
+      27408778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 31",
+      27408786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 32",
+      27408794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 33",
+      27408802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 34",
+      27408810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 35",
+      27408818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 36",
+      27408826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 37",
+      27408834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 38",
+      27408842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 39",
+      27408850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 40",
+      27408858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 41",
+      27408866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 42",
+      27408874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 43",
+      27408882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 44",
+      27408890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 45",
+      27408898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 46",
+      27408906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 47",
+      27408914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 48",
+      27408922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 49",
+      27408930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 50",
+      27408938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 51",
+      27408946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 52",
+      27408954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 53",
+      27408962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 54",
+      27408970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 55",
+      27408978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 56",
+      27408986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 57",
+      27408994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 58",
+      27409002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 59",
+      27409010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 60",
+      27409018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 61",
+      27409026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 62",
+      27409034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 63",
+      27409042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Backpack Slot 64",
+      27409050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Summon Boat",
+      27409150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Scuttle Boat",
+      27409151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Visions",
+      27409152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell View Earth",
+      27409153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Disguise",
+      27409154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell View Air",
+      27409155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fly",
+      27409156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Water Walk",
+      27409157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Dimension Door",
+      27409158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Town Portal",
+      27409159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Quicksand",
+      27409160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Land Mine",
+      27409161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Force Field",
+      27409162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fire Wall",
+      27409163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Earthquake",
+      27409164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Magic Arrow",
+      27409165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Ice Bolt",
+      27409166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Lightning Bolt",
+      27409167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Implosion",
+      27409168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Chain Lightning",
+      27409169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Frost Ring",
+      27409170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fireball",
+      27409171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Inferno",
+      27409172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Meteor Shower",
+      27409173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Death Ripple",
+      27409174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Destroy Undead",
+      27409175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Armageddon",
+      27409176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Shield",
+      27409177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Air Shield",
+      27409178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fire Shield",
+      27409179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Protection from Air",
+      27409180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Protection from Fire",
+      27409181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Protection from Water",
+      27409182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Protection from Earth",
+      27409183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Anti Magic",
+      27409184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Dispel",
+      27409185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Magic Mirror",
+      27409186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Cure",
+      27409187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Resurrection",
+      27409188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Animate Dead",
+      27409189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Sacrifice",
+      27409190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Bless",
+      27409191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Curse",
+      27409192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Bloodlust",
+      27409193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Precision",
+      27409194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Weakness",
+      27409195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Stone Skin",
+      27409196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Disrupting Ray",
+      27409197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Prayer",
+      27409198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Mirth",
+      27409199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Sorrow",
+      27409200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fortune",
+      27409201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Misfortune",
+      27409202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Haste",
+      27409203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Slow",
+      27409204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Slayer",
+      27409205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Frenzy",
+      27409206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Titan's Lighting Bolt",
+      27409207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Counterstrike",
+      27409208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Berserk",
+      27409209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Hypnotize",
+      27409210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Forgetfulness",
+      27409211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Blind",
+      27409212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Teleport",
+      27409213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Remove Obstacle",
+      27409214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Clone",
+      27409215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Fire Elemental",
+      27409216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Earth Elemental",
+      27409217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Water Elemental",
+      27409218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spell Air Elemental",
+      27409219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Attack",
+      27409220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Def",
+      27409221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Spellpower",
+      27409222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Saurug Knowledge",
+      27409223,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

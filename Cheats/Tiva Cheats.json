@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Tiva Name",
+      27426833,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Movement",
+      27426875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva EXP",
+      27426879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 1",
+      27426943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 2",
+      27426947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 3",
+      27426951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 4",
+      27426955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 5",
+      27426959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 6",
+      27426963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Type Slot 7",
+      27426967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 1",
+      27426971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 2",
+      27426975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 3",
+      27426979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 4",
+      27426983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 5",
+      27426987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 6",
+      27426991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Unit Count Slot 7",
+      27426995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Pathfinding",
+      27426999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Archery",
+      27427000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Logistics",
+      27427001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Scouting",
+      27427002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Diplomacy",
+      27427003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Navigation",
+      27427004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Leadership",
+      27427005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Wisdom",
+      27427006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Mysticism",
+      27427007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Luck",
+      27427008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Ballistics",
+      27427009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Eagle Eye",
+      27427010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Necromancy",
+      27427011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Estates",
+      27427012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Fire Magic",
+      27427013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Air Magic",
+      27427014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Water Magic",
+      27427015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Earth Magic",
+      27427016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Scholar",
+      27427017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Tactics",
+      27427018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Artillery",
+      27427019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Learning",
+      27427020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Offence",
+      27427021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Armourer",
+      27427022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Intelligence",
+      27427023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Sorcery",
+      27427024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Resistance",
+      27427025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva First Aid",
+      27427026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Pathfinding Slot",
+      27427027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Archery Slot",
+      27427028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Logistics Slot",
+      27427029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Scouting Slot",
+      27427030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Diplomacy Slot",
+      27427031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Navigation Slot",
+      27427032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Leadership Slot",
+      27427033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Wisdom Slot",
+      27427034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Mysticism Slot",
+      27427035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Luck Slot",
+      27427036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Ballistics Slot",
+      27427037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Eagle Eye Slot",
+      27427038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Necromancy Slot",
+      27427039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Estates Slot",
+      27427040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Fire Magic Slot",
+      27427041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Air Magic Slot",
+      27427042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Water Magic Slot",
+      27427043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Earth Magic Slot",
+      27427044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Scholar Slot",
+      27427045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Tactics Slot",
+      27427046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Artillery Slot",
+      27427047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Learning Slot",
+      27427048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Offense Slot",
+      27427049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Armourer Slot",
+      27427050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Intelligence Slot",
+      27427051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Sorcery Slot",
+      27427052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Resistance Slot",
+      27427053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva First Aid Slot",
+      27427054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Skill Count",
+      27427055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Ballista equipped (4 or -1)",
+      27427203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Ammo Cart equipped (5 or -1)",
+      27427211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva First Aid equipped Item (6 or -1)",
+      27427219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Catapult equipped (3 or -1)",
+      27427227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spellbook equipped (0 or -1)",
+      27427235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 1",
+      27427266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 2",
+      27427274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 3",
+      27427282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 4",
+      27427290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 5",
+      27427298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 6",
+      27427306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 7",
+      27427314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 8",
+      27427322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 9",
+      27427330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 10",
+      27427338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 11",
+      27427346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 12",
+      27427354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 13",
+      27427362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 14",
+      27427370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 15",
+      27427378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 16",
+      27427386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 17",
+      27427394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 18",
+      27427402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 19",
+      27427410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 20",
+      27427418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 21",
+      27427426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 22",
+      27427434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 23",
+      27427442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 24",
+      27427450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 25",
+      27427458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 26",
+      27427466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 27",
+      27427474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 28",
+      27427482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 29",
+      27427490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 30",
+      27427498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 31",
+      27427506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 32",
+      27427514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 33",
+      27427522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 34",
+      27427530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 35",
+      27427538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 36",
+      27427546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 37",
+      27427554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 38",
+      27427562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 39",
+      27427570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 40",
+      27427578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 41",
+      27427586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 42",
+      27427594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 43",
+      27427602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 44",
+      27427610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 45",
+      27427618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 46",
+      27427626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 47",
+      27427634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 48",
+      27427642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 49",
+      27427650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 50",
+      27427658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 51",
+      27427666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 52",
+      27427674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 53",
+      27427682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 54",
+      27427690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 55",
+      27427698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 56",
+      27427706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 57",
+      27427714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 58",
+      27427722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 59",
+      27427730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 60",
+      27427738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 61",
+      27427746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 62",
+      27427754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 63",
+      27427762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Backpack Slot 64",
+      27427770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Summon Boat",
+      27427870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Scuttle Boat",
+      27427871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Visions",
+      27427872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell View Earth",
+      27427873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Disguise",
+      27427874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell View Air",
+      27427875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fly",
+      27427876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Water Walk",
+      27427877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Dimension Door",
+      27427878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Town Portal",
+      27427879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Quicksand",
+      27427880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Land Mine",
+      27427881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Force Field",
+      27427882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fire Wall",
+      27427883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Earthquake",
+      27427884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Magic Arrow",
+      27427885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Ice Bolt",
+      27427886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Lightning Bolt",
+      27427887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Implosion",
+      27427888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Chain Lightning",
+      27427889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Frost Ring",
+      27427890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fireball",
+      27427891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Inferno",
+      27427892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Meteor Shower",
+      27427893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Death Ripple",
+      27427894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Destroy Undead",
+      27427895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Armageddon",
+      27427896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Shield",
+      27427897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Air Shield",
+      27427898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fire Shield",
+      27427899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Protection from Air",
+      27427900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Protection from Fire",
+      27427901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Protection from Water",
+      27427902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Protection from Earth",
+      27427903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Anti Magic",
+      27427904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Dispel",
+      27427905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Magic Mirror",
+      27427906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Cure",
+      27427907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Resurrection",
+      27427908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Animate Dead",
+      27427909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Sacrifice",
+      27427910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Bless",
+      27427911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Curse",
+      27427912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Bloodlust",
+      27427913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Precision",
+      27427914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Weakness",
+      27427915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Stone Skin",
+      27427916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Disrupting Ray",
+      27427917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Prayer",
+      27427918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Mirth",
+      27427919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Sorrow",
+      27427920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fortune",
+      27427921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Misfortune",
+      27427922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Haste",
+      27427923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Slow",
+      27427924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Slayer",
+      27427925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Frenzy",
+      27427926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Titan's Lighting Bolt",
+      27427927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Counterstrike",
+      27427928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Berserk",
+      27427929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Hypnotize",
+      27427930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Forgetfulness",
+      27427931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Blind",
+      27427932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Teleport",
+      27427933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Remove Obstacle",
+      27427934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Clone",
+      27427935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Fire Elemental",
+      27427936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Earth Elemental",
+      27427937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Water Elemental",
+      27427938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spell Air Elemental",
+      27427939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Attack",
+      27427940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Def",
+      27427941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Spellpower",
+      27427942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tiva Knowledge",
+      27427943,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

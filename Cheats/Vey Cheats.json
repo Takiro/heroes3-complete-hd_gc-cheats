@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Vey Name",
+      27401093,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Movement",
+      27401135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey EXP",
+      27401139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 1",
+      27401203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 2",
+      27401207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 3",
+      27401211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 4",
+      27401215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 5",
+      27401219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 6",
+      27401223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Type Slot 7",
+      27401227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 1",
+      27401231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 2",
+      27401235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 3",
+      27401239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 4",
+      27401243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 5",
+      27401247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 6",
+      27401251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Unit Count Slot 7",
+      27401255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Pathfinding",
+      27401259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Archery",
+      27401260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Logistics",
+      27401261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Scouting",
+      27401262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Diplomacy",
+      27401263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Navigation",
+      27401264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Leadership",
+      27401265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Wisdom",
+      27401266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Mysticism",
+      27401267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Luck",
+      27401268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Ballistics",
+      27401269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Eagle Eye",
+      27401270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Necromancy",
+      27401271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Estates",
+      27401272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Fire Magic",
+      27401273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Air Magic",
+      27401274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Water Magic",
+      27401275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Earth Magic",
+      27401276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Scholar",
+      27401277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Tactics",
+      27401278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Artillery",
+      27401279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Learning",
+      27401280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Offence",
+      27401281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Armourer",
+      27401282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Intelligence",
+      27401283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Sorcery",
+      27401284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Resistance",
+      27401285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey First Aid",
+      27401286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Pathfinding Slot",
+      27401287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Archery Slot",
+      27401288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Logistics Slot",
+      27401289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Scouting Slot",
+      27401290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Diplomacy Slot",
+      27401291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Navigation Slot",
+      27401292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Leadership Slot",
+      27401293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Wisdom Slot",
+      27401294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Mysticism Slot",
+      27401295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Luck Slot",
+      27401296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Ballistics Slot",
+      27401297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Eagle Eye Slot",
+      27401298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Necromancy Slot",
+      27401299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Estates Slot",
+      27401300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Fire Magic Slot",
+      27401301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Air Magic Slot",
+      27401302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Water Magic Slot",
+      27401303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Earth Magic Slot",
+      27401304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Scholar Slot",
+      27401305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Tactics Slot",
+      27401306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Artillery Slot",
+      27401307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Learning Slot",
+      27401308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Offense Slot",
+      27401309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Armourer Slot",
+      27401310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Intelligence Slot",
+      27401311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Sorcery Slot",
+      27401312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Resistance Slot",
+      27401313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey First Aid Slot",
+      27401314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Skill Count",
+      27401315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Ballista equipped (4 or -1)",
+      27401463,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Ammo Cart equipped (5 or -1)",
+      27401471,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey First Aid equipped Item (6 or -1)",
+      27401479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Catapult equipped (3 or -1)",
+      27401487,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spellbook equipped (0 or -1)",
+      27401495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 1",
+      27401526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 2",
+      27401534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 3",
+      27401542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 4",
+      27401550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 5",
+      27401558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 6",
+      27401566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 7",
+      27401574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 8",
+      27401582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 9",
+      27401590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 10",
+      27401598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 11",
+      27401606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 12",
+      27401614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 13",
+      27401622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 14",
+      27401630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 15",
+      27401638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 16",
+      27401646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 17",
+      27401654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 18",
+      27401662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 19",
+      27401670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 20",
+      27401678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 21",
+      27401686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 22",
+      27401694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 23",
+      27401702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 24",
+      27401710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 25",
+      27401718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 26",
+      27401726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 27",
+      27401734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 28",
+      27401742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 29",
+      27401750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 30",
+      27401758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 31",
+      27401766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 32",
+      27401774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 33",
+      27401782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 34",
+      27401790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 35",
+      27401798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 36",
+      27401806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 37",
+      27401814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 38",
+      27401822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 39",
+      27401830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 40",
+      27401838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 41",
+      27401846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 42",
+      27401854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 43",
+      27401862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 44",
+      27401870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 45",
+      27401878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 46",
+      27401886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 47",
+      27401894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 48",
+      27401902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 49",
+      27401910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 50",
+      27401918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 51",
+      27401926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 52",
+      27401934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 53",
+      27401942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 54",
+      27401950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 55",
+      27401958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 56",
+      27401966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 57",
+      27401974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 58",
+      27401982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 59",
+      27401990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 60",
+      27401998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 61",
+      27402006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 62",
+      27402014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 63",
+      27402022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Backpack Slot 64",
+      27402030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Summon Boat",
+      27402130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Scuttle Boat",
+      27402131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Visions",
+      27402132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell View Earth",
+      27402133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Disguise",
+      27402134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell View Air",
+      27402135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fly",
+      27402136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Water Walk",
+      27402137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Dimension Door",
+      27402138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Town Portal",
+      27402139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Quicksand",
+      27402140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Land Mine",
+      27402141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Force Field",
+      27402142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fire Wall",
+      27402143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Earthquake",
+      27402144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Magic Arrow",
+      27402145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Ice Bolt",
+      27402146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Lightning Bolt",
+      27402147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Implosion",
+      27402148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Chain Lightning",
+      27402149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Frost Ring",
+      27402150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fireball",
+      27402151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Inferno",
+      27402152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Meteor Shower",
+      27402153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Death Ripple",
+      27402154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Destroy Undead",
+      27402155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Armageddon",
+      27402156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Shield",
+      27402157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Air Shield",
+      27402158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fire Shield",
+      27402159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Protection from Air",
+      27402160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Protection from Fire",
+      27402161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Protection from Water",
+      27402162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Protection from Earth",
+      27402163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Anti Magic",
+      27402164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Dispel",
+      27402165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Magic Mirror",
+      27402166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Cure",
+      27402167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Resurrection",
+      27402168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Animate Dead",
+      27402169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Sacrifice",
+      27402170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Bless",
+      27402171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Curse",
+      27402172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Bloodlust",
+      27402173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Precision",
+      27402174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Weakness",
+      27402175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Stone Skin",
+      27402176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Disrupting Ray",
+      27402177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Prayer",
+      27402178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Mirth",
+      27402179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Sorrow",
+      27402180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fortune",
+      27402181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Misfortune",
+      27402182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Haste",
+      27402183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Slow",
+      27402184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Slayer",
+      27402185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Frenzy",
+      27402186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Titan's Lighting Bolt",
+      27402187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Counterstrike",
+      27402188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Berserk",
+      27402189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Hypnotize",
+      27402190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Forgetfulness",
+      27402191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Blind",
+      27402192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Teleport",
+      27402193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Remove Obstacle",
+      27402194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Clone",
+      27402195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Fire Elemental",
+      27402196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Earth Elemental",
+      27402197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Water Elemental",
+      27402198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spell Air Elemental",
+      27402199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Attack",
+      27402200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Def",
+      27402201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Spellpower",
+      27402202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vey Knowledge",
+      27402203,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Styg Name",
+      27424493,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Movement",
+      27424535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg EXP",
+      27424539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 1",
+      27424603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 2",
+      27424607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 3",
+      27424611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 4",
+      27424615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 5",
+      27424619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 6",
+      27424623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Type Slot 7",
+      27424627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 1",
+      27424631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 2",
+      27424635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 3",
+      27424639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 4",
+      27424643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 5",
+      27424647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 6",
+      27424651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Unit Count Slot 7",
+      27424655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Pathfinding",
+      27424659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Archery",
+      27424660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Logistics",
+      27424661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Scouting",
+      27424662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Diplomacy",
+      27424663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Navigation",
+      27424664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Leadership",
+      27424665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Wisdom",
+      27424666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Mysticism",
+      27424667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Luck",
+      27424668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Ballistics",
+      27424669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Eagle Eye",
+      27424670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Necromancy",
+      27424671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Estates",
+      27424672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Fire Magic",
+      27424673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Air Magic",
+      27424674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Water Magic",
+      27424675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Earth Magic",
+      27424676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Scholar",
+      27424677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Tactics",
+      27424678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Artillery",
+      27424679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Learning",
+      27424680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Offence",
+      27424681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Armourer",
+      27424682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Intelligence",
+      27424683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Sorcery",
+      27424684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Resistance",
+      27424685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg First Aid",
+      27424686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Pathfinding Slot",
+      27424687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Archery Slot",
+      27424688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Logistics Slot",
+      27424689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Scouting Slot",
+      27424690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Diplomacy Slot",
+      27424691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Navigation Slot",
+      27424692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Leadership Slot",
+      27424693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Wisdom Slot",
+      27424694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Mysticism Slot",
+      27424695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Luck Slot",
+      27424696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Ballistics Slot",
+      27424697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Eagle Eye Slot",
+      27424698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Necromancy Slot",
+      27424699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Estates Slot",
+      27424700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Fire Magic Slot",
+      27424701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Air Magic Slot",
+      27424702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Water Magic Slot",
+      27424703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Earth Magic Slot",
+      27424704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Scholar Slot",
+      27424705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Tactics Slot",
+      27424706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Artillery Slot",
+      27424707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Learning Slot",
+      27424708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Offense Slot",
+      27424709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Armourer Slot",
+      27424710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Intelligence Slot",
+      27424711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Sorcery Slot",
+      27424712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Resistance Slot",
+      27424713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg First Aid Slot",
+      27424714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Skill Count",
+      27424715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Ballista equipped (4 or -1)",
+      27424863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Ammo Cart equipped (5 or -1)",
+      27424871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg First Aid equipped Item (6 or -1)",
+      27424879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Catapult equipped (3 or -1)",
+      27424887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spellbook equipped (0 or -1)",
+      27424895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 1",
+      27424926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 2",
+      27424934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 3",
+      27424942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 4",
+      27424950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 5",
+      27424958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 6",
+      27424966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 7",
+      27424974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 8",
+      27424982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 9",
+      27424990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 10",
+      27424998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 11",
+      27425006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 12",
+      27425014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 13",
+      27425022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 14",
+      27425030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 15",
+      27425038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 16",
+      27425046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 17",
+      27425054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 18",
+      27425062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 19",
+      27425070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 20",
+      27425078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 21",
+      27425086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 22",
+      27425094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 23",
+      27425102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 24",
+      27425110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 25",
+      27425118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 26",
+      27425126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 27",
+      27425134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 28",
+      27425142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 29",
+      27425150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 30",
+      27425158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 31",
+      27425166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 32",
+      27425174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 33",
+      27425182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 34",
+      27425190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 35",
+      27425198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 36",
+      27425206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 37",
+      27425214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 38",
+      27425222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 39",
+      27425230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 40",
+      27425238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 41",
+      27425246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 42",
+      27425254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 43",
+      27425262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 44",
+      27425270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 45",
+      27425278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 46",
+      27425286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 47",
+      27425294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 48",
+      27425302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 49",
+      27425310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 50",
+      27425318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 51",
+      27425326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 52",
+      27425334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 53",
+      27425342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 54",
+      27425350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 55",
+      27425358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 56",
+      27425366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 57",
+      27425374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 58",
+      27425382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 59",
+      27425390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 60",
+      27425398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 61",
+      27425406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 62",
+      27425414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 63",
+      27425422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Backpack Slot 64",
+      27425430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Summon Boat",
+      27425530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Scuttle Boat",
+      27425531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Visions",
+      27425532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell View Earth",
+      27425533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Disguise",
+      27425534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell View Air",
+      27425535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fly",
+      27425536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Water Walk",
+      27425537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Dimension Door",
+      27425538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Town Portal",
+      27425539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Quicksand",
+      27425540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Land Mine",
+      27425541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Force Field",
+      27425542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fire Wall",
+      27425543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Earthquake",
+      27425544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Magic Arrow",
+      27425545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Ice Bolt",
+      27425546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Lightning Bolt",
+      27425547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Implosion",
+      27425548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Chain Lightning",
+      27425549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Frost Ring",
+      27425550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fireball",
+      27425551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Inferno",
+      27425552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Meteor Shower",
+      27425553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Death Ripple",
+      27425554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Destroy Undead",
+      27425555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Armageddon",
+      27425556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Shield",
+      27425557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Air Shield",
+      27425558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fire Shield",
+      27425559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Protection from Air",
+      27425560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Protection from Fire",
+      27425561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Protection from Water",
+      27425562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Protection from Earth",
+      27425563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Anti Magic",
+      27425564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Dispel",
+      27425565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Magic Mirror",
+      27425566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Cure",
+      27425567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Resurrection",
+      27425568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Animate Dead",
+      27425569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Sacrifice",
+      27425570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Bless",
+      27425571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Curse",
+      27425572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Bloodlust",
+      27425573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Precision",
+      27425574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Weakness",
+      27425575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Stone Skin",
+      27425576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Disrupting Ray",
+      27425577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Prayer",
+      27425578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Mirth",
+      27425579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Sorrow",
+      27425580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fortune",
+      27425581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Misfortune",
+      27425582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Haste",
+      27425583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Slow",
+      27425584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Slayer",
+      27425585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Frenzy",
+      27425586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Titan's Lighting Bolt",
+      27425587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Counterstrike",
+      27425588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Berserk",
+      27425589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Hypnotize",
+      27425590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Forgetfulness",
+      27425591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Blind",
+      27425592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Teleport",
+      27425593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Remove Obstacle",
+      27425594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Clone",
+      27425595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Fire Elemental",
+      27425596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Earth Elemental",
+      27425597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Water Elemental",
+      27425598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spell Air Elemental",
+      27425599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Attack",
+      27425600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Def",
+      27425601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Spellpower",
+      27425602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Styg Knowledge",
+      27425603,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Nymus Name",
+      27342593,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Movement",
+      27342635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus EXP",
+      27342639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 1",
+      27342703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 2",
+      27342707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 3",
+      27342711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 4",
+      27342715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 5",
+      27342719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 6",
+      27342723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Type Slot 7",
+      27342727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 1",
+      27342731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 2",
+      27342735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 3",
+      27342739,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 4",
+      27342743,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 5",
+      27342747,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 6",
+      27342751,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Unit Count Slot 7",
+      27342755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Pathfinding",
+      27342759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Archery",
+      27342760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Logistics",
+      27342761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Scouting",
+      27342762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Diplomacy",
+      27342763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Navigation",
+      27342764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Leadership",
+      27342765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Wisdom",
+      27342766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Mysticism",
+      27342767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Luck",
+      27342768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Ballistics",
+      27342769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Eagle Eye",
+      27342770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Necromancy",
+      27342771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Estates",
+      27342772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Fire Magic",
+      27342773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Air Magic",
+      27342774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Water Magic",
+      27342775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Earth Magic",
+      27342776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Scholar",
+      27342777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Tactics",
+      27342778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Artillery",
+      27342779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Learning",
+      27342780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Offence",
+      27342781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Armourer",
+      27342782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Intelligence",
+      27342783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Sorcery",
+      27342784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Resistance",
+      27342785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus First Aid",
+      27342786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Pathfinding Slot",
+      27342787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Archery Slot",
+      27342788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Logistics Slot",
+      27342789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Scouting Slot",
+      27342790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Diplomacy Slot",
+      27342791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Navigation Slot",
+      27342792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Leadership Slot",
+      27342793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Wisdom Slot",
+      27342794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Mysticism Slot",
+      27342795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Luck Slot",
+      27342796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Ballistics Slot",
+      27342797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Eagle Eye Slot",
+      27342798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Necromancy Slot",
+      27342799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Estates Slot",
+      27342800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Fire Magic Slot",
+      27342801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Air Magic Slot",
+      27342802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Water Magic Slot",
+      27342803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Earth Magic Slot",
+      27342804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Scholar Slot",
+      27342805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Tactics Slot",
+      27342806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Artillery Slot",
+      27342807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Learning Slot",
+      27342808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Offense Slot",
+      27342809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Armourer Slot",
+      27342810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Intelligence Slot",
+      27342811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Sorcery Slot",
+      27342812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Resistance Slot",
+      27342813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus First Aid Slot",
+      27342814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Skill Count",
+      27342815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Ballista equipped (4 or -1)",
+      27342963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Ammo Cart equipped (5 or -1)",
+      27342971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus First Aid equipped Item (6 or -1)",
+      27342979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Catapult equipped (3 or -1)",
+      27342987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spellbook equipped (0 or -1)",
+      27342995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 1",
+      27343026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 2",
+      27343034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 3",
+      27343042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 4",
+      27343050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 5",
+      27343058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 6",
+      27343066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 7",
+      27343074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 8",
+      27343082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 9",
+      27343090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 10",
+      27343098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 11",
+      27343106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 12",
+      27343114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 13",
+      27343122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 14",
+      27343130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 15",
+      27343138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 16",
+      27343146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 17",
+      27343154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 18",
+      27343162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 19",
+      27343170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 20",
+      27343178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 21",
+      27343186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 22",
+      27343194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 23",
+      27343202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 24",
+      27343210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 25",
+      27343218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 26",
+      27343226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 27",
+      27343234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 28",
+      27343242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 29",
+      27343250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 30",
+      27343258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 31",
+      27343266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 32",
+      27343274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 33",
+      27343282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 34",
+      27343290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 35",
+      27343298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 36",
+      27343306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 37",
+      27343314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 38",
+      27343322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 39",
+      27343330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 40",
+      27343338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 41",
+      27343346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 42",
+      27343354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 43",
+      27343362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 44",
+      27343370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 45",
+      27343378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 46",
+      27343386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 47",
+      27343394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 48",
+      27343402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 49",
+      27343410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 50",
+      27343418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 51",
+      27343426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 52",
+      27343434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 53",
+      27343442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 54",
+      27343450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 55",
+      27343458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 56",
+      27343466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 57",
+      27343474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 58",
+      27343482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 59",
+      27343490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 60",
+      27343498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 61",
+      27343506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 62",
+      27343514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 63",
+      27343522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Backpack Slot 64",
+      27343530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Summon Boat",
+      27343630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Scuttle Boat",
+      27343631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Visions",
+      27343632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell View Earth",
+      27343633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Disguise",
+      27343634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell View Air",
+      27343635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fly",
+      27343636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Water Walk",
+      27343637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Dimension Door",
+      27343638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Town Portal",
+      27343639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Quicksand",
+      27343640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Land Mine",
+      27343641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Force Field",
+      27343642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fire Wall",
+      27343643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Earthquake",
+      27343644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Magic Arrow",
+      27343645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Ice Bolt",
+      27343646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Lightning Bolt",
+      27343647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Implosion",
+      27343648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Chain Lightning",
+      27343649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Frost Ring",
+      27343650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fireball",
+      27343651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Inferno",
+      27343652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Meteor Shower",
+      27343653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Death Ripple",
+      27343654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Destroy Undead",
+      27343655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Armageddon",
+      27343656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Shield",
+      27343657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Air Shield",
+      27343658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fire Shield",
+      27343659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Protection from Air",
+      27343660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Protection from Fire",
+      27343661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Protection from Water",
+      27343662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Protection from Earth",
+      27343663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Anti Magic",
+      27343664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Dispel",
+      27343665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Magic Mirror",
+      27343666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Cure",
+      27343667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Resurrection",
+      27343668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Animate Dead",
+      27343669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Sacrifice",
+      27343670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Bless",
+      27343671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Curse",
+      27343672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Bloodlust",
+      27343673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Precision",
+      27343674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Weakness",
+      27343675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Stone Skin",
+      27343676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Disrupting Ray",
+      27343677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Prayer",
+      27343678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Mirth",
+      27343679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Sorrow",
+      27343680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fortune",
+      27343681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Misfortune",
+      27343682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Haste",
+      27343683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Slow",
+      27343684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Slayer",
+      27343685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Frenzy",
+      27343686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Titan's Lighting Bolt",
+      27343687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Counterstrike",
+      27343688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Berserk",
+      27343689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Hypnotize",
+      27343690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Forgetfulness",
+      27343691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Blind",
+      27343692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Teleport",
+      27343693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Remove Obstacle",
+      27343694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Clone",
+      27343695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Fire Elemental",
+      27343696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Earth Elemental",
+      27343697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Water Elemental",
+      27343698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spell Air Elemental",
+      27343699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Attack",
+      27343700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Def",
+      27343701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Spellpower",
+      27343702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nymus Knowledge",
+      27343703,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

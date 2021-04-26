@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Tyraxor Name",
+      27398753,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Movement",
+      27398795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor EXP",
+      27398799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 1",
+      27398863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 2",
+      27398867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 3",
+      27398871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 4",
+      27398875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 5",
+      27398879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 6",
+      27398883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Type Slot 7",
+      27398887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 1",
+      27398891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 2",
+      27398895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 3",
+      27398899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 4",
+      27398903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 5",
+      27398907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 6",
+      27398911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Unit Count Slot 7",
+      27398915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Pathfinding",
+      27398919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Archery",
+      27398920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Logistics",
+      27398921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Scouting",
+      27398922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Diplomacy",
+      27398923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Navigation",
+      27398924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Leadership",
+      27398925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Wisdom",
+      27398926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Mysticism",
+      27398927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Luck",
+      27398928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Ballistics",
+      27398929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Eagle Eye",
+      27398930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Necromancy",
+      27398931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Estates",
+      27398932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Fire Magic",
+      27398933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Air Magic",
+      27398934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Water Magic",
+      27398935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Earth Magic",
+      27398936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Scholar",
+      27398937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Tactics",
+      27398938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Artillery",
+      27398939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Learning",
+      27398940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Offence",
+      27398941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Armourer",
+      27398942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Intelligence",
+      27398943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Sorcery",
+      27398944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Resistance",
+      27398945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor First Aid",
+      27398946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Pathfinding Slot",
+      27398947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Archery Slot",
+      27398948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Logistics Slot",
+      27398949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Scouting Slot",
+      27398950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Diplomacy Slot",
+      27398951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Navigation Slot",
+      27398952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Leadership Slot",
+      27398953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Wisdom Slot",
+      27398954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Mysticism Slot",
+      27398955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Luck Slot",
+      27398956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Ballistics Slot",
+      27398957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Eagle Eye Slot",
+      27398958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Necromancy Slot",
+      27398959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Estates Slot",
+      27398960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Fire Magic Slot",
+      27398961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Air Magic Slot",
+      27398962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Water Magic Slot",
+      27398963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Earth Magic Slot",
+      27398964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Scholar Slot",
+      27398965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Tactics Slot",
+      27398966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Artillery Slot",
+      27398967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Learning Slot",
+      27398968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Offense Slot",
+      27398969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Armourer Slot",
+      27398970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Intelligence Slot",
+      27398971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Sorcery Slot",
+      27398972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Resistance Slot",
+      27398973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor First Aid Slot",
+      27398974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Skill Count",
+      27398975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Ballista equipped (4 or -1)",
+      27399123,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Ammo Cart equipped (5 or -1)",
+      27399131,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor First Aid equipped Item (6 or -1)",
+      27399139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Catapult equipped (3 or -1)",
+      27399147,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spellbook equipped (0 or -1)",
+      27399155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 1",
+      27399186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 2",
+      27399194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 3",
+      27399202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 4",
+      27399210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 5",
+      27399218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 6",
+      27399226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 7",
+      27399234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 8",
+      27399242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 9",
+      27399250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 10",
+      27399258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 11",
+      27399266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 12",
+      27399274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 13",
+      27399282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 14",
+      27399290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 15",
+      27399298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 16",
+      27399306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 17",
+      27399314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 18",
+      27399322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 19",
+      27399330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 20",
+      27399338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 21",
+      27399346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 22",
+      27399354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 23",
+      27399362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 24",
+      27399370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 25",
+      27399378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 26",
+      27399386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 27",
+      27399394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 28",
+      27399402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 29",
+      27399410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 30",
+      27399418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 31",
+      27399426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 32",
+      27399434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 33",
+      27399442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 34",
+      27399450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 35",
+      27399458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 36",
+      27399466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 37",
+      27399474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 38",
+      27399482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 39",
+      27399490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 40",
+      27399498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 41",
+      27399506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 42",
+      27399514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 43",
+      27399522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 44",
+      27399530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 45",
+      27399538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 46",
+      27399546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 47",
+      27399554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 48",
+      27399562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 49",
+      27399570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 50",
+      27399578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 51",
+      27399586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 52",
+      27399594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 53",
+      27399602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 54",
+      27399610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 55",
+      27399618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 56",
+      27399626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 57",
+      27399634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 58",
+      27399642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 59",
+      27399650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 60",
+      27399658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 61",
+      27399666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 62",
+      27399674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 63",
+      27399682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Backpack Slot 64",
+      27399690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Summon Boat",
+      27399790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Scuttle Boat",
+      27399791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Visions",
+      27399792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell View Earth",
+      27399793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Disguise",
+      27399794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell View Air",
+      27399795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fly",
+      27399796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Water Walk",
+      27399797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Dimension Door",
+      27399798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Town Portal",
+      27399799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Quicksand",
+      27399800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Land Mine",
+      27399801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Force Field",
+      27399802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fire Wall",
+      27399803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Earthquake",
+      27399804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Magic Arrow",
+      27399805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Ice Bolt",
+      27399806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Lightning Bolt",
+      27399807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Implosion",
+      27399808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Chain Lightning",
+      27399809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Frost Ring",
+      27399810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fireball",
+      27399811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Inferno",
+      27399812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Meteor Shower",
+      27399813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Death Ripple",
+      27399814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Destroy Undead",
+      27399815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Armageddon",
+      27399816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Shield",
+      27399817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Air Shield",
+      27399818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fire Shield",
+      27399819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Protection from Air",
+      27399820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Protection from Fire",
+      27399821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Protection from Water",
+      27399822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Protection from Earth",
+      27399823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Anti Magic",
+      27399824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Dispel",
+      27399825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Magic Mirror",
+      27399826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Cure",
+      27399827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Resurrection",
+      27399828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Animate Dead",
+      27399829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Sacrifice",
+      27399830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Bless",
+      27399831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Curse",
+      27399832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Bloodlust",
+      27399833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Precision",
+      27399834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Weakness",
+      27399835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Stone Skin",
+      27399836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Disrupting Ray",
+      27399837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Prayer",
+      27399838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Mirth",
+      27399839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Sorrow",
+      27399840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fortune",
+      27399841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Misfortune",
+      27399842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Haste",
+      27399843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Slow",
+      27399844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Slayer",
+      27399845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Frenzy",
+      27399846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Titan's Lighting Bolt",
+      27399847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Counterstrike",
+      27399848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Berserk",
+      27399849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Hypnotize",
+      27399850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Forgetfulness",
+      27399851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Blind",
+      27399852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Teleport",
+      27399853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Remove Obstacle",
+      27399854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Clone",
+      27399855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Fire Elemental",
+      27399856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Earth Elemental",
+      27399857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Water Elemental",
+      27399858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spell Air Elemental",
+      27399859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Attack",
+      27399860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Def",
+      27399861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Spellpower",
+      27399862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyraxor Knowledge",
+      27399863,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

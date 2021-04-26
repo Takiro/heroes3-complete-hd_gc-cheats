@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Xyron Name",
+      27344933,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Movement",
+      27344975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron EXP",
+      27344979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 1",
+      27345043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 2",
+      27345047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 3",
+      27345051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 4",
+      27345055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 5",
+      27345059,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 6",
+      27345063,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Type Slot 7",
+      27345067,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 1",
+      27345071,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 2",
+      27345075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 3",
+      27345079,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 4",
+      27345083,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 5",
+      27345087,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 6",
+      27345091,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Unit Count Slot 7",
+      27345095,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Pathfinding",
+      27345099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Archery",
+      27345100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Logistics",
+      27345101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Scouting",
+      27345102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Diplomacy",
+      27345103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Navigation",
+      27345104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Leadership",
+      27345105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Wisdom",
+      27345106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Mysticism",
+      27345107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Luck",
+      27345108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Ballistics",
+      27345109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Eagle Eye",
+      27345110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Necromancy",
+      27345111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Estates",
+      27345112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Fire Magic",
+      27345113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Air Magic",
+      27345114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Water Magic",
+      27345115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Earth Magic",
+      27345116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Scholar",
+      27345117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Tactics",
+      27345118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Artillery",
+      27345119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Learning",
+      27345120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Offence",
+      27345121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Armourer",
+      27345122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Intelligence",
+      27345123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Sorcery",
+      27345124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Resistance",
+      27345125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron First Aid",
+      27345126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Pathfinding Slot",
+      27345127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Archery Slot",
+      27345128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Logistics Slot",
+      27345129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Scouting Slot",
+      27345130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Diplomacy Slot",
+      27345131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Navigation Slot",
+      27345132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Leadership Slot",
+      27345133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Wisdom Slot",
+      27345134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Mysticism Slot",
+      27345135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Luck Slot",
+      27345136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Ballistics Slot",
+      27345137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Eagle Eye Slot",
+      27345138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Necromancy Slot",
+      27345139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Estates Slot",
+      27345140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Fire Magic Slot",
+      27345141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Air Magic Slot",
+      27345142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Water Magic Slot",
+      27345143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Earth Magic Slot",
+      27345144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Scholar Slot",
+      27345145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Tactics Slot",
+      27345146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Artillery Slot",
+      27345147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Learning Slot",
+      27345148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Offense Slot",
+      27345149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Armourer Slot",
+      27345150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Intelligence Slot",
+      27345151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Sorcery Slot",
+      27345152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Resistance Slot",
+      27345153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron First Aid Slot",
+      27345154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Skill Count",
+      27345155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Ballista equipped (4 or -1)",
+      27345303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Ammo Cart equipped (5 or -1)",
+      27345311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron First Aid equipped Item (6 or -1)",
+      27345319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Catapult equipped (3 or -1)",
+      27345327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spellbook equipped (0 or -1)",
+      27345335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 1",
+      27345366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 2",
+      27345374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 3",
+      27345382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 4",
+      27345390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 5",
+      27345398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 6",
+      27345406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 7",
+      27345414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 8",
+      27345422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 9",
+      27345430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 10",
+      27345438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 11",
+      27345446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 12",
+      27345454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 13",
+      27345462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 14",
+      27345470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 15",
+      27345478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 16",
+      27345486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 17",
+      27345494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 18",
+      27345502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 19",
+      27345510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 20",
+      27345518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 21",
+      27345526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 22",
+      27345534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 23",
+      27345542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 24",
+      27345550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 25",
+      27345558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 26",
+      27345566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 27",
+      27345574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 28",
+      27345582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 29",
+      27345590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 30",
+      27345598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 31",
+      27345606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 32",
+      27345614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 33",
+      27345622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 34",
+      27345630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 35",
+      27345638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 36",
+      27345646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 37",
+      27345654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 38",
+      27345662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 39",
+      27345670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 40",
+      27345678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 41",
+      27345686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 42",
+      27345694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 43",
+      27345702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 44",
+      27345710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 45",
+      27345718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 46",
+      27345726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 47",
+      27345734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 48",
+      27345742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 49",
+      27345750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 50",
+      27345758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 51",
+      27345766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 52",
+      27345774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 53",
+      27345782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 54",
+      27345790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 55",
+      27345798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 56",
+      27345806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 57",
+      27345814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 58",
+      27345822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 59",
+      27345830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 60",
+      27345838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 61",
+      27345846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 62",
+      27345854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 63",
+      27345862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Backpack Slot 64",
+      27345870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Summon Boat",
+      27345970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Scuttle Boat",
+      27345971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Visions",
+      27345972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell View Earth",
+      27345973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Disguise",
+      27345974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell View Air",
+      27345975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fly",
+      27345976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Water Walk",
+      27345977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Dimension Door",
+      27345978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Town Portal",
+      27345979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Quicksand",
+      27345980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Land Mine",
+      27345981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Force Field",
+      27345982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fire Wall",
+      27345983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Earthquake",
+      27345984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Magic Arrow",
+      27345985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Ice Bolt",
+      27345986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Lightning Bolt",
+      27345987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Implosion",
+      27345988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Chain Lightning",
+      27345989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Frost Ring",
+      27345990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fireball",
+      27345991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Inferno",
+      27345992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Meteor Shower",
+      27345993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Death Ripple",
+      27345994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Destroy Undead",
+      27345995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Armageddon",
+      27345996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Shield",
+      27345997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Air Shield",
+      27345998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fire Shield",
+      27345999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Protection from Air",
+      27346000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Protection from Fire",
+      27346001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Protection from Water",
+      27346002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Protection from Earth",
+      27346003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Anti Magic",
+      27346004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Dispel",
+      27346005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Magic Mirror",
+      27346006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Cure",
+      27346007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Resurrection",
+      27346008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Animate Dead",
+      27346009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Sacrifice",
+      27346010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Bless",
+      27346011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Curse",
+      27346012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Bloodlust",
+      27346013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Precision",
+      27346014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Weakness",
+      27346015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Stone Skin",
+      27346016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Disrupting Ray",
+      27346017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Prayer",
+      27346018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Mirth",
+      27346019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Sorrow",
+      27346020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fortune",
+      27346021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Misfortune",
+      27346022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Haste",
+      27346023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Slow",
+      27346024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Slayer",
+      27346025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Frenzy",
+      27346026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Titan's Lighting Bolt",
+      27346027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Counterstrike",
+      27346028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Berserk",
+      27346029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Hypnotize",
+      27346030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Forgetfulness",
+      27346031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Blind",
+      27346032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Teleport",
+      27346033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Remove Obstacle",
+      27346034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Clone",
+      27346035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Fire Elemental",
+      27346036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Earth Elemental",
+      27346037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Water Elemental",
+      27346038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spell Air Elemental",
+      27346039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Attack",
+      27346040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Def",
+      27346041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Spellpower",
+      27346042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xyron Knowledge",
+      27346043,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Vidomina Name",
+      27369503,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Movement",
+      27369545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina EXP",
+      27369549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 1",
+      27369613,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 2",
+      27369617,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 3",
+      27369621,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 4",
+      27369625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 5",
+      27369629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 6",
+      27369633,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Type Slot 7",
+      27369637,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 1",
+      27369641,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 2",
+      27369645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 3",
+      27369649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 4",
+      27369653,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 5",
+      27369657,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 6",
+      27369661,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Unit Count Slot 7",
+      27369665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Pathfinding",
+      27369669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Archery",
+      27369670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Logistics",
+      27369671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Scouting",
+      27369672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Diplomacy",
+      27369673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Navigation",
+      27369674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Leadership",
+      27369675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Wisdom",
+      27369676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Mysticism",
+      27369677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Luck",
+      27369678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Ballistics",
+      27369679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Eagle Eye",
+      27369680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Necromancy",
+      27369681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Estates",
+      27369682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Fire Magic",
+      27369683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Air Magic",
+      27369684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Water Magic",
+      27369685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Earth Magic",
+      27369686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Scholar",
+      27369687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Tactics",
+      27369688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Artillery",
+      27369689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Learning",
+      27369690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Offence",
+      27369691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Armourer",
+      27369692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Intelligence",
+      27369693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Sorcery",
+      27369694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Resistance",
+      27369695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina First Aid",
+      27369696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Pathfinding Slot",
+      27369697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Archery Slot",
+      27369698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Logistics Slot",
+      27369699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Scouting Slot",
+      27369700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Diplomacy Slot",
+      27369701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Navigation Slot",
+      27369702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Leadership Slot",
+      27369703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Wisdom Slot",
+      27369704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Mysticism Slot",
+      27369705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Luck Slot",
+      27369706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Ballistics Slot",
+      27369707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Eagle Eye Slot",
+      27369708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Necromancy Slot",
+      27369709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Estates Slot",
+      27369710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Fire Magic Slot",
+      27369711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Air Magic Slot",
+      27369712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Water Magic Slot",
+      27369713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Earth Magic Slot",
+      27369714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Scholar Slot",
+      27369715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Tactics Slot",
+      27369716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Artillery Slot",
+      27369717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Learning Slot",
+      27369718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Offense Slot",
+      27369719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Armourer Slot",
+      27369720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Intelligence Slot",
+      27369721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Sorcery Slot",
+      27369722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Resistance Slot",
+      27369723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina First Aid Slot",
+      27369724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Skill Count",
+      27369725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Ballista equipped (4 or -1)",
+      27369873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Ammo Cart equipped (5 or -1)",
+      27369881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina First Aid equipped Item (6 or -1)",
+      27369889,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Catapult equipped (3 or -1)",
+      27369897,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spellbook equipped (0 or -1)",
+      27369905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 1",
+      27369936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 2",
+      27369944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 3",
+      27369952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 4",
+      27369960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 5",
+      27369968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 6",
+      27369976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 7",
+      27369984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 8",
+      27369992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 9",
+      27370000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 10",
+      27370008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 11",
+      27370016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 12",
+      27370024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 13",
+      27370032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 14",
+      27370040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 15",
+      27370048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 16",
+      27370056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 17",
+      27370064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 18",
+      27370072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 19",
+      27370080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 20",
+      27370088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 21",
+      27370096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 22",
+      27370104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 23",
+      27370112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 24",
+      27370120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 25",
+      27370128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 26",
+      27370136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 27",
+      27370144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 28",
+      27370152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 29",
+      27370160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 30",
+      27370168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 31",
+      27370176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 32",
+      27370184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 33",
+      27370192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 34",
+      27370200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 35",
+      27370208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 36",
+      27370216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 37",
+      27370224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 38",
+      27370232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 39",
+      27370240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 40",
+      27370248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 41",
+      27370256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 42",
+      27370264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 43",
+      27370272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 44",
+      27370280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 45",
+      27370288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 46",
+      27370296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 47",
+      27370304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 48",
+      27370312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 49",
+      27370320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 50",
+      27370328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 51",
+      27370336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 52",
+      27370344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 53",
+      27370352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 54",
+      27370360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 55",
+      27370368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 56",
+      27370376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 57",
+      27370384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 58",
+      27370392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 59",
+      27370400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 60",
+      27370408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 61",
+      27370416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 62",
+      27370424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 63",
+      27370432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Backpack Slot 64",
+      27370440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Summon Boat",
+      27370540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Scuttle Boat",
+      27370541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Visions",
+      27370542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell View Earth",
+      27370543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Disguise",
+      27370544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell View Air",
+      27370545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fly",
+      27370546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Water Walk",
+      27370547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Dimension Door",
+      27370548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Town Portal",
+      27370549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Quicksand",
+      27370550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Land Mine",
+      27370551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Force Field",
+      27370552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fire Wall",
+      27370553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Earthquake",
+      27370554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Magic Arrow",
+      27370555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Ice Bolt",
+      27370556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Lightning Bolt",
+      27370557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Implosion",
+      27370558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Chain Lightning",
+      27370559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Frost Ring",
+      27370560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fireball",
+      27370561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Inferno",
+      27370562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Meteor Shower",
+      27370563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Death Ripple",
+      27370564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Destroy Undead",
+      27370565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Armageddon",
+      27370566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Shield",
+      27370567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Air Shield",
+      27370568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fire Shield",
+      27370569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Protection from Air",
+      27370570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Protection from Fire",
+      27370571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Protection from Water",
+      27370572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Protection from Earth",
+      27370573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Anti Magic",
+      27370574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Dispel",
+      27370575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Magic Mirror",
+      27370576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Cure",
+      27370577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Resurrection",
+      27370578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Animate Dead",
+      27370579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Sacrifice",
+      27370580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Bless",
+      27370581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Curse",
+      27370582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Bloodlust",
+      27370583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Precision",
+      27370584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Weakness",
+      27370585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Stone Skin",
+      27370586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Disrupting Ray",
+      27370587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Prayer",
+      27370588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Mirth",
+      27370589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Sorrow",
+      27370590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fortune",
+      27370591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Misfortune",
+      27370592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Haste",
+      27370593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Slow",
+      27370594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Slayer",
+      27370595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Frenzy",
+      27370596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Titan's Lighting Bolt",
+      27370597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Counterstrike",
+      27370598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Berserk",
+      27370599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Hypnotize",
+      27370600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Forgetfulness",
+      27370601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Blind",
+      27370602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Teleport",
+      27370603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Remove Obstacle",
+      27370604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Clone",
+      27370605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Fire Elemental",
+      27370606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Earth Elemental",
+      27370607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Water Elemental",
+      27370608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spell Air Elemental",
+      27370609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Attack",
+      27370610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Def",
+      27370611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Spellpower",
+      27370612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vidomina Knowledge",
+      27370613,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

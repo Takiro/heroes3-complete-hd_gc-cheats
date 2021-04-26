@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Tamika Name",
+      27357803,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Movement",
+      27357845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika EXP",
+      27357849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 1",
+      27357913,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 2",
+      27357917,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 3",
+      27357921,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 4",
+      27357925,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 5",
+      27357929,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 6",
+      27357933,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Type Slot 7",
+      27357937,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 1",
+      27357941,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 2",
+      27357945,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 3",
+      27357949,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 4",
+      27357953,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 5",
+      27357957,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 6",
+      27357961,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Unit Count Slot 7",
+      27357965,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Pathfinding",
+      27357969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Archery",
+      27357970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Logistics",
+      27357971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Scouting",
+      27357972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Diplomacy",
+      27357973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Navigation",
+      27357974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Leadership",
+      27357975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Wisdom",
+      27357976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Mysticism",
+      27357977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Luck",
+      27357978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Ballistics",
+      27357979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Eagle Eye",
+      27357980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Necromancy",
+      27357981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Estates",
+      27357982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Fire Magic",
+      27357983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Air Magic",
+      27357984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Water Magic",
+      27357985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Earth Magic",
+      27357986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Scholar",
+      27357987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Tactics",
+      27357988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Artillery",
+      27357989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Learning",
+      27357990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Offence",
+      27357991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Armourer",
+      27357992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Intelligence",
+      27357993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Sorcery",
+      27357994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Resistance",
+      27357995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika First Aid",
+      27357996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Pathfinding Slot",
+      27357997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Archery Slot",
+      27357998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Logistics Slot",
+      27357999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Scouting Slot",
+      27358000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Diplomacy Slot",
+      27358001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Navigation Slot",
+      27358002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Leadership Slot",
+      27358003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Wisdom Slot",
+      27358004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Mysticism Slot",
+      27358005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Luck Slot",
+      27358006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Ballistics Slot",
+      27358007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Eagle Eye Slot",
+      27358008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Necromancy Slot",
+      27358009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Estates Slot",
+      27358010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Fire Magic Slot",
+      27358011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Air Magic Slot",
+      27358012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Water Magic Slot",
+      27358013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Earth Magic Slot",
+      27358014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Scholar Slot",
+      27358015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Tactics Slot",
+      27358016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Artillery Slot",
+      27358017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Learning Slot",
+      27358018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Offense Slot",
+      27358019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Armourer Slot",
+      27358020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Intelligence Slot",
+      27358021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Sorcery Slot",
+      27358022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Resistance Slot",
+      27358023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika First Aid Slot",
+      27358024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Skill Count",
+      27358025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Ballista equipped (4 or -1)",
+      27358173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Ammo Cart equipped (5 or -1)",
+      27358181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika First Aid equipped Item (6 or -1)",
+      27358189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Catapult equipped (3 or -1)",
+      27358197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spellbook equipped (0 or -1)",
+      27358205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 1",
+      27358236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 2",
+      27358244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 3",
+      27358252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 4",
+      27358260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 5",
+      27358268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 6",
+      27358276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 7",
+      27358284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 8",
+      27358292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 9",
+      27358300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 10",
+      27358308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 11",
+      27358316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 12",
+      27358324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 13",
+      27358332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 14",
+      27358340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 15",
+      27358348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 16",
+      27358356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 17",
+      27358364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 18",
+      27358372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 19",
+      27358380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 20",
+      27358388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 21",
+      27358396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 22",
+      27358404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 23",
+      27358412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 24",
+      27358420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 25",
+      27358428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 26",
+      27358436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 27",
+      27358444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 28",
+      27358452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 29",
+      27358460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 30",
+      27358468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 31",
+      27358476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 32",
+      27358484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 33",
+      27358492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 34",
+      27358500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 35",
+      27358508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 36",
+      27358516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 37",
+      27358524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 38",
+      27358532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 39",
+      27358540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 40",
+      27358548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 41",
+      27358556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 42",
+      27358564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 43",
+      27358572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 44",
+      27358580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 45",
+      27358588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 46",
+      27358596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 47",
+      27358604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 48",
+      27358612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 49",
+      27358620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 50",
+      27358628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 51",
+      27358636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 52",
+      27358644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 53",
+      27358652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 54",
+      27358660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 55",
+      27358668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 56",
+      27358676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 57",
+      27358684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 58",
+      27358692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 59",
+      27358700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 60",
+      27358708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 61",
+      27358716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 62",
+      27358724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 63",
+      27358732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Backpack Slot 64",
+      27358740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Summon Boat",
+      27358840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Scuttle Boat",
+      27358841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Visions",
+      27358842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell View Earth",
+      27358843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Disguise",
+      27358844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell View Air",
+      27358845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fly",
+      27358846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Water Walk",
+      27358847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Dimension Door",
+      27358848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Town Portal",
+      27358849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Quicksand",
+      27358850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Land Mine",
+      27358851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Force Field",
+      27358852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fire Wall",
+      27358853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Earthquake",
+      27358854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Magic Arrow",
+      27358855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Ice Bolt",
+      27358856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Lightning Bolt",
+      27358857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Implosion",
+      27358858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Chain Lightning",
+      27358859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Frost Ring",
+      27358860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fireball",
+      27358861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Inferno",
+      27358862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Meteor Shower",
+      27358863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Death Ripple",
+      27358864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Destroy Undead",
+      27358865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Armageddon",
+      27358866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Shield",
+      27358867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Air Shield",
+      27358868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fire Shield",
+      27358869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Protection from Air",
+      27358870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Protection from Fire",
+      27358871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Protection from Water",
+      27358872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Protection from Earth",
+      27358873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Anti Magic",
+      27358874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Dispel",
+      27358875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Magic Mirror",
+      27358876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Cure",
+      27358877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Resurrection",
+      27358878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Animate Dead",
+      27358879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Sacrifice",
+      27358880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Bless",
+      27358881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Curse",
+      27358882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Bloodlust",
+      27358883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Precision",
+      27358884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Weakness",
+      27358885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Stone Skin",
+      27358886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Disrupting Ray",
+      27358887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Prayer",
+      27358888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Mirth",
+      27358889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Sorrow",
+      27358890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fortune",
+      27358891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Misfortune",
+      27358892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Haste",
+      27358893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Slow",
+      27358894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Slayer",
+      27358895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Frenzy",
+      27358896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Titan's Lighting Bolt",
+      27358897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Counterstrike",
+      27358898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Berserk",
+      27358899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Hypnotize",
+      27358900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Forgetfulness",
+      27358901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Blind",
+      27358902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Teleport",
+      27358903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Remove Obstacle",
+      27358904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Clone",
+      27358905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Fire Elemental",
+      27358906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Earth Elemental",
+      27358907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Water Elemental",
+      27358908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spell Air Elemental",
+      27358909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Attack",
+      27358910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Def",
+      27358911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Spellpower",
+      27358912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tamika Knowledge",
+      27358913,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Pasis Name",
+      27428003,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Movement",
+      27428045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis EXP",
+      27428049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 1",
+      27428113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 2",
+      27428117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 3",
+      27428121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 4",
+      27428125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 5",
+      27428129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 6",
+      27428133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Type Slot 7",
+      27428137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 1",
+      27428141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 2",
+      27428145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 3",
+      27428149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 4",
+      27428153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 5",
+      27428157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 6",
+      27428161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Unit Count Slot 7",
+      27428165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Pathfinding",
+      27428169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Archery",
+      27428170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Logistics",
+      27428171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Scouting",
+      27428172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Diplomacy",
+      27428173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Navigation",
+      27428174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Leadership",
+      27428175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Wisdom",
+      27428176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Mysticism",
+      27428177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Luck",
+      27428178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Ballistics",
+      27428179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Eagle Eye",
+      27428180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Necromancy",
+      27428181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Estates",
+      27428182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Fire Magic",
+      27428183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Air Magic",
+      27428184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Water Magic",
+      27428185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Earth Magic",
+      27428186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Scholar",
+      27428187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Tactics",
+      27428188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Artillery",
+      27428189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Learning",
+      27428190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Offence",
+      27428191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Armourer",
+      27428192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Intelligence",
+      27428193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Sorcery",
+      27428194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Resistance",
+      27428195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis First Aid",
+      27428196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Pathfinding Slot",
+      27428197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Archery Slot",
+      27428198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Logistics Slot",
+      27428199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Scouting Slot",
+      27428200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Diplomacy Slot",
+      27428201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Navigation Slot",
+      27428202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Leadership Slot",
+      27428203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Wisdom Slot",
+      27428204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Mysticism Slot",
+      27428205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Luck Slot",
+      27428206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Ballistics Slot",
+      27428207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Eagle Eye Slot",
+      27428208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Necromancy Slot",
+      27428209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Estates Slot",
+      27428210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Fire Magic Slot",
+      27428211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Air Magic Slot",
+      27428212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Water Magic Slot",
+      27428213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Earth Magic Slot",
+      27428214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Scholar Slot",
+      27428215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Tactics Slot",
+      27428216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Artillery Slot",
+      27428217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Learning Slot",
+      27428218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Offense Slot",
+      27428219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Armourer Slot",
+      27428220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Intelligence Slot",
+      27428221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Sorcery Slot",
+      27428222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Resistance Slot",
+      27428223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis First Aid Slot",
+      27428224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Skill Count",
+      27428225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Ballista equipped (4 or -1)",
+      27428373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Ammo Cart equipped (5 or -1)",
+      27428381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis First Aid equipped Item (6 or -1)",
+      27428389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Catapult equipped (3 or -1)",
+      27428397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spellbook equipped (0 or -1)",
+      27428405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 1",
+      27428436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 2",
+      27428444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 3",
+      27428452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 4",
+      27428460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 5",
+      27428468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 6",
+      27428476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 7",
+      27428484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 8",
+      27428492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 9",
+      27428500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 10",
+      27428508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 11",
+      27428516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 12",
+      27428524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 13",
+      27428532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 14",
+      27428540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 15",
+      27428548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 16",
+      27428556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 17",
+      27428564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 18",
+      27428572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 19",
+      27428580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 20",
+      27428588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 21",
+      27428596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 22",
+      27428604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 23",
+      27428612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 24",
+      27428620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 25",
+      27428628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 26",
+      27428636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 27",
+      27428644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 28",
+      27428652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 29",
+      27428660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 30",
+      27428668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 31",
+      27428676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 32",
+      27428684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 33",
+      27428692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 34",
+      27428700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 35",
+      27428708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 36",
+      27428716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 37",
+      27428724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 38",
+      27428732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 39",
+      27428740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 40",
+      27428748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 41",
+      27428756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 42",
+      27428764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 43",
+      27428772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 44",
+      27428780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 45",
+      27428788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 46",
+      27428796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 47",
+      27428804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 48",
+      27428812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 49",
+      27428820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 50",
+      27428828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 51",
+      27428836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 52",
+      27428844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 53",
+      27428852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 54",
+      27428860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 55",
+      27428868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 56",
+      27428876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 57",
+      27428884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 58",
+      27428892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 59",
+      27428900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 60",
+      27428908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 61",
+      27428916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 62",
+      27428924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 63",
+      27428932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Backpack Slot 64",
+      27428940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Summon Boat",
+      27429040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Scuttle Boat",
+      27429041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Visions",
+      27429042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell View Earth",
+      27429043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Disguise",
+      27429044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell View Air",
+      27429045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fly",
+      27429046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Water Walk",
+      27429047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Dimension Door",
+      27429048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Town Portal",
+      27429049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Quicksand",
+      27429050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Land Mine",
+      27429051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Force Field",
+      27429052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fire Wall",
+      27429053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Earthquake",
+      27429054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Magic Arrow",
+      27429055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Ice Bolt",
+      27429056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Lightning Bolt",
+      27429057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Implosion",
+      27429058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Chain Lightning",
+      27429059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Frost Ring",
+      27429060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fireball",
+      27429061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Inferno",
+      27429062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Meteor Shower",
+      27429063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Death Ripple",
+      27429064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Destroy Undead",
+      27429065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Armageddon",
+      27429066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Shield",
+      27429067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Air Shield",
+      27429068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fire Shield",
+      27429069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Protection from Air",
+      27429070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Protection from Fire",
+      27429071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Protection from Water",
+      27429072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Protection from Earth",
+      27429073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Anti Magic",
+      27429074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Dispel",
+      27429075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Magic Mirror",
+      27429076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Cure",
+      27429077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Resurrection",
+      27429078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Animate Dead",
+      27429079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Sacrifice",
+      27429080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Bless",
+      27429081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Curse",
+      27429082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Bloodlust",
+      27429083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Precision",
+      27429084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Weakness",
+      27429085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Stone Skin",
+      27429086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Disrupting Ray",
+      27429087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Prayer",
+      27429088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Mirth",
+      27429089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Sorrow",
+      27429090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fortune",
+      27429091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Misfortune",
+      27429092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Haste",
+      27429093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Slow",
+      27429094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Slayer",
+      27429095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Frenzy",
+      27429096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Titan's Lighting Bolt",
+      27429097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Counterstrike",
+      27429098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Berserk",
+      27429099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Hypnotize",
+      27429100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Forgetfulness",
+      27429101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Blind",
+      27429102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Teleport",
+      27429103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Remove Obstacle",
+      27429104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Clone",
+      27429105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Fire Elemental",
+      27429106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Earth Elemental",
+      27429107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Water Elemental",
+      27429108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spell Air Elemental",
+      27429109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Attack",
+      27429110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Def",
+      27429111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Spellpower",
+      27429112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pasis Knowledge",
+      27429113,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

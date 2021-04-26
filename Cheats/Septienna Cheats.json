@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Septienna Name",
+      27362483,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Movement",
+      27362525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna EXP",
+      27362529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 1",
+      27362593,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 2",
+      27362597,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 3",
+      27362601,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 4",
+      27362605,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 5",
+      27362609,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 6",
+      27362613,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Type Slot 7",
+      27362617,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 1",
+      27362621,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 2",
+      27362625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 3",
+      27362629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 4",
+      27362633,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 5",
+      27362637,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 6",
+      27362641,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Unit Count Slot 7",
+      27362645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Pathfinding",
+      27362649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Archery",
+      27362650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Logistics",
+      27362651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Scouting",
+      27362652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Diplomacy",
+      27362653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Navigation",
+      27362654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Leadership",
+      27362655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Wisdom",
+      27362656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Mysticism",
+      27362657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Luck",
+      27362658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Ballistics",
+      27362659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Eagle Eye",
+      27362660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Necromancy",
+      27362661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Estates",
+      27362662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Fire Magic",
+      27362663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Air Magic",
+      27362664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Water Magic",
+      27362665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Earth Magic",
+      27362666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Scholar",
+      27362667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Tactics",
+      27362668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Artillery",
+      27362669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Learning",
+      27362670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Offence",
+      27362671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Armourer",
+      27362672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Intelligence",
+      27362673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Sorcery",
+      27362674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Resistance",
+      27362675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna First Aid",
+      27362676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Pathfinding Slot",
+      27362677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Archery Slot",
+      27362678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Logistics Slot",
+      27362679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Scouting Slot",
+      27362680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Diplomacy Slot",
+      27362681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Navigation Slot",
+      27362682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Leadership Slot",
+      27362683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Wisdom Slot",
+      27362684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Mysticism Slot",
+      27362685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Luck Slot",
+      27362686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Ballistics Slot",
+      27362687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Eagle Eye Slot",
+      27362688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Necromancy Slot",
+      27362689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Estates Slot",
+      27362690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Fire Magic Slot",
+      27362691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Air Magic Slot",
+      27362692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Water Magic Slot",
+      27362693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Earth Magic Slot",
+      27362694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Scholar Slot",
+      27362695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Tactics Slot",
+      27362696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Artillery Slot",
+      27362697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Learning Slot",
+      27362698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Offense Slot",
+      27362699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Armourer Slot",
+      27362700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Intelligence Slot",
+      27362701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Sorcery Slot",
+      27362702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Resistance Slot",
+      27362703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna First Aid Slot",
+      27362704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Skill Count",
+      27362705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Ballista equipped (4 or -1)",
+      27362853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Ammo Cart equipped (5 or -1)",
+      27362861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna First Aid equipped Item (6 or -1)",
+      27362869,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Catapult equipped (3 or -1)",
+      27362877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spellbook equipped (0 or -1)",
+      27362885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 1",
+      27362916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 2",
+      27362924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 3",
+      27362932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 4",
+      27362940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 5",
+      27362948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 6",
+      27362956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 7",
+      27362964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 8",
+      27362972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 9",
+      27362980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 10",
+      27362988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 11",
+      27362996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 12",
+      27363004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 13",
+      27363012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 14",
+      27363020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 15",
+      27363028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 16",
+      27363036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 17",
+      27363044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 18",
+      27363052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 19",
+      27363060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 20",
+      27363068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 21",
+      27363076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 22",
+      27363084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 23",
+      27363092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 24",
+      27363100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 25",
+      27363108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 26",
+      27363116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 27",
+      27363124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 28",
+      27363132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 29",
+      27363140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 30",
+      27363148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 31",
+      27363156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 32",
+      27363164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 33",
+      27363172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 34",
+      27363180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 35",
+      27363188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 36",
+      27363196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 37",
+      27363204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 38",
+      27363212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 39",
+      27363220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 40",
+      27363228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 41",
+      27363236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 42",
+      27363244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 43",
+      27363252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 44",
+      27363260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 45",
+      27363268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 46",
+      27363276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 47",
+      27363284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 48",
+      27363292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 49",
+      27363300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 50",
+      27363308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 51",
+      27363316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 52",
+      27363324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 53",
+      27363332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 54",
+      27363340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 55",
+      27363348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 56",
+      27363356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 57",
+      27363364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 58",
+      27363372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 59",
+      27363380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 60",
+      27363388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 61",
+      27363396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 62",
+      27363404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 63",
+      27363412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Backpack Slot 64",
+      27363420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Summon Boat",
+      27363520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Scuttle Boat",
+      27363521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Visions",
+      27363522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell View Earth",
+      27363523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Disguise",
+      27363524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell View Air",
+      27363525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fly",
+      27363526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Water Walk",
+      27363527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Dimension Door",
+      27363528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Town Portal",
+      27363529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Quicksand",
+      27363530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Land Mine",
+      27363531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Force Field",
+      27363532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fire Wall",
+      27363533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Earthquake",
+      27363534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Magic Arrow",
+      27363535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Ice Bolt",
+      27363536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Lightning Bolt",
+      27363537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Implosion",
+      27363538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Chain Lightning",
+      27363539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Frost Ring",
+      27363540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fireball",
+      27363541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Inferno",
+      27363542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Meteor Shower",
+      27363543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Death Ripple",
+      27363544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Destroy Undead",
+      27363545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Armageddon",
+      27363546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Shield",
+      27363547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Air Shield",
+      27363548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fire Shield",
+      27363549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Protection from Air",
+      27363550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Protection from Fire",
+      27363551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Protection from Water",
+      27363552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Protection from Earth",
+      27363553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Anti Magic",
+      27363554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Dispel",
+      27363555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Magic Mirror",
+      27363556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Cure",
+      27363557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Resurrection",
+      27363558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Animate Dead",
+      27363559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Sacrifice",
+      27363560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Bless",
+      27363561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Curse",
+      27363562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Bloodlust",
+      27363563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Precision",
+      27363564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Weakness",
+      27363565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Stone Skin",
+      27363566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Disrupting Ray",
+      27363567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Prayer",
+      27363568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Mirth",
+      27363569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Sorrow",
+      27363570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fortune",
+      27363571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Misfortune",
+      27363572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Haste",
+      27363573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Slow",
+      27363574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Slayer",
+      27363575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Frenzy",
+      27363576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Titan's Lighting Bolt",
+      27363577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Counterstrike",
+      27363578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Berserk",
+      27363579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Hypnotize",
+      27363580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Forgetfulness",
+      27363581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Blind",
+      27363582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Teleport",
+      27363583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Remove Obstacle",
+      27363584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Clone",
+      27363585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Fire Elemental",
+      27363586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Earth Elemental",
+      27363587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Water Elemental",
+      27363588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spell Air Elemental",
+      27363589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Attack",
+      27363590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Def",
+      27363591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Spellpower",
+      27363592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Septienna Knowledge",
+      27363593,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

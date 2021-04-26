@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Tyris Name",
+      27286433,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Movement",
+      27286475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris EXP",
+      27286479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 1",
+      27286543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 2",
+      27286547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 3",
+      27286551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 4",
+      27286555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 5",
+      27286559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 6",
+      27286563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Type Slot 7",
+      27286567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 1",
+      27286571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 2",
+      27286575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 3",
+      27286579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 4",
+      27286583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 5",
+      27286587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 6",
+      27286591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Unit Count Slot 7",
+      27286595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Pathfinding",
+      27286599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Archery",
+      27286600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Logistics",
+      27286601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Scouting",
+      27286602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Diplomacy",
+      27286603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Navigation",
+      27286604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Leadership",
+      27286605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Wisdom",
+      27286606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Mysticism",
+      27286607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Luck",
+      27286608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Ballistics",
+      27286609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Eagle Eye",
+      27286610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Necromancy",
+      27286611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Estates",
+      27286612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Fire Magic",
+      27286613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Air Magic",
+      27286614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Water Magic",
+      27286615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Earth Magic",
+      27286616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Scholar",
+      27286617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Tactics",
+      27286618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Artillery",
+      27286619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Learning",
+      27286620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Offence",
+      27286621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Armourer",
+      27286622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Intelligence",
+      27286623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Sorcery",
+      27286624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Resistance",
+      27286625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris First Aid",
+      27286626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Pathfinding Slot",
+      27286627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Archery Slot",
+      27286628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Logistics Slot",
+      27286629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Scouting Slot",
+      27286630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Diplomacy Slot",
+      27286631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Navigation Slot",
+      27286632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Leadership Slot",
+      27286633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Wisdom Slot",
+      27286634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Mysticism Slot",
+      27286635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Luck Slot",
+      27286636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Ballistics Slot",
+      27286637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Eagle Eye Slot",
+      27286638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Necromancy Slot",
+      27286639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Estates Slot",
+      27286640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Fire Magic Slot",
+      27286641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Air Magic Slot",
+      27286642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Water Magic Slot",
+      27286643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Earth Magic Slot",
+      27286644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Scholar Slot",
+      27286645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Tactics Slot",
+      27286646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Artillery Slot",
+      27286647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Learning Slot",
+      27286648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Offense Slot",
+      27286649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Armourer Slot",
+      27286650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Intelligence Slot",
+      27286651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Sorcery Slot",
+      27286652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Resistance Slot",
+      27286653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris First Aid Slot",
+      27286654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Skill Count",
+      27286655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Ballista equipped (4 or -1)",
+      27286803,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Ammo Cart equipped (5 or -1)",
+      27286811,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris First Aid equipped Item (6 or -1)",
+      27286819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Catapult equipped (3 or -1)",
+      27286827,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spellbook equipped (0 or -1)",
+      27286835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 1",
+      27286866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 2",
+      27286874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 3",
+      27286882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 4",
+      27286890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 5",
+      27286898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 6",
+      27286906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 7",
+      27286914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 8",
+      27286922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 9",
+      27286930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 10",
+      27286938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 11",
+      27286946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 12",
+      27286954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 13",
+      27286962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 14",
+      27286970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 15",
+      27286978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 16",
+      27286986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 17",
+      27286994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 18",
+      27287002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 19",
+      27287010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 20",
+      27287018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 21",
+      27287026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 22",
+      27287034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 23",
+      27287042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 24",
+      27287050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 25",
+      27287058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 26",
+      27287066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 27",
+      27287074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 28",
+      27287082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 29",
+      27287090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 30",
+      27287098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 31",
+      27287106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 32",
+      27287114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 33",
+      27287122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 34",
+      27287130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 35",
+      27287138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 36",
+      27287146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 37",
+      27287154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 38",
+      27287162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 39",
+      27287170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 40",
+      27287178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 41",
+      27287186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 42",
+      27287194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 43",
+      27287202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 44",
+      27287210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 45",
+      27287218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 46",
+      27287226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 47",
+      27287234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 48",
+      27287242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 49",
+      27287250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 50",
+      27287258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 51",
+      27287266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 52",
+      27287274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 53",
+      27287282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 54",
+      27287290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 55",
+      27287298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 56",
+      27287306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 57",
+      27287314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 58",
+      27287322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 59",
+      27287330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 60",
+      27287338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 61",
+      27287346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 62",
+      27287354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 63",
+      27287362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Backpack Slot 64",
+      27287370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Summon Boat",
+      27287470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Scuttle Boat",
+      27287471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Visions",
+      27287472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell View Earth",
+      27287473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Disguise",
+      27287474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell View Air",
+      27287475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fly",
+      27287476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Water Walk",
+      27287477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Dimension Door",
+      27287478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Town Portal",
+      27287479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Quicksand",
+      27287480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Land Mine",
+      27287481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Force Field",
+      27287482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fire Wall",
+      27287483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Earthquake",
+      27287484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Magic Arrow",
+      27287485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Ice Bolt",
+      27287486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Lightning Bolt",
+      27287487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Implosion",
+      27287488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Chain Lightning",
+      27287489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Frost Ring",
+      27287490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fireball",
+      27287491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Inferno",
+      27287492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Meteor Shower",
+      27287493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Death Ripple",
+      27287494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Destroy Undead",
+      27287495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Armageddon",
+      27287496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Shield",
+      27287497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Air Shield",
+      27287498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fire Shield",
+      27287499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Protection from Air",
+      27287500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Protection from Fire",
+      27287501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Protection from Water",
+      27287502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Protection from Earth",
+      27287503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Anti Magic",
+      27287504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Dispel",
+      27287505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Magic Mirror",
+      27287506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Cure",
+      27287507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Resurrection",
+      27287508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Animate Dead",
+      27287509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Sacrifice",
+      27287510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Bless",
+      27287511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Curse",
+      27287512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Bloodlust",
+      27287513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Precision",
+      27287514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Weakness",
+      27287515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Stone Skin",
+      27287516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Disrupting Ray",
+      27287517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Prayer",
+      27287518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Mirth",
+      27287519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Sorrow",
+      27287520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fortune",
+      27287521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Misfortune",
+      27287522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Haste",
+      27287523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Slow",
+      27287524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Slayer",
+      27287525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Frenzy",
+      27287526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Titan's Lighting Bolt",
+      27287527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Counterstrike",
+      27287528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Berserk",
+      27287529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Hypnotize",
+      27287530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Forgetfulness",
+      27287531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Blind",
+      27287532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Teleport",
+      27287533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Remove Obstacle",
+      27287534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Clone",
+      27287535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Fire Elemental",
+      27287536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Earth Elemental",
+      27287537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Water Elemental",
+      27287538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spell Air Elemental",
+      27287539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Attack",
+      27287540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Def",
+      27287541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Spellpower",
+      27287542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tyris Knowledge",
+      27287543,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Torosar  Name",
+      27320363,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Movement",
+      27320405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  EXP",
+      27320409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 1",
+      27320473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 2",
+      27320477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 3",
+      27320481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 4",
+      27320485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 5",
+      27320489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 6",
+      27320493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Type Slot 7",
+      27320497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 1",
+      27320501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 2",
+      27320505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 3",
+      27320509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 4",
+      27320513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 5",
+      27320517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 6",
+      27320521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Unit Count Slot 7",
+      27320525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Pathfinding",
+      27320529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Archery",
+      27320530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Logistics",
+      27320531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Scouting",
+      27320532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Diplomacy",
+      27320533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Navigation",
+      27320534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Leadership",
+      27320535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Wisdom",
+      27320536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Mysticism",
+      27320537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Luck",
+      27320538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Ballistics",
+      27320539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Eagle Eye",
+      27320540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Necromancy",
+      27320541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Estates",
+      27320542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Fire Magic",
+      27320543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Air Magic",
+      27320544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Water Magic",
+      27320545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Earth Magic",
+      27320546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Scholar",
+      27320547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Tactics",
+      27320548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Artillery",
+      27320549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Learning",
+      27320550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Offence",
+      27320551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Armourer",
+      27320552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Intelligence",
+      27320553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Sorcery",
+      27320554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Resistance",
+      27320555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  First Aid",
+      27320556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Pathfinding Slot",
+      27320557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Archery Slot",
+      27320558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Logistics Slot",
+      27320559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Scouting Slot",
+      27320560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Diplomacy Slot",
+      27320561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Navigation Slot",
+      27320562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Leadership Slot",
+      27320563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Wisdom Slot",
+      27320564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Mysticism Slot",
+      27320565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Luck Slot",
+      27320566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Ballistics Slot",
+      27320567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Eagle Eye Slot",
+      27320568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Necromancy Slot",
+      27320569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Estates Slot",
+      27320570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Fire Magic Slot",
+      27320571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Air Magic Slot",
+      27320572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Water Magic Slot",
+      27320573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Earth Magic Slot",
+      27320574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Scholar Slot",
+      27320575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Tactics Slot",
+      27320576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Artillery Slot",
+      27320577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Learning Slot",
+      27320578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Offense Slot",
+      27320579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Armourer Slot",
+      27320580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Intelligence Slot",
+      27320581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Sorcery Slot",
+      27320582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Resistance Slot",
+      27320583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  First Aid Slot",
+      27320584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Skill Count",
+      27320585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Ballista equipped (4 or -1)",
+      27320733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Ammo Cart equipped (5 or -1)",
+      27320741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  First Aid equipped Item (6 or -1)",
+      27320749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Catapult equipped (3 or -1)",
+      27320757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spellbook equipped (0 or -1)",
+      27320765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 1",
+      27320796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 2",
+      27320804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 3",
+      27320812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 4",
+      27320820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 5",
+      27320828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 6",
+      27320836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 7",
+      27320844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 8",
+      27320852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 9",
+      27320860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 10",
+      27320868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 11",
+      27320876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 12",
+      27320884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 13",
+      27320892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 14",
+      27320900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 15",
+      27320908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 16",
+      27320916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 17",
+      27320924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 18",
+      27320932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 19",
+      27320940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 20",
+      27320948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 21",
+      27320956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 22",
+      27320964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 23",
+      27320972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 24",
+      27320980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 25",
+      27320988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 26",
+      27320996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 27",
+      27321004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 28",
+      27321012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 29",
+      27321020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 30",
+      27321028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 31",
+      27321036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 32",
+      27321044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 33",
+      27321052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 34",
+      27321060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 35",
+      27321068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 36",
+      27321076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 37",
+      27321084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 38",
+      27321092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 39",
+      27321100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 40",
+      27321108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 41",
+      27321116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 42",
+      27321124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 43",
+      27321132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 44",
+      27321140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 45",
+      27321148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 46",
+      27321156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 47",
+      27321164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 48",
+      27321172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 49",
+      27321180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 50",
+      27321188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 51",
+      27321196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 52",
+      27321204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 53",
+      27321212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 54",
+      27321220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 55",
+      27321228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 56",
+      27321236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 57",
+      27321244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 58",
+      27321252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 59",
+      27321260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 60",
+      27321268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 61",
+      27321276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 62",
+      27321284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 63",
+      27321292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Backpack Slot 64",
+      27321300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Summon Boat",
+      27321400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Scuttle Boat",
+      27321401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Visions",
+      27321402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell View Earth",
+      27321403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Disguise",
+      27321404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell View Air",
+      27321405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fly",
+      27321406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Water Walk",
+      27321407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Dimension Door",
+      27321408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Town Portal",
+      27321409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Quicksand",
+      27321410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Land Mine",
+      27321411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Force Field",
+      27321412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fire Wall",
+      27321413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Earthquake",
+      27321414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Magic Arrow",
+      27321415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Ice Bolt",
+      27321416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Lightning Bolt",
+      27321417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Implosion",
+      27321418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Chain Lightning",
+      27321419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Frost Ring",
+      27321420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fireball",
+      27321421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Inferno",
+      27321422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Meteor Shower",
+      27321423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Death Ripple",
+      27321424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Destroy Undead",
+      27321425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Armageddon",
+      27321426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Shield",
+      27321427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Air Shield",
+      27321428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fire Shield",
+      27321429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Protection from Air",
+      27321430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Protection from Fire",
+      27321431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Protection from Water",
+      27321432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Protection from Earth",
+      27321433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Anti Magic",
+      27321434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Dispel",
+      27321435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Magic Mirror",
+      27321436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Cure",
+      27321437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Resurrection",
+      27321438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Animate Dead",
+      27321439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Sacrifice",
+      27321440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Bless",
+      27321441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Curse",
+      27321442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Bloodlust",
+      27321443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Precision",
+      27321444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Weakness",
+      27321445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Stone Skin",
+      27321446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Disrupting Ray",
+      27321447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Prayer",
+      27321448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Mirth",
+      27321449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Sorrow",
+      27321450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fortune",
+      27321451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Misfortune",
+      27321452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Haste",
+      27321453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Slow",
+      27321454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Slayer",
+      27321455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Frenzy",
+      27321456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Titan's Lighting Bolt",
+      27321457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Counterstrike",
+      27321458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Berserk",
+      27321459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Hypnotize",
+      27321460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Forgetfulness",
+      27321461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Blind",
+      27321462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Teleport",
+      27321463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Remove Obstacle",
+      27321464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Clone",
+      27321465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Fire Elemental",
+      27321466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Earth Elemental",
+      27321467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Water Elemental",
+      27321468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spell Air Elemental",
+      27321469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Attack",
+      27321470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Def",
+      27321471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Spellpower",
+      27321472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Torosar  Knowledge",
+      27321473,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

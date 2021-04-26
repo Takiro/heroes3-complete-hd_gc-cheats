@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Rion Name",
+      27287603,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Movement",
+      27287645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion EXP",
+      27287649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 1",
+      27287713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 2",
+      27287717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 3",
+      27287721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 4",
+      27287725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 5",
+      27287729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 6",
+      27287733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Type Slot 7",
+      27287737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 1",
+      27287741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 2",
+      27287745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 3",
+      27287749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 4",
+      27287753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 5",
+      27287757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 6",
+      27287761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Unit Count Slot 7",
+      27287765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Pathfinding",
+      27287769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Archery",
+      27287770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Logistics",
+      27287771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Scouting",
+      27287772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Diplomacy",
+      27287773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Navigation",
+      27287774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Leadership",
+      27287775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Wisdom",
+      27287776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Mysticism",
+      27287777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Luck",
+      27287778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Ballistics",
+      27287779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Eagle Eye",
+      27287780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Necromancy",
+      27287781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Estates",
+      27287782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Fire Magic",
+      27287783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Air Magic",
+      27287784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Water Magic",
+      27287785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Earth Magic",
+      27287786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Scholar",
+      27287787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Tactics",
+      27287788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Artillery",
+      27287789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Learning",
+      27287790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Offence",
+      27287791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Armourer",
+      27287792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Intelligence",
+      27287793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Sorcery",
+      27287794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Resistance",
+      27287795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion First Aid",
+      27287796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Pathfinding Slot",
+      27287797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Archery Slot",
+      27287798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Logistics Slot",
+      27287799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Scouting Slot",
+      27287800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Diplomacy Slot",
+      27287801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Navigation Slot",
+      27287802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Leadership Slot",
+      27287803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Wisdom Slot",
+      27287804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Mysticism Slot",
+      27287805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Luck Slot",
+      27287806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Ballistics Slot",
+      27287807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Eagle Eye Slot",
+      27287808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Necromancy Slot",
+      27287809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Estates Slot",
+      27287810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Fire Magic Slot",
+      27287811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Air Magic Slot",
+      27287812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Water Magic Slot",
+      27287813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Earth Magic Slot",
+      27287814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Scholar Slot",
+      27287815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Tactics Slot",
+      27287816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Artillery Slot",
+      27287817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Learning Slot",
+      27287818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Offense Slot",
+      27287819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Armourer Slot",
+      27287820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Intelligence Slot",
+      27287821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Sorcery Slot",
+      27287822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Resistance Slot",
+      27287823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion First Aid Slot",
+      27287824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Skill Count",
+      27287825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Ballista equipped (4 or -1)",
+      27287973,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Ammo Cart equipped (5 or -1)",
+      27287981,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion First Aid equipped Item (6 or -1)",
+      27287989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Catapult equipped (3 or -1)",
+      27287997,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spellbook equipped (0 or -1)",
+      27288005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 1",
+      27288036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 2",
+      27288044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 3",
+      27288052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 4",
+      27288060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 5",
+      27288068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 6",
+      27288076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 7",
+      27288084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 8",
+      27288092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 9",
+      27288100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 10",
+      27288108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 11",
+      27288116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 12",
+      27288124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 13",
+      27288132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 14",
+      27288140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 15",
+      27288148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 16",
+      27288156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 17",
+      27288164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 18",
+      27288172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 19",
+      27288180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 20",
+      27288188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 21",
+      27288196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 22",
+      27288204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 23",
+      27288212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 24",
+      27288220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 25",
+      27288228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 26",
+      27288236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 27",
+      27288244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 28",
+      27288252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 29",
+      27288260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 30",
+      27288268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 31",
+      27288276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 32",
+      27288284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 33",
+      27288292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 34",
+      27288300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 35",
+      27288308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 36",
+      27288316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 37",
+      27288324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 38",
+      27288332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 39",
+      27288340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 40",
+      27288348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 41",
+      27288356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 42",
+      27288364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 43",
+      27288372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 44",
+      27288380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 45",
+      27288388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 46",
+      27288396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 47",
+      27288404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 48",
+      27288412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 49",
+      27288420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 50",
+      27288428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 51",
+      27288436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 52",
+      27288444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 53",
+      27288452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 54",
+      27288460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 55",
+      27288468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 56",
+      27288476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 57",
+      27288484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 58",
+      27288492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 59",
+      27288500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 60",
+      27288508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 61",
+      27288516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 62",
+      27288524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 63",
+      27288532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Backpack Slot 64",
+      27288540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Summon Boat",
+      27288640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Scuttle Boat",
+      27288641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Visions",
+      27288642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell View Earth",
+      27288643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Disguise",
+      27288644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell View Air",
+      27288645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fly",
+      27288646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Water Walk",
+      27288647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Dimension Door",
+      27288648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Town Portal",
+      27288649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Quicksand",
+      27288650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Land Mine",
+      27288651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Force Field",
+      27288652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fire Wall",
+      27288653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Earthquake",
+      27288654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Magic Arrow",
+      27288655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Ice Bolt",
+      27288656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Lightning Bolt",
+      27288657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Implosion",
+      27288658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Chain Lightning",
+      27288659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Frost Ring",
+      27288660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fireball",
+      27288661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Inferno",
+      27288662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Meteor Shower",
+      27288663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Death Ripple",
+      27288664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Destroy Undead",
+      27288665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Armageddon",
+      27288666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Shield",
+      27288667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Air Shield",
+      27288668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fire Shield",
+      27288669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Protection from Air",
+      27288670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Protection from Fire",
+      27288671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Protection from Water",
+      27288672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Protection from Earth",
+      27288673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Anti Magic",
+      27288674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Dispel",
+      27288675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Magic Mirror",
+      27288676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Cure",
+      27288677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Resurrection",
+      27288678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Animate Dead",
+      27288679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Sacrifice",
+      27288680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Bless",
+      27288681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Curse",
+      27288682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Bloodlust",
+      27288683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Precision",
+      27288684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Weakness",
+      27288685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Stone Skin",
+      27288686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Disrupting Ray",
+      27288687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Prayer",
+      27288688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Mirth",
+      27288689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Sorrow",
+      27288690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fortune",
+      27288691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Misfortune",
+      27288692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Haste",
+      27288693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Slow",
+      27288694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Slayer",
+      27288695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Frenzy",
+      27288696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Titan's Lighting Bolt",
+      27288697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Counterstrike",
+      27288698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Berserk",
+      27288699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Hypnotize",
+      27288700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Forgetfulness",
+      27288701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Blind",
+      27288702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Teleport",
+      27288703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Remove Obstacle",
+      27288704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Clone",
+      27288705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Fire Elemental",
+      27288706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Earth Elemental",
+      27288707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Water Elemental",
+      27288708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spell Air Elemental",
+      27288709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Attack",
+      27288710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Def",
+      27288711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Spellpower",
+      27288712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rion Knowledge",
+      27288713,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

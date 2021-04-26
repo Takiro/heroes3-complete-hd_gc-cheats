@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Uland Name",
+      27307493,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Movement",
+      27307535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland EXP",
+      27307539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 1",
+      27307603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 2",
+      27307607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 3",
+      27307611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 4",
+      27307615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 5",
+      27307619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 6",
+      27307623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Type Slot 7",
+      27307627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 1",
+      27307631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 2",
+      27307635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 3",
+      27307639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 4",
+      27307643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 5",
+      27307647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 6",
+      27307651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Unit Count Slot 7",
+      27307655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Pathfinding",
+      27307659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Archery",
+      27307660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Logistics",
+      27307661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Scouting",
+      27307662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Diplomacy",
+      27307663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Navigation",
+      27307664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Leadership",
+      27307665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Wisdom",
+      27307666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Mysticism",
+      27307667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Luck",
+      27307668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Ballistics",
+      27307669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Eagle Eye",
+      27307670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Necromancy",
+      27307671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Estates",
+      27307672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Fire Magic",
+      27307673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Air Magic",
+      27307674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Water Magic",
+      27307675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Earth Magic",
+      27307676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Scholar",
+      27307677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Tactics",
+      27307678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Artillery",
+      27307679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Learning",
+      27307680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Offence",
+      27307681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Armourer",
+      27307682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Intelligence",
+      27307683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Sorcery",
+      27307684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Resistance",
+      27307685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland First Aid",
+      27307686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Pathfinding Slot",
+      27307687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Archery Slot",
+      27307688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Logistics Slot",
+      27307689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Scouting Slot",
+      27307690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Diplomacy Slot",
+      27307691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Navigation Slot",
+      27307692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Leadership Slot",
+      27307693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Wisdom Slot",
+      27307694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Mysticism Slot",
+      27307695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Luck Slot",
+      27307696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Ballistics Slot",
+      27307697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Eagle Eye Slot",
+      27307698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Necromancy Slot",
+      27307699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Estates Slot",
+      27307700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Fire Magic Slot",
+      27307701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Air Magic Slot",
+      27307702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Water Magic Slot",
+      27307703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Earth Magic Slot",
+      27307704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Scholar Slot",
+      27307705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Tactics Slot",
+      27307706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Artillery Slot",
+      27307707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Learning Slot",
+      27307708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Offense Slot",
+      27307709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Armourer Slot",
+      27307710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Intelligence Slot",
+      27307711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Sorcery Slot",
+      27307712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Resistance Slot",
+      27307713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland First Aid Slot",
+      27307714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Skill Count",
+      27307715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Ballista equipped (4 or -1)",
+      27307863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Ammo Cart equipped (5 or -1)",
+      27307871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland First Aid equipped Item (6 or -1)",
+      27307879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Catapult equipped (3 or -1)",
+      27307887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spellbook equipped (0 or -1)",
+      27307895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 1",
+      27307926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 2",
+      27307934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 3",
+      27307942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 4",
+      27307950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 5",
+      27307958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 6",
+      27307966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 7",
+      27307974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 8",
+      27307982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 9",
+      27307990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 10",
+      27307998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 11",
+      27308006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 12",
+      27308014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 13",
+      27308022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 14",
+      27308030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 15",
+      27308038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 16",
+      27308046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 17",
+      27308054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 18",
+      27308062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 19",
+      27308070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 20",
+      27308078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 21",
+      27308086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 22",
+      27308094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 23",
+      27308102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 24",
+      27308110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 25",
+      27308118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 26",
+      27308126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 27",
+      27308134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 28",
+      27308142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 29",
+      27308150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 30",
+      27308158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 31",
+      27308166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 32",
+      27308174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 33",
+      27308182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 34",
+      27308190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 35",
+      27308198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 36",
+      27308206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 37",
+      27308214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 38",
+      27308222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 39",
+      27308230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 40",
+      27308238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 41",
+      27308246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 42",
+      27308254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 43",
+      27308262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 44",
+      27308270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 45",
+      27308278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 46",
+      27308286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 47",
+      27308294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 48",
+      27308302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 49",
+      27308310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 50",
+      27308318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 51",
+      27308326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 52",
+      27308334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 53",
+      27308342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 54",
+      27308350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 55",
+      27308358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 56",
+      27308366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 57",
+      27308374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 58",
+      27308382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 59",
+      27308390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 60",
+      27308398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 61",
+      27308406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 62",
+      27308414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 63",
+      27308422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Backpack Slot 64",
+      27308430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Summon Boat",
+      27308530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Scuttle Boat",
+      27308531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Visions",
+      27308532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell View Earth",
+      27308533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Disguise",
+      27308534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell View Air",
+      27308535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fly",
+      27308536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Water Walk",
+      27308537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Dimension Door",
+      27308538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Town Portal",
+      27308539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Quicksand",
+      27308540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Land Mine",
+      27308541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Force Field",
+      27308542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fire Wall",
+      27308543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Earthquake",
+      27308544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Magic Arrow",
+      27308545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Ice Bolt",
+      27308546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Lightning Bolt",
+      27308547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Implosion",
+      27308548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Chain Lightning",
+      27308549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Frost Ring",
+      27308550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fireball",
+      27308551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Inferno",
+      27308552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Meteor Shower",
+      27308553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Death Ripple",
+      27308554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Destroy Undead",
+      27308555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Armageddon",
+      27308556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Shield",
+      27308557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Air Shield",
+      27308558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fire Shield",
+      27308559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Protection from Air",
+      27308560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Protection from Fire",
+      27308561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Protection from Water",
+      27308562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Protection from Earth",
+      27308563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Anti Magic",
+      27308564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Dispel",
+      27308565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Magic Mirror",
+      27308566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Cure",
+      27308567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Resurrection",
+      27308568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Animate Dead",
+      27308569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Sacrifice",
+      27308570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Bless",
+      27308571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Curse",
+      27308572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Bloodlust",
+      27308573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Precision",
+      27308574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Weakness",
+      27308575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Stone Skin",
+      27308576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Disrupting Ray",
+      27308577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Prayer",
+      27308578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Mirth",
+      27308579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Sorrow",
+      27308580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fortune",
+      27308581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Misfortune",
+      27308582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Haste",
+      27308583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Slow",
+      27308584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Slayer",
+      27308585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Frenzy",
+      27308586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Titan's Lighting Bolt",
+      27308587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Counterstrike",
+      27308588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Berserk",
+      27308589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Hypnotize",
+      27308590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Forgetfulness",
+      27308591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Blind",
+      27308592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Teleport",
+      27308593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Remove Obstacle",
+      27308594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Clone",
+      27308595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Fire Elemental",
+      27308596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Earth Elemental",
+      27308597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Water Elemental",
+      27308598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spell Air Elemental",
+      27308599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Attack",
+      27308600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Def",
+      27308601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Spellpower",
+      27308602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Uland Knowledge",
+      27308603,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

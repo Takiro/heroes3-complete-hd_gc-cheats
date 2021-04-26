@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Shiva Name",
+      27394073,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Movement",
+      27394115,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva EXP",
+      27394119,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 1",
+      27394183,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 2",
+      27394187,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 3",
+      27394191,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 4",
+      27394195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 5",
+      27394199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 6",
+      27394203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Type Slot 7",
+      27394207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 1",
+      27394211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 2",
+      27394215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 3",
+      27394219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 4",
+      27394223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 5",
+      27394227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 6",
+      27394231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Unit Count Slot 7",
+      27394235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Pathfinding",
+      27394239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Archery",
+      27394240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Logistics",
+      27394241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Scouting",
+      27394242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Diplomacy",
+      27394243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Navigation",
+      27394244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Leadership",
+      27394245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Wisdom",
+      27394246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Mysticism",
+      27394247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Luck",
+      27394248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Ballistics",
+      27394249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Eagle Eye",
+      27394250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Necromancy",
+      27394251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Estates",
+      27394252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Fire Magic",
+      27394253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Air Magic",
+      27394254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Water Magic",
+      27394255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Earth Magic",
+      27394256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Scholar",
+      27394257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Tactics",
+      27394258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Artillery",
+      27394259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Learning",
+      27394260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Offence",
+      27394261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Armourer",
+      27394262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Intelligence",
+      27394263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Sorcery",
+      27394264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Resistance",
+      27394265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva First Aid",
+      27394266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Pathfinding Slot",
+      27394267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Archery Slot",
+      27394268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Logistics Slot",
+      27394269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Scouting Slot",
+      27394270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Diplomacy Slot",
+      27394271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Navigation Slot",
+      27394272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Leadership Slot",
+      27394273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Wisdom Slot",
+      27394274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Mysticism Slot",
+      27394275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Luck Slot",
+      27394276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Ballistics Slot",
+      27394277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Eagle Eye Slot",
+      27394278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Necromancy Slot",
+      27394279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Estates Slot",
+      27394280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Fire Magic Slot",
+      27394281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Air Magic Slot",
+      27394282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Water Magic Slot",
+      27394283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Earth Magic Slot",
+      27394284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Scholar Slot",
+      27394285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Tactics Slot",
+      27394286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Artillery Slot",
+      27394287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Learning Slot",
+      27394288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Offense Slot",
+      27394289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Armourer Slot",
+      27394290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Intelligence Slot",
+      27394291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Sorcery Slot",
+      27394292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Resistance Slot",
+      27394293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva First Aid Slot",
+      27394294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Skill Count",
+      27394295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Ballista equipped (4 or -1)",
+      27394443,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Ammo Cart equipped (5 or -1)",
+      27394451,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva First Aid equipped Item (6 or -1)",
+      27394459,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Catapult equipped (3 or -1)",
+      27394467,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spellbook equipped (0 or -1)",
+      27394475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 1",
+      27394506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 2",
+      27394514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 3",
+      27394522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 4",
+      27394530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 5",
+      27394538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 6",
+      27394546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 7",
+      27394554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 8",
+      27394562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 9",
+      27394570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 10",
+      27394578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 11",
+      27394586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 12",
+      27394594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 13",
+      27394602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 14",
+      27394610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 15",
+      27394618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 16",
+      27394626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 17",
+      27394634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 18",
+      27394642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 19",
+      27394650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 20",
+      27394658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 21",
+      27394666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 22",
+      27394674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 23",
+      27394682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 24",
+      27394690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 25",
+      27394698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 26",
+      27394706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 27",
+      27394714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 28",
+      27394722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 29",
+      27394730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 30",
+      27394738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 31",
+      27394746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 32",
+      27394754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 33",
+      27394762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 34",
+      27394770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 35",
+      27394778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 36",
+      27394786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 37",
+      27394794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 38",
+      27394802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 39",
+      27394810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 40",
+      27394818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 41",
+      27394826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 42",
+      27394834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 43",
+      27394842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 44",
+      27394850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 45",
+      27394858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 46",
+      27394866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 47",
+      27394874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 48",
+      27394882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 49",
+      27394890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 50",
+      27394898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 51",
+      27394906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 52",
+      27394914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 53",
+      27394922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 54",
+      27394930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 55",
+      27394938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 56",
+      27394946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 57",
+      27394954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 58",
+      27394962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 59",
+      27394970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 60",
+      27394978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 61",
+      27394986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 62",
+      27394994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 63",
+      27395002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Backpack Slot 64",
+      27395010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Summon Boat",
+      27395110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Scuttle Boat",
+      27395111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Visions",
+      27395112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell View Earth",
+      27395113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Disguise",
+      27395114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell View Air",
+      27395115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fly",
+      27395116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Water Walk",
+      27395117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Dimension Door",
+      27395118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Town Portal",
+      27395119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Quicksand",
+      27395120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Land Mine",
+      27395121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Force Field",
+      27395122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fire Wall",
+      27395123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Earthquake",
+      27395124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Magic Arrow",
+      27395125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Ice Bolt",
+      27395126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Lightning Bolt",
+      27395127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Implosion",
+      27395128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Chain Lightning",
+      27395129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Frost Ring",
+      27395130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fireball",
+      27395131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Inferno",
+      27395132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Meteor Shower",
+      27395133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Death Ripple",
+      27395134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Destroy Undead",
+      27395135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Armageddon",
+      27395136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Shield",
+      27395137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Air Shield",
+      27395138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fire Shield",
+      27395139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Protection from Air",
+      27395140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Protection from Fire",
+      27395141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Protection from Water",
+      27395142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Protection from Earth",
+      27395143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Anti Magic",
+      27395144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Dispel",
+      27395145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Magic Mirror",
+      27395146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Cure",
+      27395147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Resurrection",
+      27395148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Animate Dead",
+      27395149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Sacrifice",
+      27395150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Bless",
+      27395151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Curse",
+      27395152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Bloodlust",
+      27395153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Precision",
+      27395154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Weakness",
+      27395155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Stone Skin",
+      27395156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Disrupting Ray",
+      27395157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Prayer",
+      27395158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Mirth",
+      27395159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Sorrow",
+      27395160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fortune",
+      27395161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Misfortune",
+      27395162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Haste",
+      27395163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Slow",
+      27395164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Slayer",
+      27395165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Frenzy",
+      27395166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Titan's Lighting Bolt",
+      27395167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Counterstrike",
+      27395168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Berserk",
+      27395169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Hypnotize",
+      27395170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Forgetfulness",
+      27395171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Blind",
+      27395172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Teleport",
+      27395173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Remove Obstacle",
+      27395174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Clone",
+      27395175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Fire Elemental",
+      27395176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Earth Elemental",
+      27395177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Water Elemental",
+      27395178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spell Air Elemental",
+      27395179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Attack",
+      27395180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Def",
+      27395181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Spellpower",
+      27395182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shiva Knowledge",
+      27395183,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Thunar Name",
+      27429173,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Movement",
+      27429215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar EXP",
+      27429219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 1",
+      27429283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 2",
+      27429287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 3",
+      27429291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 4",
+      27429295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 5",
+      27429299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 6",
+      27429303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Type Slot 7",
+      27429307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 1",
+      27429311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 2",
+      27429315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 3",
+      27429319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 4",
+      27429323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 5",
+      27429327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 6",
+      27429331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Unit Count Slot 7",
+      27429335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Pathfinding",
+      27429339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Archery",
+      27429340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Logistics",
+      27429341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Scouting",
+      27429342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Diplomacy",
+      27429343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Navigation",
+      27429344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Leadership",
+      27429345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Wisdom",
+      27429346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Mysticism",
+      27429347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Luck",
+      27429348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Ballistics",
+      27429349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Eagle Eye",
+      27429350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Necromancy",
+      27429351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Estates",
+      27429352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Fire Magic",
+      27429353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Air Magic",
+      27429354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Water Magic",
+      27429355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Earth Magic",
+      27429356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Scholar",
+      27429357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Tactics",
+      27429358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Artillery",
+      27429359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Learning",
+      27429360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Offence",
+      27429361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Armourer",
+      27429362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Intelligence",
+      27429363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Sorcery",
+      27429364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Resistance",
+      27429365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar First Aid",
+      27429366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Pathfinding Slot",
+      27429367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Archery Slot",
+      27429368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Logistics Slot",
+      27429369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Scouting Slot",
+      27429370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Diplomacy Slot",
+      27429371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Navigation Slot",
+      27429372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Leadership Slot",
+      27429373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Wisdom Slot",
+      27429374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Mysticism Slot",
+      27429375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Luck Slot",
+      27429376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Ballistics Slot",
+      27429377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Eagle Eye Slot",
+      27429378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Necromancy Slot",
+      27429379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Estates Slot",
+      27429380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Fire Magic Slot",
+      27429381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Air Magic Slot",
+      27429382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Water Magic Slot",
+      27429383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Earth Magic Slot",
+      27429384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Scholar Slot",
+      27429385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Tactics Slot",
+      27429386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Artillery Slot",
+      27429387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Learning Slot",
+      27429388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Offense Slot",
+      27429389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Armourer Slot",
+      27429390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Intelligence Slot",
+      27429391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Sorcery Slot",
+      27429392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Resistance Slot",
+      27429393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar First Aid Slot",
+      27429394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Skill Count",
+      27429395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Ballista equipped (4 or -1)",
+      27429543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Ammo Cart equipped (5 or -1)",
+      27429551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar First Aid equipped Item (6 or -1)",
+      27429559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Catapult equipped (3 or -1)",
+      27429567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spellbook equipped (0 or -1)",
+      27429575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 1",
+      27429606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 2",
+      27429614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 3",
+      27429622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 4",
+      27429630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 5",
+      27429638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 6",
+      27429646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 7",
+      27429654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 8",
+      27429662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 9",
+      27429670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 10",
+      27429678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 11",
+      27429686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 12",
+      27429694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 13",
+      27429702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 14",
+      27429710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 15",
+      27429718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 16",
+      27429726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 17",
+      27429734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 18",
+      27429742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 19",
+      27429750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 20",
+      27429758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 21",
+      27429766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 22",
+      27429774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 23",
+      27429782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 24",
+      27429790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 25",
+      27429798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 26",
+      27429806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 27",
+      27429814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 28",
+      27429822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 29",
+      27429830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 30",
+      27429838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 31",
+      27429846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 32",
+      27429854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 33",
+      27429862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 34",
+      27429870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 35",
+      27429878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 36",
+      27429886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 37",
+      27429894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 38",
+      27429902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 39",
+      27429910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 40",
+      27429918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 41",
+      27429926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 42",
+      27429934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 43",
+      27429942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 44",
+      27429950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 45",
+      27429958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 46",
+      27429966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 47",
+      27429974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 48",
+      27429982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 49",
+      27429990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 50",
+      27429998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 51",
+      27430006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 52",
+      27430014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 53",
+      27430022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 54",
+      27430030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 55",
+      27430038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 56",
+      27430046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 57",
+      27430054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 58",
+      27430062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 59",
+      27430070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 60",
+      27430078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 61",
+      27430086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 62",
+      27430094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 63",
+      27430102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Backpack Slot 64",
+      27430110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Summon Boat",
+      27430210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Scuttle Boat",
+      27430211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Visions",
+      27430212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell View Earth",
+      27430213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Disguise",
+      27430214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell View Air",
+      27430215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fly",
+      27430216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Water Walk",
+      27430217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Dimension Door",
+      27430218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Town Portal",
+      27430219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Quicksand",
+      27430220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Land Mine",
+      27430221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Force Field",
+      27430222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fire Wall",
+      27430223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Earthquake",
+      27430224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Magic Arrow",
+      27430225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Ice Bolt",
+      27430226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Lightning Bolt",
+      27430227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Implosion",
+      27430228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Chain Lightning",
+      27430229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Frost Ring",
+      27430230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fireball",
+      27430231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Inferno",
+      27430232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Meteor Shower",
+      27430233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Death Ripple",
+      27430234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Destroy Undead",
+      27430235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Armageddon",
+      27430236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Shield",
+      27430237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Air Shield",
+      27430238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fire Shield",
+      27430239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Protection from Air",
+      27430240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Protection from Fire",
+      27430241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Protection from Water",
+      27430242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Protection from Earth",
+      27430243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Anti Magic",
+      27430244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Dispel",
+      27430245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Magic Mirror",
+      27430246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Cure",
+      27430247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Resurrection",
+      27430248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Animate Dead",
+      27430249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Sacrifice",
+      27430250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Bless",
+      27430251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Curse",
+      27430252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Bloodlust",
+      27430253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Precision",
+      27430254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Weakness",
+      27430255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Stone Skin",
+      27430256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Disrupting Ray",
+      27430257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Prayer",
+      27430258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Mirth",
+      27430259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Sorrow",
+      27430260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fortune",
+      27430261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Misfortune",
+      27430262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Haste",
+      27430263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Slow",
+      27430264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Slayer",
+      27430265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Frenzy",
+      27430266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Titan's Lighting Bolt",
+      27430267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Counterstrike",
+      27430268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Berserk",
+      27430269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Hypnotize",
+      27430270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Forgetfulness",
+      27430271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Blind",
+      27430272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Teleport",
+      27430273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Remove Obstacle",
+      27430274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Clone",
+      27430275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Fire Elemental",
+      27430276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Earth Elemental",
+      27430277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Water Elemental",
+      27430278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spell Air Elemental",
+      27430279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Attack",
+      27430280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Def",
+      27430281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Spellpower",
+      27430282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thunar Knowledge",
+      27430283,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

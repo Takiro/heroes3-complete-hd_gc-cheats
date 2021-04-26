@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Zydar Name",
+      27350783,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Movement",
+      27350825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar EXP",
+      27350829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 1",
+      27350893,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 2",
+      27350897,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 3",
+      27350901,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 4",
+      27350905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 5",
+      27350909,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 6",
+      27350913,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Type Slot 7",
+      27350917,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 1",
+      27350921,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 2",
+      27350925,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 3",
+      27350929,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 4",
+      27350933,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 5",
+      27350937,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 6",
+      27350941,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Unit Count Slot 7",
+      27350945,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Pathfinding",
+      27350949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Archery",
+      27350950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Logistics",
+      27350951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Scouting",
+      27350952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Diplomacy",
+      27350953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Navigation",
+      27350954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Leadership",
+      27350955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Wisdom",
+      27350956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Mysticism",
+      27350957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Luck",
+      27350958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Ballistics",
+      27350959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Eagle Eye",
+      27350960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Necromancy",
+      27350961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Estates",
+      27350962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Fire Magic",
+      27350963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Air Magic",
+      27350964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Water Magic",
+      27350965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Earth Magic",
+      27350966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Scholar",
+      27350967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Tactics",
+      27350968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Artillery",
+      27350969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Learning",
+      27350970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Offence",
+      27350971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Armourer",
+      27350972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Intelligence",
+      27350973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Sorcery",
+      27350974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Resistance",
+      27350975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar First Aid",
+      27350976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Pathfinding Slot",
+      27350977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Archery Slot",
+      27350978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Logistics Slot",
+      27350979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Scouting Slot",
+      27350980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Diplomacy Slot",
+      27350981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Navigation Slot",
+      27350982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Leadership Slot",
+      27350983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Wisdom Slot",
+      27350984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Mysticism Slot",
+      27350985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Luck Slot",
+      27350986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Ballistics Slot",
+      27350987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Eagle Eye Slot",
+      27350988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Necromancy Slot",
+      27350989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Estates Slot",
+      27350990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Fire Magic Slot",
+      27350991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Air Magic Slot",
+      27350992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Water Magic Slot",
+      27350993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Earth Magic Slot",
+      27350994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Scholar Slot",
+      27350995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Tactics Slot",
+      27350996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Artillery Slot",
+      27350997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Learning Slot",
+      27350998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Offense Slot",
+      27350999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Armourer Slot",
+      27351000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Intelligence Slot",
+      27351001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Sorcery Slot",
+      27351002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Resistance Slot",
+      27351003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar First Aid Slot",
+      27351004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Skill Count",
+      27351005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Ballista equipped (4 or -1)",
+      27351153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Ammo Cart equipped (5 or -1)",
+      27351161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar First Aid equipped Item (6 or -1)",
+      27351169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Catapult equipped (3 or -1)",
+      27351177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spellbook equipped (0 or -1)",
+      27351185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 1",
+      27351216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 2",
+      27351224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 3",
+      27351232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 4",
+      27351240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 5",
+      27351248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 6",
+      27351256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 7",
+      27351264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 8",
+      27351272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 9",
+      27351280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 10",
+      27351288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 11",
+      27351296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 12",
+      27351304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 13",
+      27351312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 14",
+      27351320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 15",
+      27351328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 16",
+      27351336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 17",
+      27351344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 18",
+      27351352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 19",
+      27351360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 20",
+      27351368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 21",
+      27351376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 22",
+      27351384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 23",
+      27351392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 24",
+      27351400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 25",
+      27351408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 26",
+      27351416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 27",
+      27351424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 28",
+      27351432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 29",
+      27351440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 30",
+      27351448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 31",
+      27351456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 32",
+      27351464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 33",
+      27351472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 34",
+      27351480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 35",
+      27351488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 36",
+      27351496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 37",
+      27351504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 38",
+      27351512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 39",
+      27351520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 40",
+      27351528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 41",
+      27351536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 42",
+      27351544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 43",
+      27351552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 44",
+      27351560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 45",
+      27351568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 46",
+      27351576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 47",
+      27351584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 48",
+      27351592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 49",
+      27351600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 50",
+      27351608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 51",
+      27351616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 52",
+      27351624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 53",
+      27351632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 54",
+      27351640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 55",
+      27351648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 56",
+      27351656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 57",
+      27351664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 58",
+      27351672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 59",
+      27351680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 60",
+      27351688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 61",
+      27351696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 62",
+      27351704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 63",
+      27351712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Backpack Slot 64",
+      27351720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Summon Boat",
+      27351820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Scuttle Boat",
+      27351821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Visions",
+      27351822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell View Earth",
+      27351823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Disguise",
+      27351824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell View Air",
+      27351825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fly",
+      27351826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Water Walk",
+      27351827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Dimension Door",
+      27351828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Town Portal",
+      27351829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Quicksand",
+      27351830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Land Mine",
+      27351831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Force Field",
+      27351832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fire Wall",
+      27351833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Earthquake",
+      27351834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Magic Arrow",
+      27351835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Ice Bolt",
+      27351836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Lightning Bolt",
+      27351837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Implosion",
+      27351838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Chain Lightning",
+      27351839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Frost Ring",
+      27351840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fireball",
+      27351841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Inferno",
+      27351842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Meteor Shower",
+      27351843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Death Ripple",
+      27351844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Destroy Undead",
+      27351845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Armageddon",
+      27351846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Shield",
+      27351847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Air Shield",
+      27351848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fire Shield",
+      27351849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Protection from Air",
+      27351850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Protection from Fire",
+      27351851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Protection from Water",
+      27351852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Protection from Earth",
+      27351853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Anti Magic",
+      27351854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Dispel",
+      27351855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Magic Mirror",
+      27351856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Cure",
+      27351857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Resurrection",
+      27351858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Animate Dead",
+      27351859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Sacrifice",
+      27351860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Bless",
+      27351861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Curse",
+      27351862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Bloodlust",
+      27351863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Precision",
+      27351864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Weakness",
+      27351865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Stone Skin",
+      27351866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Disrupting Ray",
+      27351867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Prayer",
+      27351868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Mirth",
+      27351869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Sorrow",
+      27351870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fortune",
+      27351871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Misfortune",
+      27351872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Haste",
+      27351873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Slow",
+      27351874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Slayer",
+      27351875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Frenzy",
+      27351876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Titan's Lighting Bolt",
+      27351877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Counterstrike",
+      27351878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Berserk",
+      27351879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Hypnotize",
+      27351880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Forgetfulness",
+      27351881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Blind",
+      27351882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Teleport",
+      27351883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Remove Obstacle",
+      27351884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Clone",
+      27351885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Fire Elemental",
+      27351886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Earth Elemental",
+      27351887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Water Elemental",
+      27351888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spell Air Elemental",
+      27351889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Attack",
+      27351890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Def",
+      27351891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Spellpower",
+      27351892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zydar Knowledge",
+      27351893,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

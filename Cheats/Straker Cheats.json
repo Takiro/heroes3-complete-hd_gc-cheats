@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Straker Name",
+      27353123,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Movement",
+      27353165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker EXP",
+      27353169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 1",
+      27353233,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 2",
+      27353237,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 3",
+      27353241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 4",
+      27353245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 5",
+      27353249,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 6",
+      27353253,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Type Slot 7",
+      27353257,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 1",
+      27353261,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 2",
+      27353265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 3",
+      27353269,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 4",
+      27353273,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 5",
+      27353277,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 6",
+      27353281,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Unit Count Slot 7",
+      27353285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Pathfinding",
+      27353289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Archery",
+      27353290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Logistics",
+      27353291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Scouting",
+      27353292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Diplomacy",
+      27353293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Navigation",
+      27353294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Leadership",
+      27353295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Wisdom",
+      27353296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Mysticism",
+      27353297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Luck",
+      27353298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Ballistics",
+      27353299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Eagle Eye",
+      27353300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Necromancy",
+      27353301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Estates",
+      27353302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Fire Magic",
+      27353303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Air Magic",
+      27353304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Water Magic",
+      27353305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Earth Magic",
+      27353306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Scholar",
+      27353307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Tactics",
+      27353308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Artillery",
+      27353309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Learning",
+      27353310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Offence",
+      27353311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Armourer",
+      27353312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Intelligence",
+      27353313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Sorcery",
+      27353314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Resistance",
+      27353315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker First Aid",
+      27353316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Pathfinding Slot",
+      27353317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Archery Slot",
+      27353318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Logistics Slot",
+      27353319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Scouting Slot",
+      27353320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Diplomacy Slot",
+      27353321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Navigation Slot",
+      27353322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Leadership Slot",
+      27353323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Wisdom Slot",
+      27353324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Mysticism Slot",
+      27353325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Luck Slot",
+      27353326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Ballistics Slot",
+      27353327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Eagle Eye Slot",
+      27353328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Necromancy Slot",
+      27353329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Estates Slot",
+      27353330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Fire Magic Slot",
+      27353331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Air Magic Slot",
+      27353332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Water Magic Slot",
+      27353333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Earth Magic Slot",
+      27353334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Scholar Slot",
+      27353335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Tactics Slot",
+      27353336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Artillery Slot",
+      27353337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Learning Slot",
+      27353338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Offense Slot",
+      27353339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Armourer Slot",
+      27353340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Intelligence Slot",
+      27353341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Sorcery Slot",
+      27353342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Resistance Slot",
+      27353343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker First Aid Slot",
+      27353344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Skill Count",
+      27353345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Ballista equipped (4 or -1)",
+      27353493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Ammo Cart equipped (5 or -1)",
+      27353501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker First Aid equipped Item (6 or -1)",
+      27353509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Catapult equipped (3 or -1)",
+      27353517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spellbook equipped (0 or -1)",
+      27353525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 1",
+      27353556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 2",
+      27353564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 3",
+      27353572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 4",
+      27353580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 5",
+      27353588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 6",
+      27353596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 7",
+      27353604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 8",
+      27353612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 9",
+      27353620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 10",
+      27353628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 11",
+      27353636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 12",
+      27353644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 13",
+      27353652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 14",
+      27353660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 15",
+      27353668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 16",
+      27353676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 17",
+      27353684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 18",
+      27353692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 19",
+      27353700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 20",
+      27353708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 21",
+      27353716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 22",
+      27353724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 23",
+      27353732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 24",
+      27353740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 25",
+      27353748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 26",
+      27353756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 27",
+      27353764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 28",
+      27353772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 29",
+      27353780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 30",
+      27353788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 31",
+      27353796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 32",
+      27353804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 33",
+      27353812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 34",
+      27353820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 35",
+      27353828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 36",
+      27353836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 37",
+      27353844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 38",
+      27353852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 39",
+      27353860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 40",
+      27353868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 41",
+      27353876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 42",
+      27353884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 43",
+      27353892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 44",
+      27353900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 45",
+      27353908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 46",
+      27353916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 47",
+      27353924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 48",
+      27353932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 49",
+      27353940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 50",
+      27353948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 51",
+      27353956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 52",
+      27353964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 53",
+      27353972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 54",
+      27353980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 55",
+      27353988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 56",
+      27353996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 57",
+      27354004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 58",
+      27354012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 59",
+      27354020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 60",
+      27354028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 61",
+      27354036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 62",
+      27354044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 63",
+      27354052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Backpack Slot 64",
+      27354060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Summon Boat",
+      27354160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Scuttle Boat",
+      27354161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Visions",
+      27354162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell View Earth",
+      27354163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Disguise",
+      27354164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell View Air",
+      27354165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fly",
+      27354166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Water Walk",
+      27354167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Dimension Door",
+      27354168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Town Portal",
+      27354169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Quicksand",
+      27354170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Land Mine",
+      27354171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Force Field",
+      27354172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fire Wall",
+      27354173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Earthquake",
+      27354174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Magic Arrow",
+      27354175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Ice Bolt",
+      27354176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Lightning Bolt",
+      27354177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Implosion",
+      27354178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Chain Lightning",
+      27354179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Frost Ring",
+      27354180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fireball",
+      27354181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Inferno",
+      27354182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Meteor Shower",
+      27354183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Death Ripple",
+      27354184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Destroy Undead",
+      27354185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Armageddon",
+      27354186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Shield",
+      27354187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Air Shield",
+      27354188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fire Shield",
+      27354189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Protection from Air",
+      27354190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Protection from Fire",
+      27354191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Protection from Water",
+      27354192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Protection from Earth",
+      27354193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Anti Magic",
+      27354194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Dispel",
+      27354195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Magic Mirror",
+      27354196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Cure",
+      27354197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Resurrection",
+      27354198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Animate Dead",
+      27354199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Sacrifice",
+      27354200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Bless",
+      27354201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Curse",
+      27354202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Bloodlust",
+      27354203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Precision",
+      27354204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Weakness",
+      27354205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Stone Skin",
+      27354206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Disrupting Ray",
+      27354207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Prayer",
+      27354208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Mirth",
+      27354209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Sorrow",
+      27354210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fortune",
+      27354211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Misfortune",
+      27354212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Haste",
+      27354213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Slow",
+      27354214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Slayer",
+      27354215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Frenzy",
+      27354216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Titan's Lighting Bolt",
+      27354217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Counterstrike",
+      27354218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Berserk",
+      27354219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Hypnotize",
+      27354220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Forgetfulness",
+      27354221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Blind",
+      27354222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Teleport",
+      27354223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Remove Obstacle",
+      27354224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Clone",
+      27354225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Fire Elemental",
+      27354226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Earth Elemental",
+      27354227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Water Elemental",
+      27354228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spell Air Elemental",
+      27354229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Attack",
+      27354230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Def",
+      27354231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Spellpower",
+      27354232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Straker Knowledge",
+      27354233,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

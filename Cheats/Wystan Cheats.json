@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Wystan Name",
+      27411623,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Movement",
+      27411665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan EXP",
+      27411669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 1",
+      27411733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 2",
+      27411737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 3",
+      27411741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 4",
+      27411745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 5",
+      27411749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 6",
+      27411753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Type Slot 7",
+      27411757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 1",
+      27411761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 2",
+      27411765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 3",
+      27411769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 4",
+      27411773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 5",
+      27411777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 6",
+      27411781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Unit Count Slot 7",
+      27411785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Pathfinding",
+      27411789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Archery",
+      27411790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Logistics",
+      27411791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Scouting",
+      27411792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Diplomacy",
+      27411793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Navigation",
+      27411794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Leadership",
+      27411795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Wisdom",
+      27411796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Mysticism",
+      27411797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Luck",
+      27411798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Ballistics",
+      27411799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Eagle Eye",
+      27411800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Necromancy",
+      27411801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Estates",
+      27411802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Fire Magic",
+      27411803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Air Magic",
+      27411804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Water Magic",
+      27411805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Earth Magic",
+      27411806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Scholar",
+      27411807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Tactics",
+      27411808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Artillery",
+      27411809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Learning",
+      27411810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Offence",
+      27411811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Armourer",
+      27411812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Intelligence",
+      27411813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Sorcery",
+      27411814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Resistance",
+      27411815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan First Aid",
+      27411816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Pathfinding Slot",
+      27411817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Archery Slot",
+      27411818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Logistics Slot",
+      27411819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Scouting Slot",
+      27411820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Diplomacy Slot",
+      27411821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Navigation Slot",
+      27411822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Leadership Slot",
+      27411823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Wisdom Slot",
+      27411824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Mysticism Slot",
+      27411825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Luck Slot",
+      27411826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Ballistics Slot",
+      27411827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Eagle Eye Slot",
+      27411828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Necromancy Slot",
+      27411829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Estates Slot",
+      27411830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Fire Magic Slot",
+      27411831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Air Magic Slot",
+      27411832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Water Magic Slot",
+      27411833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Earth Magic Slot",
+      27411834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Scholar Slot",
+      27411835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Tactics Slot",
+      27411836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Artillery Slot",
+      27411837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Learning Slot",
+      27411838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Offense Slot",
+      27411839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Armourer Slot",
+      27411840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Intelligence Slot",
+      27411841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Sorcery Slot",
+      27411842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Resistance Slot",
+      27411843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan First Aid Slot",
+      27411844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Skill Count",
+      27411845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Ballista equipped (4 or -1)",
+      27411993,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Ammo Cart equipped (5 or -1)",
+      27412001,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan First Aid equipped Item (6 or -1)",
+      27412009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Catapult equipped (3 or -1)",
+      27412017,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spellbook equipped (0 or -1)",
+      27412025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 1",
+      27412056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 2",
+      27412064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 3",
+      27412072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 4",
+      27412080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 5",
+      27412088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 6",
+      27412096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 7",
+      27412104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 8",
+      27412112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 9",
+      27412120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 10",
+      27412128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 11",
+      27412136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 12",
+      27412144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 13",
+      27412152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 14",
+      27412160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 15",
+      27412168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 16",
+      27412176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 17",
+      27412184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 18",
+      27412192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 19",
+      27412200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 20",
+      27412208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 21",
+      27412216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 22",
+      27412224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 23",
+      27412232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 24",
+      27412240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 25",
+      27412248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 26",
+      27412256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 27",
+      27412264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 28",
+      27412272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 29",
+      27412280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 30",
+      27412288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 31",
+      27412296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 32",
+      27412304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 33",
+      27412312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 34",
+      27412320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 35",
+      27412328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 36",
+      27412336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 37",
+      27412344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 38",
+      27412352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 39",
+      27412360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 40",
+      27412368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 41",
+      27412376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 42",
+      27412384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 43",
+      27412392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 44",
+      27412400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 45",
+      27412408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 46",
+      27412416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 47",
+      27412424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 48",
+      27412432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 49",
+      27412440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 50",
+      27412448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 51",
+      27412456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 52",
+      27412464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 53",
+      27412472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 54",
+      27412480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 55",
+      27412488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 56",
+      27412496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 57",
+      27412504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 58",
+      27412512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 59",
+      27412520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 60",
+      27412528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 61",
+      27412536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 62",
+      27412544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 63",
+      27412552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Backpack Slot 64",
+      27412560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Summon Boat",
+      27412660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Scuttle Boat",
+      27412661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Visions",
+      27412662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell View Earth",
+      27412663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Disguise",
+      27412664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell View Air",
+      27412665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fly",
+      27412666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Water Walk",
+      27412667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Dimension Door",
+      27412668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Town Portal",
+      27412669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Quicksand",
+      27412670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Land Mine",
+      27412671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Force Field",
+      27412672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fire Wall",
+      27412673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Earthquake",
+      27412674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Magic Arrow",
+      27412675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Ice Bolt",
+      27412676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Lightning Bolt",
+      27412677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Implosion",
+      27412678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Chain Lightning",
+      27412679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Frost Ring",
+      27412680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fireball",
+      27412681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Inferno",
+      27412682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Meteor Shower",
+      27412683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Death Ripple",
+      27412684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Destroy Undead",
+      27412685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Armageddon",
+      27412686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Shield",
+      27412687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Air Shield",
+      27412688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fire Shield",
+      27412689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Protection from Air",
+      27412690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Protection from Fire",
+      27412691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Protection from Water",
+      27412692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Protection from Earth",
+      27412693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Anti Magic",
+      27412694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Dispel",
+      27412695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Magic Mirror",
+      27412696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Cure",
+      27412697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Resurrection",
+      27412698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Animate Dead",
+      27412699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Sacrifice",
+      27412700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Bless",
+      27412701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Curse",
+      27412702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Bloodlust",
+      27412703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Precision",
+      27412704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Weakness",
+      27412705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Stone Skin",
+      27412706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Disrupting Ray",
+      27412707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Prayer",
+      27412708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Mirth",
+      27412709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Sorrow",
+      27412710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fortune",
+      27412711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Misfortune",
+      27412712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Haste",
+      27412713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Slow",
+      27412714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Slayer",
+      27412715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Frenzy",
+      27412716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Titan's Lighting Bolt",
+      27412717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Counterstrike",
+      27412718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Berserk",
+      27412719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Hypnotize",
+      27412720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Forgetfulness",
+      27412721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Blind",
+      27412722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Teleport",
+      27412723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Remove Obstacle",
+      27412724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Clone",
+      27412725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Fire Elemental",
+      27412726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Earth Elemental",
+      27412727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Water Elemental",
+      27412728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spell Air Elemental",
+      27412729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Attack",
+      27412730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Def",
+      27412731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Spellpower",
+      27412732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Wystan Knowledge",
+      27412733,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

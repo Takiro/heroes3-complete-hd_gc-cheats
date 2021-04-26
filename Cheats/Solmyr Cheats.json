@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Solmyr Name",
+      27330893,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Movement",
+      27330935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr EXP",
+      27330939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 1",
+      27331003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 2",
+      27331007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 3",
+      27331011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 4",
+      27331015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 5",
+      27331019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 6",
+      27331023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Type Slot 7",
+      27331027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 1",
+      27331031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 2",
+      27331035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 3",
+      27331039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 4",
+      27331043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 5",
+      27331047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 6",
+      27331051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Unit Count Slot 7",
+      27331055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Pathfinding",
+      27331059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Archery",
+      27331060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Logistics",
+      27331061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Scouting",
+      27331062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Diplomacy",
+      27331063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Navigation",
+      27331064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Leadership",
+      27331065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Wisdom",
+      27331066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Mysticism",
+      27331067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Luck",
+      27331068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Ballistics",
+      27331069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Eagle Eye",
+      27331070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Necromancy",
+      27331071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Estates",
+      27331072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Fire Magic",
+      27331073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Air Magic",
+      27331074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Water Magic",
+      27331075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Earth Magic",
+      27331076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Scholar",
+      27331077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Tactics",
+      27331078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Artillery",
+      27331079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Learning",
+      27331080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Offence",
+      27331081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Armourer",
+      27331082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Intelligence",
+      27331083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Sorcery",
+      27331084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Resistance",
+      27331085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr First Aid",
+      27331086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Pathfinding Slot",
+      27331087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Archery Slot",
+      27331088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Logistics Slot",
+      27331089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Scouting Slot",
+      27331090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Diplomacy Slot",
+      27331091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Navigation Slot",
+      27331092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Leadership Slot",
+      27331093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Wisdom Slot",
+      27331094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Mysticism Slot",
+      27331095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Luck Slot",
+      27331096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Ballistics Slot",
+      27331097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Eagle Eye Slot",
+      27331098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Necromancy Slot",
+      27331099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Estates Slot",
+      27331100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Fire Magic Slot",
+      27331101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Air Magic Slot",
+      27331102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Water Magic Slot",
+      27331103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Earth Magic Slot",
+      27331104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Scholar Slot",
+      27331105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Tactics Slot",
+      27331106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Artillery Slot",
+      27331107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Learning Slot",
+      27331108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Offense Slot",
+      27331109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Armourer Slot",
+      27331110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Intelligence Slot",
+      27331111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Sorcery Slot",
+      27331112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Resistance Slot",
+      27331113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr First Aid Slot",
+      27331114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Skill Count",
+      27331115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Ballista equipped (4 or -1)",
+      27331263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Ammo Cart equipped (5 or -1)",
+      27331271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr First Aid equipped Item (6 or -1)",
+      27331279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Catapult equipped (3 or -1)",
+      27331287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spellbook equipped (0 or -1)",
+      27331295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 1",
+      27331326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 2",
+      27331334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 3",
+      27331342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 4",
+      27331350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 5",
+      27331358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 6",
+      27331366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 7",
+      27331374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 8",
+      27331382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 9",
+      27331390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 10",
+      27331398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 11",
+      27331406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 12",
+      27331414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 13",
+      27331422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 14",
+      27331430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 15",
+      27331438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 16",
+      27331446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 17",
+      27331454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 18",
+      27331462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 19",
+      27331470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 20",
+      27331478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 21",
+      27331486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 22",
+      27331494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 23",
+      27331502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 24",
+      27331510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 25",
+      27331518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 26",
+      27331526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 27",
+      27331534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 28",
+      27331542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 29",
+      27331550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 30",
+      27331558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 31",
+      27331566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 32",
+      27331574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 33",
+      27331582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 34",
+      27331590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 35",
+      27331598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 36",
+      27331606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 37",
+      27331614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 38",
+      27331622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 39",
+      27331630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 40",
+      27331638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 41",
+      27331646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 42",
+      27331654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 43",
+      27331662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 44",
+      27331670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 45",
+      27331678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 46",
+      27331686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 47",
+      27331694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 48",
+      27331702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 49",
+      27331710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 50",
+      27331718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 51",
+      27331726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 52",
+      27331734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 53",
+      27331742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 54",
+      27331750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 55",
+      27331758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 56",
+      27331766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 57",
+      27331774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 58",
+      27331782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 59",
+      27331790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 60",
+      27331798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 61",
+      27331806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 62",
+      27331814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 63",
+      27331822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Backpack Slot 64",
+      27331830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Summon Boat",
+      27331930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Scuttle Boat",
+      27331931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Visions",
+      27331932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell View Earth",
+      27331933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Disguise",
+      27331934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell View Air",
+      27331935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fly",
+      27331936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Water Walk",
+      27331937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Dimension Door",
+      27331938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Town Portal",
+      27331939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Quicksand",
+      27331940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Land Mine",
+      27331941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Force Field",
+      27331942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fire Wall",
+      27331943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Earthquake",
+      27331944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Magic Arrow",
+      27331945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Ice Bolt",
+      27331946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Lightning Bolt",
+      27331947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Implosion",
+      27331948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Chain Lightning",
+      27331949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Frost Ring",
+      27331950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fireball",
+      27331951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Inferno",
+      27331952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Meteor Shower",
+      27331953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Death Ripple",
+      27331954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Destroy Undead",
+      27331955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Armageddon",
+      27331956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Shield",
+      27331957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Air Shield",
+      27331958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fire Shield",
+      27331959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Protection from Air",
+      27331960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Protection from Fire",
+      27331961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Protection from Water",
+      27331962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Protection from Earth",
+      27331963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Anti Magic",
+      27331964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Dispel",
+      27331965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Magic Mirror",
+      27331966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Cure",
+      27331967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Resurrection",
+      27331968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Animate Dead",
+      27331969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Sacrifice",
+      27331970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Bless",
+      27331971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Curse",
+      27331972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Bloodlust",
+      27331973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Precision",
+      27331974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Weakness",
+      27331975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Stone Skin",
+      27331976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Disrupting Ray",
+      27331977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Prayer",
+      27331978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Mirth",
+      27331979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Sorrow",
+      27331980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fortune",
+      27331981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Misfortune",
+      27331982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Haste",
+      27331983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Slow",
+      27331984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Slayer",
+      27331985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Frenzy",
+      27331986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Titan's Lighting Bolt",
+      27331987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Counterstrike",
+      27331988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Berserk",
+      27331989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Hypnotize",
+      27331990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Forgetfulness",
+      27331991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Blind",
+      27331992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Teleport",
+      27331993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Remove Obstacle",
+      27331994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Clone",
+      27331995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Fire Elemental",
+      27331996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Earth Elemental",
+      27331997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Water Elemental",
+      27331998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spell Air Elemental",
+      27331999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Attack",
+      27332000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Def",
+      27332001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Spellpower",
+      27332002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Solmyr Knowledge",
+      27332003,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

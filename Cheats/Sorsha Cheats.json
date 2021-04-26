@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Sorsha Name",
+      27284093,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Movement",
+      27284135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha EXP",
+      27284139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 1",
+      27284203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 2",
+      27284207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 3",
+      27284211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 4",
+      27284215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 5",
+      27284219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 6",
+      27284223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Type Slot 7",
+      27284227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 1",
+      27284231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 2",
+      27284235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 3",
+      27284239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 4",
+      27284243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 5",
+      27284247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 6",
+      27284251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Unit Count Slot 7",
+      27284255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Pathfinding",
+      27284259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Archery",
+      27284260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Logistics",
+      27284261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Scouting",
+      27284262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Diplomacy",
+      27284263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Navigation",
+      27284264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Leadership",
+      27284265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Wisdom",
+      27284266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Mysticism",
+      27284267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Luck",
+      27284268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Ballistics",
+      27284269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Eagle Eye",
+      27284270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Necromancy",
+      27284271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Estates",
+      27284272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Fire Magic",
+      27284273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Air Magic",
+      27284274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Water Magic",
+      27284275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Earth Magic",
+      27284276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Scholar",
+      27284277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Tactics",
+      27284278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Artillery",
+      27284279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Learning",
+      27284280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Offence",
+      27284281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Armourer",
+      27284282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Intelligence",
+      27284283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Sorcery",
+      27284284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Resistance",
+      27284285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha First Aid",
+      27284286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Pathfinding Slot",
+      27284287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Archery Slot",
+      27284288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Logistics Slot",
+      27284289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Scouting Slot",
+      27284290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Diplomacy Slot",
+      27284291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Navigation Slot",
+      27284292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Leadership Slot",
+      27284293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Wisdom Slot",
+      27284294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Mysticism Slot",
+      27284295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Luck Slot",
+      27284296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Ballistics Slot",
+      27284297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Eagle Eye Slot",
+      27284298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Necromancy Slot",
+      27284299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Estates Slot",
+      27284300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Fire Magic Slot",
+      27284301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Air Magic Slot",
+      27284302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Water Magic Slot",
+      27284303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Earth Magic Slot",
+      27284304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Scholar Slot",
+      27284305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Tactics Slot",
+      27284306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Artillery Slot",
+      27284307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Learning Slot",
+      27284308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Offense Slot",
+      27284309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Armourer Slot",
+      27284310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Intelligence Slot",
+      27284311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Sorcery Slot",
+      27284312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Resistance Slot",
+      27284313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha First Aid Slot",
+      27284314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Skill Count",
+      27284315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Ballista equipped (4 or -1)",
+      27284463,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Ammo Cart equipped (5 or -1)",
+      27284471,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha First Aid equipped Item (6 or -1)",
+      27284479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Catapult equipped (3 or -1)",
+      27284487,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spellbook equipped (0 or -1)",
+      27284495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 1",
+      27284526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 2",
+      27284534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 3",
+      27284542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 4",
+      27284550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 5",
+      27284558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 6",
+      27284566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 7",
+      27284574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 8",
+      27284582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 9",
+      27284590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 10",
+      27284598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 11",
+      27284606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 12",
+      27284614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 13",
+      27284622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 14",
+      27284630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 15",
+      27284638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 16",
+      27284646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 17",
+      27284654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 18",
+      27284662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 19",
+      27284670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 20",
+      27284678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 21",
+      27284686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 22",
+      27284694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 23",
+      27284702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 24",
+      27284710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 25",
+      27284718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 26",
+      27284726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 27",
+      27284734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 28",
+      27284742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 29",
+      27284750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 30",
+      27284758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 31",
+      27284766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 32",
+      27284774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 33",
+      27284782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 34",
+      27284790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 35",
+      27284798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 36",
+      27284806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 37",
+      27284814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 38",
+      27284822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 39",
+      27284830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 40",
+      27284838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 41",
+      27284846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 42",
+      27284854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 43",
+      27284862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 44",
+      27284870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 45",
+      27284878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 46",
+      27284886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 47",
+      27284894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 48",
+      27284902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 49",
+      27284910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 50",
+      27284918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 51",
+      27284926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 52",
+      27284934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 53",
+      27284942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 54",
+      27284950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 55",
+      27284958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 56",
+      27284966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 57",
+      27284974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 58",
+      27284982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 59",
+      27284990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 60",
+      27284998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 61",
+      27285006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 62",
+      27285014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 63",
+      27285022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Backpack Slot 64",
+      27285030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Summon Boat",
+      27285130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Scuttle Boat",
+      27285131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Visions",
+      27285132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell View Earth",
+      27285133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Disguise",
+      27285134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell View Air",
+      27285135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fly",
+      27285136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Water Walk",
+      27285137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Dimension Door",
+      27285138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Town Portal",
+      27285139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Quicksand",
+      27285140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Land Mine",
+      27285141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Force Field",
+      27285142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fire Wall",
+      27285143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Earthquake",
+      27285144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Magic Arrow",
+      27285145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Ice Bolt",
+      27285146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Lightning Bolt",
+      27285147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Implosion",
+      27285148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Chain Lightning",
+      27285149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Frost Ring",
+      27285150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fireball",
+      27285151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Inferno",
+      27285152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Meteor Shower",
+      27285153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Death Ripple",
+      27285154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Destroy Undead",
+      27285155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Armageddon",
+      27285156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Shield",
+      27285157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Air Shield",
+      27285158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fire Shield",
+      27285159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Protection from Air",
+      27285160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Protection from Fire",
+      27285161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Protection from Water",
+      27285162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Protection from Earth",
+      27285163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Anti Magic",
+      27285164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Dispel",
+      27285165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Magic Mirror",
+      27285166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Cure",
+      27285167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Resurrection",
+      27285168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Animate Dead",
+      27285169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Sacrifice",
+      27285170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Bless",
+      27285171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Curse",
+      27285172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Bloodlust",
+      27285173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Precision",
+      27285174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Weakness",
+      27285175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Stone Skin",
+      27285176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Disrupting Ray",
+      27285177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Prayer",
+      27285178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Mirth",
+      27285179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Sorrow",
+      27285180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fortune",
+      27285181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Misfortune",
+      27285182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Haste",
+      27285183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Slow",
+      27285184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Slayer",
+      27285185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Frenzy",
+      27285186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Titan's Lighting Bolt",
+      27285187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Counterstrike",
+      27285188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Berserk",
+      27285189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Hypnotize",
+      27285190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Forgetfulness",
+      27285191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Blind",
+      27285192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Teleport",
+      27285193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Remove Obstacle",
+      27285194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Clone",
+      27285195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Fire Elemental",
+      27285196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Earth Elemental",
+      27285197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Water Elemental",
+      27285198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spell Air Elemental",
+      27285199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Attack",
+      27285200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Def",
+      27285201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Spellpower",
+      27285202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sorsha Knowledge",
+      27285203,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

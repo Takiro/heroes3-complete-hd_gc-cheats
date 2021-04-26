@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Yog Name",
+      27390563,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Movement",
+      27390605,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog EXP",
+      27390609,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 1",
+      27390673,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 2",
+      27390677,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 3",
+      27390681,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 4",
+      27390685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 5",
+      27390689,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 6",
+      27390693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Type Slot 7",
+      27390697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 1",
+      27390701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 2",
+      27390705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 3",
+      27390709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 4",
+      27390713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 5",
+      27390717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 6",
+      27390721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Unit Count Slot 7",
+      27390725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Pathfinding",
+      27390729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Archery",
+      27390730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Logistics",
+      27390731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Scouting",
+      27390732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Diplomacy",
+      27390733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Navigation",
+      27390734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Leadership",
+      27390735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Wisdom",
+      27390736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Mysticism",
+      27390737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Luck",
+      27390738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Ballistics",
+      27390739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Eagle Eye",
+      27390740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Necromancy",
+      27390741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Estates",
+      27390742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Fire Magic",
+      27390743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Air Magic",
+      27390744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Water Magic",
+      27390745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Earth Magic",
+      27390746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Scholar",
+      27390747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Tactics",
+      27390748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Artillery",
+      27390749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Learning",
+      27390750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Offence",
+      27390751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Armourer",
+      27390752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Intelligence",
+      27390753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Sorcery",
+      27390754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Resistance",
+      27390755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog First Aid",
+      27390756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Pathfinding Slot",
+      27390757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Archery Slot",
+      27390758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Logistics Slot",
+      27390759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Scouting Slot",
+      27390760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Diplomacy Slot",
+      27390761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Navigation Slot",
+      27390762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Leadership Slot",
+      27390763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Wisdom Slot",
+      27390764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Mysticism Slot",
+      27390765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Luck Slot",
+      27390766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Ballistics Slot",
+      27390767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Eagle Eye Slot",
+      27390768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Necromancy Slot",
+      27390769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Estates Slot",
+      27390770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Fire Magic Slot",
+      27390771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Air Magic Slot",
+      27390772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Water Magic Slot",
+      27390773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Earth Magic Slot",
+      27390774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Scholar Slot",
+      27390775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Tactics Slot",
+      27390776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Artillery Slot",
+      27390777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Learning Slot",
+      27390778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Offense Slot",
+      27390779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Armourer Slot",
+      27390780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Intelligence Slot",
+      27390781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Sorcery Slot",
+      27390782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Resistance Slot",
+      27390783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog First Aid Slot",
+      27390784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Skill Count",
+      27390785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Ballista equipped (4 or -1)",
+      27390933,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Ammo Cart equipped (5 or -1)",
+      27390941,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog First Aid equipped Item (6 or -1)",
+      27390949,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Catapult equipped (3 or -1)",
+      27390957,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spellbook equipped (0 or -1)",
+      27390965,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 1",
+      27390996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 2",
+      27391004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 3",
+      27391012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 4",
+      27391020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 5",
+      27391028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 6",
+      27391036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 7",
+      27391044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 8",
+      27391052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 9",
+      27391060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 10",
+      27391068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 11",
+      27391076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 12",
+      27391084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 13",
+      27391092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 14",
+      27391100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 15",
+      27391108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 16",
+      27391116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 17",
+      27391124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 18",
+      27391132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 19",
+      27391140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 20",
+      27391148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 21",
+      27391156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 22",
+      27391164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 23",
+      27391172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 24",
+      27391180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 25",
+      27391188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 26",
+      27391196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 27",
+      27391204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 28",
+      27391212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 29",
+      27391220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 30",
+      27391228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 31",
+      27391236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 32",
+      27391244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 33",
+      27391252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 34",
+      27391260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 35",
+      27391268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 36",
+      27391276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 37",
+      27391284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 38",
+      27391292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 39",
+      27391300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 40",
+      27391308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 41",
+      27391316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 42",
+      27391324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 43",
+      27391332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 44",
+      27391340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 45",
+      27391348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 46",
+      27391356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 47",
+      27391364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 48",
+      27391372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 49",
+      27391380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 50",
+      27391388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 51",
+      27391396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 52",
+      27391404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 53",
+      27391412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 54",
+      27391420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 55",
+      27391428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 56",
+      27391436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 57",
+      27391444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 58",
+      27391452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 59",
+      27391460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 60",
+      27391468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 61",
+      27391476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 62",
+      27391484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 63",
+      27391492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Backpack Slot 64",
+      27391500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Summon Boat",
+      27391600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Scuttle Boat",
+      27391601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Visions",
+      27391602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell View Earth",
+      27391603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Disguise",
+      27391604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell View Air",
+      27391605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fly",
+      27391606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Water Walk",
+      27391607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Dimension Door",
+      27391608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Town Portal",
+      27391609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Quicksand",
+      27391610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Land Mine",
+      27391611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Force Field",
+      27391612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fire Wall",
+      27391613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Earthquake",
+      27391614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Magic Arrow",
+      27391615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Ice Bolt",
+      27391616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Lightning Bolt",
+      27391617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Implosion",
+      27391618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Chain Lightning",
+      27391619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Frost Ring",
+      27391620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fireball",
+      27391621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Inferno",
+      27391622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Meteor Shower",
+      27391623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Death Ripple",
+      27391624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Destroy Undead",
+      27391625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Armageddon",
+      27391626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Shield",
+      27391627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Air Shield",
+      27391628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fire Shield",
+      27391629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Protection from Air",
+      27391630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Protection from Fire",
+      27391631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Protection from Water",
+      27391632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Protection from Earth",
+      27391633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Anti Magic",
+      27391634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Dispel",
+      27391635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Magic Mirror",
+      27391636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Cure",
+      27391637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Resurrection",
+      27391638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Animate Dead",
+      27391639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Sacrifice",
+      27391640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Bless",
+      27391641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Curse",
+      27391642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Bloodlust",
+      27391643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Precision",
+      27391644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Weakness",
+      27391645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Stone Skin",
+      27391646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Disrupting Ray",
+      27391647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Prayer",
+      27391648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Mirth",
+      27391649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Sorrow",
+      27391650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fortune",
+      27391651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Misfortune",
+      27391652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Haste",
+      27391653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Slow",
+      27391654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Slayer",
+      27391655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Frenzy",
+      27391656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Titan's Lighting Bolt",
+      27391657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Counterstrike",
+      27391658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Berserk",
+      27391659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Hypnotize",
+      27391660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Forgetfulness",
+      27391661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Blind",
+      27391662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Teleport",
+      27391663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Remove Obstacle",
+      27391664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Clone",
+      27391665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Fire Elemental",
+      27391666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Earth Elemental",
+      27391667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Water Elemental",
+      27391668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spell Air Elemental",
+      27391669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Attack",
+      27391670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Def",
+      27391671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Spellpower",
+      27391672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Yog Knowledge",
+      27391673,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

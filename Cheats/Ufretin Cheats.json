@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ufretin Name",
+      27298133,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Movement",
+      27298175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin EXP",
+      27298179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 1",
+      27298243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 2",
+      27298247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 3",
+      27298251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 4",
+      27298255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 5",
+      27298259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 6",
+      27298263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Type Slot 7",
+      27298267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 1",
+      27298271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 2",
+      27298275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 3",
+      27298279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 4",
+      27298283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 5",
+      27298287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 6",
+      27298291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Unit Count Slot 7",
+      27298295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Pathfinding",
+      27298299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Archery",
+      27298300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Logistics",
+      27298301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Scouting",
+      27298302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Diplomacy",
+      27298303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Navigation",
+      27298304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Leadership",
+      27298305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Wisdom",
+      27298306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Mysticism",
+      27298307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Luck",
+      27298308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Ballistics",
+      27298309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Eagle Eye",
+      27298310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Necromancy",
+      27298311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Estates",
+      27298312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Fire Magic",
+      27298313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Air Magic",
+      27298314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Water Magic",
+      27298315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Earth Magic",
+      27298316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Scholar",
+      27298317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Tactics",
+      27298318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Artillery",
+      27298319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Learning",
+      27298320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Offence",
+      27298321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Armourer",
+      27298322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Intelligence",
+      27298323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Sorcery",
+      27298324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Resistance",
+      27298325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin First Aid",
+      27298326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Pathfinding Slot",
+      27298327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Archery Slot",
+      27298328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Logistics Slot",
+      27298329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Scouting Slot",
+      27298330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Diplomacy Slot",
+      27298331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Navigation Slot",
+      27298332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Leadership Slot",
+      27298333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Wisdom Slot",
+      27298334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Mysticism Slot",
+      27298335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Luck Slot",
+      27298336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Ballistics Slot",
+      27298337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Eagle Eye Slot",
+      27298338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Necromancy Slot",
+      27298339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Estates Slot",
+      27298340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Fire Magic Slot",
+      27298341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Air Magic Slot",
+      27298342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Water Magic Slot",
+      27298343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Earth Magic Slot",
+      27298344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Scholar Slot",
+      27298345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Tactics Slot",
+      27298346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Artillery Slot",
+      27298347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Learning Slot",
+      27298348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Offense Slot",
+      27298349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Armourer Slot",
+      27298350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Intelligence Slot",
+      27298351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Sorcery Slot",
+      27298352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Resistance Slot",
+      27298353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin First Aid Slot",
+      27298354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Skill Count",
+      27298355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Ballista equipped (4 or -1)",
+      27298503,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Ammo Cart equipped (5 or -1)",
+      27298511,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin First Aid equipped Item (6 or -1)",
+      27298519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Catapult equipped (3 or -1)",
+      27298527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spellbook equipped (0 or -1)",
+      27298535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 1",
+      27298566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 2",
+      27298574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 3",
+      27298582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 4",
+      27298590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 5",
+      27298598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 6",
+      27298606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 7",
+      27298614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 8",
+      27298622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 9",
+      27298630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 10",
+      27298638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 11",
+      27298646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 12",
+      27298654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 13",
+      27298662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 14",
+      27298670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 15",
+      27298678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 16",
+      27298686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 17",
+      27298694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 18",
+      27298702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 19",
+      27298710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 20",
+      27298718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 21",
+      27298726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 22",
+      27298734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 23",
+      27298742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 24",
+      27298750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 25",
+      27298758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 26",
+      27298766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 27",
+      27298774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 28",
+      27298782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 29",
+      27298790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 30",
+      27298798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 31",
+      27298806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 32",
+      27298814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 33",
+      27298822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 34",
+      27298830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 35",
+      27298838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 36",
+      27298846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 37",
+      27298854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 38",
+      27298862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 39",
+      27298870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 40",
+      27298878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 41",
+      27298886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 42",
+      27298894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 43",
+      27298902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 44",
+      27298910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 45",
+      27298918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 46",
+      27298926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 47",
+      27298934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 48",
+      27298942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 49",
+      27298950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 50",
+      27298958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 51",
+      27298966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 52",
+      27298974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 53",
+      27298982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 54",
+      27298990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 55",
+      27298998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 56",
+      27299006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 57",
+      27299014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 58",
+      27299022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 59",
+      27299030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 60",
+      27299038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 61",
+      27299046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 62",
+      27299054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 63",
+      27299062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Backpack Slot 64",
+      27299070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Summon Boat",
+      27299170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Scuttle Boat",
+      27299171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Visions",
+      27299172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell View Earth",
+      27299173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Disguise",
+      27299174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell View Air",
+      27299175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fly",
+      27299176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Water Walk",
+      27299177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Dimension Door",
+      27299178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Town Portal",
+      27299179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Quicksand",
+      27299180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Land Mine",
+      27299181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Force Field",
+      27299182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fire Wall",
+      27299183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Earthquake",
+      27299184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Magic Arrow",
+      27299185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Ice Bolt",
+      27299186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Lightning Bolt",
+      27299187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Implosion",
+      27299188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Chain Lightning",
+      27299189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Frost Ring",
+      27299190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fireball",
+      27299191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Inferno",
+      27299192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Meteor Shower",
+      27299193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Death Ripple",
+      27299194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Destroy Undead",
+      27299195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Armageddon",
+      27299196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Shield",
+      27299197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Air Shield",
+      27299198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fire Shield",
+      27299199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Protection from Air",
+      27299200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Protection from Fire",
+      27299201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Protection from Water",
+      27299202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Protection from Earth",
+      27299203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Anti Magic",
+      27299204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Dispel",
+      27299205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Magic Mirror",
+      27299206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Cure",
+      27299207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Resurrection",
+      27299208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Animate Dead",
+      27299209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Sacrifice",
+      27299210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Bless",
+      27299211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Curse",
+      27299212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Bloodlust",
+      27299213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Precision",
+      27299214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Weakness",
+      27299215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Stone Skin",
+      27299216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Disrupting Ray",
+      27299217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Prayer",
+      27299218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Mirth",
+      27299219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Sorrow",
+      27299220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fortune",
+      27299221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Misfortune",
+      27299222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Haste",
+      27299223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Slow",
+      27299224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Slayer",
+      27299225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Frenzy",
+      27299226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Titan's Lighting Bolt",
+      27299227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Counterstrike",
+      27299228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Berserk",
+      27299229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Hypnotize",
+      27299230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Forgetfulness",
+      27299231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Blind",
+      27299232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Teleport",
+      27299233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Remove Obstacle",
+      27299234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Clone",
+      27299235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Fire Elemental",
+      27299236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Earth Elemental",
+      27299237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Water Elemental",
+      27299238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spell Air Elemental",
+      27299239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Attack",
+      27299240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Def",
+      27299241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Spellpower",
+      27299242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ufretin Knowledge",
+      27299243,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

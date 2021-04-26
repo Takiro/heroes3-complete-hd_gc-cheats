@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Xarfax Name",
+      27351953,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Movement",
+      27351995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax EXP",
+      27351999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 1",
+      27352063,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 2",
+      27352067,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 3",
+      27352071,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 4",
+      27352075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 5",
+      27352079,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 6",
+      27352083,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Type Slot 7",
+      27352087,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 1",
+      27352091,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 2",
+      27352095,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 3",
+      27352099,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 4",
+      27352103,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 5",
+      27352107,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 6",
+      27352111,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Unit Count Slot 7",
+      27352115,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Pathfinding",
+      27352119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Archery",
+      27352120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Logistics",
+      27352121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Scouting",
+      27352122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Diplomacy",
+      27352123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Navigation",
+      27352124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Leadership",
+      27352125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Wisdom",
+      27352126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Mysticism",
+      27352127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Luck",
+      27352128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Ballistics",
+      27352129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Eagle Eye",
+      27352130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Necromancy",
+      27352131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Estates",
+      27352132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Fire Magic",
+      27352133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Air Magic",
+      27352134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Water Magic",
+      27352135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Earth Magic",
+      27352136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Scholar",
+      27352137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Tactics",
+      27352138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Artillery",
+      27352139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Learning",
+      27352140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Offence",
+      27352141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Armourer",
+      27352142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Intelligence",
+      27352143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Sorcery",
+      27352144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Resistance",
+      27352145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax First Aid",
+      27352146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Pathfinding Slot",
+      27352147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Archery Slot",
+      27352148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Logistics Slot",
+      27352149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Scouting Slot",
+      27352150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Diplomacy Slot",
+      27352151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Navigation Slot",
+      27352152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Leadership Slot",
+      27352153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Wisdom Slot",
+      27352154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Mysticism Slot",
+      27352155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Luck Slot",
+      27352156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Ballistics Slot",
+      27352157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Eagle Eye Slot",
+      27352158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Necromancy Slot",
+      27352159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Estates Slot",
+      27352160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Fire Magic Slot",
+      27352161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Air Magic Slot",
+      27352162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Water Magic Slot",
+      27352163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Earth Magic Slot",
+      27352164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Scholar Slot",
+      27352165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Tactics Slot",
+      27352166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Artillery Slot",
+      27352167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Learning Slot",
+      27352168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Offense Slot",
+      27352169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Armourer Slot",
+      27352170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Intelligence Slot",
+      27352171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Sorcery Slot",
+      27352172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Resistance Slot",
+      27352173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax First Aid Slot",
+      27352174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Skill Count",
+      27352175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Ballista equipped (4 or -1)",
+      27352323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Ammo Cart equipped (5 or -1)",
+      27352331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax First Aid equipped Item (6 or -1)",
+      27352339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Catapult equipped (3 or -1)",
+      27352347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spellbook equipped (0 or -1)",
+      27352355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 1",
+      27352386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 2",
+      27352394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 3",
+      27352402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 4",
+      27352410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 5",
+      27352418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 6",
+      27352426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 7",
+      27352434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 8",
+      27352442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 9",
+      27352450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 10",
+      27352458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 11",
+      27352466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 12",
+      27352474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 13",
+      27352482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 14",
+      27352490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 15",
+      27352498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 16",
+      27352506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 17",
+      27352514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 18",
+      27352522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 19",
+      27352530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 20",
+      27352538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 21",
+      27352546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 22",
+      27352554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 23",
+      27352562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 24",
+      27352570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 25",
+      27352578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 26",
+      27352586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 27",
+      27352594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 28",
+      27352602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 29",
+      27352610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 30",
+      27352618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 31",
+      27352626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 32",
+      27352634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 33",
+      27352642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 34",
+      27352650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 35",
+      27352658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 36",
+      27352666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 37",
+      27352674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 38",
+      27352682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 39",
+      27352690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 40",
+      27352698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 41",
+      27352706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 42",
+      27352714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 43",
+      27352722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 44",
+      27352730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 45",
+      27352738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 46",
+      27352746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 47",
+      27352754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 48",
+      27352762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 49",
+      27352770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 50",
+      27352778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 51",
+      27352786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 52",
+      27352794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 53",
+      27352802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 54",
+      27352810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 55",
+      27352818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 56",
+      27352826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 57",
+      27352834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 58",
+      27352842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 59",
+      27352850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 60",
+      27352858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 61",
+      27352866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 62",
+      27352874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 63",
+      27352882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Backpack Slot 64",
+      27352890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Summon Boat",
+      27352990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Scuttle Boat",
+      27352991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Visions",
+      27352992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell View Earth",
+      27352993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Disguise",
+      27352994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell View Air",
+      27352995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fly",
+      27352996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Water Walk",
+      27352997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Dimension Door",
+      27352998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Town Portal",
+      27352999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Quicksand",
+      27353000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Land Mine",
+      27353001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Force Field",
+      27353002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fire Wall",
+      27353003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Earthquake",
+      27353004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Magic Arrow",
+      27353005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Ice Bolt",
+      27353006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Lightning Bolt",
+      27353007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Implosion",
+      27353008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Chain Lightning",
+      27353009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Frost Ring",
+      27353010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fireball",
+      27353011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Inferno",
+      27353012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Meteor Shower",
+      27353013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Death Ripple",
+      27353014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Destroy Undead",
+      27353015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Armageddon",
+      27353016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Shield",
+      27353017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Air Shield",
+      27353018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fire Shield",
+      27353019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Protection from Air",
+      27353020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Protection from Fire",
+      27353021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Protection from Water",
+      27353022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Protection from Earth",
+      27353023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Anti Magic",
+      27353024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Dispel",
+      27353025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Magic Mirror",
+      27353026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Cure",
+      27353027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Resurrection",
+      27353028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Animate Dead",
+      27353029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Sacrifice",
+      27353030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Bless",
+      27353031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Curse",
+      27353032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Bloodlust",
+      27353033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Precision",
+      27353034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Weakness",
+      27353035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Stone Skin",
+      27353036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Disrupting Ray",
+      27353037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Prayer",
+      27353038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Mirth",
+      27353039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Sorrow",
+      27353040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fortune",
+      27353041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Misfortune",
+      27353042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Haste",
+      27353043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Slow",
+      27353044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Slayer",
+      27353045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Frenzy",
+      27353046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Titan's Lighting Bolt",
+      27353047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Counterstrike",
+      27353048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Berserk",
+      27353049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Hypnotize",
+      27353050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Forgetfulness",
+      27353051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Blind",
+      27353052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Teleport",
+      27353053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Remove Obstacle",
+      27353054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Clone",
+      27353055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Fire Elemental",
+      27353056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Earth Elemental",
+      27353057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Water Elemental",
+      27353058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spell Air Elemental",
+      27353059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Attack",
+      27353060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Def",
+      27353061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Spellpower",
+      27353062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xarfax Knowledge",
+      27353063,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

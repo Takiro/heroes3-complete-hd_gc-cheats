@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Thorgrim Name",
+      27301643,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Movement",
+      27301685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim EXP",
+      27301689,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 1",
+      27301753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 2",
+      27301757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 3",
+      27301761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 4",
+      27301765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 5",
+      27301769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 6",
+      27301773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Type Slot 7",
+      27301777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 1",
+      27301781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 2",
+      27301785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 3",
+      27301789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 4",
+      27301793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 5",
+      27301797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 6",
+      27301801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Unit Count Slot 7",
+      27301805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Pathfinding",
+      27301809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Archery",
+      27301810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Logistics",
+      27301811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Scouting",
+      27301812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Diplomacy",
+      27301813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Navigation",
+      27301814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Leadership",
+      27301815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Wisdom",
+      27301816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Mysticism",
+      27301817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Luck",
+      27301818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Ballistics",
+      27301819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Eagle Eye",
+      27301820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Necromancy",
+      27301821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Estates",
+      27301822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Fire Magic",
+      27301823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Air Magic",
+      27301824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Water Magic",
+      27301825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Earth Magic",
+      27301826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Scholar",
+      27301827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Tactics",
+      27301828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Artillery",
+      27301829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Learning",
+      27301830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Offence",
+      27301831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Armourer",
+      27301832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Intelligence",
+      27301833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Sorcery",
+      27301834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Resistance",
+      27301835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim First Aid",
+      27301836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Pathfinding Slot",
+      27301837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Archery Slot",
+      27301838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Logistics Slot",
+      27301839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Scouting Slot",
+      27301840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Diplomacy Slot",
+      27301841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Navigation Slot",
+      27301842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Leadership Slot",
+      27301843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Wisdom Slot",
+      27301844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Mysticism Slot",
+      27301845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Luck Slot",
+      27301846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Ballistics Slot",
+      27301847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Eagle Eye Slot",
+      27301848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Necromancy Slot",
+      27301849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Estates Slot",
+      27301850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Fire Magic Slot",
+      27301851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Air Magic Slot",
+      27301852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Water Magic Slot",
+      27301853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Earth Magic Slot",
+      27301854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Scholar Slot",
+      27301855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Tactics Slot",
+      27301856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Artillery Slot",
+      27301857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Learning Slot",
+      27301858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Offense Slot",
+      27301859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Armourer Slot",
+      27301860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Intelligence Slot",
+      27301861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Sorcery Slot",
+      27301862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Resistance Slot",
+      27301863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim First Aid Slot",
+      27301864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Skill Count",
+      27301865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Ballista equipped (4 or -1)",
+      27302013,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Ammo Cart equipped (5 or -1)",
+      27302021,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim First Aid equipped Item (6 or -1)",
+      27302029,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Catapult equipped (3 or -1)",
+      27302037,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spellbook equipped (0 or -1)",
+      27302045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 1",
+      27302076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 2",
+      27302084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 3",
+      27302092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 4",
+      27302100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 5",
+      27302108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 6",
+      27302116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 7",
+      27302124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 8",
+      27302132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 9",
+      27302140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 10",
+      27302148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 11",
+      27302156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 12",
+      27302164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 13",
+      27302172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 14",
+      27302180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 15",
+      27302188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 16",
+      27302196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 17",
+      27302204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 18",
+      27302212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 19",
+      27302220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 20",
+      27302228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 21",
+      27302236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 22",
+      27302244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 23",
+      27302252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 24",
+      27302260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 25",
+      27302268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 26",
+      27302276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 27",
+      27302284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 28",
+      27302292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 29",
+      27302300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 30",
+      27302308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 31",
+      27302316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 32",
+      27302324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 33",
+      27302332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 34",
+      27302340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 35",
+      27302348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 36",
+      27302356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 37",
+      27302364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 38",
+      27302372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 39",
+      27302380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 40",
+      27302388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 41",
+      27302396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 42",
+      27302404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 43",
+      27302412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 44",
+      27302420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 45",
+      27302428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 46",
+      27302436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 47",
+      27302444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 48",
+      27302452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 49",
+      27302460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 50",
+      27302468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 51",
+      27302476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 52",
+      27302484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 53",
+      27302492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 54",
+      27302500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 55",
+      27302508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 56",
+      27302516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 57",
+      27302524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 58",
+      27302532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 59",
+      27302540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 60",
+      27302548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 61",
+      27302556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 62",
+      27302564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 63",
+      27302572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Backpack Slot 64",
+      27302580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Summon Boat",
+      27302680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Scuttle Boat",
+      27302681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Visions",
+      27302682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell View Earth",
+      27302683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Disguise",
+      27302684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell View Air",
+      27302685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fly",
+      27302686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Water Walk",
+      27302687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Dimension Door",
+      27302688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Town Portal",
+      27302689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Quicksand",
+      27302690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Land Mine",
+      27302691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Force Field",
+      27302692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fire Wall",
+      27302693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Earthquake",
+      27302694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Magic Arrow",
+      27302695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Ice Bolt",
+      27302696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Lightning Bolt",
+      27302697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Implosion",
+      27302698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Chain Lightning",
+      27302699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Frost Ring",
+      27302700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fireball",
+      27302701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Inferno",
+      27302702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Meteor Shower",
+      27302703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Death Ripple",
+      27302704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Destroy Undead",
+      27302705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Armageddon",
+      27302706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Shield",
+      27302707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Air Shield",
+      27302708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fire Shield",
+      27302709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Protection from Air",
+      27302710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Protection from Fire",
+      27302711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Protection from Water",
+      27302712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Protection from Earth",
+      27302713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Anti Magic",
+      27302714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Dispel",
+      27302715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Magic Mirror",
+      27302716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Cure",
+      27302717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Resurrection",
+      27302718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Animate Dead",
+      27302719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Sacrifice",
+      27302720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Bless",
+      27302721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Curse",
+      27302722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Bloodlust",
+      27302723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Precision",
+      27302724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Weakness",
+      27302725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Stone Skin",
+      27302726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Disrupting Ray",
+      27302727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Prayer",
+      27302728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Mirth",
+      27302729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Sorrow",
+      27302730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fortune",
+      27302731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Misfortune",
+      27302732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Haste",
+      27302733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Slow",
+      27302734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Slayer",
+      27302735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Frenzy",
+      27302736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Titan's Lighting Bolt",
+      27302737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Counterstrike",
+      27302738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Berserk",
+      27302739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Hypnotize",
+      27302740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Forgetfulness",
+      27302741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Blind",
+      27302742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Teleport",
+      27302743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Remove Obstacle",
+      27302744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Clone",
+      27302745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Fire Elemental",
+      27302746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Earth Elemental",
+      27302747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Water Elemental",
+      27302748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spell Air Elemental",
+      27302749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Attack",
+      27302750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Def",
+      27302751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Spellpower",
+      27302752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thorgrim Knowledge",
+      27302753,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

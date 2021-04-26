@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Oris Name",
+      27406943,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Movement",
+      27406985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris EXP",
+      27406989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 1",
+      27407053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 2",
+      27407057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 3",
+      27407061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 4",
+      27407065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 5",
+      27407069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 6",
+      27407073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Type Slot 7",
+      27407077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 1",
+      27407081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 2",
+      27407085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 3",
+      27407089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 4",
+      27407093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 5",
+      27407097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 6",
+      27407101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Unit Count Slot 7",
+      27407105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Pathfinding",
+      27407109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Archery",
+      27407110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Logistics",
+      27407111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Scouting",
+      27407112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Diplomacy",
+      27407113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Navigation",
+      27407114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Leadership",
+      27407115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Wisdom",
+      27407116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Mysticism",
+      27407117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Luck",
+      27407118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Ballistics",
+      27407119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Eagle Eye",
+      27407120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Necromancy",
+      27407121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Estates",
+      27407122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Fire Magic",
+      27407123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Air Magic",
+      27407124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Water Magic",
+      27407125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Earth Magic",
+      27407126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Scholar",
+      27407127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Tactics",
+      27407128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Artillery",
+      27407129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Learning",
+      27407130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Offence",
+      27407131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Armourer",
+      27407132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Intelligence",
+      27407133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Sorcery",
+      27407134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Resistance",
+      27407135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris First Aid",
+      27407136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Pathfinding Slot",
+      27407137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Archery Slot",
+      27407138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Logistics Slot",
+      27407139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Scouting Slot",
+      27407140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Diplomacy Slot",
+      27407141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Navigation Slot",
+      27407142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Leadership Slot",
+      27407143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Wisdom Slot",
+      27407144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Mysticism Slot",
+      27407145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Luck Slot",
+      27407146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Ballistics Slot",
+      27407147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Eagle Eye Slot",
+      27407148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Necromancy Slot",
+      27407149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Estates Slot",
+      27407150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Fire Magic Slot",
+      27407151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Air Magic Slot",
+      27407152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Water Magic Slot",
+      27407153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Earth Magic Slot",
+      27407154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Scholar Slot",
+      27407155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Tactics Slot",
+      27407156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Artillery Slot",
+      27407157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Learning Slot",
+      27407158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Offense Slot",
+      27407159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Armourer Slot",
+      27407160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Intelligence Slot",
+      27407161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Sorcery Slot",
+      27407162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Resistance Slot",
+      27407163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris First Aid Slot",
+      27407164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Skill Count",
+      27407165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Ballista equipped (4 or -1)",
+      27407313,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Ammo Cart equipped (5 or -1)",
+      27407321,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris First Aid equipped Item (6 or -1)",
+      27407329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Catapult equipped (3 or -1)",
+      27407337,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spellbook equipped (0 or -1)",
+      27407345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 1",
+      27407376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 2",
+      27407384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 3",
+      27407392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 4",
+      27407400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 5",
+      27407408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 6",
+      27407416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 7",
+      27407424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 8",
+      27407432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 9",
+      27407440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 10",
+      27407448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 11",
+      27407456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 12",
+      27407464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 13",
+      27407472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 14",
+      27407480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 15",
+      27407488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 16",
+      27407496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 17",
+      27407504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 18",
+      27407512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 19",
+      27407520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 20",
+      27407528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 21",
+      27407536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 22",
+      27407544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 23",
+      27407552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 24",
+      27407560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 25",
+      27407568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 26",
+      27407576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 27",
+      27407584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 28",
+      27407592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 29",
+      27407600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 30",
+      27407608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 31",
+      27407616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 32",
+      27407624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 33",
+      27407632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 34",
+      27407640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 35",
+      27407648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 36",
+      27407656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 37",
+      27407664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 38",
+      27407672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 39",
+      27407680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 40",
+      27407688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 41",
+      27407696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 42",
+      27407704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 43",
+      27407712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 44",
+      27407720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 45",
+      27407728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 46",
+      27407736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 47",
+      27407744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 48",
+      27407752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 49",
+      27407760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 50",
+      27407768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 51",
+      27407776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 52",
+      27407784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 53",
+      27407792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 54",
+      27407800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 55",
+      27407808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 56",
+      27407816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 57",
+      27407824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 58",
+      27407832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 59",
+      27407840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 60",
+      27407848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 61",
+      27407856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 62",
+      27407864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 63",
+      27407872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Backpack Slot 64",
+      27407880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Summon Boat",
+      27407980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Scuttle Boat",
+      27407981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Visions",
+      27407982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell View Earth",
+      27407983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Disguise",
+      27407984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell View Air",
+      27407985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fly",
+      27407986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Water Walk",
+      27407987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Dimension Door",
+      27407988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Town Portal",
+      27407989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Quicksand",
+      27407990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Land Mine",
+      27407991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Force Field",
+      27407992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fire Wall",
+      27407993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Earthquake",
+      27407994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Magic Arrow",
+      27407995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Ice Bolt",
+      27407996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Lightning Bolt",
+      27407997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Implosion",
+      27407998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Chain Lightning",
+      27407999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Frost Ring",
+      27408000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fireball",
+      27408001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Inferno",
+      27408002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Meteor Shower",
+      27408003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Death Ripple",
+      27408004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Destroy Undead",
+      27408005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Armageddon",
+      27408006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Shield",
+      27408007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Air Shield",
+      27408008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fire Shield",
+      27408009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Protection from Air",
+      27408010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Protection from Fire",
+      27408011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Protection from Water",
+      27408012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Protection from Earth",
+      27408013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Anti Magic",
+      27408014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Dispel",
+      27408015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Magic Mirror",
+      27408016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Cure",
+      27408017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Resurrection",
+      27408018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Animate Dead",
+      27408019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Sacrifice",
+      27408020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Bless",
+      27408021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Curse",
+      27408022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Bloodlust",
+      27408023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Precision",
+      27408024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Weakness",
+      27408025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Stone Skin",
+      27408026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Disrupting Ray",
+      27408027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Prayer",
+      27408028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Mirth",
+      27408029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Sorrow",
+      27408030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fortune",
+      27408031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Misfortune",
+      27408032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Haste",
+      27408033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Slow",
+      27408034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Slayer",
+      27408035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Frenzy",
+      27408036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Titan's Lighting Bolt",
+      27408037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Counterstrike",
+      27408038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Berserk",
+      27408039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Hypnotize",
+      27408040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Forgetfulness",
+      27408041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Blind",
+      27408042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Teleport",
+      27408043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Remove Obstacle",
+      27408044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Clone",
+      27408045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Fire Elemental",
+      27408046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Earth Elemental",
+      27408047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Water Elemental",
+      27408048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spell Air Elemental",
+      27408049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Attack",
+      27408050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Def",
+      27408051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Spellpower",
+      27408052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Oris Knowledge",
+      27408053,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Sanya Name",
+      27293453,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Movement",
+      27293495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya EXP",
+      27293499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 1",
+      27293563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 2",
+      27293567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 3",
+      27293571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 4",
+      27293575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 5",
+      27293579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 6",
+      27293583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Type Slot 7",
+      27293587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 1",
+      27293591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 2",
+      27293595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 3",
+      27293599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 4",
+      27293603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 5",
+      27293607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 6",
+      27293611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Unit Count Slot 7",
+      27293615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Pathfinding",
+      27293619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Archery",
+      27293620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Logistics",
+      27293621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Scouting",
+      27293622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Diplomacy",
+      27293623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Navigation",
+      27293624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Leadership",
+      27293625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Wisdom",
+      27293626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Mysticism",
+      27293627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Luck",
+      27293628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Ballistics",
+      27293629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Eagle Eye",
+      27293630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Necromancy",
+      27293631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Estates",
+      27293632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Fire Magic",
+      27293633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Air Magic",
+      27293634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Water Magic",
+      27293635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Earth Magic",
+      27293636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Scholar",
+      27293637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Tactics",
+      27293638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Artillery",
+      27293639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Learning",
+      27293640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Offence",
+      27293641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Armourer",
+      27293642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Intelligence",
+      27293643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Sorcery",
+      27293644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Resistance",
+      27293645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya First Aid",
+      27293646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Pathfinding Slot",
+      27293647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Archery Slot",
+      27293648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Logistics Slot",
+      27293649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Scouting Slot",
+      27293650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Diplomacy Slot",
+      27293651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Navigation Slot",
+      27293652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Leadership Slot",
+      27293653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Wisdom Slot",
+      27293654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Mysticism Slot",
+      27293655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Luck Slot",
+      27293656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Ballistics Slot",
+      27293657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Eagle Eye Slot",
+      27293658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Necromancy Slot",
+      27293659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Estates Slot",
+      27293660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Fire Magic Slot",
+      27293661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Air Magic Slot",
+      27293662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Water Magic Slot",
+      27293663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Earth Magic Slot",
+      27293664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Scholar Slot",
+      27293665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Tactics Slot",
+      27293666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Artillery Slot",
+      27293667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Learning Slot",
+      27293668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Offense Slot",
+      27293669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Armourer Slot",
+      27293670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Intelligence Slot",
+      27293671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Sorcery Slot",
+      27293672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Resistance Slot",
+      27293673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya First Aid Slot",
+      27293674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Skill Count",
+      27293675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Ballista equipped (4 or -1)",
+      27293823,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Ammo Cart equipped (5 or -1)",
+      27293831,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya First Aid equipped Item (6 or -1)",
+      27293839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Catapult equipped (3 or -1)",
+      27293847,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spellbook equipped (0 or -1)",
+      27293855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 1",
+      27293886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 2",
+      27293894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 3",
+      27293902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 4",
+      27293910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 5",
+      27293918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 6",
+      27293926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 7",
+      27293934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 8",
+      27293942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 9",
+      27293950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 10",
+      27293958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 11",
+      27293966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 12",
+      27293974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 13",
+      27293982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 14",
+      27293990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 15",
+      27293998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 16",
+      27294006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 17",
+      27294014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 18",
+      27294022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 19",
+      27294030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 20",
+      27294038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 21",
+      27294046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 22",
+      27294054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 23",
+      27294062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 24",
+      27294070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 25",
+      27294078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 26",
+      27294086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 27",
+      27294094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 28",
+      27294102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 29",
+      27294110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 30",
+      27294118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 31",
+      27294126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 32",
+      27294134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 33",
+      27294142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 34",
+      27294150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 35",
+      27294158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 36",
+      27294166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 37",
+      27294174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 38",
+      27294182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 39",
+      27294190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 40",
+      27294198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 41",
+      27294206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 42",
+      27294214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 43",
+      27294222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 44",
+      27294230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 45",
+      27294238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 46",
+      27294246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 47",
+      27294254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 48",
+      27294262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 49",
+      27294270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 50",
+      27294278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 51",
+      27294286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 52",
+      27294294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 53",
+      27294302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 54",
+      27294310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 55",
+      27294318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 56",
+      27294326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 57",
+      27294334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 58",
+      27294342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 59",
+      27294350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 60",
+      27294358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 61",
+      27294366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 62",
+      27294374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 63",
+      27294382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Backpack Slot 64",
+      27294390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Summon Boat",
+      27294490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Scuttle Boat",
+      27294491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Visions",
+      27294492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell View Earth",
+      27294493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Disguise",
+      27294494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell View Air",
+      27294495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fly",
+      27294496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Water Walk",
+      27294497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Dimension Door",
+      27294498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Town Portal",
+      27294499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Quicksand",
+      27294500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Land Mine",
+      27294501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Force Field",
+      27294502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fire Wall",
+      27294503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Earthquake",
+      27294504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Magic Arrow",
+      27294505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Ice Bolt",
+      27294506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Lightning Bolt",
+      27294507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Implosion",
+      27294508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Chain Lightning",
+      27294509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Frost Ring",
+      27294510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fireball",
+      27294511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Inferno",
+      27294512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Meteor Shower",
+      27294513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Death Ripple",
+      27294514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Destroy Undead",
+      27294515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Armageddon",
+      27294516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Shield",
+      27294517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Air Shield",
+      27294518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fire Shield",
+      27294519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Protection from Air",
+      27294520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Protection from Fire",
+      27294521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Protection from Water",
+      27294522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Protection from Earth",
+      27294523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Anti Magic",
+      27294524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Dispel",
+      27294525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Magic Mirror",
+      27294526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Cure",
+      27294527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Resurrection",
+      27294528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Animate Dead",
+      27294529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Sacrifice",
+      27294530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Bless",
+      27294531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Curse",
+      27294532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Bloodlust",
+      27294533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Precision",
+      27294534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Weakness",
+      27294535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Stone Skin",
+      27294536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Disrupting Ray",
+      27294537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Prayer",
+      27294538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Mirth",
+      27294539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Sorrow",
+      27294540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fortune",
+      27294541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Misfortune",
+      27294542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Haste",
+      27294543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Slow",
+      27294544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Slayer",
+      27294545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Frenzy",
+      27294546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Titan's Lighting Bolt",
+      27294547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Counterstrike",
+      27294548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Berserk",
+      27294549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Hypnotize",
+      27294550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Forgetfulness",
+      27294551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Blind",
+      27294552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Teleport",
+      27294553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Remove Obstacle",
+      27294554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Clone",
+      27294555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Fire Elemental",
+      27294556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Earth Elemental",
+      27294557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Water Elemental",
+      27294558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spell Air Elemental",
+      27294559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Attack",
+      27294560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Def",
+      27294561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Spellpower",
+      27294562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sanya Knowledge",
+      27294563,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

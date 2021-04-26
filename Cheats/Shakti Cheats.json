@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Shakti Name",
+      27380033,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Movement",
+      27380075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti EXP",
+      27380079,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 1",
+      27380143,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 2",
+      27380147,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 3",
+      27380151,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 4",
+      27380155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 5",
+      27380159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 6",
+      27380163,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Type Slot 7",
+      27380167,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 1",
+      27380171,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 2",
+      27380175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 3",
+      27380179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 4",
+      27380183,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 5",
+      27380187,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 6",
+      27380191,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Unit Count Slot 7",
+      27380195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Pathfinding",
+      27380199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Archery",
+      27380200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Logistics",
+      27380201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Scouting",
+      27380202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Diplomacy",
+      27380203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Navigation",
+      27380204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Leadership",
+      27380205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Wisdom",
+      27380206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Mysticism",
+      27380207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Luck",
+      27380208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Ballistics",
+      27380209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Eagle Eye",
+      27380210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Necromancy",
+      27380211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Estates",
+      27380212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Fire Magic",
+      27380213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Air Magic",
+      27380214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Water Magic",
+      27380215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Earth Magic",
+      27380216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Scholar",
+      27380217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Tactics",
+      27380218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Artillery",
+      27380219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Learning",
+      27380220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Offence",
+      27380221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Armourer",
+      27380222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Intelligence",
+      27380223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Sorcery",
+      27380224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Resistance",
+      27380225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti First Aid",
+      27380226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Pathfinding Slot",
+      27380227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Archery Slot",
+      27380228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Logistics Slot",
+      27380229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Scouting Slot",
+      27380230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Diplomacy Slot",
+      27380231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Navigation Slot",
+      27380232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Leadership Slot",
+      27380233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Wisdom Slot",
+      27380234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Mysticism Slot",
+      27380235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Luck Slot",
+      27380236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Ballistics Slot",
+      27380237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Eagle Eye Slot",
+      27380238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Necromancy Slot",
+      27380239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Estates Slot",
+      27380240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Fire Magic Slot",
+      27380241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Air Magic Slot",
+      27380242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Water Magic Slot",
+      27380243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Earth Magic Slot",
+      27380244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Scholar Slot",
+      27380245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Tactics Slot",
+      27380246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Artillery Slot",
+      27380247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Learning Slot",
+      27380248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Offense Slot",
+      27380249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Armourer Slot",
+      27380250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Intelligence Slot",
+      27380251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Sorcery Slot",
+      27380252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Resistance Slot",
+      27380253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti First Aid Slot",
+      27380254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Skill Count",
+      27380255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Ballista equipped (4 or -1)",
+      27380403,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Ammo Cart equipped (5 or -1)",
+      27380411,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti First Aid equipped Item (6 or -1)",
+      27380419,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Catapult equipped (3 or -1)",
+      27380427,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spellbook equipped (0 or -1)",
+      27380435,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 1",
+      27380466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 2",
+      27380474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 3",
+      27380482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 4",
+      27380490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 5",
+      27380498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 6",
+      27380506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 7",
+      27380514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 8",
+      27380522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 9",
+      27380530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 10",
+      27380538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 11",
+      27380546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 12",
+      27380554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 13",
+      27380562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 14",
+      27380570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 15",
+      27380578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 16",
+      27380586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 17",
+      27380594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 18",
+      27380602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 19",
+      27380610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 20",
+      27380618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 21",
+      27380626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 22",
+      27380634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 23",
+      27380642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 24",
+      27380650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 25",
+      27380658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 26",
+      27380666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 27",
+      27380674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 28",
+      27380682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 29",
+      27380690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 30",
+      27380698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 31",
+      27380706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 32",
+      27380714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 33",
+      27380722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 34",
+      27380730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 35",
+      27380738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 36",
+      27380746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 37",
+      27380754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 38",
+      27380762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 39",
+      27380770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 40",
+      27380778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 41",
+      27380786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 42",
+      27380794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 43",
+      27380802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 44",
+      27380810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 45",
+      27380818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 46",
+      27380826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 47",
+      27380834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 48",
+      27380842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 49",
+      27380850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 50",
+      27380858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 51",
+      27380866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 52",
+      27380874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 53",
+      27380882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 54",
+      27380890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 55",
+      27380898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 56",
+      27380906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 57",
+      27380914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 58",
+      27380922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 59",
+      27380930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 60",
+      27380938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 61",
+      27380946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 62",
+      27380954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 63",
+      27380962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Backpack Slot 64",
+      27380970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Summon Boat",
+      27381070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Scuttle Boat",
+      27381071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Visions",
+      27381072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell View Earth",
+      27381073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Disguise",
+      27381074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell View Air",
+      27381075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fly",
+      27381076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Water Walk",
+      27381077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Dimension Door",
+      27381078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Town Portal",
+      27381079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Quicksand",
+      27381080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Land Mine",
+      27381081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Force Field",
+      27381082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fire Wall",
+      27381083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Earthquake",
+      27381084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Magic Arrow",
+      27381085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Ice Bolt",
+      27381086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Lightning Bolt",
+      27381087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Implosion",
+      27381088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Chain Lightning",
+      27381089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Frost Ring",
+      27381090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fireball",
+      27381091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Inferno",
+      27381092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Meteor Shower",
+      27381093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Death Ripple",
+      27381094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Destroy Undead",
+      27381095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Armageddon",
+      27381096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Shield",
+      27381097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Air Shield",
+      27381098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fire Shield",
+      27381099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Protection from Air",
+      27381100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Protection from Fire",
+      27381101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Protection from Water",
+      27381102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Protection from Earth",
+      27381103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Anti Magic",
+      27381104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Dispel",
+      27381105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Magic Mirror",
+      27381106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Cure",
+      27381107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Resurrection",
+      27381108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Animate Dead",
+      27381109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Sacrifice",
+      27381110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Bless",
+      27381111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Curse",
+      27381112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Bloodlust",
+      27381113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Precision",
+      27381114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Weakness",
+      27381115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Stone Skin",
+      27381116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Disrupting Ray",
+      27381117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Prayer",
+      27381118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Mirth",
+      27381119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Sorrow",
+      27381120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fortune",
+      27381121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Misfortune",
+      27381122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Haste",
+      27381123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Slow",
+      27381124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Slayer",
+      27381125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Frenzy",
+      27381126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Titan's Lighting Bolt",
+      27381127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Counterstrike",
+      27381128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Berserk",
+      27381129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Hypnotize",
+      27381130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Forgetfulness",
+      27381131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Blind",
+      27381132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Teleport",
+      27381133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Remove Obstacle",
+      27381134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Clone",
+      27381135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Fire Elemental",
+      27381136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Earth Elemental",
+      27381137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Water Elemental",
+      27381138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spell Air Elemental",
+      27381139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Attack",
+      27381140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Def",
+      27381141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Spellpower",
+      27381142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Shakti Knowledge",
+      27381143,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

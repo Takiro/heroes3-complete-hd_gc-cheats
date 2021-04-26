@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Olema Name",
+      27347273,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Movement",
+      27347315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema EXP",
+      27347319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 1",
+      27347383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 2",
+      27347387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 3",
+      27347391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 4",
+      27347395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 5",
+      27347399,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 6",
+      27347403,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Type Slot 7",
+      27347407,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 1",
+      27347411,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 2",
+      27347415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 3",
+      27347419,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 4",
+      27347423,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 5",
+      27347427,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 6",
+      27347431,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Unit Count Slot 7",
+      27347435,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Pathfinding",
+      27347439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Archery",
+      27347440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Logistics",
+      27347441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Scouting",
+      27347442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Diplomacy",
+      27347443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Navigation",
+      27347444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Leadership",
+      27347445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Wisdom",
+      27347446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Mysticism",
+      27347447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Luck",
+      27347448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Ballistics",
+      27347449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Eagle Eye",
+      27347450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Necromancy",
+      27347451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Estates",
+      27347452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Fire Magic",
+      27347453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Air Magic",
+      27347454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Water Magic",
+      27347455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Earth Magic",
+      27347456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Scholar",
+      27347457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Tactics",
+      27347458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Artillery",
+      27347459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Learning",
+      27347460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Offence",
+      27347461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Armourer",
+      27347462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Intelligence",
+      27347463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Sorcery",
+      27347464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Resistance",
+      27347465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema First Aid",
+      27347466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Pathfinding Slot",
+      27347467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Archery Slot",
+      27347468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Logistics Slot",
+      27347469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Scouting Slot",
+      27347470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Diplomacy Slot",
+      27347471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Navigation Slot",
+      27347472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Leadership Slot",
+      27347473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Wisdom Slot",
+      27347474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Mysticism Slot",
+      27347475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Luck Slot",
+      27347476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Ballistics Slot",
+      27347477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Eagle Eye Slot",
+      27347478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Necromancy Slot",
+      27347479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Estates Slot",
+      27347480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Fire Magic Slot",
+      27347481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Air Magic Slot",
+      27347482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Water Magic Slot",
+      27347483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Earth Magic Slot",
+      27347484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Scholar Slot",
+      27347485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Tactics Slot",
+      27347486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Artillery Slot",
+      27347487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Learning Slot",
+      27347488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Offense Slot",
+      27347489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Armourer Slot",
+      27347490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Intelligence Slot",
+      27347491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Sorcery Slot",
+      27347492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Resistance Slot",
+      27347493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema First Aid Slot",
+      27347494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Skill Count",
+      27347495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Ballista equipped (4 or -1)",
+      27347643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Ammo Cart equipped (5 or -1)",
+      27347651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema First Aid equipped Item (6 or -1)",
+      27347659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Catapult equipped (3 or -1)",
+      27347667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spellbook equipped (0 or -1)",
+      27347675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 1",
+      27347706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 2",
+      27347714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 3",
+      27347722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 4",
+      27347730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 5",
+      27347738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 6",
+      27347746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 7",
+      27347754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 8",
+      27347762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 9",
+      27347770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 10",
+      27347778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 11",
+      27347786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 12",
+      27347794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 13",
+      27347802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 14",
+      27347810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 15",
+      27347818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 16",
+      27347826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 17",
+      27347834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 18",
+      27347842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 19",
+      27347850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 20",
+      27347858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 21",
+      27347866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 22",
+      27347874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 23",
+      27347882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 24",
+      27347890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 25",
+      27347898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 26",
+      27347906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 27",
+      27347914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 28",
+      27347922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 29",
+      27347930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 30",
+      27347938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 31",
+      27347946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 32",
+      27347954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 33",
+      27347962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 34",
+      27347970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 35",
+      27347978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 36",
+      27347986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 37",
+      27347994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 38",
+      27348002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 39",
+      27348010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 40",
+      27348018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 41",
+      27348026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 42",
+      27348034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 43",
+      27348042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 44",
+      27348050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 45",
+      27348058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 46",
+      27348066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 47",
+      27348074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 48",
+      27348082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 49",
+      27348090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 50",
+      27348098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 51",
+      27348106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 52",
+      27348114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 53",
+      27348122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 54",
+      27348130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 55",
+      27348138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 56",
+      27348146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 57",
+      27348154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 58",
+      27348162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 59",
+      27348170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 60",
+      27348178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 61",
+      27348186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 62",
+      27348194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 63",
+      27348202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Backpack Slot 64",
+      27348210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Summon Boat",
+      27348310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Scuttle Boat",
+      27348311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Visions",
+      27348312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell View Earth",
+      27348313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Disguise",
+      27348314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell View Air",
+      27348315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fly",
+      27348316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Water Walk",
+      27348317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Dimension Door",
+      27348318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Town Portal",
+      27348319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Quicksand",
+      27348320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Land Mine",
+      27348321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Force Field",
+      27348322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fire Wall",
+      27348323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Earthquake",
+      27348324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Magic Arrow",
+      27348325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Ice Bolt",
+      27348326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Lightning Bolt",
+      27348327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Implosion",
+      27348328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Chain Lightning",
+      27348329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Frost Ring",
+      27348330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fireball",
+      27348331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Inferno",
+      27348332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Meteor Shower",
+      27348333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Death Ripple",
+      27348334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Destroy Undead",
+      27348335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Armageddon",
+      27348336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Shield",
+      27348337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Air Shield",
+      27348338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fire Shield",
+      27348339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Protection from Air",
+      27348340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Protection from Fire",
+      27348341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Protection from Water",
+      27348342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Protection from Earth",
+      27348343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Anti Magic",
+      27348344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Dispel",
+      27348345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Magic Mirror",
+      27348346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Cure",
+      27348347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Resurrection",
+      27348348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Animate Dead",
+      27348349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Sacrifice",
+      27348350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Bless",
+      27348351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Curse",
+      27348352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Bloodlust",
+      27348353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Precision",
+      27348354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Weakness",
+      27348355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Stone Skin",
+      27348356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Disrupting Ray",
+      27348357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Prayer",
+      27348358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Mirth",
+      27348359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Sorrow",
+      27348360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fortune",
+      27348361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Misfortune",
+      27348362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Haste",
+      27348363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Slow",
+      27348364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Slayer",
+      27348365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Frenzy",
+      27348366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Titan's Lighting Bolt",
+      27348367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Counterstrike",
+      27348368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Berserk",
+      27348369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Hypnotize",
+      27348370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Forgetfulness",
+      27348371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Blind",
+      27348372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Teleport",
+      27348373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Remove Obstacle",
+      27348374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Clone",
+      27348375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Fire Elemental",
+      27348376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Earth Elemental",
+      27348377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Water Elemental",
+      27348378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spell Air Elemental",
+      27348379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Attack",
+      27348380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Def",
+      27348381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Spellpower",
+      27348382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Olema Knowledge",
+      27348383,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

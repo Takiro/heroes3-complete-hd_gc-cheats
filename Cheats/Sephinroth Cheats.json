@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Sephinroth Name",
+      27388223,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Movement",
+      27388265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth EXP",
+      27388269,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 1",
+      27388333,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 2",
+      27388337,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 3",
+      27388341,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 4",
+      27388345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 5",
+      27388349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 6",
+      27388353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Type Slot 7",
+      27388357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 1",
+      27388361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 2",
+      27388365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 3",
+      27388369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 4",
+      27388373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 5",
+      27388377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 6",
+      27388381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Unit Count Slot 7",
+      27388385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Pathfinding",
+      27388389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Archery",
+      27388390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Logistics",
+      27388391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Scouting",
+      27388392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Diplomacy",
+      27388393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Navigation",
+      27388394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Leadership",
+      27388395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Wisdom",
+      27388396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Mysticism",
+      27388397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Luck",
+      27388398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Ballistics",
+      27388399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Eagle Eye",
+      27388400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Necromancy",
+      27388401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Estates",
+      27388402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Fire Magic",
+      27388403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Air Magic",
+      27388404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Water Magic",
+      27388405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Earth Magic",
+      27388406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Scholar",
+      27388407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Tactics",
+      27388408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Artillery",
+      27388409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Learning",
+      27388410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Offence",
+      27388411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Armourer",
+      27388412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Intelligence",
+      27388413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Sorcery",
+      27388414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Resistance",
+      27388415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth First Aid",
+      27388416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Pathfinding Slot",
+      27388417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Archery Slot",
+      27388418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Logistics Slot",
+      27388419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Scouting Slot",
+      27388420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Diplomacy Slot",
+      27388421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Navigation Slot",
+      27388422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Leadership Slot",
+      27388423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Wisdom Slot",
+      27388424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Mysticism Slot",
+      27388425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Luck Slot",
+      27388426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Ballistics Slot",
+      27388427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Eagle Eye Slot",
+      27388428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Necromancy Slot",
+      27388429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Estates Slot",
+      27388430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Fire Magic Slot",
+      27388431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Air Magic Slot",
+      27388432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Water Magic Slot",
+      27388433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Earth Magic Slot",
+      27388434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Scholar Slot",
+      27388435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Tactics Slot",
+      27388436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Artillery Slot",
+      27388437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Learning Slot",
+      27388438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Offense Slot",
+      27388439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Armourer Slot",
+      27388440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Intelligence Slot",
+      27388441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Sorcery Slot",
+      27388442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Resistance Slot",
+      27388443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth First Aid Slot",
+      27388444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Skill Count",
+      27388445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Ballista equipped (4 or -1)",
+      27388593,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Ammo Cart equipped (5 or -1)",
+      27388601,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth First Aid equipped Item (6 or -1)",
+      27388609,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Catapult equipped (3 or -1)",
+      27388617,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spellbook equipped (0 or -1)",
+      27388625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 1",
+      27388656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 2",
+      27388664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 3",
+      27388672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 4",
+      27388680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 5",
+      27388688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 6",
+      27388696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 7",
+      27388704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 8",
+      27388712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 9",
+      27388720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 10",
+      27388728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 11",
+      27388736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 12",
+      27388744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 13",
+      27388752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 14",
+      27388760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 15",
+      27388768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 16",
+      27388776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 17",
+      27388784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 18",
+      27388792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 19",
+      27388800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 20",
+      27388808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 21",
+      27388816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 22",
+      27388824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 23",
+      27388832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 24",
+      27388840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 25",
+      27388848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 26",
+      27388856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 27",
+      27388864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 28",
+      27388872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 29",
+      27388880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 30",
+      27388888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 31",
+      27388896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 32",
+      27388904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 33",
+      27388912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 34",
+      27388920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 35",
+      27388928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 36",
+      27388936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 37",
+      27388944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 38",
+      27388952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 39",
+      27388960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 40",
+      27388968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 41",
+      27388976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 42",
+      27388984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 43",
+      27388992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 44",
+      27389000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 45",
+      27389008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 46",
+      27389016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 47",
+      27389024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 48",
+      27389032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 49",
+      27389040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 50",
+      27389048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 51",
+      27389056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 52",
+      27389064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 53",
+      27389072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 54",
+      27389080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 55",
+      27389088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 56",
+      27389096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 57",
+      27389104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 58",
+      27389112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 59",
+      27389120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 60",
+      27389128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 61",
+      27389136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 62",
+      27389144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 63",
+      27389152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Backpack Slot 64",
+      27389160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Summon Boat",
+      27389260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Scuttle Boat",
+      27389261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Visions",
+      27389262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell View Earth",
+      27389263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Disguise",
+      27389264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell View Air",
+      27389265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fly",
+      27389266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Water Walk",
+      27389267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Dimension Door",
+      27389268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Town Portal",
+      27389269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Quicksand",
+      27389270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Land Mine",
+      27389271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Force Field",
+      27389272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fire Wall",
+      27389273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Earthquake",
+      27389274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Magic Arrow",
+      27389275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Ice Bolt",
+      27389276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Lightning Bolt",
+      27389277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Implosion",
+      27389278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Chain Lightning",
+      27389279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Frost Ring",
+      27389280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fireball",
+      27389281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Inferno",
+      27389282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Meteor Shower",
+      27389283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Death Ripple",
+      27389284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Destroy Undead",
+      27389285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Armageddon",
+      27389286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Shield",
+      27389287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Air Shield",
+      27389288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fire Shield",
+      27389289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Protection from Air",
+      27389290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Protection from Fire",
+      27389291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Protection from Water",
+      27389292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Protection from Earth",
+      27389293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Anti Magic",
+      27389294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Dispel",
+      27389295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Magic Mirror",
+      27389296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Cure",
+      27389297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Resurrection",
+      27389298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Animate Dead",
+      27389299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Sacrifice",
+      27389300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Bless",
+      27389301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Curse",
+      27389302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Bloodlust",
+      27389303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Precision",
+      27389304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Weakness",
+      27389305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Stone Skin",
+      27389306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Disrupting Ray",
+      27389307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Prayer",
+      27389308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Mirth",
+      27389309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Sorrow",
+      27389310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fortune",
+      27389311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Misfortune",
+      27389312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Haste",
+      27389313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Slow",
+      27389314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Slayer",
+      27389315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Frenzy",
+      27389316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Titan's Lighting Bolt",
+      27389317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Counterstrike",
+      27389318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Berserk",
+      27389319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Hypnotize",
+      27389320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Forgetfulness",
+      27389321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Blind",
+      27389322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Teleport",
+      27389323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Remove Obstacle",
+      27389324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Clone",
+      27389325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Fire Elemental",
+      27389326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Earth Elemental",
+      27389327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Water Elemental",
+      27389328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spell Air Elemental",
+      27389329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Attack",
+      27389330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Def",
+      27389331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Spellpower",
+      27389332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sephinroth Knowledge",
+      27389333,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

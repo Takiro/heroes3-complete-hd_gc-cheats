@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Octavia Name",
+      27339083,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Movement",
+      27339125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia EXP",
+      27339129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 1",
+      27339193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 2",
+      27339197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 3",
+      27339201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 4",
+      27339205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 5",
+      27339209,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 6",
+      27339213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Type Slot 7",
+      27339217,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 1",
+      27339221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 2",
+      27339225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 3",
+      27339229,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 4",
+      27339233,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 5",
+      27339237,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 6",
+      27339241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Unit Count Slot 7",
+      27339245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Pathfinding",
+      27339249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Archery",
+      27339250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Logistics",
+      27339251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Scouting",
+      27339252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Diplomacy",
+      27339253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Navigation",
+      27339254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Leadership",
+      27339255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Wisdom",
+      27339256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Mysticism",
+      27339257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Luck",
+      27339258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Ballistics",
+      27339259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Eagle Eye",
+      27339260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Necromancy",
+      27339261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Estates",
+      27339262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Fire Magic",
+      27339263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Air Magic",
+      27339264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Water Magic",
+      27339265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Earth Magic",
+      27339266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Scholar",
+      27339267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Tactics",
+      27339268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Artillery",
+      27339269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Learning",
+      27339270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Offence",
+      27339271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Armourer",
+      27339272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Intelligence",
+      27339273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Sorcery",
+      27339274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Resistance",
+      27339275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia First Aid",
+      27339276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Pathfinding Slot",
+      27339277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Archery Slot",
+      27339278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Logistics Slot",
+      27339279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Scouting Slot",
+      27339280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Diplomacy Slot",
+      27339281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Navigation Slot",
+      27339282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Leadership Slot",
+      27339283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Wisdom Slot",
+      27339284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Mysticism Slot",
+      27339285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Luck Slot",
+      27339286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Ballistics Slot",
+      27339287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Eagle Eye Slot",
+      27339288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Necromancy Slot",
+      27339289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Estates Slot",
+      27339290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Fire Magic Slot",
+      27339291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Air Magic Slot",
+      27339292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Water Magic Slot",
+      27339293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Earth Magic Slot",
+      27339294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Scholar Slot",
+      27339295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Tactics Slot",
+      27339296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Artillery Slot",
+      27339297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Learning Slot",
+      27339298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Offense Slot",
+      27339299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Armourer Slot",
+      27339300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Intelligence Slot",
+      27339301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Sorcery Slot",
+      27339302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Resistance Slot",
+      27339303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia First Aid Slot",
+      27339304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Skill Count",
+      27339305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Ballista equipped (4 or -1)",
+      27339453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Ammo Cart equipped (5 or -1)",
+      27339461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia First Aid equipped Item (6 or -1)",
+      27339469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Catapult equipped (3 or -1)",
+      27339477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spellbook equipped (0 or -1)",
+      27339485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 1",
+      27339516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 2",
+      27339524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 3",
+      27339532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 4",
+      27339540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 5",
+      27339548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 6",
+      27339556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 7",
+      27339564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 8",
+      27339572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 9",
+      27339580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 10",
+      27339588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 11",
+      27339596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 12",
+      27339604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 13",
+      27339612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 14",
+      27339620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 15",
+      27339628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 16",
+      27339636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 17",
+      27339644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 18",
+      27339652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 19",
+      27339660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 20",
+      27339668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 21",
+      27339676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 22",
+      27339684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 23",
+      27339692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 24",
+      27339700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 25",
+      27339708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 26",
+      27339716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 27",
+      27339724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 28",
+      27339732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 29",
+      27339740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 30",
+      27339748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 31",
+      27339756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 32",
+      27339764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 33",
+      27339772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 34",
+      27339780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 35",
+      27339788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 36",
+      27339796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 37",
+      27339804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 38",
+      27339812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 39",
+      27339820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 40",
+      27339828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 41",
+      27339836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 42",
+      27339844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 43",
+      27339852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 44",
+      27339860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 45",
+      27339868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 46",
+      27339876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 47",
+      27339884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 48",
+      27339892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 49",
+      27339900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 50",
+      27339908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 51",
+      27339916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 52",
+      27339924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 53",
+      27339932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 54",
+      27339940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 55",
+      27339948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 56",
+      27339956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 57",
+      27339964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 58",
+      27339972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 59",
+      27339980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 60",
+      27339988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 61",
+      27339996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 62",
+      27340004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 63",
+      27340012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Backpack Slot 64",
+      27340020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Summon Boat",
+      27340120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Scuttle Boat",
+      27340121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Visions",
+      27340122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell View Earth",
+      27340123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Disguise",
+      27340124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell View Air",
+      27340125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fly",
+      27340126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Water Walk",
+      27340127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Dimension Door",
+      27340128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Town Portal",
+      27340129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Quicksand",
+      27340130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Land Mine",
+      27340131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Force Field",
+      27340132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fire Wall",
+      27340133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Earthquake",
+      27340134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Magic Arrow",
+      27340135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Ice Bolt",
+      27340136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Lightning Bolt",
+      27340137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Implosion",
+      27340138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Chain Lightning",
+      27340139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Frost Ring",
+      27340140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fireball",
+      27340141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Inferno",
+      27340142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Meteor Shower",
+      27340143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Death Ripple",
+      27340144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Destroy Undead",
+      27340145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Armageddon",
+      27340146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Shield",
+      27340147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Air Shield",
+      27340148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fire Shield",
+      27340149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Protection from Air",
+      27340150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Protection from Fire",
+      27340151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Protection from Water",
+      27340152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Protection from Earth",
+      27340153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Anti Magic",
+      27340154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Dispel",
+      27340155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Magic Mirror",
+      27340156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Cure",
+      27340157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Resurrection",
+      27340158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Animate Dead",
+      27340159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Sacrifice",
+      27340160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Bless",
+      27340161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Curse",
+      27340162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Bloodlust",
+      27340163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Precision",
+      27340164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Weakness",
+      27340165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Stone Skin",
+      27340166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Disrupting Ray",
+      27340167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Prayer",
+      27340168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Mirth",
+      27340169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Sorrow",
+      27340170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fortune",
+      27340171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Misfortune",
+      27340172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Haste",
+      27340173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Slow",
+      27340174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Slayer",
+      27340175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Frenzy",
+      27340176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Titan's Lighting Bolt",
+      27340177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Counterstrike",
+      27340178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Berserk",
+      27340179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Hypnotize",
+      27340180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Forgetfulness",
+      27340181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Blind",
+      27340182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Teleport",
+      27340183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Remove Obstacle",
+      27340184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Clone",
+      27340185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Fire Elemental",
+      27340186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Earth Elemental",
+      27340187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Water Elemental",
+      27340188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spell Air Elemental",
+      27340189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Attack",
+      27340190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Def",
+      27340191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Spellpower",
+      27340192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Octavia Knowledge",
+      27340193,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

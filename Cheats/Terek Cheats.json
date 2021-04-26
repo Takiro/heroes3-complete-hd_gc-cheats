@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Terek Name",
+      27403433,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Movement",
+      27403475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek EXP",
+      27403479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 1",
+      27403543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 2",
+      27403547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 3",
+      27403551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 4",
+      27403555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 5",
+      27403559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 6",
+      27403563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Type Slot 7",
+      27403567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 1",
+      27403571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 2",
+      27403575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 3",
+      27403579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 4",
+      27403583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 5",
+      27403587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 6",
+      27403591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Unit Count Slot 7",
+      27403595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Pathfinding",
+      27403599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Archery",
+      27403600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Logistics",
+      27403601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Scouting",
+      27403602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Diplomacy",
+      27403603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Navigation",
+      27403604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Leadership",
+      27403605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Wisdom",
+      27403606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Mysticism",
+      27403607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Luck",
+      27403608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Ballistics",
+      27403609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Eagle Eye",
+      27403610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Necromancy",
+      27403611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Estates",
+      27403612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Fire Magic",
+      27403613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Air Magic",
+      27403614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Water Magic",
+      27403615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Earth Magic",
+      27403616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Scholar",
+      27403617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Tactics",
+      27403618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Artillery",
+      27403619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Learning",
+      27403620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Offence",
+      27403621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Armourer",
+      27403622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Intelligence",
+      27403623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Sorcery",
+      27403624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Resistance",
+      27403625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek First Aid",
+      27403626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Pathfinding Slot",
+      27403627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Archery Slot",
+      27403628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Logistics Slot",
+      27403629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Scouting Slot",
+      27403630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Diplomacy Slot",
+      27403631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Navigation Slot",
+      27403632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Leadership Slot",
+      27403633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Wisdom Slot",
+      27403634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Mysticism Slot",
+      27403635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Luck Slot",
+      27403636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Ballistics Slot",
+      27403637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Eagle Eye Slot",
+      27403638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Necromancy Slot",
+      27403639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Estates Slot",
+      27403640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Fire Magic Slot",
+      27403641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Air Magic Slot",
+      27403642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Water Magic Slot",
+      27403643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Earth Magic Slot",
+      27403644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Scholar Slot",
+      27403645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Tactics Slot",
+      27403646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Artillery Slot",
+      27403647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Learning Slot",
+      27403648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Offense Slot",
+      27403649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Armourer Slot",
+      27403650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Intelligence Slot",
+      27403651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Sorcery Slot",
+      27403652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Resistance Slot",
+      27403653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek First Aid Slot",
+      27403654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Skill Count",
+      27403655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Ballista equipped (4 or -1)",
+      27403803,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Ammo Cart equipped (5 or -1)",
+      27403811,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek First Aid equipped Item (6 or -1)",
+      27403819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Catapult equipped (3 or -1)",
+      27403827,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spellbook equipped (0 or -1)",
+      27403835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 1",
+      27403866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 2",
+      27403874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 3",
+      27403882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 4",
+      27403890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 5",
+      27403898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 6",
+      27403906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 7",
+      27403914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 8",
+      27403922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 9",
+      27403930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 10",
+      27403938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 11",
+      27403946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 12",
+      27403954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 13",
+      27403962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 14",
+      27403970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 15",
+      27403978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 16",
+      27403986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 17",
+      27403994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 18",
+      27404002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 19",
+      27404010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 20",
+      27404018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 21",
+      27404026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 22",
+      27404034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 23",
+      27404042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 24",
+      27404050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 25",
+      27404058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 26",
+      27404066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 27",
+      27404074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 28",
+      27404082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 29",
+      27404090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 30",
+      27404098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 31",
+      27404106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 32",
+      27404114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 33",
+      27404122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 34",
+      27404130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 35",
+      27404138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 36",
+      27404146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 37",
+      27404154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 38",
+      27404162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 39",
+      27404170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 40",
+      27404178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 41",
+      27404186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 42",
+      27404194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 43",
+      27404202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 44",
+      27404210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 45",
+      27404218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 46",
+      27404226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 47",
+      27404234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 48",
+      27404242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 49",
+      27404250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 50",
+      27404258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 51",
+      27404266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 52",
+      27404274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 53",
+      27404282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 54",
+      27404290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 55",
+      27404298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 56",
+      27404306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 57",
+      27404314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 58",
+      27404322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 59",
+      27404330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 60",
+      27404338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 61",
+      27404346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 62",
+      27404354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 63",
+      27404362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Backpack Slot 64",
+      27404370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Summon Boat",
+      27404470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Scuttle Boat",
+      27404471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Visions",
+      27404472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell View Earth",
+      27404473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Disguise",
+      27404474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell View Air",
+      27404475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fly",
+      27404476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Water Walk",
+      27404477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Dimension Door",
+      27404478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Town Portal",
+      27404479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Quicksand",
+      27404480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Land Mine",
+      27404481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Force Field",
+      27404482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fire Wall",
+      27404483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Earthquake",
+      27404484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Magic Arrow",
+      27404485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Ice Bolt",
+      27404486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Lightning Bolt",
+      27404487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Implosion",
+      27404488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Chain Lightning",
+      27404489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Frost Ring",
+      27404490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fireball",
+      27404491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Inferno",
+      27404492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Meteor Shower",
+      27404493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Death Ripple",
+      27404494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Destroy Undead",
+      27404495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Armageddon",
+      27404496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Shield",
+      27404497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Air Shield",
+      27404498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fire Shield",
+      27404499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Protection from Air",
+      27404500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Protection from Fire",
+      27404501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Protection from Water",
+      27404502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Protection from Earth",
+      27404503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Anti Magic",
+      27404504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Dispel",
+      27404505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Magic Mirror",
+      27404506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Cure",
+      27404507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Resurrection",
+      27404508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Animate Dead",
+      27404509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Sacrifice",
+      27404510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Bless",
+      27404511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Curse",
+      27404512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Bloodlust",
+      27404513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Precision",
+      27404514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Weakness",
+      27404515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Stone Skin",
+      27404516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Disrupting Ray",
+      27404517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Prayer",
+      27404518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Mirth",
+      27404519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Sorrow",
+      27404520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fortune",
+      27404521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Misfortune",
+      27404522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Haste",
+      27404523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Slow",
+      27404524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Slayer",
+      27404525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Frenzy",
+      27404526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Titan's Lighting Bolt",
+      27404527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Counterstrike",
+      27404528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Berserk",
+      27404529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Hypnotize",
+      27404530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Forgetfulness",
+      27404531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Blind",
+      27404532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Teleport",
+      27404533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Remove Obstacle",
+      27404534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Clone",
+      27404535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Fire Elemental",
+      27404536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Earth Elemental",
+      27404537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Water Elemental",
+      27404538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spell Air Elemental",
+      27404539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Attack",
+      27404540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Def",
+      27404541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Spellpower",
+      27404542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Terek Knowledge",
+      27404543,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

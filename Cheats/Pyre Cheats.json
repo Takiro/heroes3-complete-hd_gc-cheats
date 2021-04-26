@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Pyre Name",
+      27341423,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Movement",
+      27341465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre EXP",
+      27341469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 1",
+      27341533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 2",
+      27341537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 3",
+      27341541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 4",
+      27341545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 5",
+      27341549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 6",
+      27341553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Type Slot 7",
+      27341557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 1",
+      27341561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 2",
+      27341565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 3",
+      27341569,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 4",
+      27341573,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 5",
+      27341577,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 6",
+      27341581,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Unit Count Slot 7",
+      27341585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Pathfinding",
+      27341589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Archery",
+      27341590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Logistics",
+      27341591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Scouting",
+      27341592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Diplomacy",
+      27341593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Navigation",
+      27341594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Leadership",
+      27341595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Wisdom",
+      27341596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Mysticism",
+      27341597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Luck",
+      27341598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Ballistics",
+      27341599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Eagle Eye",
+      27341600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Necromancy",
+      27341601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Estates",
+      27341602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Fire Magic",
+      27341603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Air Magic",
+      27341604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Water Magic",
+      27341605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Earth Magic",
+      27341606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Scholar",
+      27341607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Tactics",
+      27341608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Artillery",
+      27341609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Learning",
+      27341610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Offence",
+      27341611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Armourer",
+      27341612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Intelligence",
+      27341613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Sorcery",
+      27341614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Resistance",
+      27341615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre First Aid",
+      27341616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Pathfinding Slot",
+      27341617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Archery Slot",
+      27341618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Logistics Slot",
+      27341619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Scouting Slot",
+      27341620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Diplomacy Slot",
+      27341621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Navigation Slot",
+      27341622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Leadership Slot",
+      27341623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Wisdom Slot",
+      27341624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Mysticism Slot",
+      27341625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Luck Slot",
+      27341626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Ballistics Slot",
+      27341627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Eagle Eye Slot",
+      27341628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Necromancy Slot",
+      27341629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Estates Slot",
+      27341630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Fire Magic Slot",
+      27341631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Air Magic Slot",
+      27341632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Water Magic Slot",
+      27341633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Earth Magic Slot",
+      27341634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Scholar Slot",
+      27341635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Tactics Slot",
+      27341636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Artillery Slot",
+      27341637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Learning Slot",
+      27341638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Offense Slot",
+      27341639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Armourer Slot",
+      27341640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Intelligence Slot",
+      27341641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Sorcery Slot",
+      27341642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Resistance Slot",
+      27341643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre First Aid Slot",
+      27341644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Skill Count",
+      27341645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Ballista equipped (4 or -1)",
+      27341793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Ammo Cart equipped (5 or -1)",
+      27341801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre First Aid equipped Item (6 or -1)",
+      27341809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Catapult equipped (3 or -1)",
+      27341817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spellbook equipped (0 or -1)",
+      27341825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 1",
+      27341856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 2",
+      27341864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 3",
+      27341872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 4",
+      27341880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 5",
+      27341888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 6",
+      27341896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 7",
+      27341904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 8",
+      27341912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 9",
+      27341920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 10",
+      27341928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 11",
+      27341936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 12",
+      27341944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 13",
+      27341952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 14",
+      27341960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 15",
+      27341968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 16",
+      27341976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 17",
+      27341984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 18",
+      27341992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 19",
+      27342000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 20",
+      27342008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 21",
+      27342016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 22",
+      27342024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 23",
+      27342032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 24",
+      27342040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 25",
+      27342048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 26",
+      27342056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 27",
+      27342064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 28",
+      27342072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 29",
+      27342080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 30",
+      27342088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 31",
+      27342096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 32",
+      27342104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 33",
+      27342112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 34",
+      27342120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 35",
+      27342128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 36",
+      27342136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 37",
+      27342144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 38",
+      27342152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 39",
+      27342160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 40",
+      27342168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 41",
+      27342176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 42",
+      27342184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 43",
+      27342192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 44",
+      27342200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 45",
+      27342208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 46",
+      27342216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 47",
+      27342224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 48",
+      27342232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 49",
+      27342240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 50",
+      27342248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 51",
+      27342256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 52",
+      27342264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 53",
+      27342272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 54",
+      27342280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 55",
+      27342288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 56",
+      27342296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 57",
+      27342304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 58",
+      27342312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 59",
+      27342320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 60",
+      27342328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 61",
+      27342336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 62",
+      27342344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 63",
+      27342352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Backpack Slot 64",
+      27342360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Summon Boat",
+      27342460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Scuttle Boat",
+      27342461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Visions",
+      27342462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell View Earth",
+      27342463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Disguise",
+      27342464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell View Air",
+      27342465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fly",
+      27342466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Water Walk",
+      27342467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Dimension Door",
+      27342468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Town Portal",
+      27342469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Quicksand",
+      27342470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Land Mine",
+      27342471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Force Field",
+      27342472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fire Wall",
+      27342473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Earthquake",
+      27342474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Magic Arrow",
+      27342475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Ice Bolt",
+      27342476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Lightning Bolt",
+      27342477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Implosion",
+      27342478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Chain Lightning",
+      27342479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Frost Ring",
+      27342480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fireball",
+      27342481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Inferno",
+      27342482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Meteor Shower",
+      27342483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Death Ripple",
+      27342484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Destroy Undead",
+      27342485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Armageddon",
+      27342486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Shield",
+      27342487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Air Shield",
+      27342488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fire Shield",
+      27342489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Protection from Air",
+      27342490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Protection from Fire",
+      27342491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Protection from Water",
+      27342492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Protection from Earth",
+      27342493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Anti Magic",
+      27342494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Dispel",
+      27342495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Magic Mirror",
+      27342496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Cure",
+      27342497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Resurrection",
+      27342498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Animate Dead",
+      27342499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Sacrifice",
+      27342500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Bless",
+      27342501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Curse",
+      27342502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Bloodlust",
+      27342503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Precision",
+      27342504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Weakness",
+      27342505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Stone Skin",
+      27342506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Disrupting Ray",
+      27342507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Prayer",
+      27342508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Mirth",
+      27342509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Sorrow",
+      27342510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fortune",
+      27342511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Misfortune",
+      27342512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Haste",
+      27342513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Slow",
+      27342514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Slayer",
+      27342515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Frenzy",
+      27342516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Titan's Lighting Bolt",
+      27342517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Counterstrike",
+      27342518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Berserk",
+      27342519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Hypnotize",
+      27342520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Forgetfulness",
+      27342521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Blind",
+      27342522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Teleport",
+      27342523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Remove Obstacle",
+      27342524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Clone",
+      27342525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Fire Elemental",
+      27342526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Earth Elemental",
+      27342527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Water Elemental",
+      27342528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spell Air Elemental",
+      27342529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Attack",
+      27342530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Def",
+      27342531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Spellpower",
+      27342532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Pyre Knowledge",
+      27342533,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

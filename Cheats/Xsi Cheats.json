@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Xsi Name",
+      27368333,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Movement",
+      27368375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi EXP",
+      27368379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 1",
+      27368443,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 2",
+      27368447,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 3",
+      27368451,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 4",
+      27368455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 5",
+      27368459,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 6",
+      27368463,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Type Slot 7",
+      27368467,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 1",
+      27368471,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 2",
+      27368475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 3",
+      27368479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 4",
+      27368483,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 5",
+      27368487,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 6",
+      27368491,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Unit Count Slot 7",
+      27368495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Pathfinding",
+      27368499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Archery",
+      27368500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Logistics",
+      27368501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Scouting",
+      27368502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Diplomacy",
+      27368503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Navigation",
+      27368504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Leadership",
+      27368505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Wisdom",
+      27368506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Mysticism",
+      27368507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Luck",
+      27368508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Ballistics",
+      27368509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Eagle Eye",
+      27368510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Necromancy",
+      27368511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Estates",
+      27368512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Fire Magic",
+      27368513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Air Magic",
+      27368514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Water Magic",
+      27368515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Earth Magic",
+      27368516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Scholar",
+      27368517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Tactics",
+      27368518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Artillery",
+      27368519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Learning",
+      27368520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Offence",
+      27368521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Armourer",
+      27368522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Intelligence",
+      27368523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Sorcery",
+      27368524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Resistance",
+      27368525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi First Aid",
+      27368526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Pathfinding Slot",
+      27368527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Archery Slot",
+      27368528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Logistics Slot",
+      27368529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Scouting Slot",
+      27368530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Diplomacy Slot",
+      27368531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Navigation Slot",
+      27368532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Leadership Slot",
+      27368533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Wisdom Slot",
+      27368534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Mysticism Slot",
+      27368535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Luck Slot",
+      27368536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Ballistics Slot",
+      27368537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Eagle Eye Slot",
+      27368538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Necromancy Slot",
+      27368539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Estates Slot",
+      27368540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Fire Magic Slot",
+      27368541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Air Magic Slot",
+      27368542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Water Magic Slot",
+      27368543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Earth Magic Slot",
+      27368544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Scholar Slot",
+      27368545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Tactics Slot",
+      27368546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Artillery Slot",
+      27368547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Learning Slot",
+      27368548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Offense Slot",
+      27368549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Armourer Slot",
+      27368550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Intelligence Slot",
+      27368551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Sorcery Slot",
+      27368552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Resistance Slot",
+      27368553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi First Aid Slot",
+      27368554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Skill Count",
+      27368555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Ballista equipped (4 or -1)",
+      27368703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Ammo Cart equipped (5 or -1)",
+      27368711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi First Aid equipped Item (6 or -1)",
+      27368719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Catapult equipped (3 or -1)",
+      27368727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spellbook equipped (0 or -1)",
+      27368735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 1",
+      27368766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 2",
+      27368774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 3",
+      27368782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 4",
+      27368790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 5",
+      27368798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 6",
+      27368806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 7",
+      27368814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 8",
+      27368822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 9",
+      27368830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 10",
+      27368838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 11",
+      27368846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 12",
+      27368854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 13",
+      27368862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 14",
+      27368870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 15",
+      27368878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 16",
+      27368886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 17",
+      27368894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 18",
+      27368902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 19",
+      27368910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 20",
+      27368918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 21",
+      27368926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 22",
+      27368934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 23",
+      27368942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 24",
+      27368950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 25",
+      27368958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 26",
+      27368966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 27",
+      27368974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 28",
+      27368982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 29",
+      27368990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 30",
+      27368998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 31",
+      27369006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 32",
+      27369014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 33",
+      27369022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 34",
+      27369030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 35",
+      27369038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 36",
+      27369046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 37",
+      27369054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 38",
+      27369062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 39",
+      27369070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 40",
+      27369078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 41",
+      27369086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 42",
+      27369094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 43",
+      27369102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 44",
+      27369110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 45",
+      27369118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 46",
+      27369126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 47",
+      27369134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 48",
+      27369142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 49",
+      27369150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 50",
+      27369158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 51",
+      27369166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 52",
+      27369174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 53",
+      27369182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 54",
+      27369190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 55",
+      27369198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 56",
+      27369206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 57",
+      27369214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 58",
+      27369222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 59",
+      27369230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 60",
+      27369238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 61",
+      27369246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 62",
+      27369254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 63",
+      27369262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Backpack Slot 64",
+      27369270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Summon Boat",
+      27369370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Scuttle Boat",
+      27369371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Visions",
+      27369372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell View Earth",
+      27369373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Disguise",
+      27369374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell View Air",
+      27369375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fly",
+      27369376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Water Walk",
+      27369377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Dimension Door",
+      27369378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Town Portal",
+      27369379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Quicksand",
+      27369380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Land Mine",
+      27369381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Force Field",
+      27369382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fire Wall",
+      27369383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Earthquake",
+      27369384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Magic Arrow",
+      27369385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Ice Bolt",
+      27369386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Lightning Bolt",
+      27369387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Implosion",
+      27369388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Chain Lightning",
+      27369389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Frost Ring",
+      27369390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fireball",
+      27369391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Inferno",
+      27369392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Meteor Shower",
+      27369393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Death Ripple",
+      27369394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Destroy Undead",
+      27369395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Armageddon",
+      27369396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Shield",
+      27369397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Air Shield",
+      27369398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fire Shield",
+      27369399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Protection from Air",
+      27369400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Protection from Fire",
+      27369401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Protection from Water",
+      27369402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Protection from Earth",
+      27369403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Anti Magic",
+      27369404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Dispel",
+      27369405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Magic Mirror",
+      27369406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Cure",
+      27369407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Resurrection",
+      27369408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Animate Dead",
+      27369409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Sacrifice",
+      27369410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Bless",
+      27369411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Curse",
+      27369412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Bloodlust",
+      27369413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Precision",
+      27369414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Weakness",
+      27369415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Stone Skin",
+      27369416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Disrupting Ray",
+      27369417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Prayer",
+      27369418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Mirth",
+      27369419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Sorrow",
+      27369420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fortune",
+      27369421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Misfortune",
+      27369422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Haste",
+      27369423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Slow",
+      27369424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Slayer",
+      27369425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Frenzy",
+      27369426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Titan's Lighting Bolt",
+      27369427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Counterstrike",
+      27369428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Berserk",
+      27369429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Hypnotize",
+      27369430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Forgetfulness",
+      27369431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Blind",
+      27369432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Teleport",
+      27369433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Remove Obstacle",
+      27369434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Clone",
+      27369435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Fire Elemental",
+      27369436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Earth Elemental",
+      27369437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Water Elemental",
+      27369438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spell Air Elemental",
+      27369439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Attack",
+      27369440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Def",
+      27369441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Spellpower",
+      27369442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xsi Knowledge",
+      27369443,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

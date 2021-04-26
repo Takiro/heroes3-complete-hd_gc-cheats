@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Piquedram Name",
+      27315683,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Movement",
+      27315725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram EXP",
+      27315729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 1",
+      27315793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 2",
+      27315797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 3",
+      27315801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 4",
+      27315805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 5",
+      27315809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 6",
+      27315813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Type Slot 7",
+      27315817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 1",
+      27315821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 2",
+      27315825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 3",
+      27315829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 4",
+      27315833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 5",
+      27315837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 6",
+      27315841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Unit Count Slot 7",
+      27315845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Pathfinding",
+      27315849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Archery",
+      27315850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Logistics",
+      27315851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Scouting",
+      27315852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Diplomacy",
+      27315853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Navigation",
+      27315854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Leadership",
+      27315855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Wisdom",
+      27315856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Mysticism",
+      27315857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Luck",
+      27315858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Ballistics",
+      27315859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Eagle Eye",
+      27315860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Necromancy",
+      27315861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Estates",
+      27315862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Fire Magic",
+      27315863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Air Magic",
+      27315864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Water Magic",
+      27315865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Earth Magic",
+      27315866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Scholar",
+      27315867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Tactics",
+      27315868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Artillery",
+      27315869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Learning",
+      27315870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Offence",
+      27315871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Armourer",
+      27315872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Intelligence",
+      27315873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Sorcery",
+      27315874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Resistance",
+      27315875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram First Aid",
+      27315876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Pathfinding Slot",
+      27315877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Archery Slot",
+      27315878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Logistics Slot",
+      27315879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Scouting Slot",
+      27315880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Diplomacy Slot",
+      27315881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Navigation Slot",
+      27315882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Leadership Slot",
+      27315883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Wisdom Slot",
+      27315884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Mysticism Slot",
+      27315885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Luck Slot",
+      27315886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Ballistics Slot",
+      27315887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Eagle Eye Slot",
+      27315888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Necromancy Slot",
+      27315889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Estates Slot",
+      27315890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Fire Magic Slot",
+      27315891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Air Magic Slot",
+      27315892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Water Magic Slot",
+      27315893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Earth Magic Slot",
+      27315894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Scholar Slot",
+      27315895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Tactics Slot",
+      27315896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Artillery Slot",
+      27315897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Learning Slot",
+      27315898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Offense Slot",
+      27315899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Armourer Slot",
+      27315900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Intelligence Slot",
+      27315901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Sorcery Slot",
+      27315902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Resistance Slot",
+      27315903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram First Aid Slot",
+      27315904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Skill Count",
+      27315905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Ballista equipped (4 or -1)",
+      27316053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Ammo Cart equipped (5 or -1)",
+      27316061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram First Aid equipped Item (6 or -1)",
+      27316069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Catapult equipped (3 or -1)",
+      27316077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spellbook equipped (0 or -1)",
+      27316085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 1",
+      27316116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 2",
+      27316124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 3",
+      27316132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 4",
+      27316140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 5",
+      27316148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 6",
+      27316156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 7",
+      27316164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 8",
+      27316172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 9",
+      27316180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 10",
+      27316188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 11",
+      27316196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 12",
+      27316204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 13",
+      27316212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 14",
+      27316220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 15",
+      27316228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 16",
+      27316236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 17",
+      27316244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 18",
+      27316252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 19",
+      27316260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 20",
+      27316268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 21",
+      27316276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 22",
+      27316284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 23",
+      27316292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 24",
+      27316300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 25",
+      27316308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 26",
+      27316316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 27",
+      27316324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 28",
+      27316332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 29",
+      27316340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 30",
+      27316348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 31",
+      27316356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 32",
+      27316364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 33",
+      27316372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 34",
+      27316380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 35",
+      27316388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 36",
+      27316396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 37",
+      27316404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 38",
+      27316412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 39",
+      27316420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 40",
+      27316428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 41",
+      27316436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 42",
+      27316444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 43",
+      27316452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 44",
+      27316460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 45",
+      27316468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 46",
+      27316476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 47",
+      27316484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 48",
+      27316492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 49",
+      27316500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 50",
+      27316508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 51",
+      27316516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 52",
+      27316524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 53",
+      27316532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 54",
+      27316540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 55",
+      27316548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 56",
+      27316556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 57",
+      27316564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 58",
+      27316572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 59",
+      27316580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 60",
+      27316588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 61",
+      27316596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 62",
+      27316604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 63",
+      27316612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Backpack Slot 64",
+      27316620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Summon Boat",
+      27316720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Scuttle Boat",
+      27316721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Visions",
+      27316722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell View Earth",
+      27316723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Disguise",
+      27316724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell View Air",
+      27316725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fly",
+      27316726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Water Walk",
+      27316727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Dimension Door",
+      27316728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Town Portal",
+      27316729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Quicksand",
+      27316730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Land Mine",
+      27316731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Force Field",
+      27316732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fire Wall",
+      27316733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Earthquake",
+      27316734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Magic Arrow",
+      27316735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Ice Bolt",
+      27316736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Lightning Bolt",
+      27316737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Implosion",
+      27316738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Chain Lightning",
+      27316739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Frost Ring",
+      27316740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fireball",
+      27316741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Inferno",
+      27316742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Meteor Shower",
+      27316743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Death Ripple",
+      27316744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Destroy Undead",
+      27316745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Armageddon",
+      27316746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Shield",
+      27316747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Air Shield",
+      27316748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fire Shield",
+      27316749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Protection from Air",
+      27316750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Protection from Fire",
+      27316751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Protection from Water",
+      27316752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Protection from Earth",
+      27316753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Anti Magic",
+      27316754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Dispel",
+      27316755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Magic Mirror",
+      27316756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Cure",
+      27316757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Resurrection",
+      27316758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Animate Dead",
+      27316759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Sacrifice",
+      27316760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Bless",
+      27316761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Curse",
+      27316762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Bloodlust",
+      27316763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Precision",
+      27316764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Weakness",
+      27316765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Stone Skin",
+      27316766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Disrupting Ray",
+      27316767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Prayer",
+      27316768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Mirth",
+      27316769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Sorrow",
+      27316770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fortune",
+      27316771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Misfortune",
+      27316772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Haste",
+      27316773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Slow",
+      27316774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Slayer",
+      27316775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Frenzy",
+      27316776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Titan's Lighting Bolt",
+      27316777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Counterstrike",
+      27316778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Berserk",
+      27316779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Hypnotize",
+      27316780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Forgetfulness",
+      27316781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Blind",
+      27316782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Teleport",
+      27316783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Remove Obstacle",
+      27316784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Clone",
+      27316785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Fire Elemental",
+      27316786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Earth Elemental",
+      27316787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Water Elemental",
+      27316788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spell Air Elemental",
+      27316789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Attack",
+      27316790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Def",
+      27316791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Spellpower",
+      27316792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Piquedram Knowledge",
+      27316793,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

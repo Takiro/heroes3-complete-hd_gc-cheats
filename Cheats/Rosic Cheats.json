@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Rosic Name",
+      27419813,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Movement",
+      27419855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic EXP",
+      27419859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 1",
+      27419923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 2",
+      27419927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 3",
+      27419931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 4",
+      27419935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 5",
+      27419939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 6",
+      27419943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Type Slot 7",
+      27419947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 1",
+      27419951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 2",
+      27419955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 3",
+      27419959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 4",
+      27419963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 5",
+      27419967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 6",
+      27419971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Unit Count Slot 7",
+      27419975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Pathfinding",
+      27419979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Archery",
+      27419980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Logistics",
+      27419981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Scouting",
+      27419982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Diplomacy",
+      27419983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Navigation",
+      27419984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Leadership",
+      27419985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Wisdom",
+      27419986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Mysticism",
+      27419987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Luck",
+      27419988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Ballistics",
+      27419989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Eagle Eye",
+      27419990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Necromancy",
+      27419991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Estates",
+      27419992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Fire Magic",
+      27419993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Air Magic",
+      27419994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Water Magic",
+      27419995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Earth Magic",
+      27419996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Scholar",
+      27419997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Tactics",
+      27419998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Artillery",
+      27419999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Learning",
+      27420000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Offence",
+      27420001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Armourer",
+      27420002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Intelligence",
+      27420003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Sorcery",
+      27420004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Resistance",
+      27420005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic First Aid",
+      27420006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Pathfinding Slot",
+      27420007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Archery Slot",
+      27420008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Logistics Slot",
+      27420009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Scouting Slot",
+      27420010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Diplomacy Slot",
+      27420011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Navigation Slot",
+      27420012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Leadership Slot",
+      27420013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Wisdom Slot",
+      27420014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Mysticism Slot",
+      27420015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Luck Slot",
+      27420016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Ballistics Slot",
+      27420017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Eagle Eye Slot",
+      27420018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Necromancy Slot",
+      27420019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Estates Slot",
+      27420020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Fire Magic Slot",
+      27420021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Air Magic Slot",
+      27420022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Water Magic Slot",
+      27420023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Earth Magic Slot",
+      27420024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Scholar Slot",
+      27420025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Tactics Slot",
+      27420026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Artillery Slot",
+      27420027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Learning Slot",
+      27420028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Offense Slot",
+      27420029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Armourer Slot",
+      27420030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Intelligence Slot",
+      27420031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Sorcery Slot",
+      27420032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Resistance Slot",
+      27420033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic First Aid Slot",
+      27420034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Skill Count",
+      27420035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Ballista equipped (4 or -1)",
+      27420183,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Ammo Cart equipped (5 or -1)",
+      27420191,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic First Aid equipped Item (6 or -1)",
+      27420199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Catapult equipped (3 or -1)",
+      27420207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spellbook equipped (0 or -1)",
+      27420215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 1",
+      27420246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 2",
+      27420254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 3",
+      27420262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 4",
+      27420270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 5",
+      27420278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 6",
+      27420286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 7",
+      27420294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 8",
+      27420302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 9",
+      27420310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 10",
+      27420318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 11",
+      27420326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 12",
+      27420334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 13",
+      27420342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 14",
+      27420350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 15",
+      27420358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 16",
+      27420366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 17",
+      27420374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 18",
+      27420382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 19",
+      27420390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 20",
+      27420398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 21",
+      27420406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 22",
+      27420414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 23",
+      27420422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 24",
+      27420430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 25",
+      27420438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 26",
+      27420446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 27",
+      27420454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 28",
+      27420462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 29",
+      27420470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 30",
+      27420478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 31",
+      27420486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 32",
+      27420494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 33",
+      27420502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 34",
+      27420510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 35",
+      27420518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 36",
+      27420526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 37",
+      27420534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 38",
+      27420542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 39",
+      27420550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 40",
+      27420558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 41",
+      27420566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 42",
+      27420574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 43",
+      27420582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 44",
+      27420590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 45",
+      27420598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 46",
+      27420606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 47",
+      27420614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 48",
+      27420622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 49",
+      27420630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 50",
+      27420638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 51",
+      27420646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 52",
+      27420654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 53",
+      27420662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 54",
+      27420670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 55",
+      27420678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 56",
+      27420686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 57",
+      27420694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 58",
+      27420702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 59",
+      27420710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 60",
+      27420718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 61",
+      27420726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 62",
+      27420734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 63",
+      27420742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Backpack Slot 64",
+      27420750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Summon Boat",
+      27420850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Scuttle Boat",
+      27420851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Visions",
+      27420852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell View Earth",
+      27420853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Disguise",
+      27420854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell View Air",
+      27420855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fly",
+      27420856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Water Walk",
+      27420857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Dimension Door",
+      27420858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Town Portal",
+      27420859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Quicksand",
+      27420860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Land Mine",
+      27420861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Force Field",
+      27420862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fire Wall",
+      27420863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Earthquake",
+      27420864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Magic Arrow",
+      27420865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Ice Bolt",
+      27420866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Lightning Bolt",
+      27420867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Implosion",
+      27420868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Chain Lightning",
+      27420869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Frost Ring",
+      27420870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fireball",
+      27420871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Inferno",
+      27420872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Meteor Shower",
+      27420873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Death Ripple",
+      27420874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Destroy Undead",
+      27420875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Armageddon",
+      27420876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Shield",
+      27420877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Air Shield",
+      27420878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fire Shield",
+      27420879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Protection from Air",
+      27420880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Protection from Fire",
+      27420881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Protection from Water",
+      27420882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Protection from Earth",
+      27420883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Anti Magic",
+      27420884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Dispel",
+      27420885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Magic Mirror",
+      27420886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Cure",
+      27420887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Resurrection",
+      27420888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Animate Dead",
+      27420889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Sacrifice",
+      27420890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Bless",
+      27420891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Curse",
+      27420892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Bloodlust",
+      27420893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Precision",
+      27420894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Weakness",
+      27420895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Stone Skin",
+      27420896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Disrupting Ray",
+      27420897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Prayer",
+      27420898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Mirth",
+      27420899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Sorrow",
+      27420900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fortune",
+      27420901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Misfortune",
+      27420902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Haste",
+      27420903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Slow",
+      27420904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Slayer",
+      27420905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Frenzy",
+      27420906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Titan's Lighting Bolt",
+      27420907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Counterstrike",
+      27420908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Berserk",
+      27420909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Hypnotize",
+      27420910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Forgetfulness",
+      27420911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Blind",
+      27420912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Teleport",
+      27420913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Remove Obstacle",
+      27420914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Clone",
+      27420915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Fire Elemental",
+      27420916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Earth Elemental",
+      27420917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Water Elemental",
+      27420918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spell Air Elemental",
+      27420919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Attack",
+      27420920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Def",
+      27420921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Spellpower",
+      27420922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rosic Knowledge",
+      27420923,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

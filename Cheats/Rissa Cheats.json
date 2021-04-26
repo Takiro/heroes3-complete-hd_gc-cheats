@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Rissa Name",
+      27322703,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Movement",
+      27322745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa EXP",
+      27322749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 1",
+      27322813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 2",
+      27322817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 3",
+      27322821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 4",
+      27322825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 5",
+      27322829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 6",
+      27322833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Type Slot 7",
+      27322837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 1",
+      27322841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 2",
+      27322845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 3",
+      27322849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 4",
+      27322853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 5",
+      27322857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 6",
+      27322861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Unit Count Slot 7",
+      27322865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Pathfinding",
+      27322869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Archery",
+      27322870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Logistics",
+      27322871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Scouting",
+      27322872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Diplomacy",
+      27322873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Navigation",
+      27322874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Leadership",
+      27322875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Wisdom",
+      27322876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Mysticism",
+      27322877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Luck",
+      27322878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Ballistics",
+      27322879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Eagle Eye",
+      27322880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Necromancy",
+      27322881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Estates",
+      27322882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Fire Magic",
+      27322883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Air Magic",
+      27322884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Water Magic",
+      27322885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Earth Magic",
+      27322886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Scholar",
+      27322887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Tactics",
+      27322888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Artillery",
+      27322889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Learning",
+      27322890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Offence",
+      27322891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Armourer",
+      27322892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Intelligence",
+      27322893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Sorcery",
+      27322894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Resistance",
+      27322895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa First Aid",
+      27322896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Pathfinding Slot",
+      27322897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Archery Slot",
+      27322898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Logistics Slot",
+      27322899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Scouting Slot",
+      27322900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Diplomacy Slot",
+      27322901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Navigation Slot",
+      27322902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Leadership Slot",
+      27322903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Wisdom Slot",
+      27322904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Mysticism Slot",
+      27322905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Luck Slot",
+      27322906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Ballistics Slot",
+      27322907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Eagle Eye Slot",
+      27322908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Necromancy Slot",
+      27322909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Estates Slot",
+      27322910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Fire Magic Slot",
+      27322911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Air Magic Slot",
+      27322912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Water Magic Slot",
+      27322913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Earth Magic Slot",
+      27322914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Scholar Slot",
+      27322915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Tactics Slot",
+      27322916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Artillery Slot",
+      27322917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Learning Slot",
+      27322918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Offense Slot",
+      27322919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Armourer Slot",
+      27322920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Intelligence Slot",
+      27322921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Sorcery Slot",
+      27322922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Resistance Slot",
+      27322923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa First Aid Slot",
+      27322924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Skill Count",
+      27322925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Ballista equipped (4 or -1)",
+      27323073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Ammo Cart equipped (5 or -1)",
+      27323081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa First Aid equipped Item (6 or -1)",
+      27323089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Catapult equipped (3 or -1)",
+      27323097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spellbook equipped (0 or -1)",
+      27323105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 1",
+      27323136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 2",
+      27323144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 3",
+      27323152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 4",
+      27323160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 5",
+      27323168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 6",
+      27323176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 7",
+      27323184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 8",
+      27323192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 9",
+      27323200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 10",
+      27323208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 11",
+      27323216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 12",
+      27323224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 13",
+      27323232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 14",
+      27323240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 15",
+      27323248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 16",
+      27323256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 17",
+      27323264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 18",
+      27323272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 19",
+      27323280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 20",
+      27323288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 21",
+      27323296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 22",
+      27323304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 23",
+      27323312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 24",
+      27323320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 25",
+      27323328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 26",
+      27323336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 27",
+      27323344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 28",
+      27323352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 29",
+      27323360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 30",
+      27323368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 31",
+      27323376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 32",
+      27323384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 33",
+      27323392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 34",
+      27323400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 35",
+      27323408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 36",
+      27323416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 37",
+      27323424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 38",
+      27323432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 39",
+      27323440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 40",
+      27323448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 41",
+      27323456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 42",
+      27323464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 43",
+      27323472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 44",
+      27323480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 45",
+      27323488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 46",
+      27323496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 47",
+      27323504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 48",
+      27323512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 49",
+      27323520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 50",
+      27323528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 51",
+      27323536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 52",
+      27323544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 53",
+      27323552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 54",
+      27323560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 55",
+      27323568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 56",
+      27323576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 57",
+      27323584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 58",
+      27323592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 59",
+      27323600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 60",
+      27323608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 61",
+      27323616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 62",
+      27323624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 63",
+      27323632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Backpack Slot 64",
+      27323640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Summon Boat",
+      27323740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Scuttle Boat",
+      27323741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Visions",
+      27323742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell View Earth",
+      27323743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Disguise",
+      27323744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell View Air",
+      27323745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fly",
+      27323746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Water Walk",
+      27323747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Dimension Door",
+      27323748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Town Portal",
+      27323749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Quicksand",
+      27323750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Land Mine",
+      27323751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Force Field",
+      27323752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fire Wall",
+      27323753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Earthquake",
+      27323754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Magic Arrow",
+      27323755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Ice Bolt",
+      27323756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Lightning Bolt",
+      27323757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Implosion",
+      27323758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Chain Lightning",
+      27323759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Frost Ring",
+      27323760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fireball",
+      27323761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Inferno",
+      27323762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Meteor Shower",
+      27323763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Death Ripple",
+      27323764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Destroy Undead",
+      27323765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Armageddon",
+      27323766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Shield",
+      27323767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Air Shield",
+      27323768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fire Shield",
+      27323769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Protection from Air",
+      27323770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Protection from Fire",
+      27323771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Protection from Water",
+      27323772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Protection from Earth",
+      27323773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Anti Magic",
+      27323774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Dispel",
+      27323775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Magic Mirror",
+      27323776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Cure",
+      27323777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Resurrection",
+      27323778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Animate Dead",
+      27323779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Sacrifice",
+      27323780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Bless",
+      27323781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Curse",
+      27323782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Bloodlust",
+      27323783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Precision",
+      27323784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Weakness",
+      27323785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Stone Skin",
+      27323786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Disrupting Ray",
+      27323787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Prayer",
+      27323788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Mirth",
+      27323789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Sorrow",
+      27323790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fortune",
+      27323791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Misfortune",
+      27323792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Haste",
+      27323793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Slow",
+      27323794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Slayer",
+      27323795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Frenzy",
+      27323796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Titan's Lighting Bolt",
+      27323797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Counterstrike",
+      27323798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Berserk",
+      27323799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Hypnotize",
+      27323800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Forgetfulness",
+      27323801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Blind",
+      27323802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Teleport",
+      27323803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Remove Obstacle",
+      27323804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Clone",
+      27323805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Fire Elemental",
+      27323806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Earth Elemental",
+      27323807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Water Elemental",
+      27323808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spell Air Elemental",
+      27323809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Attack",
+      27323810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Def",
+      27323811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Spellpower",
+      27323812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rissa Knowledge",
+      27323813,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

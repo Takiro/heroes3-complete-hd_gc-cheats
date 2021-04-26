@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Zubin Name",
+      27404603,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Movement",
+      27404645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin EXP",
+      27404649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 1",
+      27404713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 2",
+      27404717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 3",
+      27404721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 4",
+      27404725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 5",
+      27404729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 6",
+      27404733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Type Slot 7",
+      27404737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 1",
+      27404741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 2",
+      27404745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 3",
+      27404749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 4",
+      27404753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 5",
+      27404757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 6",
+      27404761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Unit Count Slot 7",
+      27404765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Pathfinding",
+      27404769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Archery",
+      27404770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Logistics",
+      27404771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Scouting",
+      27404772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Diplomacy",
+      27404773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Navigation",
+      27404774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Leadership",
+      27404775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Wisdom",
+      27404776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Mysticism",
+      27404777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Luck",
+      27404778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Ballistics",
+      27404779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Eagle Eye",
+      27404780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Necromancy",
+      27404781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Estates",
+      27404782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Fire Magic",
+      27404783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Air Magic",
+      27404784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Water Magic",
+      27404785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Earth Magic",
+      27404786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Scholar",
+      27404787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Tactics",
+      27404788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Artillery",
+      27404789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Learning",
+      27404790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Offence",
+      27404791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Armourer",
+      27404792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Intelligence",
+      27404793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Sorcery",
+      27404794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Resistance",
+      27404795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin First Aid",
+      27404796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Pathfinding Slot",
+      27404797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Archery Slot",
+      27404798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Logistics Slot",
+      27404799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Scouting Slot",
+      27404800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Diplomacy Slot",
+      27404801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Navigation Slot",
+      27404802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Leadership Slot",
+      27404803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Wisdom Slot",
+      27404804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Mysticism Slot",
+      27404805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Luck Slot",
+      27404806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Ballistics Slot",
+      27404807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Eagle Eye Slot",
+      27404808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Necromancy Slot",
+      27404809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Estates Slot",
+      27404810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Fire Magic Slot",
+      27404811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Air Magic Slot",
+      27404812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Water Magic Slot",
+      27404813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Earth Magic Slot",
+      27404814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Scholar Slot",
+      27404815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Tactics Slot",
+      27404816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Artillery Slot",
+      27404817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Learning Slot",
+      27404818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Offense Slot",
+      27404819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Armourer Slot",
+      27404820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Intelligence Slot",
+      27404821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Sorcery Slot",
+      27404822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Resistance Slot",
+      27404823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin First Aid Slot",
+      27404824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Skill Count",
+      27404825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Ballista equipped (4 or -1)",
+      27404973,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Ammo Cart equipped (5 or -1)",
+      27404981,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin First Aid equipped Item (6 or -1)",
+      27404989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Catapult equipped (3 or -1)",
+      27404997,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spellbook equipped (0 or -1)",
+      27405005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 1",
+      27405036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 2",
+      27405044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 3",
+      27405052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 4",
+      27405060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 5",
+      27405068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 6",
+      27405076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 7",
+      27405084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 8",
+      27405092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 9",
+      27405100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 10",
+      27405108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 11",
+      27405116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 12",
+      27405124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 13",
+      27405132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 14",
+      27405140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 15",
+      27405148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 16",
+      27405156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 17",
+      27405164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 18",
+      27405172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 19",
+      27405180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 20",
+      27405188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 21",
+      27405196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 22",
+      27405204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 23",
+      27405212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 24",
+      27405220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 25",
+      27405228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 26",
+      27405236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 27",
+      27405244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 28",
+      27405252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 29",
+      27405260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 30",
+      27405268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 31",
+      27405276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 32",
+      27405284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 33",
+      27405292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 34",
+      27405300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 35",
+      27405308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 36",
+      27405316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 37",
+      27405324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 38",
+      27405332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 39",
+      27405340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 40",
+      27405348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 41",
+      27405356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 42",
+      27405364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 43",
+      27405372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 44",
+      27405380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 45",
+      27405388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 46",
+      27405396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 47",
+      27405404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 48",
+      27405412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 49",
+      27405420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 50",
+      27405428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 51",
+      27405436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 52",
+      27405444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 53",
+      27405452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 54",
+      27405460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 55",
+      27405468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 56",
+      27405476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 57",
+      27405484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 58",
+      27405492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 59",
+      27405500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 60",
+      27405508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 61",
+      27405516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 62",
+      27405524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 63",
+      27405532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Backpack Slot 64",
+      27405540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Summon Boat",
+      27405640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Scuttle Boat",
+      27405641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Visions",
+      27405642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell View Earth",
+      27405643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Disguise",
+      27405644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell View Air",
+      27405645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fly",
+      27405646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Water Walk",
+      27405647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Dimension Door",
+      27405648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Town Portal",
+      27405649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Quicksand",
+      27405650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Land Mine",
+      27405651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Force Field",
+      27405652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fire Wall",
+      27405653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Earthquake",
+      27405654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Magic Arrow",
+      27405655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Ice Bolt",
+      27405656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Lightning Bolt",
+      27405657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Implosion",
+      27405658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Chain Lightning",
+      27405659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Frost Ring",
+      27405660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fireball",
+      27405661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Inferno",
+      27405662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Meteor Shower",
+      27405663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Death Ripple",
+      27405664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Destroy Undead",
+      27405665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Armageddon",
+      27405666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Shield",
+      27405667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Air Shield",
+      27405668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fire Shield",
+      27405669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Protection from Air",
+      27405670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Protection from Fire",
+      27405671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Protection from Water",
+      27405672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Protection from Earth",
+      27405673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Anti Magic",
+      27405674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Dispel",
+      27405675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Magic Mirror",
+      27405676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Cure",
+      27405677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Resurrection",
+      27405678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Animate Dead",
+      27405679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Sacrifice",
+      27405680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Bless",
+      27405681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Curse",
+      27405682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Bloodlust",
+      27405683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Precision",
+      27405684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Weakness",
+      27405685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Stone Skin",
+      27405686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Disrupting Ray",
+      27405687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Prayer",
+      27405688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Mirth",
+      27405689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Sorrow",
+      27405690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fortune",
+      27405691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Misfortune",
+      27405692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Haste",
+      27405693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Slow",
+      27405694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Slayer",
+      27405695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Frenzy",
+      27405696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Titan's Lighting Bolt",
+      27405697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Counterstrike",
+      27405698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Berserk",
+      27405699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Hypnotize",
+      27405700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Forgetfulness",
+      27405701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Blind",
+      27405702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Teleport",
+      27405703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Remove Obstacle",
+      27405704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Clone",
+      27405705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Fire Elemental",
+      27405706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Earth Elemental",
+      27405707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Water Elemental",
+      27405708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spell Air Elemental",
+      27405709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Attack",
+      27405710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Def",
+      27405711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Spellpower",
+      27405712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Zubin Knowledge",
+      27405713,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

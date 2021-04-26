@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Xeron Name",
+      27459593,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Movement",
+      27459635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron EXP",
+      27459639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 1",
+      27459703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 2",
+      27459707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 3",
+      27459711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 4",
+      27459715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 5",
+      27459719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 6",
+      27459723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Type Slot 7",
+      27459727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 1",
+      27459731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 2",
+      27459735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 3",
+      27459739,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 4",
+      27459743,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 5",
+      27459747,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 6",
+      27459751,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Unit Count Slot 7",
+      27459755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Pathfinding",
+      27459759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Archery",
+      27459760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Logistics",
+      27459761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Scouting",
+      27459762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Diplomacy",
+      27459763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Navigation",
+      27459764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Leadership",
+      27459765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Wisdom",
+      27459766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Mysticism",
+      27459767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Luck",
+      27459768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Ballistics",
+      27459769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Eagle Eye",
+      27459770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Necromancy",
+      27459771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Estates",
+      27459772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Fire Magic",
+      27459773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Air Magic",
+      27459774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Water Magic",
+      27459775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Earth Magic",
+      27459776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Scholar",
+      27459777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Tactics",
+      27459778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Artillery",
+      27459779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Learning",
+      27459780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Offence",
+      27459781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Armourer",
+      27459782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Intelligence",
+      27459783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Sorcery",
+      27459784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Resistance",
+      27459785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron First Aid",
+      27459786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Pathfinding Slot",
+      27459787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Archery Slot",
+      27459788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Logistics Slot",
+      27459789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Scouting Slot",
+      27459790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Diplomacy Slot",
+      27459791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Navigation Slot",
+      27459792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Leadership Slot",
+      27459793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Wisdom Slot",
+      27459794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Mysticism Slot",
+      27459795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Luck Slot",
+      27459796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Ballistics Slot",
+      27459797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Eagle Eye Slot",
+      27459798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Necromancy Slot",
+      27459799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Estates Slot",
+      27459800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Fire Magic Slot",
+      27459801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Air Magic Slot",
+      27459802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Water Magic Slot",
+      27459803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Earth Magic Slot",
+      27459804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Scholar Slot",
+      27459805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Tactics Slot",
+      27459806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Artillery Slot",
+      27459807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Learning Slot",
+      27459808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Offense Slot",
+      27459809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Armourer Slot",
+      27459810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Intelligence Slot",
+      27459811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Sorcery Slot",
+      27459812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Resistance Slot",
+      27459813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron First Aid Slot",
+      27459814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Skill Count",
+      27459815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Ballista equipped (4 or -1)",
+      27459963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Ammo Cart equipped (5 or -1)",
+      27459971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron First Aid equipped Item (6 or -1)",
+      27459979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Catapult equipped (3 or -1)",
+      27459987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spellbook equipped (0 or -1)",
+      27459995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 1",
+      27460026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 2",
+      27460034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 3",
+      27460042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 4",
+      27460050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 5",
+      27460058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 6",
+      27460066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 7",
+      27460074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 8",
+      27460082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 9",
+      27460090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 10",
+      27460098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 11",
+      27460106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 12",
+      27460114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 13",
+      27460122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 14",
+      27460130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 15",
+      27460138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 16",
+      27460146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 17",
+      27460154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 18",
+      27460162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 19",
+      27460170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 20",
+      27460178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 21",
+      27460186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 22",
+      27460194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 23",
+      27460202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 24",
+      27460210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 25",
+      27460218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 26",
+      27460226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 27",
+      27460234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 28",
+      27460242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 29",
+      27460250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 30",
+      27460258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 31",
+      27460266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 32",
+      27460274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 33",
+      27460282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 34",
+      27460290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 35",
+      27460298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 36",
+      27460306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 37",
+      27460314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 38",
+      27460322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 39",
+      27460330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 40",
+      27460338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 41",
+      27460346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 42",
+      27460354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 43",
+      27460362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 44",
+      27460370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 45",
+      27460378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 46",
+      27460386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 47",
+      27460394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 48",
+      27460402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 49",
+      27460410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 50",
+      27460418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 51",
+      27460426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 52",
+      27460434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 53",
+      27460442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 54",
+      27460450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 55",
+      27460458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 56",
+      27460466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 57",
+      27460474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 58",
+      27460482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 59",
+      27460490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 60",
+      27460498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 61",
+      27460506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 62",
+      27460514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 63",
+      27460522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Backpack Slot 64",
+      27460530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Summon Boat",
+      27460630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Scuttle Boat",
+      27460631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Visions",
+      27460632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell View Earth",
+      27460633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Disguise",
+      27460634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell View Air",
+      27460635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fly",
+      27460636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Water Walk",
+      27460637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Dimension Door",
+      27460638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Town Portal",
+      27460639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Quicksand",
+      27460640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Land Mine",
+      27460641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Force Field",
+      27460642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fire Wall",
+      27460643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Earthquake",
+      27460644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Magic Arrow",
+      27460645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Ice Bolt",
+      27460646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Lightning Bolt",
+      27460647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Implosion",
+      27460648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Chain Lightning",
+      27460649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Frost Ring",
+      27460650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fireball",
+      27460651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Inferno",
+      27460652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Meteor Shower",
+      27460653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Death Ripple",
+      27460654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Destroy Undead",
+      27460655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Armageddon",
+      27460656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Shield",
+      27460657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Air Shield",
+      27460658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fire Shield",
+      27460659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Protection from Air",
+      27460660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Protection from Fire",
+      27460661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Protection from Water",
+      27460662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Protection from Earth",
+      27460663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Anti Magic",
+      27460664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Dispel",
+      27460665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Magic Mirror",
+      27460666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Cure",
+      27460667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Resurrection",
+      27460668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Animate Dead",
+      27460669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Sacrifice",
+      27460670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Bless",
+      27460671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Curse",
+      27460672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Bloodlust",
+      27460673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Precision",
+      27460674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Weakness",
+      27460675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Stone Skin",
+      27460676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Disrupting Ray",
+      27460677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Prayer",
+      27460678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Mirth",
+      27460679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Sorrow",
+      27460680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fortune",
+      27460681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Misfortune",
+      27460682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Haste",
+      27460683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Slow",
+      27460684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Slayer",
+      27460685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Frenzy",
+      27460686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Titan's Lighting Bolt",
+      27460687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Counterstrike",
+      27460688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Berserk",
+      27460689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Hypnotize",
+      27460690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Forgetfulness",
+      27460691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Blind",
+      27460692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Teleport",
+      27460693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Remove Obstacle",
+      27460694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Clone",
+      27460695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Fire Elemental",
+      27460696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Earth Elemental",
+      27460697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Water Elemental",
+      27460698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spell Air Elemental",
+      27460699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Attack",
+      27460700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Def",
+      27460701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Spellpower",
+      27460702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Xeron Knowledge",
+      27460703,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Sir Mullich Name",
+      27446723,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Movement",
+      27446765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich EXP",
+      27446769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 1",
+      27446833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 2",
+      27446837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 3",
+      27446841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 4",
+      27446845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 5",
+      27446849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 6",
+      27446853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Type Slot 7",
+      27446857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 1",
+      27446861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 2",
+      27446865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 3",
+      27446869,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 4",
+      27446873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 5",
+      27446877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 6",
+      27446881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Unit Count Slot 7",
+      27446885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Pathfinding",
+      27446889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Archery",
+      27446890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Logistics",
+      27446891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Scouting",
+      27446892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Diplomacy",
+      27446893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Navigation",
+      27446894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Leadership",
+      27446895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Wisdom",
+      27446896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Mysticism",
+      27446897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Luck",
+      27446898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Ballistics",
+      27446899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Eagle Eye",
+      27446900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Necromancy",
+      27446901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Estates",
+      27446902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Fire Magic",
+      27446903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Air Magic",
+      27446904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Water Magic",
+      27446905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Earth Magic",
+      27446906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Scholar",
+      27446907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Tactics",
+      27446908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Artillery",
+      27446909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Learning",
+      27446910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Offence",
+      27446911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Armourer",
+      27446912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Intelligence",
+      27446913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Sorcery",
+      27446914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Resistance",
+      27446915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich First Aid",
+      27446916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Pathfinding Slot",
+      27446917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Archery Slot",
+      27446918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Logistics Slot",
+      27446919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Scouting Slot",
+      27446920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Diplomacy Slot",
+      27446921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Navigation Slot",
+      27446922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Leadership Slot",
+      27446923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Wisdom Slot",
+      27446924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Mysticism Slot",
+      27446925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Luck Slot",
+      27446926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Ballistics Slot",
+      27446927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Eagle Eye Slot",
+      27446928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Necromancy Slot",
+      27446929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Estates Slot",
+      27446930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Fire Magic Slot",
+      27446931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Air Magic Slot",
+      27446932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Water Magic Slot",
+      27446933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Earth Magic Slot",
+      27446934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Scholar Slot",
+      27446935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Tactics Slot",
+      27446936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Artillery Slot",
+      27446937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Learning Slot",
+      27446938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Offense Slot",
+      27446939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Armourer Slot",
+      27446940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Intelligence Slot",
+      27446941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Sorcery Slot",
+      27446942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Resistance Slot",
+      27446943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich First Aid Slot",
+      27446944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Skill Count",
+      27446945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Ballista equipped (4 or -1)",
+      27447093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Ammo Cart equipped (5 or -1)",
+      27447101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich First Aid equipped Item (6 or -1)",
+      27447109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Catapult equipped (3 or -1)",
+      27447117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spellbook equipped (0 or -1)",
+      27447125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 1",
+      27447156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 2",
+      27447164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 3",
+      27447172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 4",
+      27447180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 5",
+      27447188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 6",
+      27447196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 7",
+      27447204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 8",
+      27447212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 9",
+      27447220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 10",
+      27447228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 11",
+      27447236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 12",
+      27447244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 13",
+      27447252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 14",
+      27447260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 15",
+      27447268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 16",
+      27447276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 17",
+      27447284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 18",
+      27447292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 19",
+      27447300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 20",
+      27447308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 21",
+      27447316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 22",
+      27447324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 23",
+      27447332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 24",
+      27447340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 25",
+      27447348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 26",
+      27447356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 27",
+      27447364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 28",
+      27447372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 29",
+      27447380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 30",
+      27447388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 31",
+      27447396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 32",
+      27447404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 33",
+      27447412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 34",
+      27447420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 35",
+      27447428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 36",
+      27447436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 37",
+      27447444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 38",
+      27447452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 39",
+      27447460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 40",
+      27447468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 41",
+      27447476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 42",
+      27447484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 43",
+      27447492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 44",
+      27447500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 45",
+      27447508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 46",
+      27447516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 47",
+      27447524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 48",
+      27447532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 49",
+      27447540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 50",
+      27447548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 51",
+      27447556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 52",
+      27447564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 53",
+      27447572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 54",
+      27447580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 55",
+      27447588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 56",
+      27447596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 57",
+      27447604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 58",
+      27447612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 59",
+      27447620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 60",
+      27447628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 61",
+      27447636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 62",
+      27447644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 63",
+      27447652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Backpack Slot 64",
+      27447660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Summon Boat",
+      27447760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Scuttle Boat",
+      27447761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Visions",
+      27447762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell View Earth",
+      27447763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Disguise",
+      27447764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell View Air",
+      27447765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fly",
+      27447766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Water Walk",
+      27447767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Dimension Door",
+      27447768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Town Portal",
+      27447769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Quicksand",
+      27447770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Land Mine",
+      27447771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Force Field",
+      27447772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fire Wall",
+      27447773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Earthquake",
+      27447774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Magic Arrow",
+      27447775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Ice Bolt",
+      27447776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Lightning Bolt",
+      27447777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Implosion",
+      27447778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Chain Lightning",
+      27447779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Frost Ring",
+      27447780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fireball",
+      27447781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Inferno",
+      27447782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Meteor Shower",
+      27447783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Death Ripple",
+      27447784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Destroy Undead",
+      27447785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Armageddon",
+      27447786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Shield",
+      27447787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Air Shield",
+      27447788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fire Shield",
+      27447789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Protection from Air",
+      27447790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Protection from Fire",
+      27447791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Protection from Water",
+      27447792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Protection from Earth",
+      27447793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Anti Magic",
+      27447794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Dispel",
+      27447795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Magic Mirror",
+      27447796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Cure",
+      27447797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Resurrection",
+      27447798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Animate Dead",
+      27447799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Sacrifice",
+      27447800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Bless",
+      27447801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Curse",
+      27447802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Bloodlust",
+      27447803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Precision",
+      27447804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Weakness",
+      27447805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Stone Skin",
+      27447806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Disrupting Ray",
+      27447807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Prayer",
+      27447808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Mirth",
+      27447809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Sorrow",
+      27447810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fortune",
+      27447811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Misfortune",
+      27447812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Haste",
+      27447813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Slow",
+      27447814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Slayer",
+      27447815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Frenzy",
+      27447816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Titan's Lighting Bolt",
+      27447817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Counterstrike",
+      27447818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Berserk",
+      27447819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Hypnotize",
+      27447820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Forgetfulness",
+      27447821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Blind",
+      27447822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Teleport",
+      27447823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Remove Obstacle",
+      27447824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Clone",
+      27447825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Fire Elemental",
+      27447826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Earth Elemental",
+      27447827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Water Elemental",
+      27447828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spell Air Elemental",
+      27447829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Attack",
+      27447830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Def",
+      27447831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Spellpower",
+      27447832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sir Mullich Knowledge",
+      27447833,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

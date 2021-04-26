@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Serena Name",
+      27327383,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Movement",
+      27327425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena EXP",
+      27327429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 1",
+      27327493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 2",
+      27327497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 3",
+      27327501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 4",
+      27327505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 5",
+      27327509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 6",
+      27327513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Type Slot 7",
+      27327517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 1",
+      27327521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 2",
+      27327525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 3",
+      27327529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 4",
+      27327533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 5",
+      27327537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 6",
+      27327541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Unit Count Slot 7",
+      27327545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Pathfinding",
+      27327549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Archery",
+      27327550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Logistics",
+      27327551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Scouting",
+      27327552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Diplomacy",
+      27327553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Navigation",
+      27327554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Leadership",
+      27327555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Wisdom",
+      27327556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Mysticism",
+      27327557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Luck",
+      27327558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Ballistics",
+      27327559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Eagle Eye",
+      27327560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Necromancy",
+      27327561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Estates",
+      27327562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Fire Magic",
+      27327563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Air Magic",
+      27327564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Water Magic",
+      27327565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Earth Magic",
+      27327566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Scholar",
+      27327567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Tactics",
+      27327568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Artillery",
+      27327569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Learning",
+      27327570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Offence",
+      27327571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Armourer",
+      27327572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Intelligence",
+      27327573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Sorcery",
+      27327574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Resistance",
+      27327575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena First Aid",
+      27327576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Pathfinding Slot",
+      27327577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Archery Slot",
+      27327578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Logistics Slot",
+      27327579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Scouting Slot",
+      27327580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Diplomacy Slot",
+      27327581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Navigation Slot",
+      27327582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Leadership Slot",
+      27327583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Wisdom Slot",
+      27327584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Mysticism Slot",
+      27327585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Luck Slot",
+      27327586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Ballistics Slot",
+      27327587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Eagle Eye Slot",
+      27327588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Necromancy Slot",
+      27327589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Estates Slot",
+      27327590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Fire Magic Slot",
+      27327591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Air Magic Slot",
+      27327592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Water Magic Slot",
+      27327593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Earth Magic Slot",
+      27327594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Scholar Slot",
+      27327595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Tactics Slot",
+      27327596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Artillery Slot",
+      27327597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Learning Slot",
+      27327598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Offense Slot",
+      27327599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Armourer Slot",
+      27327600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Intelligence Slot",
+      27327601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Sorcery Slot",
+      27327602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Resistance Slot",
+      27327603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena First Aid Slot",
+      27327604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Skill Count",
+      27327605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Ballista equipped (4 or -1)",
+      27327753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Ammo Cart equipped (5 or -1)",
+      27327761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena First Aid equipped Item (6 or -1)",
+      27327769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Catapult equipped (3 or -1)",
+      27327777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spellbook equipped (0 or -1)",
+      27327785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 1",
+      27327816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 2",
+      27327824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 3",
+      27327832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 4",
+      27327840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 5",
+      27327848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 6",
+      27327856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 7",
+      27327864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 8",
+      27327872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 9",
+      27327880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 10",
+      27327888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 11",
+      27327896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 12",
+      27327904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 13",
+      27327912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 14",
+      27327920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 15",
+      27327928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 16",
+      27327936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 17",
+      27327944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 18",
+      27327952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 19",
+      27327960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 20",
+      27327968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 21",
+      27327976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 22",
+      27327984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 23",
+      27327992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 24",
+      27328000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 25",
+      27328008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 26",
+      27328016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 27",
+      27328024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 28",
+      27328032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 29",
+      27328040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 30",
+      27328048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 31",
+      27328056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 32",
+      27328064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 33",
+      27328072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 34",
+      27328080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 35",
+      27328088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 36",
+      27328096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 37",
+      27328104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 38",
+      27328112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 39",
+      27328120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 40",
+      27328128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 41",
+      27328136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 42",
+      27328144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 43",
+      27328152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 44",
+      27328160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 45",
+      27328168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 46",
+      27328176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 47",
+      27328184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 48",
+      27328192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 49",
+      27328200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 50",
+      27328208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 51",
+      27328216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 52",
+      27328224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 53",
+      27328232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 54",
+      27328240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 55",
+      27328248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 56",
+      27328256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 57",
+      27328264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 58",
+      27328272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 59",
+      27328280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 60",
+      27328288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 61",
+      27328296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 62",
+      27328304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 63",
+      27328312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Backpack Slot 64",
+      27328320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Summon Boat",
+      27328420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Scuttle Boat",
+      27328421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Visions",
+      27328422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell View Earth",
+      27328423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Disguise",
+      27328424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell View Air",
+      27328425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fly",
+      27328426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Water Walk",
+      27328427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Dimension Door",
+      27328428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Town Portal",
+      27328429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Quicksand",
+      27328430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Land Mine",
+      27328431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Force Field",
+      27328432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fire Wall",
+      27328433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Earthquake",
+      27328434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Magic Arrow",
+      27328435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Ice Bolt",
+      27328436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Lightning Bolt",
+      27328437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Implosion",
+      27328438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Chain Lightning",
+      27328439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Frost Ring",
+      27328440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fireball",
+      27328441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Inferno",
+      27328442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Meteor Shower",
+      27328443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Death Ripple",
+      27328444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Destroy Undead",
+      27328445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Armageddon",
+      27328446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Shield",
+      27328447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Air Shield",
+      27328448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fire Shield",
+      27328449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Protection from Air",
+      27328450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Protection from Fire",
+      27328451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Protection from Water",
+      27328452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Protection from Earth",
+      27328453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Anti Magic",
+      27328454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Dispel",
+      27328455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Magic Mirror",
+      27328456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Cure",
+      27328457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Resurrection",
+      27328458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Animate Dead",
+      27328459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Sacrifice",
+      27328460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Bless",
+      27328461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Curse",
+      27328462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Bloodlust",
+      27328463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Precision",
+      27328464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Weakness",
+      27328465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Stone Skin",
+      27328466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Disrupting Ray",
+      27328467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Prayer",
+      27328468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Mirth",
+      27328469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Sorrow",
+      27328470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fortune",
+      27328471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Misfortune",
+      27328472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Haste",
+      27328473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Slow",
+      27328474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Slayer",
+      27328475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Frenzy",
+      27328476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Titan's Lighting Bolt",
+      27328477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Counterstrike",
+      27328478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Berserk",
+      27328479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Hypnotize",
+      27328480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Forgetfulness",
+      27328481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Blind",
+      27328482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Teleport",
+      27328483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Remove Obstacle",
+      27328484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Clone",
+      27328485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Fire Elemental",
+      27328486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Earth Elemental",
+      27328487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Water Elemental",
+      27328488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spell Air Elemental",
+      27328489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Attack",
+      27328490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Def",
+      27328491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Spellpower",
+      27328492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Serena Knowledge",
+      27328493,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

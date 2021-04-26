@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Sylvia Name",
+      27281753,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Movement",
+      27281795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia EXP",
+      27281799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 1",
+      27281863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 2",
+      27281867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 3",
+      27281871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 4",
+      27281875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 5",
+      27281879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 6",
+      27281883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Type Slot 7",
+      27281887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 1",
+      27281891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 2",
+      27281895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 3",
+      27281899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 4",
+      27281903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 5",
+      27281907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 6",
+      27281911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Unit Count Slot 7",
+      27281915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Pathfinding",
+      27281919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Archery",
+      27281920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Logistics",
+      27281921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Scouting",
+      27281922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Diplomacy",
+      27281923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Navigation",
+      27281924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Leadership",
+      27281925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Wisdom",
+      27281926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Mysticism",
+      27281927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Luck",
+      27281928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Ballistics",
+      27281929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Eagle Eye",
+      27281930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Necromancy",
+      27281931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Estates",
+      27281932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Fire Magic",
+      27281933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Air Magic",
+      27281934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Water Magic",
+      27281935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Earth Magic",
+      27281936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Scholar",
+      27281937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Tactics",
+      27281938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Artillery",
+      27281939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Learning",
+      27281940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Offence",
+      27281941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Armourer",
+      27281942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Intelligence",
+      27281943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Sorcery",
+      27281944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Resistance",
+      27281945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia First Aid",
+      27281946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Pathfinding Slot",
+      27281947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Archery Slot",
+      27281948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Logistics Slot",
+      27281949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Scouting Slot",
+      27281950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Diplomacy Slot",
+      27281951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Navigation Slot",
+      27281952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Leadership Slot",
+      27281953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Wisdom Slot",
+      27281954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Mysticism Slot",
+      27281955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Luck Slot",
+      27281956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Ballistics Slot",
+      27281957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Eagle Eye Slot",
+      27281958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Necromancy Slot",
+      27281959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Estates Slot",
+      27281960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Fire Magic Slot",
+      27281961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Air Magic Slot",
+      27281962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Water Magic Slot",
+      27281963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Earth Magic Slot",
+      27281964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Scholar Slot",
+      27281965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Tactics Slot",
+      27281966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Artillery Slot",
+      27281967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Learning Slot",
+      27281968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Offense Slot",
+      27281969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Armourer Slot",
+      27281970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Intelligence Slot",
+      27281971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Sorcery Slot",
+      27281972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Resistance Slot",
+      27281973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia First Aid Slot",
+      27281974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Skill Count",
+      27281975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Ballista equipped (4 or -1)",
+      27282123,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Ammo Cart equipped (5 or -1)",
+      27282131,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia First Aid equipped Item (6 or -1)",
+      27282139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Catapult equipped (3 or -1)",
+      27282147,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spellbook equipped (0 or -1)",
+      27282155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 1",
+      27282186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 2",
+      27282194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 3",
+      27282202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 4",
+      27282210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 5",
+      27282218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 6",
+      27282226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 7",
+      27282234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 8",
+      27282242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 9",
+      27282250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 10",
+      27282258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 11",
+      27282266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 12",
+      27282274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 13",
+      27282282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 14",
+      27282290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 15",
+      27282298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 16",
+      27282306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 17",
+      27282314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 18",
+      27282322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 19",
+      27282330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 20",
+      27282338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 21",
+      27282346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 22",
+      27282354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 23",
+      27282362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 24",
+      27282370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 25",
+      27282378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 26",
+      27282386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 27",
+      27282394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 28",
+      27282402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 29",
+      27282410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 30",
+      27282418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 31",
+      27282426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 32",
+      27282434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 33",
+      27282442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 34",
+      27282450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 35",
+      27282458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 36",
+      27282466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 37",
+      27282474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 38",
+      27282482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 39",
+      27282490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 40",
+      27282498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 41",
+      27282506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 42",
+      27282514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 43",
+      27282522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 44",
+      27282530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 45",
+      27282538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 46",
+      27282546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 47",
+      27282554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 48",
+      27282562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 49",
+      27282570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 50",
+      27282578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 51",
+      27282586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 52",
+      27282594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 53",
+      27282602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 54",
+      27282610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 55",
+      27282618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 56",
+      27282626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 57",
+      27282634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 58",
+      27282642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 59",
+      27282650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 60",
+      27282658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 61",
+      27282666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 62",
+      27282674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 63",
+      27282682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Backpack Slot 64",
+      27282690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Summon Boat",
+      27282790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Scuttle Boat",
+      27282791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Visions",
+      27282792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell View Earth",
+      27282793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Disguise",
+      27282794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell View Air",
+      27282795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fly",
+      27282796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Water Walk",
+      27282797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Dimension Door",
+      27282798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Town Portal",
+      27282799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Quicksand",
+      27282800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Land Mine",
+      27282801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Force Field",
+      27282802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fire Wall",
+      27282803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Earthquake",
+      27282804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Magic Arrow",
+      27282805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Ice Bolt",
+      27282806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Lightning Bolt",
+      27282807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Implosion",
+      27282808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Chain Lightning",
+      27282809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Frost Ring",
+      27282810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fireball",
+      27282811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Inferno",
+      27282812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Meteor Shower",
+      27282813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Death Ripple",
+      27282814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Destroy Undead",
+      27282815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Armageddon",
+      27282816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Shield",
+      27282817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Air Shield",
+      27282818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fire Shield",
+      27282819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Protection from Air",
+      27282820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Protection from Fire",
+      27282821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Protection from Water",
+      27282822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Protection from Earth",
+      27282823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Anti Magic",
+      27282824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Dispel",
+      27282825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Magic Mirror",
+      27282826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Cure",
+      27282827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Resurrection",
+      27282828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Animate Dead",
+      27282829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Sacrifice",
+      27282830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Bless",
+      27282831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Curse",
+      27282832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Bloodlust",
+      27282833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Precision",
+      27282834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Weakness",
+      27282835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Stone Skin",
+      27282836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Disrupting Ray",
+      27282837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Prayer",
+      27282838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Mirth",
+      27282839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Sorrow",
+      27282840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fortune",
+      27282841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Misfortune",
+      27282842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Haste",
+      27282843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Slow",
+      27282844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Slayer",
+      27282845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Frenzy",
+      27282846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Titan's Lighting Bolt",
+      27282847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Counterstrike",
+      27282848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Berserk",
+      27282849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Hypnotize",
+      27282850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Forgetfulness",
+      27282851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Blind",
+      27282852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Teleport",
+      27282853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Remove Obstacle",
+      27282854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Clone",
+      27282855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Fire Elemental",
+      27282856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Earth Elemental",
+      27282857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Water Elemental",
+      27282858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spell Air Elemental",
+      27282859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Attack",
+      27282860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Def",
+      27282861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Spellpower",
+      27282862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Sylvia Knowledge",
+      27282863,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Valeska Name",
+      27279413,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Movement",
+      27279455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska EXP",
+      27279459,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 1",
+      27279523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 2",
+      27279527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 3",
+      27279531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 4",
+      27279535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 5",
+      27279539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 6",
+      27279543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Type Slot 7",
+      27279547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 1",
+      27279551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 2",
+      27279555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 3",
+      27279559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 4",
+      27279563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 5",
+      27279567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 6",
+      27279571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Unit Count Slot 7",
+      27279575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Pathfinding",
+      27279579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Archery",
+      27279580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Logistics",
+      27279581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Scouting",
+      27279582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Diplomacy",
+      27279583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Navigation",
+      27279584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Leadership",
+      27279585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Wisdom",
+      27279586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Mysticism",
+      27279587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Luck",
+      27279588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Ballistics",
+      27279589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Eagle Eye",
+      27279590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Necromancy",
+      27279591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Estates",
+      27279592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Fire Magic",
+      27279593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Air Magic",
+      27279594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Water Magic",
+      27279595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Earth Magic",
+      27279596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Scholar",
+      27279597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Tactics",
+      27279598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Artillery",
+      27279599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Learning",
+      27279600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Offence",
+      27279601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Armourer",
+      27279602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Intelligence",
+      27279603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Sorcery",
+      27279604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Resistance",
+      27279605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska First Aid",
+      27279606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Pathfinding Slot",
+      27279607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Archery Slot",
+      27279608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Logistics Slot",
+      27279609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Scouting Slot",
+      27279610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Diplomacy Slot",
+      27279611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Navigation Slot",
+      27279612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Leadership Slot",
+      27279613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Wisdom Slot",
+      27279614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Mysticism Slot",
+      27279615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Luck Slot",
+      27279616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Ballistics Slot",
+      27279617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Eagle Eye Slot",
+      27279618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Necromancy Slot",
+      27279619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Estates Slot",
+      27279620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Fire Magic Slot",
+      27279621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Air Magic Slot",
+      27279622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Water Magic Slot",
+      27279623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Earth Magic Slot",
+      27279624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Scholar Slot",
+      27279625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Tactics Slot",
+      27279626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Artillery Slot",
+      27279627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Learning Slot",
+      27279628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Offense Slot",
+      27279629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Armourer Slot",
+      27279630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Intelligence Slot",
+      27279631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Sorcery Slot",
+      27279632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Resistance Slot",
+      27279633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska First Aid Slot",
+      27279634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Skill Count",
+      27279635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Ballista equipped (4 or -1)",
+      27279783,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Ammo Cart equipped (5 or -1)",
+      27279791,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska First Aid equipped Item (6 or -1)",
+      27279799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Catapult equipped (3 or -1)",
+      27279807,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spellbook equipped (0 or -1)",
+      27279815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 1",
+      27279846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 2",
+      27279854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 3",
+      27279862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 4",
+      27279870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 5",
+      27279878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 6",
+      27279886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 7",
+      27279894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 8",
+      27279902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 9",
+      27279910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 10",
+      27279918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 11",
+      27279926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 12",
+      27279934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 13",
+      27279942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 14",
+      27279950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 15",
+      27279958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 16",
+      27279966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 17",
+      27279974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 18",
+      27279982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 19",
+      27279990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 20",
+      27279998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 21",
+      27280006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 22",
+      27280014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 23",
+      27280022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 24",
+      27280030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 25",
+      27280038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 26",
+      27280046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 27",
+      27280054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 28",
+      27280062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 29",
+      27280070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 30",
+      27280078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 31",
+      27280086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 32",
+      27280094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 33",
+      27280102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 34",
+      27280110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 35",
+      27280118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 36",
+      27280126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 37",
+      27280134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 38",
+      27280142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 39",
+      27280150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 40",
+      27280158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 41",
+      27280166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 42",
+      27280174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 43",
+      27280182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 44",
+      27280190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 45",
+      27280198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 46",
+      27280206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 47",
+      27280214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 48",
+      27280222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 49",
+      27280230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 50",
+      27280238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 51",
+      27280246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 52",
+      27280254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 53",
+      27280262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 54",
+      27280270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 55",
+      27280278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 56",
+      27280286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 57",
+      27280294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 58",
+      27280302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 59",
+      27280310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 60",
+      27280318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 61",
+      27280326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 62",
+      27280334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 63",
+      27280342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Backpack Slot 64",
+      27280350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Summon Boat",
+      27280450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Scuttle Boat",
+      27280451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Visions",
+      27280452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell View Earth",
+      27280453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Disguise",
+      27280454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell View Air",
+      27280455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fly",
+      27280456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Water Walk",
+      27280457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Dimension Door",
+      27280458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Town Portal",
+      27280459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Quicksand",
+      27280460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Land Mine",
+      27280461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Force Field",
+      27280462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fire Wall",
+      27280463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Earthquake",
+      27280464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Magic Arrow",
+      27280465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Ice Bolt",
+      27280466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Lightning Bolt",
+      27280467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Implosion",
+      27280468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Chain Lightning",
+      27280469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Frost Ring",
+      27280470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fireball",
+      27280471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Inferno",
+      27280472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Meteor Shower",
+      27280473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Death Ripple",
+      27280474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Destroy Undead",
+      27280475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Armageddon",
+      27280476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Shield",
+      27280477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Air Shield",
+      27280478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fire Shield",
+      27280479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Protection from Air",
+      27280480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Protection from Fire",
+      27280481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Protection from Water",
+      27280482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Protection from Earth",
+      27280483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Anti Magic",
+      27280484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Dispel",
+      27280485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Magic Mirror",
+      27280486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Cure",
+      27280487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Resurrection",
+      27280488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Animate Dead",
+      27280489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Sacrifice",
+      27280490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Bless",
+      27280491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Curse",
+      27280492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Bloodlust",
+      27280493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Precision",
+      27280494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Weakness",
+      27280495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Stone Skin",
+      27280496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Disrupting Ray",
+      27280497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Prayer",
+      27280498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Mirth",
+      27280499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Sorrow",
+      27280500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fortune",
+      27280501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Misfortune",
+      27280502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Haste",
+      27280503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Slow",
+      27280504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Slayer",
+      27280505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Frenzy",
+      27280506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Titan's Lighting Bolt",
+      27280507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Counterstrike",
+      27280508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Berserk",
+      27280509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Hypnotize",
+      27280510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Forgetfulness",
+      27280511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Blind",
+      27280512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Teleport",
+      27280513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Remove Obstacle",
+      27280514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Clone",
+      27280515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Fire Elemental",
+      27280516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Earth Elemental",
+      27280517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Water Elemental",
+      27280518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spell Air Elemental",
+      27280519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Attack",
+      27280520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Def",
+      27280521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Spellpower",
+      27280522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Valeska Knowledge",
+      27280523,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

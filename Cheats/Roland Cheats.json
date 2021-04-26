@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Roland Name",
+      27456083,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Movement",
+      27456125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland EXP",
+      27456129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 1",
+      27456193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 2",
+      27456197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 3",
+      27456201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 4",
+      27456205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 5",
+      27456209,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 6",
+      27456213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Type Slot 7",
+      27456217,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 1",
+      27456221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 2",
+      27456225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 3",
+      27456229,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 4",
+      27456233,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 5",
+      27456237,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 6",
+      27456241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Unit Count Slot 7",
+      27456245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Pathfinding",
+      27456249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Archery",
+      27456250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Logistics",
+      27456251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Scouting",
+      27456252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Diplomacy",
+      27456253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Navigation",
+      27456254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Leadership",
+      27456255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Wisdom",
+      27456256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Mysticism",
+      27456257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Luck",
+      27456258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Ballistics",
+      27456259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Eagle Eye",
+      27456260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Necromancy",
+      27456261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Estates",
+      27456262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Fire Magic",
+      27456263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Air Magic",
+      27456264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Water Magic",
+      27456265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Earth Magic",
+      27456266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Scholar",
+      27456267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Tactics",
+      27456268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Artillery",
+      27456269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Learning",
+      27456270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Offence",
+      27456271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Armourer",
+      27456272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Intelligence",
+      27456273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Sorcery",
+      27456274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Resistance",
+      27456275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland First Aid",
+      27456276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Pathfinding Slot",
+      27456277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Archery Slot",
+      27456278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Logistics Slot",
+      27456279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Scouting Slot",
+      27456280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Diplomacy Slot",
+      27456281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Navigation Slot",
+      27456282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Leadership Slot",
+      27456283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Wisdom Slot",
+      27456284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Mysticism Slot",
+      27456285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Luck Slot",
+      27456286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Ballistics Slot",
+      27456287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Eagle Eye Slot",
+      27456288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Necromancy Slot",
+      27456289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Estates Slot",
+      27456290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Fire Magic Slot",
+      27456291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Air Magic Slot",
+      27456292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Water Magic Slot",
+      27456293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Earth Magic Slot",
+      27456294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Scholar Slot",
+      27456295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Tactics Slot",
+      27456296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Artillery Slot",
+      27456297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Learning Slot",
+      27456298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Offense Slot",
+      27456299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Armourer Slot",
+      27456300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Intelligence Slot",
+      27456301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Sorcery Slot",
+      27456302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Resistance Slot",
+      27456303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland First Aid Slot",
+      27456304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Skill Count",
+      27456305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Ballista equipped (4 or -1)",
+      27456453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Ammo Cart equipped (5 or -1)",
+      27456461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland First Aid equipped Item (6 or -1)",
+      27456469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Catapult equipped (3 or -1)",
+      27456477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spellbook equipped (0 or -1)",
+      27456485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 1",
+      27456516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 2",
+      27456524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 3",
+      27456532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 4",
+      27456540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 5",
+      27456548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 6",
+      27456556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 7",
+      27456564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 8",
+      27456572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 9",
+      27456580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 10",
+      27456588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 11",
+      27456596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 12",
+      27456604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 13",
+      27456612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 14",
+      27456620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 15",
+      27456628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 16",
+      27456636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 17",
+      27456644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 18",
+      27456652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 19",
+      27456660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 20",
+      27456668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 21",
+      27456676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 22",
+      27456684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 23",
+      27456692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 24",
+      27456700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 25",
+      27456708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 26",
+      27456716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 27",
+      27456724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 28",
+      27456732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 29",
+      27456740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 30",
+      27456748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 31",
+      27456756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 32",
+      27456764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 33",
+      27456772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 34",
+      27456780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 35",
+      27456788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 36",
+      27456796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 37",
+      27456804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 38",
+      27456812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 39",
+      27456820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 40",
+      27456828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 41",
+      27456836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 42",
+      27456844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 43",
+      27456852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 44",
+      27456860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 45",
+      27456868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 46",
+      27456876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 47",
+      27456884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 48",
+      27456892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 49",
+      27456900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 50",
+      27456908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 51",
+      27456916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 52",
+      27456924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 53",
+      27456932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 54",
+      27456940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 55",
+      27456948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 56",
+      27456956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 57",
+      27456964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 58",
+      27456972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 59",
+      27456980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 60",
+      27456988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 61",
+      27456996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 62",
+      27457004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 63",
+      27457012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Backpack Slot 64",
+      27457020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Summon Boat",
+      27457120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Scuttle Boat",
+      27457121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Visions",
+      27457122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell View Earth",
+      27457123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Disguise",
+      27457124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell View Air",
+      27457125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fly",
+      27457126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Water Walk",
+      27457127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Dimension Door",
+      27457128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Town Portal",
+      27457129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Quicksand",
+      27457130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Land Mine",
+      27457131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Force Field",
+      27457132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fire Wall",
+      27457133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Earthquake",
+      27457134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Magic Arrow",
+      27457135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Ice Bolt",
+      27457136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Lightning Bolt",
+      27457137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Implosion",
+      27457138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Chain Lightning",
+      27457139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Frost Ring",
+      27457140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fireball",
+      27457141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Inferno",
+      27457142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Meteor Shower",
+      27457143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Death Ripple",
+      27457144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Destroy Undead",
+      27457145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Armageddon",
+      27457146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Shield",
+      27457147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Air Shield",
+      27457148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fire Shield",
+      27457149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Protection from Air",
+      27457150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Protection from Fire",
+      27457151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Protection from Water",
+      27457152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Protection from Earth",
+      27457153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Anti Magic",
+      27457154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Dispel",
+      27457155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Magic Mirror",
+      27457156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Cure",
+      27457157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Resurrection",
+      27457158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Animate Dead",
+      27457159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Sacrifice",
+      27457160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Bless",
+      27457161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Curse",
+      27457162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Bloodlust",
+      27457163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Precision",
+      27457164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Weakness",
+      27457165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Stone Skin",
+      27457166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Disrupting Ray",
+      27457167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Prayer",
+      27457168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Mirth",
+      27457169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Sorrow",
+      27457170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fortune",
+      27457171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Misfortune",
+      27457172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Haste",
+      27457173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Slow",
+      27457174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Slayer",
+      27457175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Frenzy",
+      27457176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Titan's Lighting Bolt",
+      27457177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Counterstrike",
+      27457178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Berserk",
+      27457179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Hypnotize",
+      27457180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Forgetfulness",
+      27457181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Blind",
+      27457182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Teleport",
+      27457183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Remove Obstacle",
+      27457184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Clone",
+      27457185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Fire Elemental",
+      27457186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Earth Elemental",
+      27457187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Water Elemental",
+      27457188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spell Air Elemental",
+      27457189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Attack",
+      27457190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Def",
+      27457191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Spellpower",
+      27457192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Roland Knowledge",
+      27457193,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

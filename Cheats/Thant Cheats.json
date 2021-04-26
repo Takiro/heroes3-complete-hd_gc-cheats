@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Thant Name",
+      27367163,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Movement",
+      27367205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant EXP",
+      27367209,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 1",
+      27367273,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 2",
+      27367277,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 3",
+      27367281,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 4",
+      27367285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 5",
+      27367289,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 6",
+      27367293,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Type Slot 7",
+      27367297,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 1",
+      27367301,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 2",
+      27367305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 3",
+      27367309,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 4",
+      27367313,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 5",
+      27367317,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 6",
+      27367321,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Unit Count Slot 7",
+      27367325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Pathfinding",
+      27367329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Archery",
+      27367330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Logistics",
+      27367331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Scouting",
+      27367332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Diplomacy",
+      27367333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Navigation",
+      27367334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Leadership",
+      27367335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Wisdom",
+      27367336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Mysticism",
+      27367337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Luck",
+      27367338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Ballistics",
+      27367339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Eagle Eye",
+      27367340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Necromancy",
+      27367341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Estates",
+      27367342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Fire Magic",
+      27367343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Air Magic",
+      27367344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Water Magic",
+      27367345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Earth Magic",
+      27367346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Scholar",
+      27367347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Tactics",
+      27367348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Artillery",
+      27367349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Learning",
+      27367350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Offence",
+      27367351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Armourer",
+      27367352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Intelligence",
+      27367353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Sorcery",
+      27367354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Resistance",
+      27367355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant First Aid",
+      27367356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Pathfinding Slot",
+      27367357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Archery Slot",
+      27367358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Logistics Slot",
+      27367359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Scouting Slot",
+      27367360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Diplomacy Slot",
+      27367361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Navigation Slot",
+      27367362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Leadership Slot",
+      27367363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Wisdom Slot",
+      27367364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Mysticism Slot",
+      27367365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Luck Slot",
+      27367366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Ballistics Slot",
+      27367367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Eagle Eye Slot",
+      27367368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Necromancy Slot",
+      27367369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Estates Slot",
+      27367370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Fire Magic Slot",
+      27367371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Air Magic Slot",
+      27367372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Water Magic Slot",
+      27367373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Earth Magic Slot",
+      27367374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Scholar Slot",
+      27367375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Tactics Slot",
+      27367376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Artillery Slot",
+      27367377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Learning Slot",
+      27367378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Offense Slot",
+      27367379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Armourer Slot",
+      27367380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Intelligence Slot",
+      27367381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Sorcery Slot",
+      27367382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Resistance Slot",
+      27367383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant First Aid Slot",
+      27367384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Skill Count",
+      27367385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Ballista equipped (4 or -1)",
+      27367533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Ammo Cart equipped (5 or -1)",
+      27367541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant First Aid equipped Item (6 or -1)",
+      27367549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Catapult equipped (3 or -1)",
+      27367557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spellbook equipped (0 or -1)",
+      27367565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 1",
+      27367596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 2",
+      27367604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 3",
+      27367612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 4",
+      27367620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 5",
+      27367628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 6",
+      27367636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 7",
+      27367644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 8",
+      27367652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 9",
+      27367660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 10",
+      27367668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 11",
+      27367676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 12",
+      27367684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 13",
+      27367692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 14",
+      27367700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 15",
+      27367708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 16",
+      27367716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 17",
+      27367724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 18",
+      27367732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 19",
+      27367740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 20",
+      27367748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 21",
+      27367756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 22",
+      27367764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 23",
+      27367772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 24",
+      27367780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 25",
+      27367788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 26",
+      27367796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 27",
+      27367804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 28",
+      27367812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 29",
+      27367820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 30",
+      27367828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 31",
+      27367836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 32",
+      27367844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 33",
+      27367852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 34",
+      27367860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 35",
+      27367868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 36",
+      27367876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 37",
+      27367884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 38",
+      27367892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 39",
+      27367900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 40",
+      27367908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 41",
+      27367916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 42",
+      27367924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 43",
+      27367932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 44",
+      27367940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 45",
+      27367948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 46",
+      27367956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 47",
+      27367964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 48",
+      27367972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 49",
+      27367980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 50",
+      27367988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 51",
+      27367996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 52",
+      27368004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 53",
+      27368012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 54",
+      27368020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 55",
+      27368028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 56",
+      27368036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 57",
+      27368044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 58",
+      27368052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 59",
+      27368060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 60",
+      27368068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 61",
+      27368076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 62",
+      27368084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 63",
+      27368092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Backpack Slot 64",
+      27368100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Summon Boat",
+      27368200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Scuttle Boat",
+      27368201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Visions",
+      27368202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell View Earth",
+      27368203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Disguise",
+      27368204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell View Air",
+      27368205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fly",
+      27368206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Water Walk",
+      27368207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Dimension Door",
+      27368208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Town Portal",
+      27368209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Quicksand",
+      27368210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Land Mine",
+      27368211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Force Field",
+      27368212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fire Wall",
+      27368213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Earthquake",
+      27368214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Magic Arrow",
+      27368215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Ice Bolt",
+      27368216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Lightning Bolt",
+      27368217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Implosion",
+      27368218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Chain Lightning",
+      27368219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Frost Ring",
+      27368220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fireball",
+      27368221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Inferno",
+      27368222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Meteor Shower",
+      27368223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Death Ripple",
+      27368224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Destroy Undead",
+      27368225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Armageddon",
+      27368226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Shield",
+      27368227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Air Shield",
+      27368228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fire Shield",
+      27368229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Protection from Air",
+      27368230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Protection from Fire",
+      27368231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Protection from Water",
+      27368232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Protection from Earth",
+      27368233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Anti Magic",
+      27368234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Dispel",
+      27368235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Magic Mirror",
+      27368236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Cure",
+      27368237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Resurrection",
+      27368238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Animate Dead",
+      27368239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Sacrifice",
+      27368240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Bless",
+      27368241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Curse",
+      27368242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Bloodlust",
+      27368243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Precision",
+      27368244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Weakness",
+      27368245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Stone Skin",
+      27368246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Disrupting Ray",
+      27368247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Prayer",
+      27368248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Mirth",
+      27368249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Sorrow",
+      27368250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fortune",
+      27368251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Misfortune",
+      27368252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Haste",
+      27368253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Slow",
+      27368254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Slayer",
+      27368255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Frenzy",
+      27368256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Titan's Lighting Bolt",
+      27368257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Counterstrike",
+      27368258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Berserk",
+      27368259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Hypnotize",
+      27368260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Forgetfulness",
+      27368261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Blind",
+      27368262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Teleport",
+      27368263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Remove Obstacle",
+      27368264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Clone",
+      27368265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Fire Elemental",
+      27368266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Earth Elemental",
+      27368267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Water Elemental",
+      27368268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spell Air Elemental",
+      27368269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Attack",
+      27368270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Def",
+      27368271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Spellpower",
+      27368272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Thant Knowledge",
+      27368273,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

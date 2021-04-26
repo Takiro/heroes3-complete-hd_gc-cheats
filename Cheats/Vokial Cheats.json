@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Vokial Name",
+      27354293,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Movement",
+      27354335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial EXP",
+      27354339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 1",
+      27354403,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 2",
+      27354407,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 3",
+      27354411,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 4",
+      27354415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 5",
+      27354419,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 6",
+      27354423,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Type Slot 7",
+      27354427,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 1",
+      27354431,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 2",
+      27354435,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 3",
+      27354439,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 4",
+      27354443,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 5",
+      27354447,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 6",
+      27354451,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Unit Count Slot 7",
+      27354455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Pathfinding",
+      27354459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Archery",
+      27354460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Logistics",
+      27354461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Scouting",
+      27354462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Diplomacy",
+      27354463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Navigation",
+      27354464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Leadership",
+      27354465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Wisdom",
+      27354466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Mysticism",
+      27354467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Luck",
+      27354468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Ballistics",
+      27354469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Eagle Eye",
+      27354470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Necromancy",
+      27354471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Estates",
+      27354472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Fire Magic",
+      27354473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Air Magic",
+      27354474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Water Magic",
+      27354475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Earth Magic",
+      27354476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Scholar",
+      27354477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Tactics",
+      27354478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Artillery",
+      27354479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Learning",
+      27354480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Offence",
+      27354481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Armourer",
+      27354482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Intelligence",
+      27354483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Sorcery",
+      27354484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Resistance",
+      27354485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial First Aid",
+      27354486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Pathfinding Slot",
+      27354487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Archery Slot",
+      27354488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Logistics Slot",
+      27354489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Scouting Slot",
+      27354490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Diplomacy Slot",
+      27354491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Navigation Slot",
+      27354492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Leadership Slot",
+      27354493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Wisdom Slot",
+      27354494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Mysticism Slot",
+      27354495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Luck Slot",
+      27354496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Ballistics Slot",
+      27354497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Eagle Eye Slot",
+      27354498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Necromancy Slot",
+      27354499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Estates Slot",
+      27354500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Fire Magic Slot",
+      27354501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Air Magic Slot",
+      27354502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Water Magic Slot",
+      27354503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Earth Magic Slot",
+      27354504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Scholar Slot",
+      27354505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Tactics Slot",
+      27354506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Artillery Slot",
+      27354507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Learning Slot",
+      27354508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Offense Slot",
+      27354509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Armourer Slot",
+      27354510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Intelligence Slot",
+      27354511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Sorcery Slot",
+      27354512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Resistance Slot",
+      27354513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial First Aid Slot",
+      27354514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Skill Count",
+      27354515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Ballista equipped (4 or -1)",
+      27354663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Ammo Cart equipped (5 or -1)",
+      27354671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial First Aid equipped Item (6 or -1)",
+      27354679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Catapult equipped (3 or -1)",
+      27354687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spellbook equipped (0 or -1)",
+      27354695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 1",
+      27354726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 2",
+      27354734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 3",
+      27354742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 4",
+      27354750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 5",
+      27354758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 6",
+      27354766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 7",
+      27354774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 8",
+      27354782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 9",
+      27354790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 10",
+      27354798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 11",
+      27354806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 12",
+      27354814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 13",
+      27354822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 14",
+      27354830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 15",
+      27354838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 16",
+      27354846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 17",
+      27354854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 18",
+      27354862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 19",
+      27354870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 20",
+      27354878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 21",
+      27354886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 22",
+      27354894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 23",
+      27354902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 24",
+      27354910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 25",
+      27354918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 26",
+      27354926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 27",
+      27354934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 28",
+      27354942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 29",
+      27354950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 30",
+      27354958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 31",
+      27354966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 32",
+      27354974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 33",
+      27354982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 34",
+      27354990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 35",
+      27354998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 36",
+      27355006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 37",
+      27355014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 38",
+      27355022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 39",
+      27355030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 40",
+      27355038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 41",
+      27355046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 42",
+      27355054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 43",
+      27355062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 44",
+      27355070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 45",
+      27355078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 46",
+      27355086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 47",
+      27355094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 48",
+      27355102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 49",
+      27355110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 50",
+      27355118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 51",
+      27355126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 52",
+      27355134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 53",
+      27355142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 54",
+      27355150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 55",
+      27355158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 56",
+      27355166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 57",
+      27355174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 58",
+      27355182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 59",
+      27355190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 60",
+      27355198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 61",
+      27355206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 62",
+      27355214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 63",
+      27355222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Backpack Slot 64",
+      27355230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Summon Boat",
+      27355330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Scuttle Boat",
+      27355331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Visions",
+      27355332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell View Earth",
+      27355333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Disguise",
+      27355334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell View Air",
+      27355335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fly",
+      27355336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Water Walk",
+      27355337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Dimension Door",
+      27355338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Town Portal",
+      27355339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Quicksand",
+      27355340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Land Mine",
+      27355341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Force Field",
+      27355342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fire Wall",
+      27355343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Earthquake",
+      27355344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Magic Arrow",
+      27355345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Ice Bolt",
+      27355346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Lightning Bolt",
+      27355347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Implosion",
+      27355348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Chain Lightning",
+      27355349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Frost Ring",
+      27355350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fireball",
+      27355351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Inferno",
+      27355352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Meteor Shower",
+      27355353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Death Ripple",
+      27355354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Destroy Undead",
+      27355355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Armageddon",
+      27355356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Shield",
+      27355357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Air Shield",
+      27355358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fire Shield",
+      27355359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Protection from Air",
+      27355360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Protection from Fire",
+      27355361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Protection from Water",
+      27355362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Protection from Earth",
+      27355363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Anti Magic",
+      27355364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Dispel",
+      27355365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Magic Mirror",
+      27355366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Cure",
+      27355367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Resurrection",
+      27355368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Animate Dead",
+      27355369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Sacrifice",
+      27355370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Bless",
+      27355371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Curse",
+      27355372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Bloodlust",
+      27355373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Precision",
+      27355374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Weakness",
+      27355375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Stone Skin",
+      27355376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Disrupting Ray",
+      27355377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Prayer",
+      27355378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Mirth",
+      27355379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Sorrow",
+      27355380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fortune",
+      27355381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Misfortune",
+      27355382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Haste",
+      27355383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Slow",
+      27355384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Slayer",
+      27355385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Frenzy",
+      27355386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Titan's Lighting Bolt",
+      27355387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Counterstrike",
+      27355388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Berserk",
+      27355389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Hypnotize",
+      27355390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Forgetfulness",
+      27355391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Blind",
+      27355392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Teleport",
+      27355393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Remove Obstacle",
+      27355394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Clone",
+      27355395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Fire Elemental",
+      27355396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Earth Elemental",
+      27355397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Water Elemental",
+      27355398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spell Air Elemental",
+      27355399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Attack",
+      27355400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Def",
+      27355401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Spellpower",
+      27355402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Vokial Knowledge",
+      27355403,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

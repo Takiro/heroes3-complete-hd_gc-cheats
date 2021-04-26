@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Rashka Name",
+      27335573,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Movement",
+      27335615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka EXP",
+      27335619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 1",
+      27335683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 2",
+      27335687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 3",
+      27335691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 4",
+      27335695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 5",
+      27335699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 6",
+      27335703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Type Slot 7",
+      27335707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 1",
+      27335711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 2",
+      27335715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 3",
+      27335719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 4",
+      27335723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 5",
+      27335727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 6",
+      27335731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Unit Count Slot 7",
+      27335735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Pathfinding",
+      27335739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Archery",
+      27335740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Logistics",
+      27335741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Scouting",
+      27335742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Diplomacy",
+      27335743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Navigation",
+      27335744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Leadership",
+      27335745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Wisdom",
+      27335746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Mysticism",
+      27335747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Luck",
+      27335748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Ballistics",
+      27335749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Eagle Eye",
+      27335750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Necromancy",
+      27335751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Estates",
+      27335752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Fire Magic",
+      27335753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Air Magic",
+      27335754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Water Magic",
+      27335755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Earth Magic",
+      27335756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Scholar",
+      27335757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Tactics",
+      27335758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Artillery",
+      27335759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Learning",
+      27335760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Offence",
+      27335761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Armourer",
+      27335762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Intelligence",
+      27335763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Sorcery",
+      27335764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Resistance",
+      27335765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka First Aid",
+      27335766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Pathfinding Slot",
+      27335767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Archery Slot",
+      27335768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Logistics Slot",
+      27335769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Scouting Slot",
+      27335770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Diplomacy Slot",
+      27335771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Navigation Slot",
+      27335772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Leadership Slot",
+      27335773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Wisdom Slot",
+      27335774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Mysticism Slot",
+      27335775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Luck Slot",
+      27335776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Ballistics Slot",
+      27335777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Eagle Eye Slot",
+      27335778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Necromancy Slot",
+      27335779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Estates Slot",
+      27335780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Fire Magic Slot",
+      27335781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Air Magic Slot",
+      27335782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Water Magic Slot",
+      27335783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Earth Magic Slot",
+      27335784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Scholar Slot",
+      27335785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Tactics Slot",
+      27335786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Artillery Slot",
+      27335787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Learning Slot",
+      27335788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Offense Slot",
+      27335789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Armourer Slot",
+      27335790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Intelligence Slot",
+      27335791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Sorcery Slot",
+      27335792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Resistance Slot",
+      27335793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka First Aid Slot",
+      27335794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Skill Count",
+      27335795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Ballista equipped (4 or -1)",
+      27335943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Ammo Cart equipped (5 or -1)",
+      27335951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka First Aid equipped Item (6 or -1)",
+      27335959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Catapult equipped (3 or -1)",
+      27335967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spellbook equipped (0 or -1)",
+      27335975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 1",
+      27336006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 2",
+      27336014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 3",
+      27336022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 4",
+      27336030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 5",
+      27336038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 6",
+      27336046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 7",
+      27336054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 8",
+      27336062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 9",
+      27336070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 10",
+      27336078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 11",
+      27336086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 12",
+      27336094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 13",
+      27336102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 14",
+      27336110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 15",
+      27336118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 16",
+      27336126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 17",
+      27336134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 18",
+      27336142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 19",
+      27336150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 20",
+      27336158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 21",
+      27336166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 22",
+      27336174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 23",
+      27336182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 24",
+      27336190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 25",
+      27336198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 26",
+      27336206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 27",
+      27336214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 28",
+      27336222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 29",
+      27336230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 30",
+      27336238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 31",
+      27336246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 32",
+      27336254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 33",
+      27336262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 34",
+      27336270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 35",
+      27336278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 36",
+      27336286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 37",
+      27336294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 38",
+      27336302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 39",
+      27336310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 40",
+      27336318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 41",
+      27336326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 42",
+      27336334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 43",
+      27336342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 44",
+      27336350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 45",
+      27336358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 46",
+      27336366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 47",
+      27336374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 48",
+      27336382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 49",
+      27336390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 50",
+      27336398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 51",
+      27336406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 52",
+      27336414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 53",
+      27336422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 54",
+      27336430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 55",
+      27336438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 56",
+      27336446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 57",
+      27336454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 58",
+      27336462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 59",
+      27336470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 60",
+      27336478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 61",
+      27336486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 62",
+      27336494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 63",
+      27336502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Backpack Slot 64",
+      27336510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Summon Boat",
+      27336610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Scuttle Boat",
+      27336611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Visions",
+      27336612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell View Earth",
+      27336613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Disguise",
+      27336614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell View Air",
+      27336615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fly",
+      27336616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Water Walk",
+      27336617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Dimension Door",
+      27336618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Town Portal",
+      27336619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Quicksand",
+      27336620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Land Mine",
+      27336621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Force Field",
+      27336622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fire Wall",
+      27336623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Earthquake",
+      27336624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Magic Arrow",
+      27336625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Ice Bolt",
+      27336626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Lightning Bolt",
+      27336627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Implosion",
+      27336628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Chain Lightning",
+      27336629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Frost Ring",
+      27336630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fireball",
+      27336631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Inferno",
+      27336632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Meteor Shower",
+      27336633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Death Ripple",
+      27336634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Destroy Undead",
+      27336635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Armageddon",
+      27336636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Shield",
+      27336637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Air Shield",
+      27336638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fire Shield",
+      27336639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Protection from Air",
+      27336640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Protection from Fire",
+      27336641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Protection from Water",
+      27336642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Protection from Earth",
+      27336643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Anti Magic",
+      27336644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Dispel",
+      27336645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Magic Mirror",
+      27336646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Cure",
+      27336647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Resurrection",
+      27336648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Animate Dead",
+      27336649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Sacrifice",
+      27336650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Bless",
+      27336651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Curse",
+      27336652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Bloodlust",
+      27336653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Precision",
+      27336654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Weakness",
+      27336655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Stone Skin",
+      27336656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Disrupting Ray",
+      27336657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Prayer",
+      27336658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Mirth",
+      27336659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Sorrow",
+      27336660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fortune",
+      27336661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Misfortune",
+      27336662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Haste",
+      27336663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Slow",
+      27336664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Slayer",
+      27336665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Frenzy",
+      27336666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Titan's Lighting Bolt",
+      27336667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Counterstrike",
+      27336668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Berserk",
+      27336669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Hypnotize",
+      27336670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Forgetfulness",
+      27336671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Blind",
+      27336672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Teleport",
+      27336673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Remove Obstacle",
+      27336674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Clone",
+      27336675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Fire Elemental",
+      27336676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Earth Elemental",
+      27336677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Water Elemental",
+      27336678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spell Air Elemental",
+      27336679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Attack",
+      27336680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Def",
+      27336681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Spellpower",
+      27336682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Rashka Knowledge",
+      27336683,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

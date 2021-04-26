@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Voy Name",
+      27420983,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Movement",
+      27421025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy EXP",
+      27421029,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 1",
+      27421093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 2",
+      27421097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 3",
+      27421101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 4",
+      27421105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 5",
+      27421109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 6",
+      27421113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Type Slot 7",
+      27421117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 1",
+      27421121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 2",
+      27421125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 3",
+      27421129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 4",
+      27421133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 5",
+      27421137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 6",
+      27421141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Unit Count Slot 7",
+      27421145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Pathfinding",
+      27421149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Archery",
+      27421150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Logistics",
+      27421151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Scouting",
+      27421152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Diplomacy",
+      27421153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Navigation",
+      27421154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Leadership",
+      27421155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Wisdom",
+      27421156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Mysticism",
+      27421157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Luck",
+      27421158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Ballistics",
+      27421159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Eagle Eye",
+      27421160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Necromancy",
+      27421161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Estates",
+      27421162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Fire Magic",
+      27421163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Air Magic",
+      27421164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Water Magic",
+      27421165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Earth Magic",
+      27421166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Scholar",
+      27421167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Tactics",
+      27421168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Artillery",
+      27421169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Learning",
+      27421170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Offence",
+      27421171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Armourer",
+      27421172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Intelligence",
+      27421173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Sorcery",
+      27421174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Resistance",
+      27421175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy First Aid",
+      27421176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Pathfinding Slot",
+      27421177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Archery Slot",
+      27421178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Logistics Slot",
+      27421179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Scouting Slot",
+      27421180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Diplomacy Slot",
+      27421181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Navigation Slot",
+      27421182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Leadership Slot",
+      27421183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Wisdom Slot",
+      27421184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Mysticism Slot",
+      27421185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Luck Slot",
+      27421186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Ballistics Slot",
+      27421187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Eagle Eye Slot",
+      27421188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Necromancy Slot",
+      27421189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Estates Slot",
+      27421190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Fire Magic Slot",
+      27421191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Air Magic Slot",
+      27421192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Water Magic Slot",
+      27421193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Earth Magic Slot",
+      27421194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Scholar Slot",
+      27421195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Tactics Slot",
+      27421196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Artillery Slot",
+      27421197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Learning Slot",
+      27421198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Offense Slot",
+      27421199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Armourer Slot",
+      27421200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Intelligence Slot",
+      27421201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Sorcery Slot",
+      27421202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Resistance Slot",
+      27421203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy First Aid Slot",
+      27421204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Skill Count",
+      27421205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Ballista equipped (4 or -1)",
+      27421353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Ammo Cart equipped (5 or -1)",
+      27421361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy First Aid equipped Item (6 or -1)",
+      27421369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Catapult equipped (3 or -1)",
+      27421377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spellbook equipped (0 or -1)",
+      27421385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 1",
+      27421416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 2",
+      27421424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 3",
+      27421432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 4",
+      27421440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 5",
+      27421448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 6",
+      27421456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 7",
+      27421464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 8",
+      27421472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 9",
+      27421480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 10",
+      27421488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 11",
+      27421496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 12",
+      27421504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 13",
+      27421512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 14",
+      27421520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 15",
+      27421528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 16",
+      27421536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 17",
+      27421544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 18",
+      27421552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 19",
+      27421560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 20",
+      27421568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 21",
+      27421576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 22",
+      27421584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 23",
+      27421592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 24",
+      27421600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 25",
+      27421608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 26",
+      27421616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 27",
+      27421624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 28",
+      27421632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 29",
+      27421640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 30",
+      27421648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 31",
+      27421656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 32",
+      27421664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 33",
+      27421672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 34",
+      27421680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 35",
+      27421688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 36",
+      27421696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 37",
+      27421704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 38",
+      27421712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 39",
+      27421720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 40",
+      27421728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 41",
+      27421736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 42",
+      27421744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 43",
+      27421752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 44",
+      27421760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 45",
+      27421768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 46",
+      27421776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 47",
+      27421784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 48",
+      27421792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 49",
+      27421800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 50",
+      27421808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 51",
+      27421816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 52",
+      27421824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 53",
+      27421832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 54",
+      27421840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 55",
+      27421848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 56",
+      27421856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 57",
+      27421864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 58",
+      27421872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 59",
+      27421880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 60",
+      27421888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 61",
+      27421896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 62",
+      27421904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 63",
+      27421912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Backpack Slot 64",
+      27421920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Summon Boat",
+      27422020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Scuttle Boat",
+      27422021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Visions",
+      27422022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell View Earth",
+      27422023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Disguise",
+      27422024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell View Air",
+      27422025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fly",
+      27422026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Water Walk",
+      27422027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Dimension Door",
+      27422028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Town Portal",
+      27422029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Quicksand",
+      27422030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Land Mine",
+      27422031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Force Field",
+      27422032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fire Wall",
+      27422033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Earthquake",
+      27422034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Magic Arrow",
+      27422035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Ice Bolt",
+      27422036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Lightning Bolt",
+      27422037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Implosion",
+      27422038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Chain Lightning",
+      27422039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Frost Ring",
+      27422040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fireball",
+      27422041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Inferno",
+      27422042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Meteor Shower",
+      27422043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Death Ripple",
+      27422044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Destroy Undead",
+      27422045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Armageddon",
+      27422046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Shield",
+      27422047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Air Shield",
+      27422048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fire Shield",
+      27422049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Protection from Air",
+      27422050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Protection from Fire",
+      27422051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Protection from Water",
+      27422052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Protection from Earth",
+      27422053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Anti Magic",
+      27422054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Dispel",
+      27422055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Magic Mirror",
+      27422056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Cure",
+      27422057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Resurrection",
+      27422058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Animate Dead",
+      27422059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Sacrifice",
+      27422060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Bless",
+      27422061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Curse",
+      27422062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Bloodlust",
+      27422063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Precision",
+      27422064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Weakness",
+      27422065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Stone Skin",
+      27422066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Disrupting Ray",
+      27422067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Prayer",
+      27422068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Mirth",
+      27422069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Sorrow",
+      27422070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fortune",
+      27422071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Misfortune",
+      27422072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Haste",
+      27422073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Slow",
+      27422074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Slayer",
+      27422075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Frenzy",
+      27422076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Titan's Lighting Bolt",
+      27422077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Counterstrike",
+      27422078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Berserk",
+      27422079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Hypnotize",
+      27422080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Forgetfulness",
+      27422081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Blind",
+      27422082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Teleport",
+      27422083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Remove Obstacle",
+      27422084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Clone",
+      27422085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Fire Elemental",
+      27422086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Earth Elemental",
+      27422087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Water Elemental",
+      27422088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spell Air Elemental",
+      27422089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Attack",
+      27422090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Def",
+      27422091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Spellpower",
+      27422092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Voy Knowledge",
+      27422093,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

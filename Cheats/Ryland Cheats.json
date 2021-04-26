@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ryland Name",
+      27300473,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Movement",
+      27300515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland EXP",
+      27300519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 1",
+      27300583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 2",
+      27300587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 3",
+      27300591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 4",
+      27300595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 5",
+      27300599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 6",
+      27300603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Type Slot 7",
+      27300607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 1",
+      27300611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 2",
+      27300615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 3",
+      27300619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 4",
+      27300623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 5",
+      27300627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 6",
+      27300631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Unit Count Slot 7",
+      27300635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Pathfinding",
+      27300639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Archery",
+      27300640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Logistics",
+      27300641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Scouting",
+      27300642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Diplomacy",
+      27300643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Navigation",
+      27300644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Leadership",
+      27300645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Wisdom",
+      27300646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Mysticism",
+      27300647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Luck",
+      27300648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Ballistics",
+      27300649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Eagle Eye",
+      27300650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Necromancy",
+      27300651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Estates",
+      27300652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Fire Magic",
+      27300653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Air Magic",
+      27300654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Water Magic",
+      27300655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Earth Magic",
+      27300656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Scholar",
+      27300657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Tactics",
+      27300658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Artillery",
+      27300659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Learning",
+      27300660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Offence",
+      27300661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Armourer",
+      27300662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Intelligence",
+      27300663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Sorcery",
+      27300664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Resistance",
+      27300665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland First Aid",
+      27300666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Pathfinding Slot",
+      27300667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Archery Slot",
+      27300668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Logistics Slot",
+      27300669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Scouting Slot",
+      27300670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Diplomacy Slot",
+      27300671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Navigation Slot",
+      27300672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Leadership Slot",
+      27300673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Wisdom Slot",
+      27300674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Mysticism Slot",
+      27300675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Luck Slot",
+      27300676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Ballistics Slot",
+      27300677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Eagle Eye Slot",
+      27300678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Necromancy Slot",
+      27300679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Estates Slot",
+      27300680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Fire Magic Slot",
+      27300681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Air Magic Slot",
+      27300682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Water Magic Slot",
+      27300683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Earth Magic Slot",
+      27300684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Scholar Slot",
+      27300685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Tactics Slot",
+      27300686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Artillery Slot",
+      27300687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Learning Slot",
+      27300688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Offense Slot",
+      27300689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Armourer Slot",
+      27300690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Intelligence Slot",
+      27300691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Sorcery Slot",
+      27300692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Resistance Slot",
+      27300693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland First Aid Slot",
+      27300694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Skill Count",
+      27300695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Ballista equipped (4 or -1)",
+      27300843,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Ammo Cart equipped (5 or -1)",
+      27300851,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland First Aid equipped Item (6 or -1)",
+      27300859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Catapult equipped (3 or -1)",
+      27300867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spellbook equipped (0 or -1)",
+      27300875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 1",
+      27300906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 2",
+      27300914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 3",
+      27300922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 4",
+      27300930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 5",
+      27300938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 6",
+      27300946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 7",
+      27300954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 8",
+      27300962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 9",
+      27300970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 10",
+      27300978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 11",
+      27300986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 12",
+      27300994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 13",
+      27301002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 14",
+      27301010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 15",
+      27301018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 16",
+      27301026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 17",
+      27301034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 18",
+      27301042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 19",
+      27301050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 20",
+      27301058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 21",
+      27301066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 22",
+      27301074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 23",
+      27301082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 24",
+      27301090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 25",
+      27301098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 26",
+      27301106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 27",
+      27301114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 28",
+      27301122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 29",
+      27301130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 30",
+      27301138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 31",
+      27301146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 32",
+      27301154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 33",
+      27301162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 34",
+      27301170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 35",
+      27301178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 36",
+      27301186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 37",
+      27301194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 38",
+      27301202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 39",
+      27301210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 40",
+      27301218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 41",
+      27301226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 42",
+      27301234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 43",
+      27301242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 44",
+      27301250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 45",
+      27301258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 46",
+      27301266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 47",
+      27301274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 48",
+      27301282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 49",
+      27301290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 50",
+      27301298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 51",
+      27301306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 52",
+      27301314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 53",
+      27301322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 54",
+      27301330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 55",
+      27301338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 56",
+      27301346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 57",
+      27301354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 58",
+      27301362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 59",
+      27301370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 60",
+      27301378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 61",
+      27301386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 62",
+      27301394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 63",
+      27301402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Backpack Slot 64",
+      27301410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Summon Boat",
+      27301510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Scuttle Boat",
+      27301511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Visions",
+      27301512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell View Earth",
+      27301513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Disguise",
+      27301514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell View Air",
+      27301515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fly",
+      27301516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Water Walk",
+      27301517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Dimension Door",
+      27301518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Town Portal",
+      27301519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Quicksand",
+      27301520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Land Mine",
+      27301521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Force Field",
+      27301522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fire Wall",
+      27301523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Earthquake",
+      27301524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Magic Arrow",
+      27301525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Ice Bolt",
+      27301526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Lightning Bolt",
+      27301527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Implosion",
+      27301528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Chain Lightning",
+      27301529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Frost Ring",
+      27301530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fireball",
+      27301531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Inferno",
+      27301532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Meteor Shower",
+      27301533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Death Ripple",
+      27301534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Destroy Undead",
+      27301535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Armageddon",
+      27301536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Shield",
+      27301537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Air Shield",
+      27301538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fire Shield",
+      27301539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Protection from Air",
+      27301540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Protection from Fire",
+      27301541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Protection from Water",
+      27301542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Protection from Earth",
+      27301543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Anti Magic",
+      27301544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Dispel",
+      27301545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Magic Mirror",
+      27301546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Cure",
+      27301547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Resurrection",
+      27301548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Animate Dead",
+      27301549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Sacrifice",
+      27301550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Bless",
+      27301551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Curse",
+      27301552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Bloodlust",
+      27301553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Precision",
+      27301554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Weakness",
+      27301555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Stone Skin",
+      27301556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Disrupting Ray",
+      27301557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Prayer",
+      27301558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Mirth",
+      27301559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Sorrow",
+      27301560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fortune",
+      27301561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Misfortune",
+      27301562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Haste",
+      27301563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Slow",
+      27301564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Slayer",
+      27301565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Frenzy",
+      27301566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Titan's Lighting Bolt",
+      27301567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Counterstrike",
+      27301568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Berserk",
+      27301569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Hypnotize",
+      27301570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Forgetfulness",
+      27301571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Blind",
+      27301572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Teleport",
+      27301573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Remove Obstacle",
+      27301574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Clone",
+      27301575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Fire Elemental",
+      27301576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Earth Elemental",
+      27301577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Water Elemental",
+      27301578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spell Air Elemental",
+      27301579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Attack",
+      27301580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Def",
+      27301581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Spellpower",
+      27301582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ryland Knowledge",
+      27301583,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Tazar Name",
+      27412793,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Movement",
+      27412835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar EXP",
+      27412839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 1",
+      27412903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 2",
+      27412907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 3",
+      27412911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 4",
+      27412915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 5",
+      27412919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 6",
+      27412923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Type Slot 7",
+      27412927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 1",
+      27412931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 2",
+      27412935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 3",
+      27412939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 4",
+      27412943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 5",
+      27412947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 6",
+      27412951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Unit Count Slot 7",
+      27412955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Pathfinding",
+      27412959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Archery",
+      27412960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Logistics",
+      27412961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Scouting",
+      27412962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Diplomacy",
+      27412963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Navigation",
+      27412964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Leadership",
+      27412965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Wisdom",
+      27412966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Mysticism",
+      27412967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Luck",
+      27412968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Ballistics",
+      27412969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Eagle Eye",
+      27412970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Necromancy",
+      27412971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Estates",
+      27412972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Fire Magic",
+      27412973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Air Magic",
+      27412974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Water Magic",
+      27412975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Earth Magic",
+      27412976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Scholar",
+      27412977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Tactics",
+      27412978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Artillery",
+      27412979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Learning",
+      27412980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Offence",
+      27412981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Armourer",
+      27412982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Intelligence",
+      27412983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Sorcery",
+      27412984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Resistance",
+      27412985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar First Aid",
+      27412986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Pathfinding Slot",
+      27412987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Archery Slot",
+      27412988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Logistics Slot",
+      27412989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Scouting Slot",
+      27412990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Diplomacy Slot",
+      27412991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Navigation Slot",
+      27412992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Leadership Slot",
+      27412993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Wisdom Slot",
+      27412994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Mysticism Slot",
+      27412995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Luck Slot",
+      27412996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Ballistics Slot",
+      27412997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Eagle Eye Slot",
+      27412998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Necromancy Slot",
+      27412999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Estates Slot",
+      27413000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Fire Magic Slot",
+      27413001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Air Magic Slot",
+      27413002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Water Magic Slot",
+      27413003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Earth Magic Slot",
+      27413004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Scholar Slot",
+      27413005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Tactics Slot",
+      27413006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Artillery Slot",
+      27413007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Learning Slot",
+      27413008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Offense Slot",
+      27413009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Armourer Slot",
+      27413010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Intelligence Slot",
+      27413011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Sorcery Slot",
+      27413012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Resistance Slot",
+      27413013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar First Aid Slot",
+      27413014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Skill Count",
+      27413015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Ballista equipped (4 or -1)",
+      27413163,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Ammo Cart equipped (5 or -1)",
+      27413171,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar First Aid equipped Item (6 or -1)",
+      27413179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Catapult equipped (3 or -1)",
+      27413187,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spellbook equipped (0 or -1)",
+      27413195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 1",
+      27413226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 2",
+      27413234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 3",
+      27413242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 4",
+      27413250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 5",
+      27413258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 6",
+      27413266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 7",
+      27413274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 8",
+      27413282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 9",
+      27413290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 10",
+      27413298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 11",
+      27413306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 12",
+      27413314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 13",
+      27413322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 14",
+      27413330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 15",
+      27413338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 16",
+      27413346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 17",
+      27413354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 18",
+      27413362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 19",
+      27413370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 20",
+      27413378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 21",
+      27413386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 22",
+      27413394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 23",
+      27413402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 24",
+      27413410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 25",
+      27413418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 26",
+      27413426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 27",
+      27413434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 28",
+      27413442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 29",
+      27413450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 30",
+      27413458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 31",
+      27413466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 32",
+      27413474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 33",
+      27413482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 34",
+      27413490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 35",
+      27413498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 36",
+      27413506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 37",
+      27413514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 38",
+      27413522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 39",
+      27413530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 40",
+      27413538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 41",
+      27413546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 42",
+      27413554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 43",
+      27413562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 44",
+      27413570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 45",
+      27413578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 46",
+      27413586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 47",
+      27413594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 48",
+      27413602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 49",
+      27413610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 50",
+      27413618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 51",
+      27413626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 52",
+      27413634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 53",
+      27413642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 54",
+      27413650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 55",
+      27413658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 56",
+      27413666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 57",
+      27413674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 58",
+      27413682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 59",
+      27413690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 60",
+      27413698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 61",
+      27413706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 62",
+      27413714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 63",
+      27413722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Backpack Slot 64",
+      27413730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Summon Boat",
+      27413830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Scuttle Boat",
+      27413831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Visions",
+      27413832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell View Earth",
+      27413833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Disguise",
+      27413834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell View Air",
+      27413835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fly",
+      27413836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Water Walk",
+      27413837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Dimension Door",
+      27413838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Town Portal",
+      27413839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Quicksand",
+      27413840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Land Mine",
+      27413841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Force Field",
+      27413842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fire Wall",
+      27413843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Earthquake",
+      27413844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Magic Arrow",
+      27413845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Ice Bolt",
+      27413846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Lightning Bolt",
+      27413847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Implosion",
+      27413848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Chain Lightning",
+      27413849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Frost Ring",
+      27413850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fireball",
+      27413851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Inferno",
+      27413852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Meteor Shower",
+      27413853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Death Ripple",
+      27413854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Destroy Undead",
+      27413855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Armageddon",
+      27413856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Shield",
+      27413857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Air Shield",
+      27413858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fire Shield",
+      27413859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Protection from Air",
+      27413860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Protection from Fire",
+      27413861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Protection from Water",
+      27413862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Protection from Earth",
+      27413863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Anti Magic",
+      27413864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Dispel",
+      27413865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Magic Mirror",
+      27413866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Cure",
+      27413867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Resurrection",
+      27413868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Animate Dead",
+      27413869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Sacrifice",
+      27413870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Bless",
+      27413871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Curse",
+      27413872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Bloodlust",
+      27413873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Precision",
+      27413874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Weakness",
+      27413875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Stone Skin",
+      27413876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Disrupting Ray",
+      27413877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Prayer",
+      27413878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Mirth",
+      27413879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Sorrow",
+      27413880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fortune",
+      27413881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Misfortune",
+      27413882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Haste",
+      27413883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Slow",
+      27413884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Slayer",
+      27413885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Frenzy",
+      27413886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Titan's Lighting Bolt",
+      27413887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Counterstrike",
+      27413888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Berserk",
+      27413889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Hypnotize",
+      27413890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Forgetfulness",
+      27413891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Blind",
+      27413892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Teleport",
+      27413893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Remove Obstacle",
+      27413894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Clone",
+      27413895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Fire Elemental",
+      27413896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Earth Elemental",
+      27413897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Water Elemental",
+      27413898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spell Air Elemental",
+      27413899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Attack",
+      27413900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Def",
+      27413901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Spellpower",
+      27413902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Tazar Knowledge",
+      27413903,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}
