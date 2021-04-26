@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Galthran Name",
+      27361313,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Movement",
+      27361355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran EXP",
+      27361359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 1",
+      27361423,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 2",
+      27361427,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 3",
+      27361431,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 4",
+      27361435,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 5",
+      27361439,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 6",
+      27361443,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Type Slot 7",
+      27361447,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 1",
+      27361451,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 2",
+      27361455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 3",
+      27361459,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 4",
+      27361463,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 5",
+      27361467,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 6",
+      27361471,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Unit Count Slot 7",
+      27361475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Pathfinding",
+      27361479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Archery",
+      27361480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Logistics",
+      27361481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Scouting",
+      27361482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Diplomacy",
+      27361483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Navigation",
+      27361484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Leadership",
+      27361485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Wisdom",
+      27361486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Mysticism",
+      27361487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Luck",
+      27361488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Ballistics",
+      27361489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Eagle Eye",
+      27361490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Necromancy",
+      27361491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Estates",
+      27361492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Fire Magic",
+      27361493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Air Magic",
+      27361494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Water Magic",
+      27361495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Earth Magic",
+      27361496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Scholar",
+      27361497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Tactics",
+      27361498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Artillery",
+      27361499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Learning",
+      27361500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Offence",
+      27361501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Armourer",
+      27361502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Intelligence",
+      27361503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Sorcery",
+      27361504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Resistance",
+      27361505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran First Aid",
+      27361506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Pathfinding Slot",
+      27361507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Archery Slot",
+      27361508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Logistics Slot",
+      27361509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Scouting Slot",
+      27361510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Diplomacy Slot",
+      27361511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Navigation Slot",
+      27361512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Leadership Slot",
+      27361513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Wisdom Slot",
+      27361514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Mysticism Slot",
+      27361515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Luck Slot",
+      27361516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Ballistics Slot",
+      27361517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Eagle Eye Slot",
+      27361518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Necromancy Slot",
+      27361519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Estates Slot",
+      27361520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Fire Magic Slot",
+      27361521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Air Magic Slot",
+      27361522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Water Magic Slot",
+      27361523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Earth Magic Slot",
+      27361524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Scholar Slot",
+      27361525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Tactics Slot",
+      27361526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Artillery Slot",
+      27361527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Learning Slot",
+      27361528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Offense Slot",
+      27361529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Armourer Slot",
+      27361530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Intelligence Slot",
+      27361531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Sorcery Slot",
+      27361532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Resistance Slot",
+      27361533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran First Aid Slot",
+      27361534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Skill Count",
+      27361535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Ballista equipped (4 or -1)",
+      27361683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Ammo Cart equipped (5 or -1)",
+      27361691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran First Aid equipped Item (6 or -1)",
+      27361699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Catapult equipped (3 or -1)",
+      27361707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spellbook equipped (0 or -1)",
+      27361715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 1",
+      27361746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 2",
+      27361754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 3",
+      27361762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 4",
+      27361770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 5",
+      27361778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 6",
+      27361786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 7",
+      27361794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 8",
+      27361802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 9",
+      27361810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 10",
+      27361818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 11",
+      27361826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 12",
+      27361834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 13",
+      27361842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 14",
+      27361850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 15",
+      27361858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 16",
+      27361866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 17",
+      27361874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 18",
+      27361882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 19",
+      27361890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 20",
+      27361898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 21",
+      27361906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 22",
+      27361914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 23",
+      27361922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 24",
+      27361930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 25",
+      27361938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 26",
+      27361946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 27",
+      27361954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 28",
+      27361962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 29",
+      27361970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 30",
+      27361978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 31",
+      27361986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 32",
+      27361994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 33",
+      27362002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 34",
+      27362010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 35",
+      27362018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 36",
+      27362026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 37",
+      27362034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 38",
+      27362042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 39",
+      27362050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 40",
+      27362058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 41",
+      27362066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 42",
+      27362074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 43",
+      27362082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 44",
+      27362090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 45",
+      27362098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 46",
+      27362106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 47",
+      27362114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 48",
+      27362122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 49",
+      27362130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 50",
+      27362138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 51",
+      27362146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 52",
+      27362154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 53",
+      27362162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 54",
+      27362170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 55",
+      27362178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 56",
+      27362186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 57",
+      27362194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 58",
+      27362202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 59",
+      27362210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 60",
+      27362218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 61",
+      27362226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 62",
+      27362234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 63",
+      27362242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Backpack Slot 64",
+      27362250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Summon Boat",
+      27362350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Scuttle Boat",
+      27362351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Visions",
+      27362352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell View Earth",
+      27362353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Disguise",
+      27362354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell View Air",
+      27362355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fly",
+      27362356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Water Walk",
+      27362357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Dimension Door",
+      27362358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Town Portal",
+      27362359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Quicksand",
+      27362360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Land Mine",
+      27362361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Force Field",
+      27362362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fire Wall",
+      27362363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Earthquake",
+      27362364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Magic Arrow",
+      27362365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Ice Bolt",
+      27362366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Lightning Bolt",
+      27362367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Implosion",
+      27362368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Chain Lightning",
+      27362369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Frost Ring",
+      27362370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fireball",
+      27362371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Inferno",
+      27362372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Meteor Shower",
+      27362373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Death Ripple",
+      27362374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Destroy Undead",
+      27362375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Armageddon",
+      27362376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Shield",
+      27362377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Air Shield",
+      27362378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fire Shield",
+      27362379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Protection from Air",
+      27362380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Protection from Fire",
+      27362381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Protection from Water",
+      27362382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Protection from Earth",
+      27362383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Anti Magic",
+      27362384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Dispel",
+      27362385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Magic Mirror",
+      27362386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Cure",
+      27362387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Resurrection",
+      27362388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Animate Dead",
+      27362389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Sacrifice",
+      27362390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Bless",
+      27362391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Curse",
+      27362392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Bloodlust",
+      27362393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Precision",
+      27362394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Weakness",
+      27362395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Stone Skin",
+      27362396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Disrupting Ray",
+      27362397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Prayer",
+      27362398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Mirth",
+      27362399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Sorrow",
+      27362400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fortune",
+      27362401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Misfortune",
+      27362402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Haste",
+      27362403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Slow",
+      27362404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Slayer",
+      27362405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Frenzy",
+      27362406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Titan's Lighting Bolt",
+      27362407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Counterstrike",
+      27362408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Berserk",
+      27362409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Hypnotize",
+      27362410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Forgetfulness",
+      27362411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Blind",
+      27362412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Teleport",
+      27362413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Remove Obstacle",
+      27362414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Clone",
+      27362415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Fire Elemental",
+      27362416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Earth Elemental",
+      27362417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Water Elemental",
+      27362418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spell Air Elemental",
+      27362419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Attack",
+      27362420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Def",
+      27362421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Spellpower",
+      27362422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Galthran Knowledge",
+      27362423,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

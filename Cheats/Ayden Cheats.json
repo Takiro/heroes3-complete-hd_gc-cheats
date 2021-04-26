@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ayden Name",
+      27343763,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Movement",
+      27343805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden EXP",
+      27343809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 1",
+      27343873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 2",
+      27343877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 3",
+      27343881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 4",
+      27343885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 5",
+      27343889,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 6",
+      27343893,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Type Slot 7",
+      27343897,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 1",
+      27343901,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 2",
+      27343905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 3",
+      27343909,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 4",
+      27343913,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 5",
+      27343917,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 6",
+      27343921,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Unit Count Slot 7",
+      27343925,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Pathfinding",
+      27343929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Archery",
+      27343930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Logistics",
+      27343931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Scouting",
+      27343932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Diplomacy",
+      27343933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Navigation",
+      27343934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Leadership",
+      27343935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Wisdom",
+      27343936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Mysticism",
+      27343937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Luck",
+      27343938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Ballistics",
+      27343939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Eagle Eye",
+      27343940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Necromancy",
+      27343941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Estates",
+      27343942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Fire Magic",
+      27343943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Air Magic",
+      27343944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Water Magic",
+      27343945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Earth Magic",
+      27343946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Scholar",
+      27343947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Tactics",
+      27343948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Artillery",
+      27343949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Learning",
+      27343950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Offence",
+      27343951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Armourer",
+      27343952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Intelligence",
+      27343953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Sorcery",
+      27343954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Resistance",
+      27343955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden First Aid",
+      27343956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Pathfinding Slot",
+      27343957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Archery Slot",
+      27343958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Logistics Slot",
+      27343959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Scouting Slot",
+      27343960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Diplomacy Slot",
+      27343961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Navigation Slot",
+      27343962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Leadership Slot",
+      27343963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Wisdom Slot",
+      27343964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Mysticism Slot",
+      27343965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Luck Slot",
+      27343966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Ballistics Slot",
+      27343967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Eagle Eye Slot",
+      27343968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Necromancy Slot",
+      27343969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Estates Slot",
+      27343970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Fire Magic Slot",
+      27343971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Air Magic Slot",
+      27343972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Water Magic Slot",
+      27343973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Earth Magic Slot",
+      27343974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Scholar Slot",
+      27343975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Tactics Slot",
+      27343976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Artillery Slot",
+      27343977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Learning Slot",
+      27343978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Offense Slot",
+      27343979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Armourer Slot",
+      27343980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Intelligence Slot",
+      27343981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Sorcery Slot",
+      27343982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Resistance Slot",
+      27343983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden First Aid Slot",
+      27343984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Skill Count",
+      27343985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Ballista equipped (4 or -1)",
+      27344133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Ammo Cart equipped (5 or -1)",
+      27344141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden First Aid equipped Item (6 or -1)",
+      27344149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Catapult equipped (3 or -1)",
+      27344157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spellbook equipped (0 or -1)",
+      27344165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 1",
+      27344196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 2",
+      27344204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 3",
+      27344212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 4",
+      27344220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 5",
+      27344228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 6",
+      27344236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 7",
+      27344244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 8",
+      27344252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 9",
+      27344260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 10",
+      27344268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 11",
+      27344276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 12",
+      27344284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 13",
+      27344292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 14",
+      27344300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 15",
+      27344308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 16",
+      27344316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 17",
+      27344324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 18",
+      27344332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 19",
+      27344340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 20",
+      27344348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 21",
+      27344356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 22",
+      27344364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 23",
+      27344372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 24",
+      27344380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 25",
+      27344388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 26",
+      27344396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 27",
+      27344404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 28",
+      27344412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 29",
+      27344420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 30",
+      27344428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 31",
+      27344436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 32",
+      27344444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 33",
+      27344452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 34",
+      27344460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 35",
+      27344468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 36",
+      27344476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 37",
+      27344484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 38",
+      27344492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 39",
+      27344500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 40",
+      27344508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 41",
+      27344516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 42",
+      27344524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 43",
+      27344532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 44",
+      27344540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 45",
+      27344548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 46",
+      27344556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 47",
+      27344564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 48",
+      27344572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 49",
+      27344580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 50",
+      27344588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 51",
+      27344596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 52",
+      27344604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 53",
+      27344612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 54",
+      27344620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 55",
+      27344628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 56",
+      27344636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 57",
+      27344644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 58",
+      27344652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 59",
+      27344660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 60",
+      27344668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 61",
+      27344676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 62",
+      27344684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 63",
+      27344692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Backpack Slot 64",
+      27344700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Summon Boat",
+      27344800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Scuttle Boat",
+      27344801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Visions",
+      27344802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell View Earth",
+      27344803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Disguise",
+      27344804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell View Air",
+      27344805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fly",
+      27344806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Water Walk",
+      27344807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Dimension Door",
+      27344808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Town Portal",
+      27344809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Quicksand",
+      27344810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Land Mine",
+      27344811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Force Field",
+      27344812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fire Wall",
+      27344813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Earthquake",
+      27344814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Magic Arrow",
+      27344815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Ice Bolt",
+      27344816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Lightning Bolt",
+      27344817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Implosion",
+      27344818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Chain Lightning",
+      27344819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Frost Ring",
+      27344820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fireball",
+      27344821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Inferno",
+      27344822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Meteor Shower",
+      27344823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Death Ripple",
+      27344824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Destroy Undead",
+      27344825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Armageddon",
+      27344826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Shield",
+      27344827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Air Shield",
+      27344828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fire Shield",
+      27344829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Protection from Air",
+      27344830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Protection from Fire",
+      27344831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Protection from Water",
+      27344832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Protection from Earth",
+      27344833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Anti Magic",
+      27344834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Dispel",
+      27344835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Magic Mirror",
+      27344836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Cure",
+      27344837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Resurrection",
+      27344838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Animate Dead",
+      27344839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Sacrifice",
+      27344840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Bless",
+      27344841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Curse",
+      27344842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Bloodlust",
+      27344843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Precision",
+      27344844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Weakness",
+      27344845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Stone Skin",
+      27344846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Disrupting Ray",
+      27344847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Prayer",
+      27344848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Mirth",
+      27344849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Sorrow",
+      27344850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fortune",
+      27344851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Misfortune",
+      27344852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Haste",
+      27344853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Slow",
+      27344854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Slayer",
+      27344855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Frenzy",
+      27344856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Titan's Lighting Bolt",
+      27344857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Counterstrike",
+      27344858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Berserk",
+      27344859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Hypnotize",
+      27344860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Forgetfulness",
+      27344861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Blind",
+      27344862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Teleport",
+      27344863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Remove Obstacle",
+      27344864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Clone",
+      27344865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Fire Elemental",
+      27344866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Earth Elemental",
+      27344867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Water Elemental",
+      27344868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spell Air Elemental",
+      27344869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Attack",
+      27344870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Def",
+      27344871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Spellpower",
+      27344872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ayden Knowledge",
+      27344873,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

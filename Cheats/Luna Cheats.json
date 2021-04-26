@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Luna Name",
+      27437363,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Movement",
+      27437405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna EXP",
+      27437409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 1",
+      27437473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 2",
+      27437477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 3",
+      27437481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 4",
+      27437485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 5",
+      27437489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 6",
+      27437493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Type Slot 7",
+      27437497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 1",
+      27437501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 2",
+      27437505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 3",
+      27437509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 4",
+      27437513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 5",
+      27437517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 6",
+      27437521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Unit Count Slot 7",
+      27437525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Pathfinding",
+      27437529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Archery",
+      27437530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Logistics",
+      27437531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Scouting",
+      27437532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Diplomacy",
+      27437533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Navigation",
+      27437534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Leadership",
+      27437535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Wisdom",
+      27437536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Mysticism",
+      27437537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Luck",
+      27437538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Ballistics",
+      27437539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Eagle Eye",
+      27437540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Necromancy",
+      27437541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Estates",
+      27437542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Fire Magic",
+      27437543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Air Magic",
+      27437544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Water Magic",
+      27437545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Earth Magic",
+      27437546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Scholar",
+      27437547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Tactics",
+      27437548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Artillery",
+      27437549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Learning",
+      27437550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Offence",
+      27437551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Armourer",
+      27437552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Intelligence",
+      27437553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Sorcery",
+      27437554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Resistance",
+      27437555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna First Aid",
+      27437556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Pathfinding Slot",
+      27437557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Archery Slot",
+      27437558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Logistics Slot",
+      27437559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Scouting Slot",
+      27437560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Diplomacy Slot",
+      27437561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Navigation Slot",
+      27437562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Leadership Slot",
+      27437563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Wisdom Slot",
+      27437564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Mysticism Slot",
+      27437565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Luck Slot",
+      27437566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Ballistics Slot",
+      27437567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Eagle Eye Slot",
+      27437568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Necromancy Slot",
+      27437569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Estates Slot",
+      27437570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Fire Magic Slot",
+      27437571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Air Magic Slot",
+      27437572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Water Magic Slot",
+      27437573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Earth Magic Slot",
+      27437574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Scholar Slot",
+      27437575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Tactics Slot",
+      27437576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Artillery Slot",
+      27437577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Learning Slot",
+      27437578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Offense Slot",
+      27437579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Armourer Slot",
+      27437580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Intelligence Slot",
+      27437581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Sorcery Slot",
+      27437582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Resistance Slot",
+      27437583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna First Aid Slot",
+      27437584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Skill Count",
+      27437585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Ballista equipped (4 or -1)",
+      27437733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Ammo Cart equipped (5 or -1)",
+      27437741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna First Aid equipped Item (6 or -1)",
+      27437749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Catapult equipped (3 or -1)",
+      27437757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spellbook equipped (0 or -1)",
+      27437765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 1",
+      27437796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 2",
+      27437804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 3",
+      27437812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 4",
+      27437820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 5",
+      27437828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 6",
+      27437836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 7",
+      27437844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 8",
+      27437852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 9",
+      27437860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 10",
+      27437868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 11",
+      27437876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 12",
+      27437884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 13",
+      27437892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 14",
+      27437900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 15",
+      27437908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 16",
+      27437916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 17",
+      27437924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 18",
+      27437932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 19",
+      27437940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 20",
+      27437948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 21",
+      27437956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 22",
+      27437964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 23",
+      27437972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 24",
+      27437980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 25",
+      27437988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 26",
+      27437996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 27",
+      27438004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 28",
+      27438012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 29",
+      27438020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 30",
+      27438028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 31",
+      27438036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 32",
+      27438044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 33",
+      27438052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 34",
+      27438060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 35",
+      27438068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 36",
+      27438076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 37",
+      27438084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 38",
+      27438092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 39",
+      27438100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 40",
+      27438108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 41",
+      27438116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 42",
+      27438124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 43",
+      27438132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 44",
+      27438140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 45",
+      27438148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 46",
+      27438156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 47",
+      27438164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 48",
+      27438172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 49",
+      27438180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 50",
+      27438188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 51",
+      27438196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 52",
+      27438204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 53",
+      27438212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 54",
+      27438220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 55",
+      27438228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 56",
+      27438236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 57",
+      27438244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 58",
+      27438252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 59",
+      27438260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 60",
+      27438268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 61",
+      27438276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 62",
+      27438284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 63",
+      27438292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Backpack Slot 64",
+      27438300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Summon Boat",
+      27438400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Scuttle Boat",
+      27438401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Visions",
+      27438402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell View Earth",
+      27438403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Disguise",
+      27438404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell View Air",
+      27438405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fly",
+      27438406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Water Walk",
+      27438407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Dimension Door",
+      27438408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Town Portal",
+      27438409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Quicksand",
+      27438410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Land Mine",
+      27438411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Force Field",
+      27438412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fire Wall",
+      27438413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Earthquake",
+      27438414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Magic Arrow",
+      27438415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Ice Bolt",
+      27438416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Lightning Bolt",
+      27438417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Implosion",
+      27438418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Chain Lightning",
+      27438419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Frost Ring",
+      27438420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fireball",
+      27438421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Inferno",
+      27438422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Meteor Shower",
+      27438423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Death Ripple",
+      27438424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Destroy Undead",
+      27438425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Armageddon",
+      27438426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Shield",
+      27438427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Air Shield",
+      27438428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fire Shield",
+      27438429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Protection from Air",
+      27438430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Protection from Fire",
+      27438431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Protection from Water",
+      27438432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Protection from Earth",
+      27438433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Anti Magic",
+      27438434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Dispel",
+      27438435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Magic Mirror",
+      27438436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Cure",
+      27438437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Resurrection",
+      27438438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Animate Dead",
+      27438439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Sacrifice",
+      27438440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Bless",
+      27438441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Curse",
+      27438442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Bloodlust",
+      27438443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Precision",
+      27438444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Weakness",
+      27438445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Stone Skin",
+      27438446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Disrupting Ray",
+      27438447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Prayer",
+      27438448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Mirth",
+      27438449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Sorrow",
+      27438450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fortune",
+      27438451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Misfortune",
+      27438452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Haste",
+      27438453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Slow",
+      27438454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Slayer",
+      27438455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Frenzy",
+      27438456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Titan's Lighting Bolt",
+      27438457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Counterstrike",
+      27438458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Berserk",
+      27438459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Hypnotize",
+      27438460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Forgetfulness",
+      27438461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Blind",
+      27438462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Teleport",
+      27438463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Remove Obstacle",
+      27438464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Clone",
+      27438465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Fire Elemental",
+      27438466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Earth Elemental",
+      27438467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Water Elemental",
+      27438468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spell Air Elemental",
+      27438469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Attack",
+      27438470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Def",
+      27438471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Spellpower",
+      27438472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Luna Knowledge",
+      27438473,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

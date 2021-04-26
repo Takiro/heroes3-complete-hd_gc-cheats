@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Andra Name",
+      27425663,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Movement",
+      27425705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra EXP",
+      27425709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 1",
+      27425773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 2",
+      27425777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 3",
+      27425781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 4",
+      27425785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 5",
+      27425789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 6",
+      27425793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Type Slot 7",
+      27425797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 1",
+      27425801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 2",
+      27425805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 3",
+      27425809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 4",
+      27425813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 5",
+      27425817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 6",
+      27425821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Unit Count Slot 7",
+      27425825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Pathfinding",
+      27425829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Archery",
+      27425830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Logistics",
+      27425831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Scouting",
+      27425832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Diplomacy",
+      27425833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Navigation",
+      27425834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Leadership",
+      27425835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Wisdom",
+      27425836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Mysticism",
+      27425837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Luck",
+      27425838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Ballistics",
+      27425839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Eagle Eye",
+      27425840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Necromancy",
+      27425841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Estates",
+      27425842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Fire Magic",
+      27425843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Air Magic",
+      27425844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Water Magic",
+      27425845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Earth Magic",
+      27425846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Scholar",
+      27425847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Tactics",
+      27425848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Artillery",
+      27425849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Learning",
+      27425850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Offence",
+      27425851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Armourer",
+      27425852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Intelligence",
+      27425853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Sorcery",
+      27425854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Resistance",
+      27425855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra First Aid",
+      27425856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Pathfinding Slot",
+      27425857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Archery Slot",
+      27425858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Logistics Slot",
+      27425859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Scouting Slot",
+      27425860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Diplomacy Slot",
+      27425861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Navigation Slot",
+      27425862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Leadership Slot",
+      27425863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Wisdom Slot",
+      27425864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Mysticism Slot",
+      27425865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Luck Slot",
+      27425866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Ballistics Slot",
+      27425867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Eagle Eye Slot",
+      27425868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Necromancy Slot",
+      27425869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Estates Slot",
+      27425870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Fire Magic Slot",
+      27425871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Air Magic Slot",
+      27425872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Water Magic Slot",
+      27425873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Earth Magic Slot",
+      27425874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Scholar Slot",
+      27425875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Tactics Slot",
+      27425876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Artillery Slot",
+      27425877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Learning Slot",
+      27425878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Offense Slot",
+      27425879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Armourer Slot",
+      27425880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Intelligence Slot",
+      27425881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Sorcery Slot",
+      27425882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Resistance Slot",
+      27425883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra First Aid Slot",
+      27425884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Skill Count",
+      27425885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Ballista equipped (4 or -1)",
+      27426033,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Ammo Cart equipped (5 or -1)",
+      27426041,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra First Aid equipped Item (6 or -1)",
+      27426049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Catapult equipped (3 or -1)",
+      27426057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spellbook equipped (0 or -1)",
+      27426065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 1",
+      27426096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 2",
+      27426104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 3",
+      27426112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 4",
+      27426120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 5",
+      27426128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 6",
+      27426136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 7",
+      27426144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 8",
+      27426152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 9",
+      27426160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 10",
+      27426168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 11",
+      27426176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 12",
+      27426184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 13",
+      27426192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 14",
+      27426200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 15",
+      27426208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 16",
+      27426216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 17",
+      27426224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 18",
+      27426232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 19",
+      27426240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 20",
+      27426248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 21",
+      27426256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 22",
+      27426264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 23",
+      27426272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 24",
+      27426280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 25",
+      27426288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 26",
+      27426296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 27",
+      27426304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 28",
+      27426312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 29",
+      27426320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 30",
+      27426328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 31",
+      27426336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 32",
+      27426344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 33",
+      27426352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 34",
+      27426360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 35",
+      27426368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 36",
+      27426376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 37",
+      27426384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 38",
+      27426392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 39",
+      27426400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 40",
+      27426408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 41",
+      27426416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 42",
+      27426424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 43",
+      27426432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 44",
+      27426440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 45",
+      27426448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 46",
+      27426456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 47",
+      27426464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 48",
+      27426472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 49",
+      27426480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 50",
+      27426488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 51",
+      27426496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 52",
+      27426504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 53",
+      27426512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 54",
+      27426520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 55",
+      27426528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 56",
+      27426536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 57",
+      27426544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 58",
+      27426552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 59",
+      27426560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 60",
+      27426568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 61",
+      27426576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 62",
+      27426584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 63",
+      27426592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Backpack Slot 64",
+      27426600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Summon Boat",
+      27426700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Scuttle Boat",
+      27426701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Visions",
+      27426702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell View Earth",
+      27426703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Disguise",
+      27426704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell View Air",
+      27426705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fly",
+      27426706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Water Walk",
+      27426707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Dimension Door",
+      27426708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Town Portal",
+      27426709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Quicksand",
+      27426710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Land Mine",
+      27426711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Force Field",
+      27426712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fire Wall",
+      27426713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Earthquake",
+      27426714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Magic Arrow",
+      27426715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Ice Bolt",
+      27426716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Lightning Bolt",
+      27426717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Implosion",
+      27426718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Chain Lightning",
+      27426719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Frost Ring",
+      27426720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fireball",
+      27426721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Inferno",
+      27426722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Meteor Shower",
+      27426723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Death Ripple",
+      27426724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Destroy Undead",
+      27426725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Armageddon",
+      27426726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Shield",
+      27426727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Air Shield",
+      27426728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fire Shield",
+      27426729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Protection from Air",
+      27426730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Protection from Fire",
+      27426731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Protection from Water",
+      27426732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Protection from Earth",
+      27426733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Anti Magic",
+      27426734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Dispel",
+      27426735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Magic Mirror",
+      27426736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Cure",
+      27426737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Resurrection",
+      27426738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Animate Dead",
+      27426739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Sacrifice",
+      27426740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Bless",
+      27426741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Curse",
+      27426742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Bloodlust",
+      27426743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Precision",
+      27426744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Weakness",
+      27426745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Stone Skin",
+      27426746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Disrupting Ray",
+      27426747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Prayer",
+      27426748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Mirth",
+      27426749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Sorrow",
+      27426750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fortune",
+      27426751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Misfortune",
+      27426752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Haste",
+      27426753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Slow",
+      27426754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Slayer",
+      27426755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Frenzy",
+      27426756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Titan's Lighting Bolt",
+      27426757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Counterstrike",
+      27426758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Berserk",
+      27426759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Hypnotize",
+      27426760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Forgetfulness",
+      27426761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Blind",
+      27426762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Teleport",
+      27426763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Remove Obstacle",
+      27426764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Clone",
+      27426765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Fire Elemental",
+      27426766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Earth Elemental",
+      27426767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Water Elemental",
+      27426768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spell Air Elemental",
+      27426769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Attack",
+      27426770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Def",
+      27426771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Spellpower",
+      27426772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Andra Knowledge",
+      27426773,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

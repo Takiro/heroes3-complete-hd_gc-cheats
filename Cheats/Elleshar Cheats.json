@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Elleshar Name",
+      27308663,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Movement",
+      27308705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar EXP",
+      27308709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 1",
+      27308773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 2",
+      27308777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 3",
+      27308781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 4",
+      27308785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 5",
+      27308789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 6",
+      27308793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Type Slot 7",
+      27308797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 1",
+      27308801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 2",
+      27308805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 3",
+      27308809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 4",
+      27308813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 5",
+      27308817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 6",
+      27308821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Unit Count Slot 7",
+      27308825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Pathfinding",
+      27308829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Archery",
+      27308830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Logistics",
+      27308831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Scouting",
+      27308832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Diplomacy",
+      27308833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Navigation",
+      27308834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Leadership",
+      27308835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Wisdom",
+      27308836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Mysticism",
+      27308837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Luck",
+      27308838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Ballistics",
+      27308839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Eagle Eye",
+      27308840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Necromancy",
+      27308841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Estates",
+      27308842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Fire Magic",
+      27308843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Air Magic",
+      27308844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Water Magic",
+      27308845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Earth Magic",
+      27308846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Scholar",
+      27308847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Tactics",
+      27308848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Artillery",
+      27308849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Learning",
+      27308850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Offence",
+      27308851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Armourer",
+      27308852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Intelligence",
+      27308853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Sorcery",
+      27308854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Resistance",
+      27308855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar First Aid",
+      27308856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Pathfinding Slot",
+      27308857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Archery Slot",
+      27308858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Logistics Slot",
+      27308859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Scouting Slot",
+      27308860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Diplomacy Slot",
+      27308861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Navigation Slot",
+      27308862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Leadership Slot",
+      27308863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Wisdom Slot",
+      27308864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Mysticism Slot",
+      27308865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Luck Slot",
+      27308866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Ballistics Slot",
+      27308867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Eagle Eye Slot",
+      27308868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Necromancy Slot",
+      27308869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Estates Slot",
+      27308870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Fire Magic Slot",
+      27308871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Air Magic Slot",
+      27308872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Water Magic Slot",
+      27308873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Earth Magic Slot",
+      27308874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Scholar Slot",
+      27308875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Tactics Slot",
+      27308876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Artillery Slot",
+      27308877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Learning Slot",
+      27308878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Offense Slot",
+      27308879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Armourer Slot",
+      27308880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Intelligence Slot",
+      27308881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Sorcery Slot",
+      27308882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Resistance Slot",
+      27308883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar First Aid Slot",
+      27308884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Skill Count",
+      27308885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Ballista equipped (4 or -1)",
+      27309033,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Ammo Cart equipped (5 or -1)",
+      27309041,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar First Aid equipped Item (6 or -1)",
+      27309049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Catapult equipped (3 or -1)",
+      27309057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spellbook equipped (0 or -1)",
+      27309065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 1",
+      27309096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 2",
+      27309104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 3",
+      27309112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 4",
+      27309120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 5",
+      27309128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 6",
+      27309136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 7",
+      27309144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 8",
+      27309152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 9",
+      27309160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 10",
+      27309168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 11",
+      27309176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 12",
+      27309184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 13",
+      27309192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 14",
+      27309200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 15",
+      27309208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 16",
+      27309216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 17",
+      27309224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 18",
+      27309232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 19",
+      27309240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 20",
+      27309248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 21",
+      27309256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 22",
+      27309264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 23",
+      27309272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 24",
+      27309280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 25",
+      27309288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 26",
+      27309296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 27",
+      27309304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 28",
+      27309312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 29",
+      27309320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 30",
+      27309328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 31",
+      27309336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 32",
+      27309344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 33",
+      27309352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 34",
+      27309360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 35",
+      27309368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 36",
+      27309376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 37",
+      27309384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 38",
+      27309392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 39",
+      27309400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 40",
+      27309408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 41",
+      27309416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 42",
+      27309424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 43",
+      27309432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 44",
+      27309440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 45",
+      27309448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 46",
+      27309456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 47",
+      27309464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 48",
+      27309472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 49",
+      27309480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 50",
+      27309488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 51",
+      27309496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 52",
+      27309504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 53",
+      27309512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 54",
+      27309520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 55",
+      27309528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 56",
+      27309536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 57",
+      27309544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 58",
+      27309552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 59",
+      27309560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 60",
+      27309568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 61",
+      27309576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 62",
+      27309584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 63",
+      27309592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Backpack Slot 64",
+      27309600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Summon Boat",
+      27309700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Scuttle Boat",
+      27309701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Visions",
+      27309702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell View Earth",
+      27309703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Disguise",
+      27309704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell View Air",
+      27309705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fly",
+      27309706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Water Walk",
+      27309707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Dimension Door",
+      27309708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Town Portal",
+      27309709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Quicksand",
+      27309710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Land Mine",
+      27309711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Force Field",
+      27309712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fire Wall",
+      27309713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Earthquake",
+      27309714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Magic Arrow",
+      27309715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Ice Bolt",
+      27309716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Lightning Bolt",
+      27309717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Implosion",
+      27309718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Chain Lightning",
+      27309719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Frost Ring",
+      27309720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fireball",
+      27309721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Inferno",
+      27309722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Meteor Shower",
+      27309723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Death Ripple",
+      27309724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Destroy Undead",
+      27309725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Armageddon",
+      27309726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Shield",
+      27309727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Air Shield",
+      27309728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fire Shield",
+      27309729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Protection from Air",
+      27309730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Protection from Fire",
+      27309731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Protection from Water",
+      27309732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Protection from Earth",
+      27309733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Anti Magic",
+      27309734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Dispel",
+      27309735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Magic Mirror",
+      27309736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Cure",
+      27309737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Resurrection",
+      27309738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Animate Dead",
+      27309739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Sacrifice",
+      27309740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Bless",
+      27309741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Curse",
+      27309742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Bloodlust",
+      27309743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Precision",
+      27309744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Weakness",
+      27309745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Stone Skin",
+      27309746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Disrupting Ray",
+      27309747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Prayer",
+      27309748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Mirth",
+      27309749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Sorrow",
+      27309750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fortune",
+      27309751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Misfortune",
+      27309752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Haste",
+      27309753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Slow",
+      27309754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Slayer",
+      27309755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Frenzy",
+      27309756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Titan's Lighting Bolt",
+      27309757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Counterstrike",
+      27309758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Berserk",
+      27309759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Hypnotize",
+      27309760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Forgetfulness",
+      27309761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Blind",
+      27309762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Teleport",
+      27309763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Remove Obstacle",
+      27309764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Clone",
+      27309765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Fire Elemental",
+      27309766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Earth Elemental",
+      27309767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Water Elemental",
+      27309768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spell Air Elemental",
+      27309769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Attack",
+      27309770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Def",
+      27309771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Spellpower",
+      27309772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Elleshar Knowledge",
+      27309773,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Mutare Drake Name",
+      27457253,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Movement",
+      27457295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake EXP",
+      27457299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 1",
+      27457363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 2",
+      27457367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 3",
+      27457371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 4",
+      27457375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 5",
+      27457379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 6",
+      27457383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Type Slot 7",
+      27457387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 1",
+      27457391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 2",
+      27457395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 3",
+      27457399,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 4",
+      27457403,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 5",
+      27457407,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 6",
+      27457411,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Unit Count Slot 7",
+      27457415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Pathfinding",
+      27457419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Archery",
+      27457420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Logistics",
+      27457421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Scouting",
+      27457422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Diplomacy",
+      27457423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Navigation",
+      27457424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Leadership",
+      27457425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Wisdom",
+      27457426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Mysticism",
+      27457427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Luck",
+      27457428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Ballistics",
+      27457429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Eagle Eye",
+      27457430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Necromancy",
+      27457431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Estates",
+      27457432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Fire Magic",
+      27457433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Air Magic",
+      27457434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Water Magic",
+      27457435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Earth Magic",
+      27457436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Scholar",
+      27457437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Tactics",
+      27457438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Artillery",
+      27457439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Learning",
+      27457440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Offence",
+      27457441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Armourer",
+      27457442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Intelligence",
+      27457443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Sorcery",
+      27457444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Resistance",
+      27457445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake First Aid",
+      27457446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Pathfinding Slot",
+      27457447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Archery Slot",
+      27457448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Logistics Slot",
+      27457449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Scouting Slot",
+      27457450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Diplomacy Slot",
+      27457451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Navigation Slot",
+      27457452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Leadership Slot",
+      27457453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Wisdom Slot",
+      27457454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Mysticism Slot",
+      27457455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Luck Slot",
+      27457456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Ballistics Slot",
+      27457457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Eagle Eye Slot",
+      27457458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Necromancy Slot",
+      27457459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Estates Slot",
+      27457460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Fire Magic Slot",
+      27457461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Air Magic Slot",
+      27457462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Water Magic Slot",
+      27457463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Earth Magic Slot",
+      27457464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Scholar Slot",
+      27457465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Tactics Slot",
+      27457466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Artillery Slot",
+      27457467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Learning Slot",
+      27457468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Offense Slot",
+      27457469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Armourer Slot",
+      27457470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Intelligence Slot",
+      27457471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Sorcery Slot",
+      27457472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Resistance Slot",
+      27457473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake First Aid Slot",
+      27457474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Skill Count",
+      27457475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Ballista equipped (4 or -1)",
+      27457623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Ammo Cart equipped (5 or -1)",
+      27457631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake First Aid equipped Item (6 or -1)",
+      27457639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Catapult equipped (3 or -1)",
+      27457647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spellbook equipped (0 or -1)",
+      27457655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 1",
+      27457686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 2",
+      27457694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 3",
+      27457702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 4",
+      27457710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 5",
+      27457718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 6",
+      27457726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 7",
+      27457734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 8",
+      27457742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 9",
+      27457750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 10",
+      27457758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 11",
+      27457766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 12",
+      27457774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 13",
+      27457782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 14",
+      27457790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 15",
+      27457798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 16",
+      27457806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 17",
+      27457814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 18",
+      27457822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 19",
+      27457830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 20",
+      27457838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 21",
+      27457846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 22",
+      27457854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 23",
+      27457862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 24",
+      27457870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 25",
+      27457878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 26",
+      27457886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 27",
+      27457894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 28",
+      27457902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 29",
+      27457910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 30",
+      27457918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 31",
+      27457926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 32",
+      27457934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 33",
+      27457942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 34",
+      27457950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 35",
+      27457958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 36",
+      27457966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 37",
+      27457974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 38",
+      27457982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 39",
+      27457990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 40",
+      27457998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 41",
+      27458006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 42",
+      27458014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 43",
+      27458022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 44",
+      27458030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 45",
+      27458038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 46",
+      27458046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 47",
+      27458054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 48",
+      27458062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 49",
+      27458070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 50",
+      27458078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 51",
+      27458086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 52",
+      27458094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 53",
+      27458102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 54",
+      27458110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 55",
+      27458118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 56",
+      27458126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 57",
+      27458134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 58",
+      27458142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 59",
+      27458150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 60",
+      27458158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 61",
+      27458166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 62",
+      27458174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 63",
+      27458182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Backpack Slot 64",
+      27458190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Summon Boat",
+      27458290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Scuttle Boat",
+      27458291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Visions",
+      27458292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell View Earth",
+      27458293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Disguise",
+      27458294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell View Air",
+      27458295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fly",
+      27458296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Water Walk",
+      27458297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Dimension Door",
+      27458298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Town Portal",
+      27458299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Quicksand",
+      27458300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Land Mine",
+      27458301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Force Field",
+      27458302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fire Wall",
+      27458303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Earthquake",
+      27458304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Magic Arrow",
+      27458305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Ice Bolt",
+      27458306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Lightning Bolt",
+      27458307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Implosion",
+      27458308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Chain Lightning",
+      27458309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Frost Ring",
+      27458310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fireball",
+      27458311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Inferno",
+      27458312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Meteor Shower",
+      27458313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Death Ripple",
+      27458314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Destroy Undead",
+      27458315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Armageddon",
+      27458316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Shield",
+      27458317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Air Shield",
+      27458318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fire Shield",
+      27458319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Protection from Air",
+      27458320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Protection from Fire",
+      27458321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Protection from Water",
+      27458322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Protection from Earth",
+      27458323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Anti Magic",
+      27458324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Dispel",
+      27458325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Magic Mirror",
+      27458326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Cure",
+      27458327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Resurrection",
+      27458328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Animate Dead",
+      27458329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Sacrifice",
+      27458330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Bless",
+      27458331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Curse",
+      27458332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Bloodlust",
+      27458333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Precision",
+      27458334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Weakness",
+      27458335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Stone Skin",
+      27458336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Disrupting Ray",
+      27458337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Prayer",
+      27458338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Mirth",
+      27458339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Sorrow",
+      27458340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fortune",
+      27458341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Misfortune",
+      27458342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Haste",
+      27458343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Slow",
+      27458344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Slayer",
+      27458345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Frenzy",
+      27458346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Titan's Lighting Bolt",
+      27458347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Counterstrike",
+      27458348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Berserk",
+      27458349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Hypnotize",
+      27458350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Forgetfulness",
+      27458351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Blind",
+      27458352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Teleport",
+      27458353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Remove Obstacle",
+      27458354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Clone",
+      27458355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Fire Elemental",
+      27458356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Earth Elemental",
+      27458357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Water Elemental",
+      27458358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spell Air Elemental",
+      27458359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Attack",
+      27458360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Def",
+      27458361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Spellpower",
+      27458362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Drake Knowledge",
+      27458363,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

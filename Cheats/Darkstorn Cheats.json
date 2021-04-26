@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Darkstorn Name",
+      27389393,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Movement",
+      27389435,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn EXP",
+      27389439,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 1",
+      27389503,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 2",
+      27389507,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 3",
+      27389511,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 4",
+      27389515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 5",
+      27389519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 6",
+      27389523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Type Slot 7",
+      27389527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 1",
+      27389531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 2",
+      27389535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 3",
+      27389539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 4",
+      27389543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 5",
+      27389547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 6",
+      27389551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Unit Count Slot 7",
+      27389555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Pathfinding",
+      27389559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Archery",
+      27389560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Logistics",
+      27389561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Scouting",
+      27389562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Diplomacy",
+      27389563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Navigation",
+      27389564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Leadership",
+      27389565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Wisdom",
+      27389566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Mysticism",
+      27389567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Luck",
+      27389568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Ballistics",
+      27389569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Eagle Eye",
+      27389570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Necromancy",
+      27389571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Estates",
+      27389572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Fire Magic",
+      27389573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Air Magic",
+      27389574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Water Magic",
+      27389575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Earth Magic",
+      27389576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Scholar",
+      27389577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Tactics",
+      27389578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Artillery",
+      27389579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Learning",
+      27389580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Offence",
+      27389581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Armourer",
+      27389582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Intelligence",
+      27389583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Sorcery",
+      27389584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Resistance",
+      27389585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn First Aid",
+      27389586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Pathfinding Slot",
+      27389587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Archery Slot",
+      27389588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Logistics Slot",
+      27389589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Scouting Slot",
+      27389590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Diplomacy Slot",
+      27389591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Navigation Slot",
+      27389592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Leadership Slot",
+      27389593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Wisdom Slot",
+      27389594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Mysticism Slot",
+      27389595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Luck Slot",
+      27389596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Ballistics Slot",
+      27389597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Eagle Eye Slot",
+      27389598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Necromancy Slot",
+      27389599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Estates Slot",
+      27389600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Fire Magic Slot",
+      27389601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Air Magic Slot",
+      27389602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Water Magic Slot",
+      27389603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Earth Magic Slot",
+      27389604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Scholar Slot",
+      27389605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Tactics Slot",
+      27389606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Artillery Slot",
+      27389607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Learning Slot",
+      27389608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Offense Slot",
+      27389609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Armourer Slot",
+      27389610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Intelligence Slot",
+      27389611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Sorcery Slot",
+      27389612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Resistance Slot",
+      27389613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn First Aid Slot",
+      27389614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Skill Count",
+      27389615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Ballista equipped (4 or -1)",
+      27389763,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Ammo Cart equipped (5 or -1)",
+      27389771,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn First Aid equipped Item (6 or -1)",
+      27389779,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Catapult equipped (3 or -1)",
+      27389787,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spellbook equipped (0 or -1)",
+      27389795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 1",
+      27389826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 2",
+      27389834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 3",
+      27389842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 4",
+      27389850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 5",
+      27389858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 6",
+      27389866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 7",
+      27389874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 8",
+      27389882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 9",
+      27389890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 10",
+      27389898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 11",
+      27389906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 12",
+      27389914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 13",
+      27389922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 14",
+      27389930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 15",
+      27389938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 16",
+      27389946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 17",
+      27389954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 18",
+      27389962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 19",
+      27389970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 20",
+      27389978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 21",
+      27389986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 22",
+      27389994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 23",
+      27390002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 24",
+      27390010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 25",
+      27390018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 26",
+      27390026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 27",
+      27390034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 28",
+      27390042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 29",
+      27390050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 30",
+      27390058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 31",
+      27390066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 32",
+      27390074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 33",
+      27390082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 34",
+      27390090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 35",
+      27390098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 36",
+      27390106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 37",
+      27390114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 38",
+      27390122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 39",
+      27390130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 40",
+      27390138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 41",
+      27390146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 42",
+      27390154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 43",
+      27390162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 44",
+      27390170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 45",
+      27390178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 46",
+      27390186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 47",
+      27390194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 48",
+      27390202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 49",
+      27390210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 50",
+      27390218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 51",
+      27390226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 52",
+      27390234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 53",
+      27390242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 54",
+      27390250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 55",
+      27390258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 56",
+      27390266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 57",
+      27390274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 58",
+      27390282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 59",
+      27390290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 60",
+      27390298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 61",
+      27390306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 62",
+      27390314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 63",
+      27390322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Backpack Slot 64",
+      27390330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Summon Boat",
+      27390430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Scuttle Boat",
+      27390431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Visions",
+      27390432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell View Earth",
+      27390433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Disguise",
+      27390434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell View Air",
+      27390435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fly",
+      27390436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Water Walk",
+      27390437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Dimension Door",
+      27390438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Town Portal",
+      27390439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Quicksand",
+      27390440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Land Mine",
+      27390441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Force Field",
+      27390442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fire Wall",
+      27390443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Earthquake",
+      27390444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Magic Arrow",
+      27390445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Ice Bolt",
+      27390446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Lightning Bolt",
+      27390447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Implosion",
+      27390448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Chain Lightning",
+      27390449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Frost Ring",
+      27390450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fireball",
+      27390451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Inferno",
+      27390452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Meteor Shower",
+      27390453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Death Ripple",
+      27390454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Destroy Undead",
+      27390455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Armageddon",
+      27390456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Shield",
+      27390457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Air Shield",
+      27390458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fire Shield",
+      27390459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Protection from Air",
+      27390460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Protection from Fire",
+      27390461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Protection from Water",
+      27390462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Protection from Earth",
+      27390463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Anti Magic",
+      27390464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Dispel",
+      27390465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Magic Mirror",
+      27390466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Cure",
+      27390467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Resurrection",
+      27390468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Animate Dead",
+      27390469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Sacrifice",
+      27390470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Bless",
+      27390471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Curse",
+      27390472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Bloodlust",
+      27390473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Precision",
+      27390474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Weakness",
+      27390475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Stone Skin",
+      27390476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Disrupting Ray",
+      27390477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Prayer",
+      27390478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Mirth",
+      27390479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Sorrow",
+      27390480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fortune",
+      27390481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Misfortune",
+      27390482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Haste",
+      27390483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Slow",
+      27390484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Slayer",
+      27390485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Frenzy",
+      27390486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Titan's Lighting Bolt",
+      27390487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Counterstrike",
+      27390488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Berserk",
+      27390489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Hypnotize",
+      27390490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Forgetfulness",
+      27390491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Blind",
+      27390492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Teleport",
+      27390493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Remove Obstacle",
+      27390494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Clone",
+      27390495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Fire Elemental",
+      27390496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Earth Elemental",
+      27390497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Water Elemental",
+      27390498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spell Air Elemental",
+      27390499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Attack",
+      27390500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Def",
+      27390501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Spellpower",
+      27390502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Darkstorn Knowledge",
+      27390503,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

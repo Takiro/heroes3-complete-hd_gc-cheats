@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Korbac Name",
+      27415133,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Movement",
+      27415175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac EXP",
+      27415179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 1",
+      27415243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 2",
+      27415247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 3",
+      27415251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 4",
+      27415255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 5",
+      27415259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 6",
+      27415263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Type Slot 7",
+      27415267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 1",
+      27415271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 2",
+      27415275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 3",
+      27415279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 4",
+      27415283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 5",
+      27415287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 6",
+      27415291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Unit Count Slot 7",
+      27415295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Pathfinding",
+      27415299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Archery",
+      27415300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Logistics",
+      27415301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Scouting",
+      27415302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Diplomacy",
+      27415303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Navigation",
+      27415304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Leadership",
+      27415305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Wisdom",
+      27415306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Mysticism",
+      27415307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Luck",
+      27415308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Ballistics",
+      27415309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Eagle Eye",
+      27415310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Necromancy",
+      27415311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Estates",
+      27415312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Fire Magic",
+      27415313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Air Magic",
+      27415314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Water Magic",
+      27415315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Earth Magic",
+      27415316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Scholar",
+      27415317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Tactics",
+      27415318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Artillery",
+      27415319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Learning",
+      27415320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Offence",
+      27415321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Armourer",
+      27415322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Intelligence",
+      27415323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Sorcery",
+      27415324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Resistance",
+      27415325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac First Aid",
+      27415326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Pathfinding Slot",
+      27415327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Archery Slot",
+      27415328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Logistics Slot",
+      27415329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Scouting Slot",
+      27415330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Diplomacy Slot",
+      27415331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Navigation Slot",
+      27415332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Leadership Slot",
+      27415333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Wisdom Slot",
+      27415334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Mysticism Slot",
+      27415335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Luck Slot",
+      27415336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Ballistics Slot",
+      27415337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Eagle Eye Slot",
+      27415338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Necromancy Slot",
+      27415339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Estates Slot",
+      27415340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Fire Magic Slot",
+      27415341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Air Magic Slot",
+      27415342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Water Magic Slot",
+      27415343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Earth Magic Slot",
+      27415344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Scholar Slot",
+      27415345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Tactics Slot",
+      27415346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Artillery Slot",
+      27415347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Learning Slot",
+      27415348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Offense Slot",
+      27415349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Armourer Slot",
+      27415350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Intelligence Slot",
+      27415351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Sorcery Slot",
+      27415352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Resistance Slot",
+      27415353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac First Aid Slot",
+      27415354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Skill Count",
+      27415355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Ballista equipped (4 or -1)",
+      27415503,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Ammo Cart equipped (5 or -1)",
+      27415511,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac First Aid equipped Item (6 or -1)",
+      27415519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Catapult equipped (3 or -1)",
+      27415527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spellbook equipped (0 or -1)",
+      27415535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 1",
+      27415566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 2",
+      27415574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 3",
+      27415582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 4",
+      27415590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 5",
+      27415598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 6",
+      27415606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 7",
+      27415614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 8",
+      27415622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 9",
+      27415630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 10",
+      27415638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 11",
+      27415646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 12",
+      27415654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 13",
+      27415662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 14",
+      27415670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 15",
+      27415678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 16",
+      27415686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 17",
+      27415694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 18",
+      27415702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 19",
+      27415710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 20",
+      27415718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 21",
+      27415726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 22",
+      27415734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 23",
+      27415742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 24",
+      27415750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 25",
+      27415758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 26",
+      27415766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 27",
+      27415774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 28",
+      27415782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 29",
+      27415790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 30",
+      27415798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 31",
+      27415806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 32",
+      27415814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 33",
+      27415822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 34",
+      27415830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 35",
+      27415838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 36",
+      27415846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 37",
+      27415854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 38",
+      27415862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 39",
+      27415870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 40",
+      27415878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 41",
+      27415886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 42",
+      27415894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 43",
+      27415902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 44",
+      27415910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 45",
+      27415918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 46",
+      27415926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 47",
+      27415934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 48",
+      27415942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 49",
+      27415950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 50",
+      27415958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 51",
+      27415966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 52",
+      27415974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 53",
+      27415982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 54",
+      27415990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 55",
+      27415998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 56",
+      27416006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 57",
+      27416014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 58",
+      27416022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 59",
+      27416030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 60",
+      27416038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 61",
+      27416046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 62",
+      27416054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 63",
+      27416062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Backpack Slot 64",
+      27416070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Summon Boat",
+      27416170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Scuttle Boat",
+      27416171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Visions",
+      27416172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell View Earth",
+      27416173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Disguise",
+      27416174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell View Air",
+      27416175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fly",
+      27416176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Water Walk",
+      27416177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Dimension Door",
+      27416178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Town Portal",
+      27416179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Quicksand",
+      27416180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Land Mine",
+      27416181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Force Field",
+      27416182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fire Wall",
+      27416183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Earthquake",
+      27416184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Magic Arrow",
+      27416185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Ice Bolt",
+      27416186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Lightning Bolt",
+      27416187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Implosion",
+      27416188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Chain Lightning",
+      27416189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Frost Ring",
+      27416190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fireball",
+      27416191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Inferno",
+      27416192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Meteor Shower",
+      27416193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Death Ripple",
+      27416194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Destroy Undead",
+      27416195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Armageddon",
+      27416196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Shield",
+      27416197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Air Shield",
+      27416198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fire Shield",
+      27416199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Protection from Air",
+      27416200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Protection from Fire",
+      27416201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Protection from Water",
+      27416202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Protection from Earth",
+      27416203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Anti Magic",
+      27416204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Dispel",
+      27416205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Magic Mirror",
+      27416206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Cure",
+      27416207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Resurrection",
+      27416208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Animate Dead",
+      27416209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Sacrifice",
+      27416210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Bless",
+      27416211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Curse",
+      27416212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Bloodlust",
+      27416213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Precision",
+      27416214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Weakness",
+      27416215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Stone Skin",
+      27416216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Disrupting Ray",
+      27416217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Prayer",
+      27416218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Mirth",
+      27416219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Sorrow",
+      27416220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fortune",
+      27416221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Misfortune",
+      27416222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Haste",
+      27416223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Slow",
+      27416224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Slayer",
+      27416225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Frenzy",
+      27416226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Titan's Lighting Bolt",
+      27416227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Counterstrike",
+      27416228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Berserk",
+      27416229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Hypnotize",
+      27416230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Forgetfulness",
+      27416231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Blind",
+      27416232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Teleport",
+      27416233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Remove Obstacle",
+      27416234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Clone",
+      27416235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Fire Elemental",
+      27416236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Earth Elemental",
+      27416237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Water Elemental",
+      27416238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spell Air Elemental",
+      27416239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Attack",
+      27416240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Def",
+      27416241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Spellpower",
+      27416242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Korbac Knowledge",
+      27416243,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

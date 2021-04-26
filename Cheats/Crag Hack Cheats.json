@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Crag Hack Name",
+      27397583,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Movement",
+      27397625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack EXP",
+      27397629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 1",
+      27397693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 2",
+      27397697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 3",
+      27397701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 4",
+      27397705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 5",
+      27397709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 6",
+      27397713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Type Slot 7",
+      27397717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 1",
+      27397721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 2",
+      27397725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 3",
+      27397729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 4",
+      27397733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 5",
+      27397737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 6",
+      27397741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Unit Count Slot 7",
+      27397745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Pathfinding",
+      27397749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Archery",
+      27397750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Logistics",
+      27397751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Scouting",
+      27397752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Diplomacy",
+      27397753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Navigation",
+      27397754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Leadership",
+      27397755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Wisdom",
+      27397756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Mysticism",
+      27397757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Luck",
+      27397758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Ballistics",
+      27397759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Eagle Eye",
+      27397760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Necromancy",
+      27397761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Estates",
+      27397762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Fire Magic",
+      27397763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Air Magic",
+      27397764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Water Magic",
+      27397765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Earth Magic",
+      27397766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Scholar",
+      27397767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Tactics",
+      27397768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Artillery",
+      27397769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Learning",
+      27397770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Offence",
+      27397771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Armourer",
+      27397772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Intelligence",
+      27397773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Sorcery",
+      27397774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Resistance",
+      27397775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack First Aid",
+      27397776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Pathfinding Slot",
+      27397777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Archery Slot",
+      27397778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Logistics Slot",
+      27397779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Scouting Slot",
+      27397780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Diplomacy Slot",
+      27397781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Navigation Slot",
+      27397782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Leadership Slot",
+      27397783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Wisdom Slot",
+      27397784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Mysticism Slot",
+      27397785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Luck Slot",
+      27397786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Ballistics Slot",
+      27397787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Eagle Eye Slot",
+      27397788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Necromancy Slot",
+      27397789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Estates Slot",
+      27397790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Fire Magic Slot",
+      27397791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Air Magic Slot",
+      27397792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Water Magic Slot",
+      27397793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Earth Magic Slot",
+      27397794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Scholar Slot",
+      27397795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Tactics Slot",
+      27397796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Artillery Slot",
+      27397797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Learning Slot",
+      27397798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Offense Slot",
+      27397799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Armourer Slot",
+      27397800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Intelligence Slot",
+      27397801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Sorcery Slot",
+      27397802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Resistance Slot",
+      27397803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack First Aid Slot",
+      27397804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Skill Count",
+      27397805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Ballista equipped (4 or -1)",
+      27397953,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Ammo Cart equipped (5 or -1)",
+      27397961,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack First Aid equipped Item (6 or -1)",
+      27397969,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Catapult equipped (3 or -1)",
+      27397977,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spellbook equipped (0 or -1)",
+      27397985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 1",
+      27398016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 2",
+      27398024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 3",
+      27398032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 4",
+      27398040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 5",
+      27398048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 6",
+      27398056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 7",
+      27398064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 8",
+      27398072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 9",
+      27398080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 10",
+      27398088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 11",
+      27398096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 12",
+      27398104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 13",
+      27398112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 14",
+      27398120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 15",
+      27398128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 16",
+      27398136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 17",
+      27398144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 18",
+      27398152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 19",
+      27398160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 20",
+      27398168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 21",
+      27398176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 22",
+      27398184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 23",
+      27398192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 24",
+      27398200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 25",
+      27398208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 26",
+      27398216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 27",
+      27398224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 28",
+      27398232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 29",
+      27398240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 30",
+      27398248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 31",
+      27398256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 32",
+      27398264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 33",
+      27398272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 34",
+      27398280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 35",
+      27398288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 36",
+      27398296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 37",
+      27398304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 38",
+      27398312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 39",
+      27398320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 40",
+      27398328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 41",
+      27398336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 42",
+      27398344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 43",
+      27398352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 44",
+      27398360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 45",
+      27398368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 46",
+      27398376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 47",
+      27398384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 48",
+      27398392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 49",
+      27398400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 50",
+      27398408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 51",
+      27398416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 52",
+      27398424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 53",
+      27398432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 54",
+      27398440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 55",
+      27398448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 56",
+      27398456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 57",
+      27398464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 58",
+      27398472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 59",
+      27398480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 60",
+      27398488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 61",
+      27398496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 62",
+      27398504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 63",
+      27398512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Backpack Slot 64",
+      27398520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Summon Boat",
+      27398620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Scuttle Boat",
+      27398621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Visions",
+      27398622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell View Earth",
+      27398623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Disguise",
+      27398624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell View Air",
+      27398625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fly",
+      27398626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Water Walk",
+      27398627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Dimension Door",
+      27398628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Town Portal",
+      27398629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Quicksand",
+      27398630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Land Mine",
+      27398631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Force Field",
+      27398632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fire Wall",
+      27398633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Earthquake",
+      27398634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Magic Arrow",
+      27398635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Ice Bolt",
+      27398636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Lightning Bolt",
+      27398637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Implosion",
+      27398638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Chain Lightning",
+      27398639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Frost Ring",
+      27398640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fireball",
+      27398641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Inferno",
+      27398642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Meteor Shower",
+      27398643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Death Ripple",
+      27398644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Destroy Undead",
+      27398645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Armageddon",
+      27398646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Shield",
+      27398647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Air Shield",
+      27398648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fire Shield",
+      27398649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Protection from Air",
+      27398650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Protection from Fire",
+      27398651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Protection from Water",
+      27398652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Protection from Earth",
+      27398653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Anti Magic",
+      27398654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Dispel",
+      27398655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Magic Mirror",
+      27398656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Cure",
+      27398657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Resurrection",
+      27398658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Animate Dead",
+      27398659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Sacrifice",
+      27398660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Bless",
+      27398661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Curse",
+      27398662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Bloodlust",
+      27398663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Precision",
+      27398664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Weakness",
+      27398665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Stone Skin",
+      27398666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Disrupting Ray",
+      27398667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Prayer",
+      27398668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Mirth",
+      27398669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Sorrow",
+      27398670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fortune",
+      27398671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Misfortune",
+      27398672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Haste",
+      27398673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Slow",
+      27398674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Slayer",
+      27398675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Frenzy",
+      27398676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Titan's Lighting Bolt",
+      27398677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Counterstrike",
+      27398678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Berserk",
+      27398679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Hypnotize",
+      27398680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Forgetfulness",
+      27398681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Blind",
+      27398682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Teleport",
+      27398683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Remove Obstacle",
+      27398684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Clone",
+      27398685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Fire Elemental",
+      27398686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Earth Elemental",
+      27398687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Water Elemental",
+      27398688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spell Air Elemental",
+      27398689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Attack",
+      27398690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Def",
+      27398691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Spellpower",
+      27398692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Crag Hack Knowledge",
+      27398693,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

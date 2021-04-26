@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Labetha Name",
+      27440873,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Movement",
+      27440915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha EXP",
+      27440919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 1",
+      27440983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 2",
+      27440987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 3",
+      27440991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 4",
+      27440995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 5",
+      27440999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 6",
+      27441003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Type Slot 7",
+      27441007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 1",
+      27441011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 2",
+      27441015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 3",
+      27441019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 4",
+      27441023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 5",
+      27441027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 6",
+      27441031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Unit Count Slot 7",
+      27441035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Pathfinding",
+      27441039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Archery",
+      27441040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Logistics",
+      27441041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Scouting",
+      27441042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Diplomacy",
+      27441043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Navigation",
+      27441044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Leadership",
+      27441045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Wisdom",
+      27441046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Mysticism",
+      27441047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Luck",
+      27441048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Ballistics",
+      27441049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Eagle Eye",
+      27441050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Necromancy",
+      27441051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Estates",
+      27441052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Fire Magic",
+      27441053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Air Magic",
+      27441054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Water Magic",
+      27441055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Earth Magic",
+      27441056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Scholar",
+      27441057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Tactics",
+      27441058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Artillery",
+      27441059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Learning",
+      27441060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Offence",
+      27441061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Armourer",
+      27441062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Intelligence",
+      27441063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Sorcery",
+      27441064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Resistance",
+      27441065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha First Aid",
+      27441066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Pathfinding Slot",
+      27441067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Archery Slot",
+      27441068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Logistics Slot",
+      27441069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Scouting Slot",
+      27441070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Diplomacy Slot",
+      27441071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Navigation Slot",
+      27441072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Leadership Slot",
+      27441073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Wisdom Slot",
+      27441074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Mysticism Slot",
+      27441075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Luck Slot",
+      27441076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Ballistics Slot",
+      27441077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Eagle Eye Slot",
+      27441078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Necromancy Slot",
+      27441079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Estates Slot",
+      27441080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Fire Magic Slot",
+      27441081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Air Magic Slot",
+      27441082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Water Magic Slot",
+      27441083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Earth Magic Slot",
+      27441084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Scholar Slot",
+      27441085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Tactics Slot",
+      27441086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Artillery Slot",
+      27441087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Learning Slot",
+      27441088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Offense Slot",
+      27441089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Armourer Slot",
+      27441090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Intelligence Slot",
+      27441091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Sorcery Slot",
+      27441092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Resistance Slot",
+      27441093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha First Aid Slot",
+      27441094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Skill Count",
+      27441095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Ballista equipped (4 or -1)",
+      27441243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Ammo Cart equipped (5 or -1)",
+      27441251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha First Aid equipped Item (6 or -1)",
+      27441259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Catapult equipped (3 or -1)",
+      27441267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spellbook equipped (0 or -1)",
+      27441275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 1",
+      27441306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 2",
+      27441314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 3",
+      27441322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 4",
+      27441330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 5",
+      27441338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 6",
+      27441346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 7",
+      27441354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 8",
+      27441362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 9",
+      27441370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 10",
+      27441378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 11",
+      27441386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 12",
+      27441394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 13",
+      27441402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 14",
+      27441410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 15",
+      27441418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 16",
+      27441426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 17",
+      27441434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 18",
+      27441442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 19",
+      27441450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 20",
+      27441458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 21",
+      27441466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 22",
+      27441474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 23",
+      27441482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 24",
+      27441490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 25",
+      27441498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 26",
+      27441506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 27",
+      27441514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 28",
+      27441522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 29",
+      27441530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 30",
+      27441538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 31",
+      27441546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 32",
+      27441554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 33",
+      27441562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 34",
+      27441570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 35",
+      27441578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 36",
+      27441586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 37",
+      27441594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 38",
+      27441602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 39",
+      27441610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 40",
+      27441618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 41",
+      27441626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 42",
+      27441634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 43",
+      27441642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 44",
+      27441650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 45",
+      27441658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 46",
+      27441666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 47",
+      27441674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 48",
+      27441682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 49",
+      27441690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 50",
+      27441698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 51",
+      27441706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 52",
+      27441714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 53",
+      27441722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 54",
+      27441730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 55",
+      27441738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 56",
+      27441746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 57",
+      27441754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 58",
+      27441762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 59",
+      27441770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 60",
+      27441778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 61",
+      27441786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 62",
+      27441794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 63",
+      27441802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Backpack Slot 64",
+      27441810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Summon Boat",
+      27441910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Scuttle Boat",
+      27441911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Visions",
+      27441912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell View Earth",
+      27441913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Disguise",
+      27441914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell View Air",
+      27441915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fly",
+      27441916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Water Walk",
+      27441917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Dimension Door",
+      27441918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Town Portal",
+      27441919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Quicksand",
+      27441920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Land Mine",
+      27441921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Force Field",
+      27441922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fire Wall",
+      27441923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Earthquake",
+      27441924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Magic Arrow",
+      27441925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Ice Bolt",
+      27441926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Lightning Bolt",
+      27441927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Implosion",
+      27441928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Chain Lightning",
+      27441929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Frost Ring",
+      27441930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fireball",
+      27441931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Inferno",
+      27441932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Meteor Shower",
+      27441933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Death Ripple",
+      27441934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Destroy Undead",
+      27441935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Armageddon",
+      27441936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Shield",
+      27441937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Air Shield",
+      27441938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fire Shield",
+      27441939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Protection from Air",
+      27441940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Protection from Fire",
+      27441941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Protection from Water",
+      27441942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Protection from Earth",
+      27441943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Anti Magic",
+      27441944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Dispel",
+      27441945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Magic Mirror",
+      27441946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Cure",
+      27441947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Resurrection",
+      27441948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Animate Dead",
+      27441949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Sacrifice",
+      27441950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Bless",
+      27441951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Curse",
+      27441952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Bloodlust",
+      27441953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Precision",
+      27441954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Weakness",
+      27441955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Stone Skin",
+      27441956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Disrupting Ray",
+      27441957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Prayer",
+      27441958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Mirth",
+      27441959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Sorrow",
+      27441960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fortune",
+      27441961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Misfortune",
+      27441962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Haste",
+      27441963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Slow",
+      27441964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Slayer",
+      27441965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Frenzy",
+      27441966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Titan's Lighting Bolt",
+      27441967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Counterstrike",
+      27441968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Berserk",
+      27441969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Hypnotize",
+      27441970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Forgetfulness",
+      27441971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Blind",
+      27441972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Teleport",
+      27441973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Remove Obstacle",
+      27441974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Clone",
+      27441975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Fire Elemental",
+      27441976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Earth Elemental",
+      27441977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Water Elemental",
+      27441978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spell Air Elemental",
+      27441979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Attack",
+      27441980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Def",
+      27441981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Spellpower",
+      27441982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Labetha Knowledge",
+      27441983,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

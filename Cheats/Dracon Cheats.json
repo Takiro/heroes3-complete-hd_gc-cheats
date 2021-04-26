@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Dracon Name",
+      27450233,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Movement",
+      27450275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon EXP",
+      27450279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 1",
+      27450343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 2",
+      27450347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 3",
+      27450351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 4",
+      27450355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 5",
+      27450359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 6",
+      27450363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Type Slot 7",
+      27450367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 1",
+      27450371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 2",
+      27450375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 3",
+      27450379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 4",
+      27450383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 5",
+      27450387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 6",
+      27450391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Unit Count Slot 7",
+      27450395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Pathfinding",
+      27450399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Archery",
+      27450400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Logistics",
+      27450401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Scouting",
+      27450402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Diplomacy",
+      27450403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Navigation",
+      27450404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Leadership",
+      27450405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Wisdom",
+      27450406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Mysticism",
+      27450407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Luck",
+      27450408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Ballistics",
+      27450409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Eagle Eye",
+      27450410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Necromancy",
+      27450411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Estates",
+      27450412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Fire Magic",
+      27450413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Air Magic",
+      27450414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Water Magic",
+      27450415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Earth Magic",
+      27450416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Scholar",
+      27450417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Tactics",
+      27450418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Artillery",
+      27450419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Learning",
+      27450420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Offence",
+      27450421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Armourer",
+      27450422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Intelligence",
+      27450423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Sorcery",
+      27450424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Resistance",
+      27450425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon First Aid",
+      27450426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Pathfinding Slot",
+      27450427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Archery Slot",
+      27450428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Logistics Slot",
+      27450429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Scouting Slot",
+      27450430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Diplomacy Slot",
+      27450431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Navigation Slot",
+      27450432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Leadership Slot",
+      27450433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Wisdom Slot",
+      27450434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Mysticism Slot",
+      27450435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Luck Slot",
+      27450436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Ballistics Slot",
+      27450437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Eagle Eye Slot",
+      27450438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Necromancy Slot",
+      27450439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Estates Slot",
+      27450440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Fire Magic Slot",
+      27450441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Air Magic Slot",
+      27450442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Water Magic Slot",
+      27450443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Earth Magic Slot",
+      27450444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Scholar Slot",
+      27450445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Tactics Slot",
+      27450446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Artillery Slot",
+      27450447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Learning Slot",
+      27450448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Offense Slot",
+      27450449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Armourer Slot",
+      27450450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Intelligence Slot",
+      27450451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Sorcery Slot",
+      27450452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Resistance Slot",
+      27450453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon First Aid Slot",
+      27450454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Skill Count",
+      27450455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Ballista equipped (4 or -1)",
+      27450603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Ammo Cart equipped (5 or -1)",
+      27450611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon First Aid equipped Item (6 or -1)",
+      27450619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Catapult equipped (3 or -1)",
+      27450627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spellbook equipped (0 or -1)",
+      27450635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 1",
+      27450666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 2",
+      27450674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 3",
+      27450682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 4",
+      27450690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 5",
+      27450698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 6",
+      27450706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 7",
+      27450714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 8",
+      27450722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 9",
+      27450730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 10",
+      27450738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 11",
+      27450746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 12",
+      27450754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 13",
+      27450762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 14",
+      27450770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 15",
+      27450778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 16",
+      27450786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 17",
+      27450794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 18",
+      27450802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 19",
+      27450810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 20",
+      27450818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 21",
+      27450826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 22",
+      27450834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 23",
+      27450842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 24",
+      27450850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 25",
+      27450858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 26",
+      27450866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 27",
+      27450874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 28",
+      27450882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 29",
+      27450890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 30",
+      27450898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 31",
+      27450906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 32",
+      27450914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 33",
+      27450922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 34",
+      27450930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 35",
+      27450938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 36",
+      27450946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 37",
+      27450954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 38",
+      27450962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 39",
+      27450970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 40",
+      27450978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 41",
+      27450986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 42",
+      27450994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 43",
+      27451002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 44",
+      27451010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 45",
+      27451018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 46",
+      27451026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 47",
+      27451034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 48",
+      27451042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 49",
+      27451050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 50",
+      27451058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 51",
+      27451066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 52",
+      27451074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 53",
+      27451082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 54",
+      27451090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 55",
+      27451098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 56",
+      27451106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 57",
+      27451114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 58",
+      27451122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 59",
+      27451130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 60",
+      27451138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 61",
+      27451146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 62",
+      27451154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 63",
+      27451162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Backpack Slot 64",
+      27451170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Summon Boat",
+      27451270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Scuttle Boat",
+      27451271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Visions",
+      27451272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell View Earth",
+      27451273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Disguise",
+      27451274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell View Air",
+      27451275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fly",
+      27451276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Water Walk",
+      27451277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Dimension Door",
+      27451278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Town Portal",
+      27451279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Quicksand",
+      27451280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Land Mine",
+      27451281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Force Field",
+      27451282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fire Wall",
+      27451283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Earthquake",
+      27451284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Magic Arrow",
+      27451285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Ice Bolt",
+      27451286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Lightning Bolt",
+      27451287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Implosion",
+      27451288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Chain Lightning",
+      27451289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Frost Ring",
+      27451290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fireball",
+      27451291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Inferno",
+      27451292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Meteor Shower",
+      27451293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Death Ripple",
+      27451294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Destroy Undead",
+      27451295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Armageddon",
+      27451296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Shield",
+      27451297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Air Shield",
+      27451298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fire Shield",
+      27451299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Protection from Air",
+      27451300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Protection from Fire",
+      27451301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Protection from Water",
+      27451302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Protection from Earth",
+      27451303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Anti Magic",
+      27451304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Dispel",
+      27451305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Magic Mirror",
+      27451306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Cure",
+      27451307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Resurrection",
+      27451308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Animate Dead",
+      27451309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Sacrifice",
+      27451310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Bless",
+      27451311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Curse",
+      27451312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Bloodlust",
+      27451313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Precision",
+      27451314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Weakness",
+      27451315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Stone Skin",
+      27451316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Disrupting Ray",
+      27451317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Prayer",
+      27451318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Mirth",
+      27451319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Sorrow",
+      27451320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fortune",
+      27451321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Misfortune",
+      27451322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Haste",
+      27451323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Slow",
+      27451324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Slayer",
+      27451325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Frenzy",
+      27451326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Titan's Lighting Bolt",
+      27451327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Counterstrike",
+      27451328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Berserk",
+      27451329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Hypnotize",
+      27451330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Forgetfulness",
+      27451331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Blind",
+      27451332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Teleport",
+      27451333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Remove Obstacle",
+      27451334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Clone",
+      27451335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Fire Elemental",
+      27451336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Earth Elemental",
+      27451337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Water Elemental",
+      27451338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spell Air Elemental",
+      27451339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Attack",
+      27451340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Def",
+      27451341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Spellpower",
+      27451342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dracon Knowledge",
+      27451343,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

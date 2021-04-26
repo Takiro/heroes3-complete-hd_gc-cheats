@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Aine Name",
+      27333233,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Movement",
+      27333275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine EXP",
+      27333279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 1",
+      27333343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 2",
+      27333347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 3",
+      27333351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 4",
+      27333355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 5",
+      27333359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 6",
+      27333363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Type Slot 7",
+      27333367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 1",
+      27333371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 2",
+      27333375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 3",
+      27333379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 4",
+      27333383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 5",
+      27333387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 6",
+      27333391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Unit Count Slot 7",
+      27333395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Pathfinding",
+      27333399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Archery",
+      27333400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Logistics",
+      27333401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Scouting",
+      27333402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Diplomacy",
+      27333403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Navigation",
+      27333404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Leadership",
+      27333405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Wisdom",
+      27333406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Mysticism",
+      27333407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Luck",
+      27333408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Ballistics",
+      27333409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Eagle Eye",
+      27333410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Necromancy",
+      27333411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Estates",
+      27333412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Fire Magic",
+      27333413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Air Magic",
+      27333414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Water Magic",
+      27333415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Earth Magic",
+      27333416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Scholar",
+      27333417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Tactics",
+      27333418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Artillery",
+      27333419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Learning",
+      27333420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Offence",
+      27333421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Armourer",
+      27333422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Intelligence",
+      27333423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Sorcery",
+      27333424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Resistance",
+      27333425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine First Aid",
+      27333426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Pathfinding Slot",
+      27333427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Archery Slot",
+      27333428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Logistics Slot",
+      27333429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Scouting Slot",
+      27333430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Diplomacy Slot",
+      27333431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Navigation Slot",
+      27333432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Leadership Slot",
+      27333433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Wisdom Slot",
+      27333434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Mysticism Slot",
+      27333435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Luck Slot",
+      27333436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Ballistics Slot",
+      27333437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Eagle Eye Slot",
+      27333438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Necromancy Slot",
+      27333439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Estates Slot",
+      27333440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Fire Magic Slot",
+      27333441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Air Magic Slot",
+      27333442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Water Magic Slot",
+      27333443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Earth Magic Slot",
+      27333444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Scholar Slot",
+      27333445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Tactics Slot",
+      27333446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Artillery Slot",
+      27333447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Learning Slot",
+      27333448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Offense Slot",
+      27333449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Armourer Slot",
+      27333450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Intelligence Slot",
+      27333451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Sorcery Slot",
+      27333452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Resistance Slot",
+      27333453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine First Aid Slot",
+      27333454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Skill Count",
+      27333455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Ballista equipped (4 or -1)",
+      27333603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Ammo Cart equipped (5 or -1)",
+      27333611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine First Aid equipped Item (6 or -1)",
+      27333619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Catapult equipped (3 or -1)",
+      27333627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spellbook equipped (0 or -1)",
+      27333635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 1",
+      27333666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 2",
+      27333674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 3",
+      27333682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 4",
+      27333690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 5",
+      27333698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 6",
+      27333706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 7",
+      27333714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 8",
+      27333722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 9",
+      27333730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 10",
+      27333738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 11",
+      27333746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 12",
+      27333754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 13",
+      27333762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 14",
+      27333770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 15",
+      27333778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 16",
+      27333786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 17",
+      27333794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 18",
+      27333802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 19",
+      27333810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 20",
+      27333818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 21",
+      27333826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 22",
+      27333834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 23",
+      27333842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 24",
+      27333850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 25",
+      27333858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 26",
+      27333866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 27",
+      27333874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 28",
+      27333882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 29",
+      27333890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 30",
+      27333898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 31",
+      27333906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 32",
+      27333914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 33",
+      27333922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 34",
+      27333930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 35",
+      27333938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 36",
+      27333946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 37",
+      27333954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 38",
+      27333962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 39",
+      27333970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 40",
+      27333978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 41",
+      27333986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 42",
+      27333994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 43",
+      27334002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 44",
+      27334010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 45",
+      27334018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 46",
+      27334026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 47",
+      27334034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 48",
+      27334042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 49",
+      27334050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 50",
+      27334058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 51",
+      27334066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 52",
+      27334074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 53",
+      27334082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 54",
+      27334090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 55",
+      27334098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 56",
+      27334106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 57",
+      27334114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 58",
+      27334122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 59",
+      27334130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 60",
+      27334138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 61",
+      27334146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 62",
+      27334154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 63",
+      27334162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Backpack Slot 64",
+      27334170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Summon Boat",
+      27334270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Scuttle Boat",
+      27334271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Visions",
+      27334272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell View Earth",
+      27334273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Disguise",
+      27334274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell View Air",
+      27334275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fly",
+      27334276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Water Walk",
+      27334277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Dimension Door",
+      27334278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Town Portal",
+      27334279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Quicksand",
+      27334280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Land Mine",
+      27334281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Force Field",
+      27334282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fire Wall",
+      27334283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Earthquake",
+      27334284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Magic Arrow",
+      27334285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Ice Bolt",
+      27334286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Lightning Bolt",
+      27334287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Implosion",
+      27334288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Chain Lightning",
+      27334289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Frost Ring",
+      27334290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fireball",
+      27334291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Inferno",
+      27334292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Meteor Shower",
+      27334293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Death Ripple",
+      27334294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Destroy Undead",
+      27334295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Armageddon",
+      27334296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Shield",
+      27334297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Air Shield",
+      27334298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fire Shield",
+      27334299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Protection from Air",
+      27334300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Protection from Fire",
+      27334301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Protection from Water",
+      27334302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Protection from Earth",
+      27334303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Anti Magic",
+      27334304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Dispel",
+      27334305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Magic Mirror",
+      27334306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Cure",
+      27334307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Resurrection",
+      27334308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Animate Dead",
+      27334309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Sacrifice",
+      27334310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Bless",
+      27334311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Curse",
+      27334312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Bloodlust",
+      27334313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Precision",
+      27334314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Weakness",
+      27334315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Stone Skin",
+      27334316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Disrupting Ray",
+      27334317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Prayer",
+      27334318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Mirth",
+      27334319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Sorrow",
+      27334320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fortune",
+      27334321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Misfortune",
+      27334322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Haste",
+      27334323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Slow",
+      27334324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Slayer",
+      27334325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Frenzy",
+      27334326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Titan's Lighting Bolt",
+      27334327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Counterstrike",
+      27334328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Berserk",
+      27334329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Hypnotize",
+      27334330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Forgetfulness",
+      27334331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Blind",
+      27334332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Teleport",
+      27334333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Remove Obstacle",
+      27334334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Clone",
+      27334335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Fire Elemental",
+      27334336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Earth Elemental",
+      27334337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Water Elemental",
+      27334338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spell Air Elemental",
+      27334339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Attack",
+      27334340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Def",
+      27334341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Spellpower",
+      27334342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aine Knowledge",
+      27334343,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

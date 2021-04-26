@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Isra Name",
+      27358973,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Movement",
+      27359015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra EXP",
+      27359019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 1",
+      27359083,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 2",
+      27359087,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 3",
+      27359091,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 4",
+      27359095,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 5",
+      27359099,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 6",
+      27359103,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Type Slot 7",
+      27359107,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 1",
+      27359111,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 2",
+      27359115,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 3",
+      27359119,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 4",
+      27359123,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 5",
+      27359127,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 6",
+      27359131,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Unit Count Slot 7",
+      27359135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Pathfinding",
+      27359139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Archery",
+      27359140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Logistics",
+      27359141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Scouting",
+      27359142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Diplomacy",
+      27359143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Navigation",
+      27359144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Leadership",
+      27359145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Wisdom",
+      27359146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Mysticism",
+      27359147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Luck",
+      27359148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Ballistics",
+      27359149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Eagle Eye",
+      27359150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Necromancy",
+      27359151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Estates",
+      27359152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Fire Magic",
+      27359153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Air Magic",
+      27359154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Water Magic",
+      27359155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Earth Magic",
+      27359156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Scholar",
+      27359157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Tactics",
+      27359158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Artillery",
+      27359159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Learning",
+      27359160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Offence",
+      27359161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Armourer",
+      27359162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Intelligence",
+      27359163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Sorcery",
+      27359164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Resistance",
+      27359165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra First Aid",
+      27359166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Pathfinding Slot",
+      27359167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Archery Slot",
+      27359168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Logistics Slot",
+      27359169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Scouting Slot",
+      27359170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Diplomacy Slot",
+      27359171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Navigation Slot",
+      27359172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Leadership Slot",
+      27359173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Wisdom Slot",
+      27359174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Mysticism Slot",
+      27359175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Luck Slot",
+      27359176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Ballistics Slot",
+      27359177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Eagle Eye Slot",
+      27359178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Necromancy Slot",
+      27359179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Estates Slot",
+      27359180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Fire Magic Slot",
+      27359181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Air Magic Slot",
+      27359182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Water Magic Slot",
+      27359183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Earth Magic Slot",
+      27359184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Scholar Slot",
+      27359185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Tactics Slot",
+      27359186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Artillery Slot",
+      27359187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Learning Slot",
+      27359188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Offense Slot",
+      27359189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Armourer Slot",
+      27359190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Intelligence Slot",
+      27359191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Sorcery Slot",
+      27359192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Resistance Slot",
+      27359193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra First Aid Slot",
+      27359194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Skill Count",
+      27359195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Ballista equipped (4 or -1)",
+      27359343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Ammo Cart equipped (5 or -1)",
+      27359351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra First Aid equipped Item (6 or -1)",
+      27359359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Catapult equipped (3 or -1)",
+      27359367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spellbook equipped (0 or -1)",
+      27359375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 1",
+      27359406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 2",
+      27359414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 3",
+      27359422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 4",
+      27359430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 5",
+      27359438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 6",
+      27359446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 7",
+      27359454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 8",
+      27359462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 9",
+      27359470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 10",
+      27359478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 11",
+      27359486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 12",
+      27359494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 13",
+      27359502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 14",
+      27359510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 15",
+      27359518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 16",
+      27359526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 17",
+      27359534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 18",
+      27359542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 19",
+      27359550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 20",
+      27359558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 21",
+      27359566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 22",
+      27359574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 23",
+      27359582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 24",
+      27359590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 25",
+      27359598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 26",
+      27359606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 27",
+      27359614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 28",
+      27359622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 29",
+      27359630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 30",
+      27359638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 31",
+      27359646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 32",
+      27359654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 33",
+      27359662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 34",
+      27359670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 35",
+      27359678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 36",
+      27359686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 37",
+      27359694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 38",
+      27359702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 39",
+      27359710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 40",
+      27359718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 41",
+      27359726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 42",
+      27359734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 43",
+      27359742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 44",
+      27359750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 45",
+      27359758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 46",
+      27359766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 47",
+      27359774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 48",
+      27359782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 49",
+      27359790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 50",
+      27359798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 51",
+      27359806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 52",
+      27359814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 53",
+      27359822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 54",
+      27359830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 55",
+      27359838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 56",
+      27359846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 57",
+      27359854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 58",
+      27359862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 59",
+      27359870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 60",
+      27359878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 61",
+      27359886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 62",
+      27359894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 63",
+      27359902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Backpack Slot 64",
+      27359910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Summon Boat",
+      27360010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Scuttle Boat",
+      27360011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Visions",
+      27360012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell View Earth",
+      27360013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Disguise",
+      27360014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell View Air",
+      27360015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fly",
+      27360016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Water Walk",
+      27360017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Dimension Door",
+      27360018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Town Portal",
+      27360019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Quicksand",
+      27360020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Land Mine",
+      27360021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Force Field",
+      27360022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fire Wall",
+      27360023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Earthquake",
+      27360024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Magic Arrow",
+      27360025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Ice Bolt",
+      27360026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Lightning Bolt",
+      27360027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Implosion",
+      27360028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Chain Lightning",
+      27360029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Frost Ring",
+      27360030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fireball",
+      27360031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Inferno",
+      27360032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Meteor Shower",
+      27360033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Death Ripple",
+      27360034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Destroy Undead",
+      27360035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Armageddon",
+      27360036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Shield",
+      27360037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Air Shield",
+      27360038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fire Shield",
+      27360039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Protection from Air",
+      27360040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Protection from Fire",
+      27360041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Protection from Water",
+      27360042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Protection from Earth",
+      27360043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Anti Magic",
+      27360044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Dispel",
+      27360045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Magic Mirror",
+      27360046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Cure",
+      27360047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Resurrection",
+      27360048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Animate Dead",
+      27360049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Sacrifice",
+      27360050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Bless",
+      27360051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Curse",
+      27360052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Bloodlust",
+      27360053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Precision",
+      27360054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Weakness",
+      27360055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Stone Skin",
+      27360056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Disrupting Ray",
+      27360057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Prayer",
+      27360058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Mirth",
+      27360059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Sorrow",
+      27360060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fortune",
+      27360061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Misfortune",
+      27360062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Haste",
+      27360063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Slow",
+      27360064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Slayer",
+      27360065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Frenzy",
+      27360066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Titan's Lighting Bolt",
+      27360067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Counterstrike",
+      27360068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Berserk",
+      27360069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Hypnotize",
+      27360070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Forgetfulness",
+      27360071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Blind",
+      27360072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Teleport",
+      27360073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Remove Obstacle",
+      27360074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Clone",
+      27360075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Fire Elemental",
+      27360076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Earth Elemental",
+      27360077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Water Elemental",
+      27360078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spell Air Elemental",
+      27360079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Attack",
+      27360080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Def",
+      27360081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Spellpower",
+      27360082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Isra Knowledge",
+      27360083,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

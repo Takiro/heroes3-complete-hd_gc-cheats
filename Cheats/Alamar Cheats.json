@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Alamar Name",
+      27381203,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Movement",
+      27381245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar EXP",
+      27381249,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 1",
+      27381313,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 2",
+      27381317,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 3",
+      27381321,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 4",
+      27381325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 5",
+      27381329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 6",
+      27381333,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Type Slot 7",
+      27381337,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 1",
+      27381341,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 2",
+      27381345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 3",
+      27381349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 4",
+      27381353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 5",
+      27381357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 6",
+      27381361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Unit Count Slot 7",
+      27381365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Pathfinding",
+      27381369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Archery",
+      27381370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Logistics",
+      27381371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Scouting",
+      27381372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Diplomacy",
+      27381373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Navigation",
+      27381374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Leadership",
+      27381375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Wisdom",
+      27381376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Mysticism",
+      27381377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Luck",
+      27381378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Ballistics",
+      27381379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Eagle Eye",
+      27381380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Necromancy",
+      27381381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Estates",
+      27381382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Fire Magic",
+      27381383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Air Magic",
+      27381384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Water Magic",
+      27381385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Earth Magic",
+      27381386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Scholar",
+      27381387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Tactics",
+      27381388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Artillery",
+      27381389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Learning",
+      27381390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Offence",
+      27381391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Armourer",
+      27381392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Intelligence",
+      27381393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Sorcery",
+      27381394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Resistance",
+      27381395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar First Aid",
+      27381396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Pathfinding Slot",
+      27381397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Archery Slot",
+      27381398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Logistics Slot",
+      27381399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Scouting Slot",
+      27381400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Diplomacy Slot",
+      27381401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Navigation Slot",
+      27381402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Leadership Slot",
+      27381403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Wisdom Slot",
+      27381404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Mysticism Slot",
+      27381405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Luck Slot",
+      27381406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Ballistics Slot",
+      27381407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Eagle Eye Slot",
+      27381408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Necromancy Slot",
+      27381409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Estates Slot",
+      27381410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Fire Magic Slot",
+      27381411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Air Magic Slot",
+      27381412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Water Magic Slot",
+      27381413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Earth Magic Slot",
+      27381414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Scholar Slot",
+      27381415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Tactics Slot",
+      27381416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Artillery Slot",
+      27381417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Learning Slot",
+      27381418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Offense Slot",
+      27381419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Armourer Slot",
+      27381420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Intelligence Slot",
+      27381421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Sorcery Slot",
+      27381422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Resistance Slot",
+      27381423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar First Aid Slot",
+      27381424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Skill Count",
+      27381425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Ballista equipped (4 or -1)",
+      27381573,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Ammo Cart equipped (5 or -1)",
+      27381581,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar First Aid equipped Item (6 or -1)",
+      27381589,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Catapult equipped (3 or -1)",
+      27381597,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spellbook equipped (0 or -1)",
+      27381605,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 1",
+      27381636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 2",
+      27381644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 3",
+      27381652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 4",
+      27381660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 5",
+      27381668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 6",
+      27381676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 7",
+      27381684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 8",
+      27381692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 9",
+      27381700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 10",
+      27381708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 11",
+      27381716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 12",
+      27381724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 13",
+      27381732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 14",
+      27381740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 15",
+      27381748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 16",
+      27381756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 17",
+      27381764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 18",
+      27381772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 19",
+      27381780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 20",
+      27381788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 21",
+      27381796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 22",
+      27381804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 23",
+      27381812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 24",
+      27381820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 25",
+      27381828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 26",
+      27381836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 27",
+      27381844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 28",
+      27381852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 29",
+      27381860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 30",
+      27381868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 31",
+      27381876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 32",
+      27381884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 33",
+      27381892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 34",
+      27381900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 35",
+      27381908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 36",
+      27381916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 37",
+      27381924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 38",
+      27381932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 39",
+      27381940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 40",
+      27381948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 41",
+      27381956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 42",
+      27381964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 43",
+      27381972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 44",
+      27381980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 45",
+      27381988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 46",
+      27381996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 47",
+      27382004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 48",
+      27382012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 49",
+      27382020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 50",
+      27382028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 51",
+      27382036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 52",
+      27382044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 53",
+      27382052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 54",
+      27382060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 55",
+      27382068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 56",
+      27382076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 57",
+      27382084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 58",
+      27382092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 59",
+      27382100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 60",
+      27382108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 61",
+      27382116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 62",
+      27382124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 63",
+      27382132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Backpack Slot 64",
+      27382140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Summon Boat",
+      27382240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Scuttle Boat",
+      27382241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Visions",
+      27382242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell View Earth",
+      27382243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Disguise",
+      27382244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell View Air",
+      27382245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fly",
+      27382246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Water Walk",
+      27382247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Dimension Door",
+      27382248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Town Portal",
+      27382249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Quicksand",
+      27382250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Land Mine",
+      27382251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Force Field",
+      27382252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fire Wall",
+      27382253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Earthquake",
+      27382254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Magic Arrow",
+      27382255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Ice Bolt",
+      27382256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Lightning Bolt",
+      27382257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Implosion",
+      27382258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Chain Lightning",
+      27382259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Frost Ring",
+      27382260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fireball",
+      27382261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Inferno",
+      27382262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Meteor Shower",
+      27382263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Death Ripple",
+      27382264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Destroy Undead",
+      27382265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Armageddon",
+      27382266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Shield",
+      27382267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Air Shield",
+      27382268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fire Shield",
+      27382269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Protection from Air",
+      27382270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Protection from Fire",
+      27382271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Protection from Water",
+      27382272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Protection from Earth",
+      27382273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Anti Magic",
+      27382274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Dispel",
+      27382275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Magic Mirror",
+      27382276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Cure",
+      27382277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Resurrection",
+      27382278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Animate Dead",
+      27382279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Sacrifice",
+      27382280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Bless",
+      27382281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Curse",
+      27382282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Bloodlust",
+      27382283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Precision",
+      27382284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Weakness",
+      27382285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Stone Skin",
+      27382286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Disrupting Ray",
+      27382287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Prayer",
+      27382288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Mirth",
+      27382289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Sorrow",
+      27382290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fortune",
+      27382291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Misfortune",
+      27382292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Haste",
+      27382293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Slow",
+      27382294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Slayer",
+      27382295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Frenzy",
+      27382296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Titan's Lighting Bolt",
+      27382297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Counterstrike",
+      27382298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Berserk",
+      27382299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Hypnotize",
+      27382300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Forgetfulness",
+      27382301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Blind",
+      27382302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Teleport",
+      27382303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Remove Obstacle",
+      27382304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Clone",
+      27382305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Fire Elemental",
+      27382306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Earth Elemental",
+      27382307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Water Elemental",
+      27382308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spell Air Elemental",
+      27382309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Attack",
+      27382310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Def",
+      27382311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Spellpower",
+      27382312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alamar Knowledge",
+      27382313,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

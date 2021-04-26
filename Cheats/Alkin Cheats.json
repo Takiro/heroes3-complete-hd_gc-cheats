@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Alkin Name",
+      27413963,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Movement",
+      27414005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin EXP",
+      27414009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 1",
+      27414073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 2",
+      27414077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 3",
+      27414081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 4",
+      27414085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 5",
+      27414089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 6",
+      27414093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Type Slot 7",
+      27414097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 1",
+      27414101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 2",
+      27414105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 3",
+      27414109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 4",
+      27414113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 5",
+      27414117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 6",
+      27414121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Unit Count Slot 7",
+      27414125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Pathfinding",
+      27414129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Archery",
+      27414130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Logistics",
+      27414131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Scouting",
+      27414132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Diplomacy",
+      27414133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Navigation",
+      27414134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Leadership",
+      27414135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Wisdom",
+      27414136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Mysticism",
+      27414137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Luck",
+      27414138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Ballistics",
+      27414139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Eagle Eye",
+      27414140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Necromancy",
+      27414141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Estates",
+      27414142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Fire Magic",
+      27414143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Air Magic",
+      27414144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Water Magic",
+      27414145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Earth Magic",
+      27414146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Scholar",
+      27414147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Tactics",
+      27414148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Artillery",
+      27414149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Learning",
+      27414150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Offence",
+      27414151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Armourer",
+      27414152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Intelligence",
+      27414153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Sorcery",
+      27414154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Resistance",
+      27414155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin First Aid",
+      27414156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Pathfinding Slot",
+      27414157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Archery Slot",
+      27414158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Logistics Slot",
+      27414159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Scouting Slot",
+      27414160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Diplomacy Slot",
+      27414161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Navigation Slot",
+      27414162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Leadership Slot",
+      27414163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Wisdom Slot",
+      27414164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Mysticism Slot",
+      27414165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Luck Slot",
+      27414166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Ballistics Slot",
+      27414167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Eagle Eye Slot",
+      27414168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Necromancy Slot",
+      27414169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Estates Slot",
+      27414170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Fire Magic Slot",
+      27414171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Air Magic Slot",
+      27414172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Water Magic Slot",
+      27414173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Earth Magic Slot",
+      27414174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Scholar Slot",
+      27414175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Tactics Slot",
+      27414176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Artillery Slot",
+      27414177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Learning Slot",
+      27414178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Offense Slot",
+      27414179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Armourer Slot",
+      27414180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Intelligence Slot",
+      27414181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Sorcery Slot",
+      27414182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Resistance Slot",
+      27414183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin First Aid Slot",
+      27414184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Skill Count",
+      27414185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Ballista equipped (4 or -1)",
+      27414333,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Ammo Cart equipped (5 or -1)",
+      27414341,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin First Aid equipped Item (6 or -1)",
+      27414349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Catapult equipped (3 or -1)",
+      27414357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spellbook equipped (0 or -1)",
+      27414365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 1",
+      27414396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 2",
+      27414404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 3",
+      27414412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 4",
+      27414420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 5",
+      27414428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 6",
+      27414436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 7",
+      27414444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 8",
+      27414452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 9",
+      27414460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 10",
+      27414468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 11",
+      27414476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 12",
+      27414484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 13",
+      27414492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 14",
+      27414500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 15",
+      27414508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 16",
+      27414516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 17",
+      27414524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 18",
+      27414532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 19",
+      27414540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 20",
+      27414548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 21",
+      27414556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 22",
+      27414564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 23",
+      27414572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 24",
+      27414580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 25",
+      27414588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 26",
+      27414596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 27",
+      27414604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 28",
+      27414612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 29",
+      27414620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 30",
+      27414628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 31",
+      27414636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 32",
+      27414644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 33",
+      27414652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 34",
+      27414660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 35",
+      27414668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 36",
+      27414676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 37",
+      27414684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 38",
+      27414692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 39",
+      27414700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 40",
+      27414708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 41",
+      27414716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 42",
+      27414724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 43",
+      27414732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 44",
+      27414740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 45",
+      27414748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 46",
+      27414756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 47",
+      27414764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 48",
+      27414772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 49",
+      27414780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 50",
+      27414788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 51",
+      27414796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 52",
+      27414804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 53",
+      27414812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 54",
+      27414820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 55",
+      27414828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 56",
+      27414836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 57",
+      27414844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 58",
+      27414852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 59",
+      27414860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 60",
+      27414868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 61",
+      27414876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 62",
+      27414884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 63",
+      27414892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Backpack Slot 64",
+      27414900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Summon Boat",
+      27415000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Scuttle Boat",
+      27415001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Visions",
+      27415002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell View Earth",
+      27415003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Disguise",
+      27415004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell View Air",
+      27415005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fly",
+      27415006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Water Walk",
+      27415007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Dimension Door",
+      27415008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Town Portal",
+      27415009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Quicksand",
+      27415010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Land Mine",
+      27415011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Force Field",
+      27415012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fire Wall",
+      27415013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Earthquake",
+      27415014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Magic Arrow",
+      27415015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Ice Bolt",
+      27415016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Lightning Bolt",
+      27415017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Implosion",
+      27415018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Chain Lightning",
+      27415019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Frost Ring",
+      27415020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fireball",
+      27415021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Inferno",
+      27415022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Meteor Shower",
+      27415023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Death Ripple",
+      27415024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Destroy Undead",
+      27415025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Armageddon",
+      27415026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Shield",
+      27415027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Air Shield",
+      27415028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fire Shield",
+      27415029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Protection from Air",
+      27415030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Protection from Fire",
+      27415031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Protection from Water",
+      27415032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Protection from Earth",
+      27415033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Anti Magic",
+      27415034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Dispel",
+      27415035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Magic Mirror",
+      27415036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Cure",
+      27415037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Resurrection",
+      27415038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Animate Dead",
+      27415039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Sacrifice",
+      27415040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Bless",
+      27415041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Curse",
+      27415042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Bloodlust",
+      27415043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Precision",
+      27415044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Weakness",
+      27415045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Stone Skin",
+      27415046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Disrupting Ray",
+      27415047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Prayer",
+      27415048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Mirth",
+      27415049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Sorrow",
+      27415050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fortune",
+      27415051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Misfortune",
+      27415052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Haste",
+      27415053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Slow",
+      27415054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Slayer",
+      27415055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Frenzy",
+      27415056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Titan's Lighting Bolt",
+      27415057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Counterstrike",
+      27415058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Berserk",
+      27415059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Hypnotize",
+      27415060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Forgetfulness",
+      27415061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Blind",
+      27415062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Teleport",
+      27415063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Remove Obstacle",
+      27415064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Clone",
+      27415065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Fire Elemental",
+      27415066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Earth Elemental",
+      27415067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Water Elemental",
+      27415068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spell Air Elemental",
+      27415069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Attack",
+      27415070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Def",
+      27415071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Spellpower",
+      27415072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alkin Knowledge",
+      27415073,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

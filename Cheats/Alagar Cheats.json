@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Alagar Name",
+      27313343,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Movement",
+      27313385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar EXP",
+      27313389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 1",
+      27313453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 2",
+      27313457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 3",
+      27313461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 4",
+      27313465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 5",
+      27313469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 6",
+      27313473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Type Slot 7",
+      27313477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 1",
+      27313481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 2",
+      27313485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 3",
+      27313489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 4",
+      27313493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 5",
+      27313497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 6",
+      27313501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Unit Count Slot 7",
+      27313505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Pathfinding",
+      27313509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Archery",
+      27313510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Logistics",
+      27313511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Scouting",
+      27313512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Diplomacy",
+      27313513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Navigation",
+      27313514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Leadership",
+      27313515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Wisdom",
+      27313516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Mysticism",
+      27313517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Luck",
+      27313518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Ballistics",
+      27313519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Eagle Eye",
+      27313520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Necromancy",
+      27313521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Estates",
+      27313522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Fire Magic",
+      27313523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Air Magic",
+      27313524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Water Magic",
+      27313525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Earth Magic",
+      27313526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Scholar",
+      27313527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Tactics",
+      27313528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Artillery",
+      27313529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Learning",
+      27313530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Offence",
+      27313531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Armourer",
+      27313532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Intelligence",
+      27313533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Sorcery",
+      27313534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Resistance",
+      27313535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar First Aid",
+      27313536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Pathfinding Slot",
+      27313537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Archery Slot",
+      27313538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Logistics Slot",
+      27313539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Scouting Slot",
+      27313540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Diplomacy Slot",
+      27313541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Navigation Slot",
+      27313542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Leadership Slot",
+      27313543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Wisdom Slot",
+      27313544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Mysticism Slot",
+      27313545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Luck Slot",
+      27313546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Ballistics Slot",
+      27313547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Eagle Eye Slot",
+      27313548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Necromancy Slot",
+      27313549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Estates Slot",
+      27313550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Fire Magic Slot",
+      27313551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Air Magic Slot",
+      27313552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Water Magic Slot",
+      27313553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Earth Magic Slot",
+      27313554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Scholar Slot",
+      27313555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Tactics Slot",
+      27313556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Artillery Slot",
+      27313557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Learning Slot",
+      27313558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Offense Slot",
+      27313559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Armourer Slot",
+      27313560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Intelligence Slot",
+      27313561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Sorcery Slot",
+      27313562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Resistance Slot",
+      27313563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar First Aid Slot",
+      27313564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Skill Count",
+      27313565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Ballista equipped (4 or -1)",
+      27313713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Ammo Cart equipped (5 or -1)",
+      27313721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar First Aid equipped Item (6 or -1)",
+      27313729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Catapult equipped (3 or -1)",
+      27313737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spellbook equipped (0 or -1)",
+      27313745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 1",
+      27313776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 2",
+      27313784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 3",
+      27313792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 4",
+      27313800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 5",
+      27313808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 6",
+      27313816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 7",
+      27313824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 8",
+      27313832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 9",
+      27313840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 10",
+      27313848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 11",
+      27313856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 12",
+      27313864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 13",
+      27313872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 14",
+      27313880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 15",
+      27313888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 16",
+      27313896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 17",
+      27313904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 18",
+      27313912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 19",
+      27313920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 20",
+      27313928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 21",
+      27313936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 22",
+      27313944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 23",
+      27313952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 24",
+      27313960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 25",
+      27313968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 26",
+      27313976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 27",
+      27313984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 28",
+      27313992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 29",
+      27314000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 30",
+      27314008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 31",
+      27314016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 32",
+      27314024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 33",
+      27314032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 34",
+      27314040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 35",
+      27314048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 36",
+      27314056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 37",
+      27314064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 38",
+      27314072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 39",
+      27314080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 40",
+      27314088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 41",
+      27314096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 42",
+      27314104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 43",
+      27314112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 44",
+      27314120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 45",
+      27314128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 46",
+      27314136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 47",
+      27314144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 48",
+      27314152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 49",
+      27314160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 50",
+      27314168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 51",
+      27314176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 52",
+      27314184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 53",
+      27314192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 54",
+      27314200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 55",
+      27314208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 56",
+      27314216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 57",
+      27314224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 58",
+      27314232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 59",
+      27314240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 60",
+      27314248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 61",
+      27314256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 62",
+      27314264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 63",
+      27314272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Backpack Slot 64",
+      27314280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Summon Boat",
+      27314380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Scuttle Boat",
+      27314381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Visions",
+      27314382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell View Earth",
+      27314383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Disguise",
+      27314384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell View Air",
+      27314385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fly",
+      27314386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Water Walk",
+      27314387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Dimension Door",
+      27314388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Town Portal",
+      27314389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Quicksand",
+      27314390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Land Mine",
+      27314391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Force Field",
+      27314392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fire Wall",
+      27314393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Earthquake",
+      27314394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Magic Arrow",
+      27314395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Ice Bolt",
+      27314396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Lightning Bolt",
+      27314397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Implosion",
+      27314398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Chain Lightning",
+      27314399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Frost Ring",
+      27314400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fireball",
+      27314401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Inferno",
+      27314402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Meteor Shower",
+      27314403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Death Ripple",
+      27314404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Destroy Undead",
+      27314405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Armageddon",
+      27314406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Shield",
+      27314407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Air Shield",
+      27314408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fire Shield",
+      27314409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Protection from Air",
+      27314410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Protection from Fire",
+      27314411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Protection from Water",
+      27314412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Protection from Earth",
+      27314413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Anti Magic",
+      27314414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Dispel",
+      27314415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Magic Mirror",
+      27314416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Cure",
+      27314417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Resurrection",
+      27314418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Animate Dead",
+      27314419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Sacrifice",
+      27314420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Bless",
+      27314421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Curse",
+      27314422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Bloodlust",
+      27314423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Precision",
+      27314424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Weakness",
+      27314425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Stone Skin",
+      27314426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Disrupting Ray",
+      27314427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Prayer",
+      27314428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Mirth",
+      27314429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Sorrow",
+      27314430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fortune",
+      27314431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Misfortune",
+      27314432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Haste",
+      27314433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Slow",
+      27314434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Slayer",
+      27314435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Frenzy",
+      27314436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Titan's Lighting Bolt",
+      27314437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Counterstrike",
+      27314438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Berserk",
+      27314439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Hypnotize",
+      27314440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Forgetfulness",
+      27314441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Blind",
+      27314442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Teleport",
+      27314443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Remove Obstacle",
+      27314444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Clone",
+      27314445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Fire Elemental",
+      27314446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Earth Elemental",
+      27314447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Water Elemental",
+      27314448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spell Air Elemental",
+      27314449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Attack",
+      27314450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Def",
+      27314451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Spellpower",
+      27314452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Alagar Knowledge",
+      27314453,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

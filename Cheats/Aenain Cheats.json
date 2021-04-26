@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Aenain Name",
+      27443213,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Movement",
+      27443255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain EXP",
+      27443259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 1",
+      27443323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 2",
+      27443327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 3",
+      27443331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 4",
+      27443335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 5",
+      27443339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 6",
+      27443343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Type Slot 7",
+      27443347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 1",
+      27443351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 2",
+      27443355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 3",
+      27443359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 4",
+      27443363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 5",
+      27443367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 6",
+      27443371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Unit Count Slot 7",
+      27443375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Pathfinding",
+      27443379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Archery",
+      27443380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Logistics",
+      27443381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Scouting",
+      27443382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Diplomacy",
+      27443383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Navigation",
+      27443384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Leadership",
+      27443385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Wisdom",
+      27443386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Mysticism",
+      27443387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Luck",
+      27443388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Ballistics",
+      27443389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Eagle Eye",
+      27443390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Necromancy",
+      27443391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Estates",
+      27443392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Fire Magic",
+      27443393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Air Magic",
+      27443394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Water Magic",
+      27443395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Earth Magic",
+      27443396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Scholar",
+      27443397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Tactics",
+      27443398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Artillery",
+      27443399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Learning",
+      27443400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Offence",
+      27443401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Armourer",
+      27443402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Intelligence",
+      27443403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Sorcery",
+      27443404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Resistance",
+      27443405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain First Aid",
+      27443406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Pathfinding Slot",
+      27443407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Archery Slot",
+      27443408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Logistics Slot",
+      27443409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Scouting Slot",
+      27443410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Diplomacy Slot",
+      27443411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Navigation Slot",
+      27443412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Leadership Slot",
+      27443413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Wisdom Slot",
+      27443414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Mysticism Slot",
+      27443415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Luck Slot",
+      27443416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Ballistics Slot",
+      27443417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Eagle Eye Slot",
+      27443418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Necromancy Slot",
+      27443419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Estates Slot",
+      27443420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Fire Magic Slot",
+      27443421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Air Magic Slot",
+      27443422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Water Magic Slot",
+      27443423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Earth Magic Slot",
+      27443424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Scholar Slot",
+      27443425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Tactics Slot",
+      27443426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Artillery Slot",
+      27443427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Learning Slot",
+      27443428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Offense Slot",
+      27443429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Armourer Slot",
+      27443430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Intelligence Slot",
+      27443431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Sorcery Slot",
+      27443432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Resistance Slot",
+      27443433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain First Aid Slot",
+      27443434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Skill Count",
+      27443435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Ballista equipped (4 or -1)",
+      27443583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Ammo Cart equipped (5 or -1)",
+      27443591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain First Aid equipped Item (6 or -1)",
+      27443599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Catapult equipped (3 or -1)",
+      27443607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spellbook equipped (0 or -1)",
+      27443615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 1",
+      27443646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 2",
+      27443654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 3",
+      27443662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 4",
+      27443670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 5",
+      27443678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 6",
+      27443686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 7",
+      27443694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 8",
+      27443702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 9",
+      27443710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 10",
+      27443718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 11",
+      27443726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 12",
+      27443734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 13",
+      27443742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 14",
+      27443750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 15",
+      27443758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 16",
+      27443766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 17",
+      27443774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 18",
+      27443782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 19",
+      27443790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 20",
+      27443798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 21",
+      27443806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 22",
+      27443814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 23",
+      27443822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 24",
+      27443830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 25",
+      27443838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 26",
+      27443846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 27",
+      27443854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 28",
+      27443862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 29",
+      27443870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 30",
+      27443878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 31",
+      27443886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 32",
+      27443894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 33",
+      27443902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 34",
+      27443910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 35",
+      27443918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 36",
+      27443926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 37",
+      27443934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 38",
+      27443942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 39",
+      27443950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 40",
+      27443958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 41",
+      27443966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 42",
+      27443974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 43",
+      27443982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 44",
+      27443990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 45",
+      27443998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 46",
+      27444006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 47",
+      27444014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 48",
+      27444022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 49",
+      27444030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 50",
+      27444038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 51",
+      27444046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 52",
+      27444054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 53",
+      27444062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 54",
+      27444070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 55",
+      27444078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 56",
+      27444086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 57",
+      27444094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 58",
+      27444102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 59",
+      27444110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 60",
+      27444118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 61",
+      27444126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 62",
+      27444134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 63",
+      27444142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Backpack Slot 64",
+      27444150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Summon Boat",
+      27444250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Scuttle Boat",
+      27444251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Visions",
+      27444252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell View Earth",
+      27444253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Disguise",
+      27444254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell View Air",
+      27444255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fly",
+      27444256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Water Walk",
+      27444257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Dimension Door",
+      27444258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Town Portal",
+      27444259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Quicksand",
+      27444260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Land Mine",
+      27444261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Force Field",
+      27444262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fire Wall",
+      27444263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Earthquake",
+      27444264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Magic Arrow",
+      27444265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Ice Bolt",
+      27444266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Lightning Bolt",
+      27444267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Implosion",
+      27444268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Chain Lightning",
+      27444269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Frost Ring",
+      27444270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fireball",
+      27444271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Inferno",
+      27444272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Meteor Shower",
+      27444273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Death Ripple",
+      27444274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Destroy Undead",
+      27444275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Armageddon",
+      27444276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Shield",
+      27444277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Air Shield",
+      27444278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fire Shield",
+      27444279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Protection from Air",
+      27444280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Protection from Fire",
+      27444281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Protection from Water",
+      27444282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Protection from Earth",
+      27444283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Anti Magic",
+      27444284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Dispel",
+      27444285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Magic Mirror",
+      27444286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Cure",
+      27444287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Resurrection",
+      27444288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Animate Dead",
+      27444289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Sacrifice",
+      27444290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Bless",
+      27444291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Curse",
+      27444292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Bloodlust",
+      27444293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Precision",
+      27444294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Weakness",
+      27444295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Stone Skin",
+      27444296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Disrupting Ray",
+      27444297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Prayer",
+      27444298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Mirth",
+      27444299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Sorrow",
+      27444300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fortune",
+      27444301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Misfortune",
+      27444302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Haste",
+      27444303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Slow",
+      27444304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Slayer",
+      27444305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Frenzy",
+      27444306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Titan's Lighting Bolt",
+      27444307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Counterstrike",
+      27444308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Berserk",
+      27444309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Hypnotize",
+      27444310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Forgetfulness",
+      27444311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Blind",
+      27444312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Teleport",
+      27444313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Remove Obstacle",
+      27444314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Clone",
+      27444315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Fire Elemental",
+      27444316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Earth Elemental",
+      27444317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Water Elemental",
+      27444318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spell Air Elemental",
+      27444319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Attack",
+      27444320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Def",
+      27444321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Spellpower",
+      27444322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aenain Knowledge",
+      27444323,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

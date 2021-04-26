@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gem Name",
+      27309833,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Movement",
+      27309875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem EXP",
+      27309879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 1",
+      27309943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 2",
+      27309947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 3",
+      27309951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 4",
+      27309955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 5",
+      27309959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 6",
+      27309963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Type Slot 7",
+      27309967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 1",
+      27309971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 2",
+      27309975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 3",
+      27309979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 4",
+      27309983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 5",
+      27309987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 6",
+      27309991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Unit Count Slot 7",
+      27309995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Pathfinding",
+      27309999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Archery",
+      27310000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Logistics",
+      27310001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Scouting",
+      27310002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Diplomacy",
+      27310003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Navigation",
+      27310004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Leadership",
+      27310005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Wisdom",
+      27310006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Mysticism",
+      27310007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Luck",
+      27310008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Ballistics",
+      27310009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Eagle Eye",
+      27310010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Necromancy",
+      27310011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Estates",
+      27310012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Fire Magic",
+      27310013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Air Magic",
+      27310014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Water Magic",
+      27310015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Earth Magic",
+      27310016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Scholar",
+      27310017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Tactics",
+      27310018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Artillery",
+      27310019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Learning",
+      27310020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Offence",
+      27310021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Armourer",
+      27310022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Intelligence",
+      27310023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Sorcery",
+      27310024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Resistance",
+      27310025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem First Aid",
+      27310026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Pathfinding Slot",
+      27310027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Archery Slot",
+      27310028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Logistics Slot",
+      27310029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Scouting Slot",
+      27310030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Diplomacy Slot",
+      27310031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Navigation Slot",
+      27310032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Leadership Slot",
+      27310033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Wisdom Slot",
+      27310034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Mysticism Slot",
+      27310035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Luck Slot",
+      27310036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Ballistics Slot",
+      27310037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Eagle Eye Slot",
+      27310038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Necromancy Slot",
+      27310039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Estates Slot",
+      27310040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Fire Magic Slot",
+      27310041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Air Magic Slot",
+      27310042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Water Magic Slot",
+      27310043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Earth Magic Slot",
+      27310044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Scholar Slot",
+      27310045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Tactics Slot",
+      27310046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Artillery Slot",
+      27310047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Learning Slot",
+      27310048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Offense Slot",
+      27310049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Armourer Slot",
+      27310050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Intelligence Slot",
+      27310051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Sorcery Slot",
+      27310052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Resistance Slot",
+      27310053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem First Aid Slot",
+      27310054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Skill Count",
+      27310055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Ballista equipped (4 or -1)",
+      27310203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Ammo Cart equipped (5 or -1)",
+      27310211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem First Aid equipped Item (6 or -1)",
+      27310219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Catapult equipped (3 or -1)",
+      27310227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spellbook equipped (0 or -1)",
+      27310235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 1",
+      27310266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 2",
+      27310274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 3",
+      27310282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 4",
+      27310290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 5",
+      27310298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 6",
+      27310306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 7",
+      27310314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 8",
+      27310322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 9",
+      27310330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 10",
+      27310338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 11",
+      27310346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 12",
+      27310354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 13",
+      27310362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 14",
+      27310370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 15",
+      27310378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 16",
+      27310386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 17",
+      27310394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 18",
+      27310402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 19",
+      27310410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 20",
+      27310418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 21",
+      27310426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 22",
+      27310434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 23",
+      27310442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 24",
+      27310450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 25",
+      27310458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 26",
+      27310466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 27",
+      27310474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 28",
+      27310482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 29",
+      27310490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 30",
+      27310498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 31",
+      27310506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 32",
+      27310514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 33",
+      27310522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 34",
+      27310530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 35",
+      27310538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 36",
+      27310546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 37",
+      27310554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 38",
+      27310562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 39",
+      27310570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 40",
+      27310578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 41",
+      27310586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 42",
+      27310594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 43",
+      27310602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 44",
+      27310610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 45",
+      27310618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 46",
+      27310626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 47",
+      27310634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 48",
+      27310642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 49",
+      27310650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 50",
+      27310658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 51",
+      27310666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 52",
+      27310674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 53",
+      27310682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 54",
+      27310690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 55",
+      27310698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 56",
+      27310706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 57",
+      27310714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 58",
+      27310722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 59",
+      27310730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 60",
+      27310738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 61",
+      27310746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 62",
+      27310754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 63",
+      27310762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Backpack Slot 64",
+      27310770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Summon Boat",
+      27310870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Scuttle Boat",
+      27310871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Visions",
+      27310872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell View Earth",
+      27310873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Disguise",
+      27310874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell View Air",
+      27310875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fly",
+      27310876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Water Walk",
+      27310877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Dimension Door",
+      27310878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Town Portal",
+      27310879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Quicksand",
+      27310880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Land Mine",
+      27310881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Force Field",
+      27310882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fire Wall",
+      27310883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Earthquake",
+      27310884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Magic Arrow",
+      27310885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Ice Bolt",
+      27310886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Lightning Bolt",
+      27310887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Implosion",
+      27310888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Chain Lightning",
+      27310889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Frost Ring",
+      27310890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fireball",
+      27310891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Inferno",
+      27310892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Meteor Shower",
+      27310893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Death Ripple",
+      27310894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Destroy Undead",
+      27310895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Armageddon",
+      27310896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Shield",
+      27310897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Air Shield",
+      27310898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fire Shield",
+      27310899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Protection from Air",
+      27310900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Protection from Fire",
+      27310901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Protection from Water",
+      27310902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Protection from Earth",
+      27310903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Anti Magic",
+      27310904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Dispel",
+      27310905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Magic Mirror",
+      27310906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Cure",
+      27310907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Resurrection",
+      27310908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Animate Dead",
+      27310909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Sacrifice",
+      27310910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Bless",
+      27310911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Curse",
+      27310912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Bloodlust",
+      27310913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Precision",
+      27310914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Weakness",
+      27310915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Stone Skin",
+      27310916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Disrupting Ray",
+      27310917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Prayer",
+      27310918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Mirth",
+      27310919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Sorrow",
+      27310920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fortune",
+      27310921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Misfortune",
+      27310922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Haste",
+      27310923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Slow",
+      27310924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Slayer",
+      27310925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Frenzy",
+      27310926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Titan's Lighting Bolt",
+      27310927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Counterstrike",
+      27310928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Berserk",
+      27310929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Hypnotize",
+      27310930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Forgetfulness",
+      27310931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Blind",
+      27310932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Teleport",
+      27310933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Remove Obstacle",
+      27310934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Clone",
+      27310935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Fire Elemental",
+      27310936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Earth Elemental",
+      27310937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Water Elemental",
+      27310938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spell Air Elemental",
+      27310939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Attack",
+      27310940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Def",
+      27310941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Spellpower",
+      27310942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gem Knowledge",
+      27310943,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

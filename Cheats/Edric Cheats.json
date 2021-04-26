@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Edric Name",
+      27280583,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Movement",
+      27280625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric EXP",
+      27280629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 1",
+      27280693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 2",
+      27280697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 3",
+      27280701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 4",
+      27280705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 5",
+      27280709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 6",
+      27280713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Type Slot 7",
+      27280717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 1",
+      27280721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 2",
+      27280725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 3",
+      27280729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 4",
+      27280733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 5",
+      27280737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 6",
+      27280741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Unit Count Slot 7",
+      27280745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Pathfinding",
+      27280749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Archery",
+      27280750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Logistics",
+      27280751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Scouting",
+      27280752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Diplomacy",
+      27280753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Navigation",
+      27280754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Leadership",
+      27280755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Wisdom",
+      27280756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Mysticism",
+      27280757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Luck",
+      27280758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Ballistics",
+      27280759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Eagle Eye",
+      27280760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Necromancy",
+      27280761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Estates",
+      27280762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Fire Magic",
+      27280763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Air Magic",
+      27280764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Water Magic",
+      27280765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Earth Magic",
+      27280766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Scholar",
+      27280767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Tactics",
+      27280768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Artillery",
+      27280769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Learning",
+      27280770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Offence",
+      27280771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Armourer",
+      27280772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Intelligence",
+      27280773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Sorcery",
+      27280774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Resistance",
+      27280775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric First Aid",
+      27280776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Pathfinding Slot",
+      27280777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Archery Slot",
+      27280778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Logistics Slot",
+      27280779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Scouting Slot",
+      27280780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Diplomacy Slot",
+      27280781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Navigation Slot",
+      27280782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Leadership Slot",
+      27280783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Wisdom Slot",
+      27280784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Mysticism Slot",
+      27280785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Luck Slot",
+      27280786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Ballistics Slot",
+      27280787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Eagle Eye Slot",
+      27280788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Necromancy Slot",
+      27280789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Estates Slot",
+      27280790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Fire Magic Slot",
+      27280791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Air Magic Slot",
+      27280792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Water Magic Slot",
+      27280793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Earth Magic Slot",
+      27280794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Scholar Slot",
+      27280795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Tactics Slot",
+      27280796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Artillery Slot",
+      27280797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Learning Slot",
+      27280798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Offense Slot",
+      27280799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Armourer Slot",
+      27280800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Intelligence Slot",
+      27280801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Sorcery Slot",
+      27280802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Resistance Slot",
+      27280803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric First Aid Slot",
+      27280804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Skill Count",
+      27280805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Ballista equipped (4 or -1)",
+      27280953,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Ammo Cart equipped (5 or -1)",
+      27280961,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric First Aid equipped Item (6 or -1)",
+      27280969,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Catapult equipped (3 or -1)",
+      27280977,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spellbook equipped (0 or -1)",
+      27280985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 1",
+      27281016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 2",
+      27281024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 3",
+      27281032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 4",
+      27281040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 5",
+      27281048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 6",
+      27281056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 7",
+      27281064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 8",
+      27281072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 9",
+      27281080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 10",
+      27281088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 11",
+      27281096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 12",
+      27281104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 13",
+      27281112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 14",
+      27281120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 15",
+      27281128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 16",
+      27281136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 17",
+      27281144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 18",
+      27281152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 19",
+      27281160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 20",
+      27281168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 21",
+      27281176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 22",
+      27281184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 23",
+      27281192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 24",
+      27281200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 25",
+      27281208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 26",
+      27281216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 27",
+      27281224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 28",
+      27281232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 29",
+      27281240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 30",
+      27281248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 31",
+      27281256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 32",
+      27281264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 33",
+      27281272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 34",
+      27281280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 35",
+      27281288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 36",
+      27281296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 37",
+      27281304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 38",
+      27281312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 39",
+      27281320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 40",
+      27281328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 41",
+      27281336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 42",
+      27281344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 43",
+      27281352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 44",
+      27281360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 45",
+      27281368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 46",
+      27281376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 47",
+      27281384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 48",
+      27281392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 49",
+      27281400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 50",
+      27281408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 51",
+      27281416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 52",
+      27281424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 53",
+      27281432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 54",
+      27281440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 55",
+      27281448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 56",
+      27281456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 57",
+      27281464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 58",
+      27281472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 59",
+      27281480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 60",
+      27281488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 61",
+      27281496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 62",
+      27281504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 63",
+      27281512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Backpack Slot 64",
+      27281520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Summon Boat",
+      27281620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Scuttle Boat",
+      27281621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Visions",
+      27281622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell View Earth",
+      27281623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Disguise",
+      27281624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell View Air",
+      27281625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fly",
+      27281626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Water Walk",
+      27281627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Dimension Door",
+      27281628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Town Portal",
+      27281629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Quicksand",
+      27281630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Land Mine",
+      27281631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Force Field",
+      27281632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fire Wall",
+      27281633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Earthquake",
+      27281634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Magic Arrow",
+      27281635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Ice Bolt",
+      27281636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Lightning Bolt",
+      27281637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Implosion",
+      27281638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Chain Lightning",
+      27281639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Frost Ring",
+      27281640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fireball",
+      27281641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Inferno",
+      27281642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Meteor Shower",
+      27281643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Death Ripple",
+      27281644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Destroy Undead",
+      27281645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Armageddon",
+      27281646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Shield",
+      27281647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Air Shield",
+      27281648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fire Shield",
+      27281649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Protection from Air",
+      27281650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Protection from Fire",
+      27281651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Protection from Water",
+      27281652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Protection from Earth",
+      27281653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Anti Magic",
+      27281654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Dispel",
+      27281655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Magic Mirror",
+      27281656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Cure",
+      27281657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Resurrection",
+      27281658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Animate Dead",
+      27281659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Sacrifice",
+      27281660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Bless",
+      27281661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Curse",
+      27281662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Bloodlust",
+      27281663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Precision",
+      27281664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Weakness",
+      27281665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Stone Skin",
+      27281666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Disrupting Ray",
+      27281667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Prayer",
+      27281668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Mirth",
+      27281669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Sorrow",
+      27281670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fortune",
+      27281671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Misfortune",
+      27281672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Haste",
+      27281673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Slow",
+      27281674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Slayer",
+      27281675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Frenzy",
+      27281676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Titan's Lighting Bolt",
+      27281677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Counterstrike",
+      27281678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Berserk",
+      27281679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Hypnotize",
+      27281680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Forgetfulness",
+      27281681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Blind",
+      27281682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Teleport",
+      27281683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Remove Obstacle",
+      27281684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Clone",
+      27281685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Fire Elemental",
+      27281686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Earth Elemental",
+      27281687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Water Elemental",
+      27281688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spell Air Elemental",
+      27281689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Attack",
+      27281690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Def",
+      27281691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Spellpower",
+      27281692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Edric Knowledge",
+      27281693,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

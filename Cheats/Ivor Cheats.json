@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ivor Name",
+      27302813,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Movement",
+      27302855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor EXP",
+      27302859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 1",
+      27302923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 2",
+      27302927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 3",
+      27302931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 4",
+      27302935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 5",
+      27302939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 6",
+      27302943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Type Slot 7",
+      27302947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 1",
+      27302951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 2",
+      27302955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 3",
+      27302959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 4",
+      27302963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 5",
+      27302967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 6",
+      27302971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Unit Count Slot 7",
+      27302975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Pathfinding",
+      27302979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Archery",
+      27302980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Logistics",
+      27302981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Scouting",
+      27302982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Diplomacy",
+      27302983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Navigation",
+      27302984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Leadership",
+      27302985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Wisdom",
+      27302986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Mysticism",
+      27302987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Luck",
+      27302988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Ballistics",
+      27302989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Eagle Eye",
+      27302990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Necromancy",
+      27302991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Estates",
+      27302992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Fire Magic",
+      27302993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Air Magic",
+      27302994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Water Magic",
+      27302995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Earth Magic",
+      27302996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Scholar",
+      27302997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Tactics",
+      27302998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Artillery",
+      27302999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Learning",
+      27303000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Offence",
+      27303001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Armourer",
+      27303002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Intelligence",
+      27303003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Sorcery",
+      27303004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Resistance",
+      27303005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor First Aid",
+      27303006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Pathfinding Slot",
+      27303007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Archery Slot",
+      27303008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Logistics Slot",
+      27303009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Scouting Slot",
+      27303010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Diplomacy Slot",
+      27303011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Navigation Slot",
+      27303012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Leadership Slot",
+      27303013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Wisdom Slot",
+      27303014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Mysticism Slot",
+      27303015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Luck Slot",
+      27303016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Ballistics Slot",
+      27303017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Eagle Eye Slot",
+      27303018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Necromancy Slot",
+      27303019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Estates Slot",
+      27303020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Fire Magic Slot",
+      27303021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Air Magic Slot",
+      27303022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Water Magic Slot",
+      27303023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Earth Magic Slot",
+      27303024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Scholar Slot",
+      27303025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Tactics Slot",
+      27303026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Artillery Slot",
+      27303027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Learning Slot",
+      27303028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Offense Slot",
+      27303029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Armourer Slot",
+      27303030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Intelligence Slot",
+      27303031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Sorcery Slot",
+      27303032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Resistance Slot",
+      27303033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor First Aid Slot",
+      27303034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Skill Count",
+      27303035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Ballista equipped (4 or -1)",
+      27303183,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Ammo Cart equipped (5 or -1)",
+      27303191,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor First Aid equipped Item (6 or -1)",
+      27303199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Catapult equipped (3 or -1)",
+      27303207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spellbook equipped (0 or -1)",
+      27303215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 1",
+      27303246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 2",
+      27303254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 3",
+      27303262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 4",
+      27303270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 5",
+      27303278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 6",
+      27303286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 7",
+      27303294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 8",
+      27303302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 9",
+      27303310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 10",
+      27303318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 11",
+      27303326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 12",
+      27303334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 13",
+      27303342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 14",
+      27303350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 15",
+      27303358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 16",
+      27303366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 17",
+      27303374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 18",
+      27303382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 19",
+      27303390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 20",
+      27303398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 21",
+      27303406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 22",
+      27303414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 23",
+      27303422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 24",
+      27303430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 25",
+      27303438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 26",
+      27303446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 27",
+      27303454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 28",
+      27303462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 29",
+      27303470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 30",
+      27303478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 31",
+      27303486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 32",
+      27303494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 33",
+      27303502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 34",
+      27303510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 35",
+      27303518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 36",
+      27303526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 37",
+      27303534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 38",
+      27303542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 39",
+      27303550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 40",
+      27303558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 41",
+      27303566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 42",
+      27303574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 43",
+      27303582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 44",
+      27303590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 45",
+      27303598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 46",
+      27303606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 47",
+      27303614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 48",
+      27303622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 49",
+      27303630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 50",
+      27303638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 51",
+      27303646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 52",
+      27303654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 53",
+      27303662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 54",
+      27303670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 55",
+      27303678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 56",
+      27303686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 57",
+      27303694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 58",
+      27303702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 59",
+      27303710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 60",
+      27303718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 61",
+      27303726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 62",
+      27303734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 63",
+      27303742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Backpack Slot 64",
+      27303750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Summon Boat",
+      27303850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Scuttle Boat",
+      27303851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Visions",
+      27303852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell View Earth",
+      27303853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Disguise",
+      27303854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell View Air",
+      27303855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fly",
+      27303856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Water Walk",
+      27303857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Dimension Door",
+      27303858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Town Portal",
+      27303859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Quicksand",
+      27303860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Land Mine",
+      27303861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Force Field",
+      27303862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fire Wall",
+      27303863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Earthquake",
+      27303864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Magic Arrow",
+      27303865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Ice Bolt",
+      27303866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Lightning Bolt",
+      27303867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Implosion",
+      27303868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Chain Lightning",
+      27303869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Frost Ring",
+      27303870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fireball",
+      27303871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Inferno",
+      27303872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Meteor Shower",
+      27303873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Death Ripple",
+      27303874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Destroy Undead",
+      27303875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Armageddon",
+      27303876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Shield",
+      27303877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Air Shield",
+      27303878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fire Shield",
+      27303879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Protection from Air",
+      27303880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Protection from Fire",
+      27303881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Protection from Water",
+      27303882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Protection from Earth",
+      27303883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Anti Magic",
+      27303884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Dispel",
+      27303885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Magic Mirror",
+      27303886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Cure",
+      27303887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Resurrection",
+      27303888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Animate Dead",
+      27303889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Sacrifice",
+      27303890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Bless",
+      27303891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Curse",
+      27303892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Bloodlust",
+      27303893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Precision",
+      27303894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Weakness",
+      27303895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Stone Skin",
+      27303896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Disrupting Ray",
+      27303897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Prayer",
+      27303898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Mirth",
+      27303899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Sorrow",
+      27303900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fortune",
+      27303901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Misfortune",
+      27303902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Haste",
+      27303903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Slow",
+      27303904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Slayer",
+      27303905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Frenzy",
+      27303906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Titan's Lighting Bolt",
+      27303907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Counterstrike",
+      27303908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Berserk",
+      27303909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Hypnotize",
+      27303910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Forgetfulness",
+      27303911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Blind",
+      27303912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Teleport",
+      27303913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Remove Obstacle",
+      27303914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Clone",
+      27303915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Fire Elemental",
+      27303916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Earth Elemental",
+      27303917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Water Elemental",
+      27303918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spell Air Elemental",
+      27303919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Attack",
+      27303920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Def",
+      27303921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Spellpower",
+      27303922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ivor Knowledge",
+      27303923,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

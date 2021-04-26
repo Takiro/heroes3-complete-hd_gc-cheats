@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Fafner Name",
+      27321533,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Movement",
+      27321575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner EXP",
+      27321579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 1",
+      27321643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 2",
+      27321647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 3",
+      27321651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 4",
+      27321655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 5",
+      27321659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 6",
+      27321663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Type Slot 7",
+      27321667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 1",
+      27321671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 2",
+      27321675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 3",
+      27321679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 4",
+      27321683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 5",
+      27321687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 6",
+      27321691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Unit Count Slot 7",
+      27321695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Pathfinding",
+      27321699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Archery",
+      27321700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Logistics",
+      27321701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Scouting",
+      27321702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Diplomacy",
+      27321703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Navigation",
+      27321704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Leadership",
+      27321705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Wisdom",
+      27321706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Mysticism",
+      27321707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Luck",
+      27321708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Ballistics",
+      27321709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Eagle Eye",
+      27321710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Necromancy",
+      27321711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Estates",
+      27321712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Fire Magic",
+      27321713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Air Magic",
+      27321714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Water Magic",
+      27321715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Earth Magic",
+      27321716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Scholar",
+      27321717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Tactics",
+      27321718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Artillery",
+      27321719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Learning",
+      27321720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Offence",
+      27321721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Armourer",
+      27321722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Intelligence",
+      27321723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Sorcery",
+      27321724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Resistance",
+      27321725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner First Aid",
+      27321726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Pathfinding Slot",
+      27321727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Archery Slot",
+      27321728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Logistics Slot",
+      27321729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Scouting Slot",
+      27321730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Diplomacy Slot",
+      27321731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Navigation Slot",
+      27321732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Leadership Slot",
+      27321733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Wisdom Slot",
+      27321734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Mysticism Slot",
+      27321735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Luck Slot",
+      27321736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Ballistics Slot",
+      27321737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Eagle Eye Slot",
+      27321738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Necromancy Slot",
+      27321739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Estates Slot",
+      27321740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Fire Magic Slot",
+      27321741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Air Magic Slot",
+      27321742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Water Magic Slot",
+      27321743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Earth Magic Slot",
+      27321744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Scholar Slot",
+      27321745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Tactics Slot",
+      27321746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Artillery Slot",
+      27321747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Learning Slot",
+      27321748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Offense Slot",
+      27321749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Armourer Slot",
+      27321750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Intelligence Slot",
+      27321751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Sorcery Slot",
+      27321752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Resistance Slot",
+      27321753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner First Aid Slot",
+      27321754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Skill Count",
+      27321755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Ballista equipped (4 or -1)",
+      27321903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Ammo Cart equipped (5 or -1)",
+      27321911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner First Aid equipped Item (6 or -1)",
+      27321919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Catapult equipped (3 or -1)",
+      27321927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spellbook equipped (0 or -1)",
+      27321935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 1",
+      27321966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 2",
+      27321974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 3",
+      27321982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 4",
+      27321990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 5",
+      27321998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 6",
+      27322006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 7",
+      27322014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 8",
+      27322022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 9",
+      27322030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 10",
+      27322038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 11",
+      27322046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 12",
+      27322054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 13",
+      27322062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 14",
+      27322070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 15",
+      27322078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 16",
+      27322086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 17",
+      27322094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 18",
+      27322102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 19",
+      27322110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 20",
+      27322118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 21",
+      27322126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 22",
+      27322134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 23",
+      27322142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 24",
+      27322150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 25",
+      27322158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 26",
+      27322166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 27",
+      27322174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 28",
+      27322182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 29",
+      27322190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 30",
+      27322198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 31",
+      27322206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 32",
+      27322214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 33",
+      27322222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 34",
+      27322230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 35",
+      27322238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 36",
+      27322246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 37",
+      27322254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 38",
+      27322262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 39",
+      27322270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 40",
+      27322278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 41",
+      27322286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 42",
+      27322294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 43",
+      27322302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 44",
+      27322310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 45",
+      27322318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 46",
+      27322326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 47",
+      27322334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 48",
+      27322342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 49",
+      27322350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 50",
+      27322358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 51",
+      27322366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 52",
+      27322374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 53",
+      27322382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 54",
+      27322390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 55",
+      27322398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 56",
+      27322406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 57",
+      27322414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 58",
+      27322422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 59",
+      27322430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 60",
+      27322438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 61",
+      27322446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 62",
+      27322454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 63",
+      27322462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Backpack Slot 64",
+      27322470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Summon Boat",
+      27322570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Scuttle Boat",
+      27322571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Visions",
+      27322572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell View Earth",
+      27322573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Disguise",
+      27322574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell View Air",
+      27322575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fly",
+      27322576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Water Walk",
+      27322577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Dimension Door",
+      27322578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Town Portal",
+      27322579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Quicksand",
+      27322580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Land Mine",
+      27322581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Force Field",
+      27322582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fire Wall",
+      27322583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Earthquake",
+      27322584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Magic Arrow",
+      27322585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Ice Bolt",
+      27322586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Lightning Bolt",
+      27322587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Implosion",
+      27322588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Chain Lightning",
+      27322589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Frost Ring",
+      27322590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fireball",
+      27322591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Inferno",
+      27322592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Meteor Shower",
+      27322593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Death Ripple",
+      27322594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Destroy Undead",
+      27322595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Armageddon",
+      27322596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Shield",
+      27322597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Air Shield",
+      27322598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fire Shield",
+      27322599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Protection from Air",
+      27322600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Protection from Fire",
+      27322601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Protection from Water",
+      27322602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Protection from Earth",
+      27322603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Anti Magic",
+      27322604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Dispel",
+      27322605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Magic Mirror",
+      27322606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Cure",
+      27322607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Resurrection",
+      27322608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Animate Dead",
+      27322609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Sacrifice",
+      27322610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Bless",
+      27322611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Curse",
+      27322612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Bloodlust",
+      27322613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Precision",
+      27322614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Weakness",
+      27322615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Stone Skin",
+      27322616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Disrupting Ray",
+      27322617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Prayer",
+      27322618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Mirth",
+      27322619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Sorrow",
+      27322620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fortune",
+      27322621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Misfortune",
+      27322622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Haste",
+      27322623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Slow",
+      27322624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Slayer",
+      27322625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Frenzy",
+      27322626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Titan's Lighting Bolt",
+      27322627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Counterstrike",
+      27322628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Berserk",
+      27322629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Hypnotize",
+      27322630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Forgetfulness",
+      27322631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Blind",
+      27322632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Teleport",
+      27322633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Remove Obstacle",
+      27322634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Clone",
+      27322635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Fire Elemental",
+      27322636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Earth Elemental",
+      27322637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Water Elemental",
+      27322638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spell Air Elemental",
+      27322639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Attack",
+      27322640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Def",
+      27322641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Spellpower",
+      27322642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fafner Knowledge",
+      27322643,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

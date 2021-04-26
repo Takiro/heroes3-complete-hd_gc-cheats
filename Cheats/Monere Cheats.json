@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Monere Name",
+      27432683,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Movement",
+      27432725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere EXP",
+      27432729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 1",
+      27432793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 2",
+      27432797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 3",
+      27432801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 4",
+      27432805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 5",
+      27432809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 6",
+      27432813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Type Slot 7",
+      27432817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 1",
+      27432821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 2",
+      27432825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 3",
+      27432829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 4",
+      27432833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 5",
+      27432837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 6",
+      27432841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Unit Count Slot 7",
+      27432845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Pathfinding",
+      27432849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Archery",
+      27432850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Logistics",
+      27432851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Scouting",
+      27432852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Diplomacy",
+      27432853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Navigation",
+      27432854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Leadership",
+      27432855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Wisdom",
+      27432856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Mysticism",
+      27432857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Luck",
+      27432858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Ballistics",
+      27432859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Eagle Eye",
+      27432860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Necromancy",
+      27432861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Estates",
+      27432862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Fire Magic",
+      27432863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Air Magic",
+      27432864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Water Magic",
+      27432865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Earth Magic",
+      27432866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Scholar",
+      27432867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Tactics",
+      27432868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Artillery",
+      27432869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Learning",
+      27432870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Offence",
+      27432871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Armourer",
+      27432872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Intelligence",
+      27432873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Sorcery",
+      27432874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Resistance",
+      27432875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere First Aid",
+      27432876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Pathfinding Slot",
+      27432877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Archery Slot",
+      27432878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Logistics Slot",
+      27432879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Scouting Slot",
+      27432880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Diplomacy Slot",
+      27432881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Navigation Slot",
+      27432882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Leadership Slot",
+      27432883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Wisdom Slot",
+      27432884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Mysticism Slot",
+      27432885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Luck Slot",
+      27432886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Ballistics Slot",
+      27432887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Eagle Eye Slot",
+      27432888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Necromancy Slot",
+      27432889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Estates Slot",
+      27432890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Fire Magic Slot",
+      27432891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Air Magic Slot",
+      27432892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Water Magic Slot",
+      27432893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Earth Magic Slot",
+      27432894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Scholar Slot",
+      27432895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Tactics Slot",
+      27432896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Artillery Slot",
+      27432897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Learning Slot",
+      27432898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Offense Slot",
+      27432899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Armourer Slot",
+      27432900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Intelligence Slot",
+      27432901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Sorcery Slot",
+      27432902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Resistance Slot",
+      27432903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere First Aid Slot",
+      27432904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Skill Count",
+      27432905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Ballista equipped (4 or -1)",
+      27433053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Ammo Cart equipped (5 or -1)",
+      27433061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere First Aid equipped Item (6 or -1)",
+      27433069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Catapult equipped (3 or -1)",
+      27433077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spellbook equipped (0 or -1)",
+      27433085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 1",
+      27433116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 2",
+      27433124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 3",
+      27433132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 4",
+      27433140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 5",
+      27433148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 6",
+      27433156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 7",
+      27433164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 8",
+      27433172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 9",
+      27433180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 10",
+      27433188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 11",
+      27433196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 12",
+      27433204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 13",
+      27433212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 14",
+      27433220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 15",
+      27433228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 16",
+      27433236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 17",
+      27433244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 18",
+      27433252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 19",
+      27433260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 20",
+      27433268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 21",
+      27433276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 22",
+      27433284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 23",
+      27433292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 24",
+      27433300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 25",
+      27433308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 26",
+      27433316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 27",
+      27433324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 28",
+      27433332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 29",
+      27433340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 30",
+      27433348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 31",
+      27433356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 32",
+      27433364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 33",
+      27433372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 34",
+      27433380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 35",
+      27433388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 36",
+      27433396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 37",
+      27433404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 38",
+      27433412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 39",
+      27433420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 40",
+      27433428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 41",
+      27433436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 42",
+      27433444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 43",
+      27433452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 44",
+      27433460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 45",
+      27433468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 46",
+      27433476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 47",
+      27433484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 48",
+      27433492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 49",
+      27433500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 50",
+      27433508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 51",
+      27433516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 52",
+      27433524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 53",
+      27433532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 54",
+      27433540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 55",
+      27433548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 56",
+      27433556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 57",
+      27433564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 58",
+      27433572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 59",
+      27433580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 60",
+      27433588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 61",
+      27433596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 62",
+      27433604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 63",
+      27433612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Backpack Slot 64",
+      27433620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Summon Boat",
+      27433720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Scuttle Boat",
+      27433721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Visions",
+      27433722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell View Earth",
+      27433723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Disguise",
+      27433724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell View Air",
+      27433725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fly",
+      27433726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Water Walk",
+      27433727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Dimension Door",
+      27433728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Town Portal",
+      27433729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Quicksand",
+      27433730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Land Mine",
+      27433731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Force Field",
+      27433732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fire Wall",
+      27433733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Earthquake",
+      27433734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Magic Arrow",
+      27433735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Ice Bolt",
+      27433736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Lightning Bolt",
+      27433737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Implosion",
+      27433738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Chain Lightning",
+      27433739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Frost Ring",
+      27433740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fireball",
+      27433741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Inferno",
+      27433742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Meteor Shower",
+      27433743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Death Ripple",
+      27433744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Destroy Undead",
+      27433745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Armageddon",
+      27433746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Shield",
+      27433747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Air Shield",
+      27433748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fire Shield",
+      27433749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Protection from Air",
+      27433750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Protection from Fire",
+      27433751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Protection from Water",
+      27433752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Protection from Earth",
+      27433753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Anti Magic",
+      27433754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Dispel",
+      27433755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Magic Mirror",
+      27433756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Cure",
+      27433757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Resurrection",
+      27433758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Animate Dead",
+      27433759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Sacrifice",
+      27433760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Bless",
+      27433761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Curse",
+      27433762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Bloodlust",
+      27433763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Precision",
+      27433764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Weakness",
+      27433765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Stone Skin",
+      27433766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Disrupting Ray",
+      27433767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Prayer",
+      27433768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Mirth",
+      27433769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Sorrow",
+      27433770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fortune",
+      27433771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Misfortune",
+      27433772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Haste",
+      27433773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Slow",
+      27433774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Slayer",
+      27433775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Frenzy",
+      27433776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Titan's Lighting Bolt",
+      27433777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Counterstrike",
+      27433778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Berserk",
+      27433779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Hypnotize",
+      27433780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Forgetfulness",
+      27433781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Blind",
+      27433782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Teleport",
+      27433783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Remove Obstacle",
+      27433784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Clone",
+      27433785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Fire Elemental",
+      27433786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Earth Elemental",
+      27433787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Water Elemental",
+      27433788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spell Air Elemental",
+      27433789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Attack",
+      27433790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Def",
+      27433791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Spellpower",
+      27433792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Monere Knowledge",
+      27433793,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Loynis Name",
+      27294623,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Movement",
+      27294665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis EXP",
+      27294669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 1",
+      27294733,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 2",
+      27294737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 3",
+      27294741,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 4",
+      27294745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 5",
+      27294749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 6",
+      27294753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Type Slot 7",
+      27294757,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 1",
+      27294761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 2",
+      27294765,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 3",
+      27294769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 4",
+      27294773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 5",
+      27294777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 6",
+      27294781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Unit Count Slot 7",
+      27294785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Pathfinding",
+      27294789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Archery",
+      27294790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Logistics",
+      27294791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Scouting",
+      27294792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Diplomacy",
+      27294793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Navigation",
+      27294794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Leadership",
+      27294795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Wisdom",
+      27294796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Mysticism",
+      27294797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Luck",
+      27294798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Ballistics",
+      27294799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Eagle Eye",
+      27294800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Necromancy",
+      27294801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Estates",
+      27294802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Fire Magic",
+      27294803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Air Magic",
+      27294804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Water Magic",
+      27294805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Earth Magic",
+      27294806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Scholar",
+      27294807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Tactics",
+      27294808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Artillery",
+      27294809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Learning",
+      27294810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Offence",
+      27294811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Armourer",
+      27294812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Intelligence",
+      27294813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Sorcery",
+      27294814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Resistance",
+      27294815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis First Aid",
+      27294816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Pathfinding Slot",
+      27294817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Archery Slot",
+      27294818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Logistics Slot",
+      27294819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Scouting Slot",
+      27294820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Diplomacy Slot",
+      27294821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Navigation Slot",
+      27294822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Leadership Slot",
+      27294823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Wisdom Slot",
+      27294824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Mysticism Slot",
+      27294825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Luck Slot",
+      27294826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Ballistics Slot",
+      27294827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Eagle Eye Slot",
+      27294828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Necromancy Slot",
+      27294829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Estates Slot",
+      27294830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Fire Magic Slot",
+      27294831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Air Magic Slot",
+      27294832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Water Magic Slot",
+      27294833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Earth Magic Slot",
+      27294834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Scholar Slot",
+      27294835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Tactics Slot",
+      27294836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Artillery Slot",
+      27294837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Learning Slot",
+      27294838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Offense Slot",
+      27294839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Armourer Slot",
+      27294840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Intelligence Slot",
+      27294841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Sorcery Slot",
+      27294842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Resistance Slot",
+      27294843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis First Aid Slot",
+      27294844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Skill Count",
+      27294845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Ballista equipped (4 or -1)",
+      27294993,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Ammo Cart equipped (5 or -1)",
+      27295001,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis First Aid equipped Item (6 or -1)",
+      27295009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Catapult equipped (3 or -1)",
+      27295017,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spellbook equipped (0 or -1)",
+      27295025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 1",
+      27295056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 2",
+      27295064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 3",
+      27295072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 4",
+      27295080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 5",
+      27295088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 6",
+      27295096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 7",
+      27295104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 8",
+      27295112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 9",
+      27295120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 10",
+      27295128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 11",
+      27295136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 12",
+      27295144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 13",
+      27295152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 14",
+      27295160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 15",
+      27295168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 16",
+      27295176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 17",
+      27295184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 18",
+      27295192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 19",
+      27295200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 20",
+      27295208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 21",
+      27295216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 22",
+      27295224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 23",
+      27295232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 24",
+      27295240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 25",
+      27295248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 26",
+      27295256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 27",
+      27295264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 28",
+      27295272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 29",
+      27295280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 30",
+      27295288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 31",
+      27295296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 32",
+      27295304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 33",
+      27295312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 34",
+      27295320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 35",
+      27295328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 36",
+      27295336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 37",
+      27295344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 38",
+      27295352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 39",
+      27295360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 40",
+      27295368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 41",
+      27295376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 42",
+      27295384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 43",
+      27295392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 44",
+      27295400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 45",
+      27295408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 46",
+      27295416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 47",
+      27295424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 48",
+      27295432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 49",
+      27295440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 50",
+      27295448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 51",
+      27295456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 52",
+      27295464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 53",
+      27295472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 54",
+      27295480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 55",
+      27295488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 56",
+      27295496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 57",
+      27295504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 58",
+      27295512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 59",
+      27295520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 60",
+      27295528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 61",
+      27295536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 62",
+      27295544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 63",
+      27295552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Backpack Slot 64",
+      27295560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Summon Boat",
+      27295660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Scuttle Boat",
+      27295661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Visions",
+      27295662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell View Earth",
+      27295663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Disguise",
+      27295664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell View Air",
+      27295665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fly",
+      27295666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Water Walk",
+      27295667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Dimension Door",
+      27295668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Town Portal",
+      27295669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Quicksand",
+      27295670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Land Mine",
+      27295671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Force Field",
+      27295672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fire Wall",
+      27295673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Earthquake",
+      27295674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Magic Arrow",
+      27295675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Ice Bolt",
+      27295676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Lightning Bolt",
+      27295677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Implosion",
+      27295678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Chain Lightning",
+      27295679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Frost Ring",
+      27295680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fireball",
+      27295681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Inferno",
+      27295682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Meteor Shower",
+      27295683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Death Ripple",
+      27295684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Destroy Undead",
+      27295685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Armageddon",
+      27295686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Shield",
+      27295687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Air Shield",
+      27295688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fire Shield",
+      27295689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Protection from Air",
+      27295690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Protection from Fire",
+      27295691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Protection from Water",
+      27295692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Protection from Earth",
+      27295693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Anti Magic",
+      27295694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Dispel",
+      27295695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Magic Mirror",
+      27295696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Cure",
+      27295697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Resurrection",
+      27295698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Animate Dead",
+      27295699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Sacrifice",
+      27295700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Bless",
+      27295701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Curse",
+      27295702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Bloodlust",
+      27295703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Precision",
+      27295704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Weakness",
+      27295705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Stone Skin",
+      27295706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Disrupting Ray",
+      27295707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Prayer",
+      27295708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Mirth",
+      27295709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Sorrow",
+      27295710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fortune",
+      27295711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Misfortune",
+      27295712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Haste",
+      27295713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Slow",
+      27295714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Slayer",
+      27295715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Frenzy",
+      27295716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Titan's Lighting Bolt",
+      27295717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Counterstrike",
+      27295718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Berserk",
+      27295719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Hypnotize",
+      27295720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Forgetfulness",
+      27295721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Blind",
+      27295722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Teleport",
+      27295723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Remove Obstacle",
+      27295724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Clone",
+      27295725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Fire Elemental",
+      27295726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Earth Elemental",
+      27295727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Water Elemental",
+      27295728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spell Air Elemental",
+      27295729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Attack",
+      27295730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Def",
+      27295731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Spellpower",
+      27295732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Loynis Knowledge",
+      27295733,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

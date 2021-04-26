@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Jenova Name",
+      27299303,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Movement",
+      27299345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova EXP",
+      27299349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 1",
+      27299413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 2",
+      27299417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 3",
+      27299421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 4",
+      27299425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 5",
+      27299429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 6",
+      27299433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Type Slot 7",
+      27299437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 1",
+      27299441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 2",
+      27299445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 3",
+      27299449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 4",
+      27299453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 5",
+      27299457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 6",
+      27299461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Unit Count Slot 7",
+      27299465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Pathfinding",
+      27299469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Archery",
+      27299470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Logistics",
+      27299471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Scouting",
+      27299472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Diplomacy",
+      27299473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Navigation",
+      27299474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Leadership",
+      27299475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Wisdom",
+      27299476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Mysticism",
+      27299477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Luck",
+      27299478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Ballistics",
+      27299479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Eagle Eye",
+      27299480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Necromancy",
+      27299481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Estates",
+      27299482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Fire Magic",
+      27299483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Air Magic",
+      27299484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Water Magic",
+      27299485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Earth Magic",
+      27299486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Scholar",
+      27299487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Tactics",
+      27299488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Artillery",
+      27299489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Learning",
+      27299490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Offence",
+      27299491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Armourer",
+      27299492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Intelligence",
+      27299493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Sorcery",
+      27299494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Resistance",
+      27299495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova First Aid",
+      27299496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Pathfinding Slot",
+      27299497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Archery Slot",
+      27299498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Logistics Slot",
+      27299499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Scouting Slot",
+      27299500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Diplomacy Slot",
+      27299501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Navigation Slot",
+      27299502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Leadership Slot",
+      27299503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Wisdom Slot",
+      27299504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Mysticism Slot",
+      27299505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Luck Slot",
+      27299506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Ballistics Slot",
+      27299507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Eagle Eye Slot",
+      27299508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Necromancy Slot",
+      27299509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Estates Slot",
+      27299510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Fire Magic Slot",
+      27299511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Air Magic Slot",
+      27299512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Water Magic Slot",
+      27299513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Earth Magic Slot",
+      27299514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Scholar Slot",
+      27299515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Tactics Slot",
+      27299516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Artillery Slot",
+      27299517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Learning Slot",
+      27299518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Offense Slot",
+      27299519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Armourer Slot",
+      27299520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Intelligence Slot",
+      27299521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Sorcery Slot",
+      27299522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Resistance Slot",
+      27299523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova First Aid Slot",
+      27299524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Skill Count",
+      27299525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Ballista equipped (4 or -1)",
+      27299673,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Ammo Cart equipped (5 or -1)",
+      27299681,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova First Aid equipped Item (6 or -1)",
+      27299689,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Catapult equipped (3 or -1)",
+      27299697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spellbook equipped (0 or -1)",
+      27299705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 1",
+      27299736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 2",
+      27299744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 3",
+      27299752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 4",
+      27299760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 5",
+      27299768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 6",
+      27299776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 7",
+      27299784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 8",
+      27299792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 9",
+      27299800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 10",
+      27299808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 11",
+      27299816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 12",
+      27299824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 13",
+      27299832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 14",
+      27299840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 15",
+      27299848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 16",
+      27299856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 17",
+      27299864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 18",
+      27299872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 19",
+      27299880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 20",
+      27299888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 21",
+      27299896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 22",
+      27299904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 23",
+      27299912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 24",
+      27299920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 25",
+      27299928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 26",
+      27299936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 27",
+      27299944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 28",
+      27299952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 29",
+      27299960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 30",
+      27299968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 31",
+      27299976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 32",
+      27299984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 33",
+      27299992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 34",
+      27300000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 35",
+      27300008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 36",
+      27300016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 37",
+      27300024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 38",
+      27300032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 39",
+      27300040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 40",
+      27300048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 41",
+      27300056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 42",
+      27300064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 43",
+      27300072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 44",
+      27300080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 45",
+      27300088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 46",
+      27300096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 47",
+      27300104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 48",
+      27300112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 49",
+      27300120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 50",
+      27300128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 51",
+      27300136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 52",
+      27300144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 53",
+      27300152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 54",
+      27300160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 55",
+      27300168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 56",
+      27300176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 57",
+      27300184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 58",
+      27300192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 59",
+      27300200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 60",
+      27300208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 61",
+      27300216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 62",
+      27300224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 63",
+      27300232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Backpack Slot 64",
+      27300240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Summon Boat",
+      27300340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Scuttle Boat",
+      27300341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Visions",
+      27300342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell View Earth",
+      27300343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Disguise",
+      27300344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell View Air",
+      27300345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fly",
+      27300346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Water Walk",
+      27300347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Dimension Door",
+      27300348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Town Portal",
+      27300349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Quicksand",
+      27300350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Land Mine",
+      27300351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Force Field",
+      27300352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fire Wall",
+      27300353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Earthquake",
+      27300354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Magic Arrow",
+      27300355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Ice Bolt",
+      27300356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Lightning Bolt",
+      27300357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Implosion",
+      27300358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Chain Lightning",
+      27300359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Frost Ring",
+      27300360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fireball",
+      27300361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Inferno",
+      27300362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Meteor Shower",
+      27300363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Death Ripple",
+      27300364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Destroy Undead",
+      27300365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Armageddon",
+      27300366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Shield",
+      27300367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Air Shield",
+      27300368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fire Shield",
+      27300369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Protection from Air",
+      27300370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Protection from Fire",
+      27300371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Protection from Water",
+      27300372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Protection from Earth",
+      27300373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Anti Magic",
+      27300374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Dispel",
+      27300375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Magic Mirror",
+      27300376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Cure",
+      27300377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Resurrection",
+      27300378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Animate Dead",
+      27300379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Sacrifice",
+      27300380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Bless",
+      27300381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Curse",
+      27300382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Bloodlust",
+      27300383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Precision",
+      27300384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Weakness",
+      27300385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Stone Skin",
+      27300386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Disrupting Ray",
+      27300387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Prayer",
+      27300388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Mirth",
+      27300389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Sorrow",
+      27300390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fortune",
+      27300391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Misfortune",
+      27300392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Haste",
+      27300393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Slow",
+      27300394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Slayer",
+      27300395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Frenzy",
+      27300396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Titan's Lighting Bolt",
+      27300397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Counterstrike",
+      27300398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Berserk",
+      27300399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Hypnotize",
+      27300400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Forgetfulness",
+      27300401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Blind",
+      27300402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Teleport",
+      27300403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Remove Obstacle",
+      27300404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Clone",
+      27300405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Fire Elemental",
+      27300406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Earth Elemental",
+      27300407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Water Elemental",
+      27300408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spell Air Elemental",
+      27300409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Attack",
+      27300410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Def",
+      27300411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Spellpower",
+      27300412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jenova Knowledge",
+      27300413,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Bron Name",
+      27409283,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Movement",
+      27409325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron EXP",
+      27409329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 1",
+      27409393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 2",
+      27409397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 3",
+      27409401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 4",
+      27409405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 5",
+      27409409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 6",
+      27409413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Type Slot 7",
+      27409417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 1",
+      27409421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 2",
+      27409425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 3",
+      27409429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 4",
+      27409433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 5",
+      27409437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 6",
+      27409441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Unit Count Slot 7",
+      27409445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Pathfinding",
+      27409449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Archery",
+      27409450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Logistics",
+      27409451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Scouting",
+      27409452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Diplomacy",
+      27409453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Navigation",
+      27409454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Leadership",
+      27409455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Wisdom",
+      27409456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Mysticism",
+      27409457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Luck",
+      27409458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Ballistics",
+      27409459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Eagle Eye",
+      27409460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Necromancy",
+      27409461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Estates",
+      27409462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Fire Magic",
+      27409463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Air Magic",
+      27409464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Water Magic",
+      27409465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Earth Magic",
+      27409466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Scholar",
+      27409467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Tactics",
+      27409468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Artillery",
+      27409469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Learning",
+      27409470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Offence",
+      27409471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Armourer",
+      27409472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Intelligence",
+      27409473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Sorcery",
+      27409474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Resistance",
+      27409475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron First Aid",
+      27409476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Pathfinding Slot",
+      27409477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Archery Slot",
+      27409478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Logistics Slot",
+      27409479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Scouting Slot",
+      27409480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Diplomacy Slot",
+      27409481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Navigation Slot",
+      27409482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Leadership Slot",
+      27409483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Wisdom Slot",
+      27409484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Mysticism Slot",
+      27409485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Luck Slot",
+      27409486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Ballistics Slot",
+      27409487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Eagle Eye Slot",
+      27409488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Necromancy Slot",
+      27409489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Estates Slot",
+      27409490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Fire Magic Slot",
+      27409491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Air Magic Slot",
+      27409492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Water Magic Slot",
+      27409493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Earth Magic Slot",
+      27409494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Scholar Slot",
+      27409495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Tactics Slot",
+      27409496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Artillery Slot",
+      27409497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Learning Slot",
+      27409498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Offense Slot",
+      27409499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Armourer Slot",
+      27409500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Intelligence Slot",
+      27409501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Sorcery Slot",
+      27409502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Resistance Slot",
+      27409503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron First Aid Slot",
+      27409504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Skill Count",
+      27409505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Ballista equipped (4 or -1)",
+      27409653,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Ammo Cart equipped (5 or -1)",
+      27409661,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron First Aid equipped Item (6 or -1)",
+      27409669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Catapult equipped (3 or -1)",
+      27409677,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spellbook equipped (0 or -1)",
+      27409685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 1",
+      27409716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 2",
+      27409724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 3",
+      27409732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 4",
+      27409740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 5",
+      27409748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 6",
+      27409756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 7",
+      27409764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 8",
+      27409772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 9",
+      27409780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 10",
+      27409788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 11",
+      27409796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 12",
+      27409804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 13",
+      27409812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 14",
+      27409820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 15",
+      27409828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 16",
+      27409836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 17",
+      27409844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 18",
+      27409852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 19",
+      27409860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 20",
+      27409868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 21",
+      27409876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 22",
+      27409884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 23",
+      27409892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 24",
+      27409900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 25",
+      27409908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 26",
+      27409916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 27",
+      27409924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 28",
+      27409932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 29",
+      27409940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 30",
+      27409948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 31",
+      27409956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 32",
+      27409964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 33",
+      27409972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 34",
+      27409980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 35",
+      27409988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 36",
+      27409996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 37",
+      27410004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 38",
+      27410012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 39",
+      27410020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 40",
+      27410028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 41",
+      27410036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 42",
+      27410044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 43",
+      27410052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 44",
+      27410060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 45",
+      27410068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 46",
+      27410076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 47",
+      27410084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 48",
+      27410092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 49",
+      27410100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 50",
+      27410108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 51",
+      27410116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 52",
+      27410124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 53",
+      27410132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 54",
+      27410140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 55",
+      27410148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 56",
+      27410156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 57",
+      27410164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 58",
+      27410172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 59",
+      27410180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 60",
+      27410188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 61",
+      27410196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 62",
+      27410204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 63",
+      27410212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Backpack Slot 64",
+      27410220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Summon Boat",
+      27410320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Scuttle Boat",
+      27410321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Visions",
+      27410322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell View Earth",
+      27410323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Disguise",
+      27410324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell View Air",
+      27410325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fly",
+      27410326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Water Walk",
+      27410327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Dimension Door",
+      27410328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Town Portal",
+      27410329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Quicksand",
+      27410330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Land Mine",
+      27410331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Force Field",
+      27410332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fire Wall",
+      27410333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Earthquake",
+      27410334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Magic Arrow",
+      27410335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Ice Bolt",
+      27410336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Lightning Bolt",
+      27410337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Implosion",
+      27410338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Chain Lightning",
+      27410339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Frost Ring",
+      27410340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fireball",
+      27410341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Inferno",
+      27410342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Meteor Shower",
+      27410343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Death Ripple",
+      27410344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Destroy Undead",
+      27410345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Armageddon",
+      27410346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Shield",
+      27410347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Air Shield",
+      27410348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fire Shield",
+      27410349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Protection from Air",
+      27410350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Protection from Fire",
+      27410351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Protection from Water",
+      27410352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Protection from Earth",
+      27410353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Anti Magic",
+      27410354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Dispel",
+      27410355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Magic Mirror",
+      27410356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Cure",
+      27410357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Resurrection",
+      27410358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Animate Dead",
+      27410359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Sacrifice",
+      27410360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Bless",
+      27410361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Curse",
+      27410362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Bloodlust",
+      27410363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Precision",
+      27410364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Weakness",
+      27410365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Stone Skin",
+      27410366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Disrupting Ray",
+      27410367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Prayer",
+      27410368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Mirth",
+      27410369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Sorrow",
+      27410370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fortune",
+      27410371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Misfortune",
+      27410372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Haste",
+      27410373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Slow",
+      27410374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Slayer",
+      27410375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Frenzy",
+      27410376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Titan's Lighting Bolt",
+      27410377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Counterstrike",
+      27410378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Berserk",
+      27410379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Hypnotize",
+      27410380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Forgetfulness",
+      27410381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Blind",
+      27410382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Teleport",
+      27410383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Remove Obstacle",
+      27410384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Clone",
+      27410385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Fire Elemental",
+      27410386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Earth Elemental",
+      27410387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Water Elemental",
+      27410388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spell Air Elemental",
+      27410389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Attack",
+      27410390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Def",
+      27410391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Spellpower",
+      27410392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Bron Knowledge",
+      27410393,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Axsis Name",
+      27346103,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Movement",
+      27346145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis EXP",
+      27346149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 1",
+      27346213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 2",
+      27346217,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 3",
+      27346221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 4",
+      27346225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 5",
+      27346229,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 6",
+      27346233,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Type Slot 7",
+      27346237,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 1",
+      27346241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 2",
+      27346245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 3",
+      27346249,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 4",
+      27346253,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 5",
+      27346257,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 6",
+      27346261,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Unit Count Slot 7",
+      27346265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Pathfinding",
+      27346269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Archery",
+      27346270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Logistics",
+      27346271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Scouting",
+      27346272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Diplomacy",
+      27346273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Navigation",
+      27346274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Leadership",
+      27346275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Wisdom",
+      27346276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Mysticism",
+      27346277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Luck",
+      27346278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Ballistics",
+      27346279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Eagle Eye",
+      27346280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Necromancy",
+      27346281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Estates",
+      27346282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Fire Magic",
+      27346283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Air Magic",
+      27346284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Water Magic",
+      27346285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Earth Magic",
+      27346286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Scholar",
+      27346287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Tactics",
+      27346288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Artillery",
+      27346289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Learning",
+      27346290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Offence",
+      27346291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Armourer",
+      27346292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Intelligence",
+      27346293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Sorcery",
+      27346294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Resistance",
+      27346295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis First Aid",
+      27346296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Pathfinding Slot",
+      27346297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Archery Slot",
+      27346298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Logistics Slot",
+      27346299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Scouting Slot",
+      27346300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Diplomacy Slot",
+      27346301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Navigation Slot",
+      27346302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Leadership Slot",
+      27346303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Wisdom Slot",
+      27346304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Mysticism Slot",
+      27346305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Luck Slot",
+      27346306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Ballistics Slot",
+      27346307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Eagle Eye Slot",
+      27346308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Necromancy Slot",
+      27346309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Estates Slot",
+      27346310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Fire Magic Slot",
+      27346311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Air Magic Slot",
+      27346312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Water Magic Slot",
+      27346313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Earth Magic Slot",
+      27346314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Scholar Slot",
+      27346315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Tactics Slot",
+      27346316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Artillery Slot",
+      27346317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Learning Slot",
+      27346318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Offense Slot",
+      27346319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Armourer Slot",
+      27346320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Intelligence Slot",
+      27346321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Sorcery Slot",
+      27346322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Resistance Slot",
+      27346323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis First Aid Slot",
+      27346324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Skill Count",
+      27346325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Ballista equipped (4 or -1)",
+      27346473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Ammo Cart equipped (5 or -1)",
+      27346481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis First Aid equipped Item (6 or -1)",
+      27346489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Catapult equipped (3 or -1)",
+      27346497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spellbook equipped (0 or -1)",
+      27346505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 1",
+      27346536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 2",
+      27346544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 3",
+      27346552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 4",
+      27346560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 5",
+      27346568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 6",
+      27346576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 7",
+      27346584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 8",
+      27346592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 9",
+      27346600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 10",
+      27346608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 11",
+      27346616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 12",
+      27346624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 13",
+      27346632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 14",
+      27346640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 15",
+      27346648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 16",
+      27346656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 17",
+      27346664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 18",
+      27346672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 19",
+      27346680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 20",
+      27346688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 21",
+      27346696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 22",
+      27346704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 23",
+      27346712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 24",
+      27346720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 25",
+      27346728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 26",
+      27346736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 27",
+      27346744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 28",
+      27346752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 29",
+      27346760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 30",
+      27346768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 31",
+      27346776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 32",
+      27346784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 33",
+      27346792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 34",
+      27346800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 35",
+      27346808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 36",
+      27346816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 37",
+      27346824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 38",
+      27346832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 39",
+      27346840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 40",
+      27346848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 41",
+      27346856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 42",
+      27346864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 43",
+      27346872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 44",
+      27346880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 45",
+      27346888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 46",
+      27346896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 47",
+      27346904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 48",
+      27346912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 49",
+      27346920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 50",
+      27346928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 51",
+      27346936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 52",
+      27346944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 53",
+      27346952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 54",
+      27346960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 55",
+      27346968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 56",
+      27346976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 57",
+      27346984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 58",
+      27346992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 59",
+      27347000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 60",
+      27347008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 61",
+      27347016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 62",
+      27347024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 63",
+      27347032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Backpack Slot 64",
+      27347040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Summon Boat",
+      27347140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Scuttle Boat",
+      27347141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Visions",
+      27347142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell View Earth",
+      27347143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Disguise",
+      27347144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell View Air",
+      27347145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fly",
+      27347146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Water Walk",
+      27347147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Dimension Door",
+      27347148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Town Portal",
+      27347149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Quicksand",
+      27347150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Land Mine",
+      27347151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Force Field",
+      27347152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fire Wall",
+      27347153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Earthquake",
+      27347154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Magic Arrow",
+      27347155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Ice Bolt",
+      27347156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Lightning Bolt",
+      27347157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Implosion",
+      27347158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Chain Lightning",
+      27347159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Frost Ring",
+      27347160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fireball",
+      27347161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Inferno",
+      27347162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Meteor Shower",
+      27347163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Death Ripple",
+      27347164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Destroy Undead",
+      27347165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Armageddon",
+      27347166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Shield",
+      27347167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Air Shield",
+      27347168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fire Shield",
+      27347169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Protection from Air",
+      27347170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Protection from Fire",
+      27347171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Protection from Water",
+      27347172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Protection from Earth",
+      27347173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Anti Magic",
+      27347174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Dispel",
+      27347175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Magic Mirror",
+      27347176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Cure",
+      27347177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Resurrection",
+      27347178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Animate Dead",
+      27347179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Sacrifice",
+      27347180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Bless",
+      27347181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Curse",
+      27347182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Bloodlust",
+      27347183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Precision",
+      27347184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Weakness",
+      27347185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Stone Skin",
+      27347186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Disrupting Ray",
+      27347187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Prayer",
+      27347188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Mirth",
+      27347189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Sorrow",
+      27347190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fortune",
+      27347191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Misfortune",
+      27347192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Haste",
+      27347193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Slow",
+      27347194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Slayer",
+      27347195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Frenzy",
+      27347196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Titan's Lighting Bolt",
+      27347197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Counterstrike",
+      27347198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Berserk",
+      27347199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Hypnotize",
+      27347200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Forgetfulness",
+      27347201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Blind",
+      27347202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Teleport",
+      27347203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Remove Obstacle",
+      27347204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Clone",
+      27347205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Fire Elemental",
+      27347206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Earth Elemental",
+      27347207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Water Elemental",
+      27347208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spell Air Elemental",
+      27347209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Attack",
+      27347210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Def",
+      27347211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Spellpower",
+      27347212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axsis Knowledge",
+      27347213,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

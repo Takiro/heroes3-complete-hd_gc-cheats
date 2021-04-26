@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Fiur Name",
+      27435023,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Movement",
+      27435065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur EXP",
+      27435069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 1",
+      27435133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 2",
+      27435137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 3",
+      27435141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 4",
+      27435145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 5",
+      27435149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 6",
+      27435153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Type Slot 7",
+      27435157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 1",
+      27435161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 2",
+      27435165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 3",
+      27435169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 4",
+      27435173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 5",
+      27435177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 6",
+      27435181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Unit Count Slot 7",
+      27435185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Pathfinding",
+      27435189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Archery",
+      27435190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Logistics",
+      27435191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Scouting",
+      27435192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Diplomacy",
+      27435193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Navigation",
+      27435194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Leadership",
+      27435195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Wisdom",
+      27435196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Mysticism",
+      27435197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Luck",
+      27435198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Ballistics",
+      27435199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Eagle Eye",
+      27435200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Necromancy",
+      27435201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Estates",
+      27435202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Fire Magic",
+      27435203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Air Magic",
+      27435204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Water Magic",
+      27435205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Earth Magic",
+      27435206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Scholar",
+      27435207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Tactics",
+      27435208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Artillery",
+      27435209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Learning",
+      27435210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Offence",
+      27435211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Armourer",
+      27435212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Intelligence",
+      27435213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Sorcery",
+      27435214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Resistance",
+      27435215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur First Aid",
+      27435216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Pathfinding Slot",
+      27435217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Archery Slot",
+      27435218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Logistics Slot",
+      27435219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Scouting Slot",
+      27435220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Diplomacy Slot",
+      27435221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Navigation Slot",
+      27435222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Leadership Slot",
+      27435223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Wisdom Slot",
+      27435224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Mysticism Slot",
+      27435225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Luck Slot",
+      27435226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Ballistics Slot",
+      27435227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Eagle Eye Slot",
+      27435228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Necromancy Slot",
+      27435229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Estates Slot",
+      27435230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Fire Magic Slot",
+      27435231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Air Magic Slot",
+      27435232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Water Magic Slot",
+      27435233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Earth Magic Slot",
+      27435234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Scholar Slot",
+      27435235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Tactics Slot",
+      27435236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Artillery Slot",
+      27435237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Learning Slot",
+      27435238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Offense Slot",
+      27435239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Armourer Slot",
+      27435240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Intelligence Slot",
+      27435241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Sorcery Slot",
+      27435242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Resistance Slot",
+      27435243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur First Aid Slot",
+      27435244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Skill Count",
+      27435245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Ballista equipped (4 or -1)",
+      27435393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Ammo Cart equipped (5 or -1)",
+      27435401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur First Aid equipped Item (6 or -1)",
+      27435409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Catapult equipped (3 or -1)",
+      27435417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spellbook equipped (0 or -1)",
+      27435425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 1",
+      27435456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 2",
+      27435464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 3",
+      27435472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 4",
+      27435480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 5",
+      27435488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 6",
+      27435496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 7",
+      27435504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 8",
+      27435512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 9",
+      27435520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 10",
+      27435528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 11",
+      27435536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 12",
+      27435544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 13",
+      27435552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 14",
+      27435560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 15",
+      27435568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 16",
+      27435576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 17",
+      27435584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 18",
+      27435592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 19",
+      27435600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 20",
+      27435608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 21",
+      27435616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 22",
+      27435624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 23",
+      27435632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 24",
+      27435640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 25",
+      27435648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 26",
+      27435656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 27",
+      27435664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 28",
+      27435672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 29",
+      27435680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 30",
+      27435688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 31",
+      27435696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 32",
+      27435704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 33",
+      27435712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 34",
+      27435720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 35",
+      27435728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 36",
+      27435736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 37",
+      27435744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 38",
+      27435752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 39",
+      27435760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 40",
+      27435768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 41",
+      27435776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 42",
+      27435784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 43",
+      27435792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 44",
+      27435800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 45",
+      27435808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 46",
+      27435816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 47",
+      27435824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 48",
+      27435832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 49",
+      27435840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 50",
+      27435848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 51",
+      27435856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 52",
+      27435864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 53",
+      27435872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 54",
+      27435880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 55",
+      27435888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 56",
+      27435896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 57",
+      27435904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 58",
+      27435912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 59",
+      27435920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 60",
+      27435928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 61",
+      27435936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 62",
+      27435944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 63",
+      27435952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Backpack Slot 64",
+      27435960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Summon Boat",
+      27436060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Scuttle Boat",
+      27436061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Visions",
+      27436062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell View Earth",
+      27436063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Disguise",
+      27436064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell View Air",
+      27436065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fly",
+      27436066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Water Walk",
+      27436067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Dimension Door",
+      27436068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Town Portal",
+      27436069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Quicksand",
+      27436070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Land Mine",
+      27436071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Force Field",
+      27436072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fire Wall",
+      27436073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Earthquake",
+      27436074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Magic Arrow",
+      27436075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Ice Bolt",
+      27436076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Lightning Bolt",
+      27436077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Implosion",
+      27436078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Chain Lightning",
+      27436079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Frost Ring",
+      27436080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fireball",
+      27436081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Inferno",
+      27436082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Meteor Shower",
+      27436083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Death Ripple",
+      27436084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Destroy Undead",
+      27436085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Armageddon",
+      27436086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Shield",
+      27436087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Air Shield",
+      27436088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fire Shield",
+      27436089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Protection from Air",
+      27436090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Protection from Fire",
+      27436091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Protection from Water",
+      27436092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Protection from Earth",
+      27436093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Anti Magic",
+      27436094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Dispel",
+      27436095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Magic Mirror",
+      27436096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Cure",
+      27436097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Resurrection",
+      27436098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Animate Dead",
+      27436099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Sacrifice",
+      27436100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Bless",
+      27436101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Curse",
+      27436102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Bloodlust",
+      27436103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Precision",
+      27436104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Weakness",
+      27436105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Stone Skin",
+      27436106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Disrupting Ray",
+      27436107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Prayer",
+      27436108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Mirth",
+      27436109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Sorrow",
+      27436110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fortune",
+      27436111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Misfortune",
+      27436112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Haste",
+      27436113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Slow",
+      27436114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Slayer",
+      27436115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Frenzy",
+      27436116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Titan's Lighting Bolt",
+      27436117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Counterstrike",
+      27436118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Berserk",
+      27436119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Hypnotize",
+      27436120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Forgetfulness",
+      27436121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Blind",
+      27436122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Teleport",
+      27436123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Remove Obstacle",
+      27436124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Clone",
+      27436125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Fire Elemental",
+      27436126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Earth Elemental",
+      27436127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Water Elemental",
+      27436128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spell Air Elemental",
+      27436129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Attack",
+      27436130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Def",
+      27436131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Spellpower",
+      27436132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiur Knowledge",
+      27436133,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Erdamon Name",
+      27433853,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Movement",
+      27433895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon EXP",
+      27433899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 1",
+      27433963,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 2",
+      27433967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 3",
+      27433971,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 4",
+      27433975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 5",
+      27433979,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 6",
+      27433983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Type Slot 7",
+      27433987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 1",
+      27433991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 2",
+      27433995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 3",
+      27433999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 4",
+      27434003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 5",
+      27434007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 6",
+      27434011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Unit Count Slot 7",
+      27434015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Pathfinding",
+      27434019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Archery",
+      27434020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Logistics",
+      27434021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Scouting",
+      27434022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Diplomacy",
+      27434023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Navigation",
+      27434024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Leadership",
+      27434025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Wisdom",
+      27434026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Mysticism",
+      27434027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Luck",
+      27434028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Ballistics",
+      27434029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Eagle Eye",
+      27434030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Necromancy",
+      27434031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Estates",
+      27434032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Fire Magic",
+      27434033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Air Magic",
+      27434034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Water Magic",
+      27434035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Earth Magic",
+      27434036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Scholar",
+      27434037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Tactics",
+      27434038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Artillery",
+      27434039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Learning",
+      27434040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Offence",
+      27434041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Armourer",
+      27434042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Intelligence",
+      27434043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Sorcery",
+      27434044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Resistance",
+      27434045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon First Aid",
+      27434046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Pathfinding Slot",
+      27434047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Archery Slot",
+      27434048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Logistics Slot",
+      27434049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Scouting Slot",
+      27434050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Diplomacy Slot",
+      27434051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Navigation Slot",
+      27434052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Leadership Slot",
+      27434053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Wisdom Slot",
+      27434054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Mysticism Slot",
+      27434055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Luck Slot",
+      27434056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Ballistics Slot",
+      27434057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Eagle Eye Slot",
+      27434058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Necromancy Slot",
+      27434059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Estates Slot",
+      27434060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Fire Magic Slot",
+      27434061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Air Magic Slot",
+      27434062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Water Magic Slot",
+      27434063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Earth Magic Slot",
+      27434064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Scholar Slot",
+      27434065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Tactics Slot",
+      27434066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Artillery Slot",
+      27434067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Learning Slot",
+      27434068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Offense Slot",
+      27434069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Armourer Slot",
+      27434070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Intelligence Slot",
+      27434071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Sorcery Slot",
+      27434072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Resistance Slot",
+      27434073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon First Aid Slot",
+      27434074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Skill Count",
+      27434075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Ballista equipped (4 or -1)",
+      27434223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Ammo Cart equipped (5 or -1)",
+      27434231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon First Aid equipped Item (6 or -1)",
+      27434239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Catapult equipped (3 or -1)",
+      27434247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spellbook equipped (0 or -1)",
+      27434255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 1",
+      27434286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 2",
+      27434294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 3",
+      27434302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 4",
+      27434310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 5",
+      27434318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 6",
+      27434326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 7",
+      27434334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 8",
+      27434342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 9",
+      27434350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 10",
+      27434358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 11",
+      27434366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 12",
+      27434374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 13",
+      27434382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 14",
+      27434390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 15",
+      27434398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 16",
+      27434406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 17",
+      27434414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 18",
+      27434422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 19",
+      27434430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 20",
+      27434438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 21",
+      27434446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 22",
+      27434454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 23",
+      27434462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 24",
+      27434470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 25",
+      27434478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 26",
+      27434486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 27",
+      27434494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 28",
+      27434502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 29",
+      27434510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 30",
+      27434518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 31",
+      27434526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 32",
+      27434534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 33",
+      27434542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 34",
+      27434550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 35",
+      27434558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 36",
+      27434566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 37",
+      27434574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 38",
+      27434582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 39",
+      27434590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 40",
+      27434598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 41",
+      27434606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 42",
+      27434614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 43",
+      27434622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 44",
+      27434630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 45",
+      27434638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 46",
+      27434646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 47",
+      27434654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 48",
+      27434662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 49",
+      27434670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 50",
+      27434678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 51",
+      27434686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 52",
+      27434694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 53",
+      27434702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 54",
+      27434710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 55",
+      27434718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 56",
+      27434726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 57",
+      27434734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 58",
+      27434742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 59",
+      27434750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 60",
+      27434758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 61",
+      27434766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 62",
+      27434774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 63",
+      27434782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Backpack Slot 64",
+      27434790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Summon Boat",
+      27434890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Scuttle Boat",
+      27434891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Visions",
+      27434892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell View Earth",
+      27434893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Disguise",
+      27434894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell View Air",
+      27434895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fly",
+      27434896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Water Walk",
+      27434897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Dimension Door",
+      27434898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Town Portal",
+      27434899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Quicksand",
+      27434900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Land Mine",
+      27434901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Force Field",
+      27434902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fire Wall",
+      27434903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Earthquake",
+      27434904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Magic Arrow",
+      27434905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Ice Bolt",
+      27434906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Lightning Bolt",
+      27434907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Implosion",
+      27434908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Chain Lightning",
+      27434909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Frost Ring",
+      27434910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fireball",
+      27434911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Inferno",
+      27434912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Meteor Shower",
+      27434913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Death Ripple",
+      27434914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Destroy Undead",
+      27434915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Armageddon",
+      27434916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Shield",
+      27434917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Air Shield",
+      27434918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fire Shield",
+      27434919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Protection from Air",
+      27434920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Protection from Fire",
+      27434921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Protection from Water",
+      27434922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Protection from Earth",
+      27434923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Anti Magic",
+      27434924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Dispel",
+      27434925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Magic Mirror",
+      27434926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Cure",
+      27434927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Resurrection",
+      27434928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Animate Dead",
+      27434929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Sacrifice",
+      27434930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Bless",
+      27434931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Curse",
+      27434932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Bloodlust",
+      27434933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Precision",
+      27434934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Weakness",
+      27434935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Stone Skin",
+      27434936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Disrupting Ray",
+      27434937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Prayer",
+      27434938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Mirth",
+      27434939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Sorrow",
+      27434940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fortune",
+      27434941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Misfortune",
+      27434942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Haste",
+      27434943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Slow",
+      27434944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Slayer",
+      27434945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Frenzy",
+      27434946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Titan's Lighting Bolt",
+      27434947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Counterstrike",
+      27434948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Berserk",
+      27434949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Hypnotize",
+      27434950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Forgetfulness",
+      27434951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Blind",
+      27434952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Teleport",
+      27434953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Remove Obstacle",
+      27434954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Clone",
+      27434955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Fire Elemental",
+      27434956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Earth Elemental",
+      27434957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Water Elemental",
+      27434958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spell Air Elemental",
+      27434959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Attack",
+      27434960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Def",
+      27434961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Spellpower",
+      27434962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Erdamon Knowledge",
+      27434963,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

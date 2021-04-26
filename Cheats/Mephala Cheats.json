@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Mephala Name",
+      27296963,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Movement",
+      27297005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala EXP",
+      27297009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 1",
+      27297073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 2",
+      27297077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 3",
+      27297081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 4",
+      27297085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 5",
+      27297089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 6",
+      27297093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Type Slot 7",
+      27297097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 1",
+      27297101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 2",
+      27297105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 3",
+      27297109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 4",
+      27297113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 5",
+      27297117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 6",
+      27297121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Unit Count Slot 7",
+      27297125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Pathfinding",
+      27297129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Archery",
+      27297130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Logistics",
+      27297131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Scouting",
+      27297132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Diplomacy",
+      27297133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Navigation",
+      27297134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Leadership",
+      27297135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Wisdom",
+      27297136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Mysticism",
+      27297137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Luck",
+      27297138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Ballistics",
+      27297139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Eagle Eye",
+      27297140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Necromancy",
+      27297141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Estates",
+      27297142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Fire Magic",
+      27297143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Air Magic",
+      27297144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Water Magic",
+      27297145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Earth Magic",
+      27297146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Scholar",
+      27297147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Tactics",
+      27297148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Artillery",
+      27297149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Learning",
+      27297150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Offence",
+      27297151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Armourer",
+      27297152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Intelligence",
+      27297153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Sorcery",
+      27297154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Resistance",
+      27297155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala First Aid",
+      27297156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Pathfinding Slot",
+      27297157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Archery Slot",
+      27297158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Logistics Slot",
+      27297159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Scouting Slot",
+      27297160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Diplomacy Slot",
+      27297161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Navigation Slot",
+      27297162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Leadership Slot",
+      27297163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Wisdom Slot",
+      27297164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Mysticism Slot",
+      27297165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Luck Slot",
+      27297166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Ballistics Slot",
+      27297167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Eagle Eye Slot",
+      27297168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Necromancy Slot",
+      27297169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Estates Slot",
+      27297170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Fire Magic Slot",
+      27297171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Air Magic Slot",
+      27297172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Water Magic Slot",
+      27297173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Earth Magic Slot",
+      27297174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Scholar Slot",
+      27297175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Tactics Slot",
+      27297176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Artillery Slot",
+      27297177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Learning Slot",
+      27297178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Offense Slot",
+      27297179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Armourer Slot",
+      27297180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Intelligence Slot",
+      27297181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Sorcery Slot",
+      27297182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Resistance Slot",
+      27297183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala First Aid Slot",
+      27297184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Skill Count",
+      27297185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Ballista equipped (4 or -1)",
+      27297333,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Ammo Cart equipped (5 or -1)",
+      27297341,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala First Aid equipped Item (6 or -1)",
+      27297349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Catapult equipped (3 or -1)",
+      27297357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spellbook equipped (0 or -1)",
+      27297365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 1",
+      27297396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 2",
+      27297404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 3",
+      27297412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 4",
+      27297420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 5",
+      27297428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 6",
+      27297436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 7",
+      27297444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 8",
+      27297452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 9",
+      27297460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 10",
+      27297468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 11",
+      27297476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 12",
+      27297484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 13",
+      27297492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 14",
+      27297500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 15",
+      27297508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 16",
+      27297516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 17",
+      27297524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 18",
+      27297532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 19",
+      27297540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 20",
+      27297548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 21",
+      27297556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 22",
+      27297564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 23",
+      27297572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 24",
+      27297580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 25",
+      27297588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 26",
+      27297596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 27",
+      27297604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 28",
+      27297612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 29",
+      27297620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 30",
+      27297628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 31",
+      27297636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 32",
+      27297644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 33",
+      27297652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 34",
+      27297660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 35",
+      27297668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 36",
+      27297676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 37",
+      27297684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 38",
+      27297692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 39",
+      27297700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 40",
+      27297708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 41",
+      27297716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 42",
+      27297724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 43",
+      27297732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 44",
+      27297740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 45",
+      27297748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 46",
+      27297756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 47",
+      27297764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 48",
+      27297772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 49",
+      27297780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 50",
+      27297788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 51",
+      27297796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 52",
+      27297804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 53",
+      27297812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 54",
+      27297820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 55",
+      27297828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 56",
+      27297836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 57",
+      27297844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 58",
+      27297852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 59",
+      27297860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 60",
+      27297868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 61",
+      27297876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 62",
+      27297884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 63",
+      27297892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Backpack Slot 64",
+      27297900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Summon Boat",
+      27298000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Scuttle Boat",
+      27298001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Visions",
+      27298002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell View Earth",
+      27298003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Disguise",
+      27298004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell View Air",
+      27298005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fly",
+      27298006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Water Walk",
+      27298007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Dimension Door",
+      27298008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Town Portal",
+      27298009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Quicksand",
+      27298010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Land Mine",
+      27298011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Force Field",
+      27298012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fire Wall",
+      27298013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Earthquake",
+      27298014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Magic Arrow",
+      27298015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Ice Bolt",
+      27298016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Lightning Bolt",
+      27298017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Implosion",
+      27298018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Chain Lightning",
+      27298019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Frost Ring",
+      27298020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fireball",
+      27298021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Inferno",
+      27298022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Meteor Shower",
+      27298023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Death Ripple",
+      27298024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Destroy Undead",
+      27298025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Armageddon",
+      27298026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Shield",
+      27298027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Air Shield",
+      27298028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fire Shield",
+      27298029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Protection from Air",
+      27298030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Protection from Fire",
+      27298031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Protection from Water",
+      27298032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Protection from Earth",
+      27298033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Anti Magic",
+      27298034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Dispel",
+      27298035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Magic Mirror",
+      27298036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Cure",
+      27298037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Resurrection",
+      27298038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Animate Dead",
+      27298039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Sacrifice",
+      27298040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Bless",
+      27298041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Curse",
+      27298042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Bloodlust",
+      27298043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Precision",
+      27298044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Weakness",
+      27298045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Stone Skin",
+      27298046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Disrupting Ray",
+      27298047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Prayer",
+      27298048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Mirth",
+      27298049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Sorrow",
+      27298050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fortune",
+      27298051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Misfortune",
+      27298052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Haste",
+      27298053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Slow",
+      27298054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Slayer",
+      27298055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Frenzy",
+      27298056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Titan's Lighting Bolt",
+      27298057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Counterstrike",
+      27298058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Berserk",
+      27298059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Hypnotize",
+      27298060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Forgetfulness",
+      27298061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Blind",
+      27298062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Teleport",
+      27298063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Remove Obstacle",
+      27298064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Clone",
+      27298065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Fire Elemental",
+      27298066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Earth Elemental",
+      27298067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Water Elemental",
+      27298068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spell Air Elemental",
+      27298069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Attack",
+      27298070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Def",
+      27298071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Spellpower",
+      27298072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mephala Knowledge",
+      27298073,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

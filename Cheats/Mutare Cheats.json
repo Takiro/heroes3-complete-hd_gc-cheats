@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Mutare Name",
+      27454913,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Movement",
+      27454955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare EXP",
+      27454959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 1",
+      27455023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 2",
+      27455027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 3",
+      27455031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 4",
+      27455035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 5",
+      27455039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 6",
+      27455043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Type Slot 7",
+      27455047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 1",
+      27455051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 2",
+      27455055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 3",
+      27455059,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 4",
+      27455063,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 5",
+      27455067,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 6",
+      27455071,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Unit Count Slot 7",
+      27455075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Pathfinding",
+      27455079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Archery",
+      27455080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Logistics",
+      27455081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Scouting",
+      27455082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Diplomacy",
+      27455083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Navigation",
+      27455084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Leadership",
+      27455085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Wisdom",
+      27455086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Mysticism",
+      27455087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Luck",
+      27455088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Ballistics",
+      27455089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Eagle Eye",
+      27455090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Necromancy",
+      27455091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Estates",
+      27455092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Fire Magic",
+      27455093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Air Magic",
+      27455094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Water Magic",
+      27455095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Earth Magic",
+      27455096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Scholar",
+      27455097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Tactics",
+      27455098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Artillery",
+      27455099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Learning",
+      27455100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Offence",
+      27455101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Armourer",
+      27455102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Intelligence",
+      27455103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Sorcery",
+      27455104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Resistance",
+      27455105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare First Aid",
+      27455106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Pathfinding Slot",
+      27455107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Archery Slot",
+      27455108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Logistics Slot",
+      27455109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Scouting Slot",
+      27455110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Diplomacy Slot",
+      27455111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Navigation Slot",
+      27455112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Leadership Slot",
+      27455113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Wisdom Slot",
+      27455114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Mysticism Slot",
+      27455115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Luck Slot",
+      27455116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Ballistics Slot",
+      27455117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Eagle Eye Slot",
+      27455118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Necromancy Slot",
+      27455119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Estates Slot",
+      27455120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Fire Magic Slot",
+      27455121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Air Magic Slot",
+      27455122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Water Magic Slot",
+      27455123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Earth Magic Slot",
+      27455124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Scholar Slot",
+      27455125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Tactics Slot",
+      27455126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Artillery Slot",
+      27455127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Learning Slot",
+      27455128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Offense Slot",
+      27455129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Armourer Slot",
+      27455130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Intelligence Slot",
+      27455131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Sorcery Slot",
+      27455132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Resistance Slot",
+      27455133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare First Aid Slot",
+      27455134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Skill Count",
+      27455135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Ballista equipped (4 or -1)",
+      27455283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Ammo Cart equipped (5 or -1)",
+      27455291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare First Aid equipped Item (6 or -1)",
+      27455299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Catapult equipped (3 or -1)",
+      27455307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spellbook equipped (0 or -1)",
+      27455315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 1",
+      27455346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 2",
+      27455354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 3",
+      27455362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 4",
+      27455370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 5",
+      27455378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 6",
+      27455386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 7",
+      27455394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 8",
+      27455402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 9",
+      27455410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 10",
+      27455418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 11",
+      27455426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 12",
+      27455434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 13",
+      27455442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 14",
+      27455450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 15",
+      27455458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 16",
+      27455466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 17",
+      27455474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 18",
+      27455482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 19",
+      27455490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 20",
+      27455498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 21",
+      27455506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 22",
+      27455514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 23",
+      27455522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 24",
+      27455530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 25",
+      27455538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 26",
+      27455546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 27",
+      27455554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 28",
+      27455562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 29",
+      27455570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 30",
+      27455578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 31",
+      27455586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 32",
+      27455594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 33",
+      27455602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 34",
+      27455610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 35",
+      27455618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 36",
+      27455626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 37",
+      27455634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 38",
+      27455642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 39",
+      27455650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 40",
+      27455658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 41",
+      27455666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 42",
+      27455674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 43",
+      27455682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 44",
+      27455690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 45",
+      27455698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 46",
+      27455706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 47",
+      27455714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 48",
+      27455722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 49",
+      27455730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 50",
+      27455738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 51",
+      27455746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 52",
+      27455754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 53",
+      27455762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 54",
+      27455770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 55",
+      27455778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 56",
+      27455786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 57",
+      27455794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 58",
+      27455802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 59",
+      27455810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 60",
+      27455818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 61",
+      27455826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 62",
+      27455834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 63",
+      27455842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Backpack Slot 64",
+      27455850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Summon Boat",
+      27455950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Scuttle Boat",
+      27455951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Visions",
+      27455952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell View Earth",
+      27455953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Disguise",
+      27455954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell View Air",
+      27455955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fly",
+      27455956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Water Walk",
+      27455957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Dimension Door",
+      27455958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Town Portal",
+      27455959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Quicksand",
+      27455960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Land Mine",
+      27455961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Force Field",
+      27455962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fire Wall",
+      27455963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Earthquake",
+      27455964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Magic Arrow",
+      27455965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Ice Bolt",
+      27455966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Lightning Bolt",
+      27455967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Implosion",
+      27455968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Chain Lightning",
+      27455969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Frost Ring",
+      27455970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fireball",
+      27455971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Inferno",
+      27455972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Meteor Shower",
+      27455973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Death Ripple",
+      27455974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Destroy Undead",
+      27455975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Armageddon",
+      27455976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Shield",
+      27455977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Air Shield",
+      27455978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fire Shield",
+      27455979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Protection from Air",
+      27455980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Protection from Fire",
+      27455981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Protection from Water",
+      27455982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Protection from Earth",
+      27455983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Anti Magic",
+      27455984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Dispel",
+      27455985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Magic Mirror",
+      27455986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Cure",
+      27455987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Resurrection",
+      27455988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Animate Dead",
+      27455989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Sacrifice",
+      27455990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Bless",
+      27455991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Curse",
+      27455992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Bloodlust",
+      27455993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Precision",
+      27455994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Weakness",
+      27455995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Stone Skin",
+      27455996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Disrupting Ray",
+      27455997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Prayer",
+      27455998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Mirth",
+      27455999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Sorrow",
+      27456000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fortune",
+      27456001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Misfortune",
+      27456002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Haste",
+      27456003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Slow",
+      27456004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Slayer",
+      27456005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Frenzy",
+      27456006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Titan's Lighting Bolt",
+      27456007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Counterstrike",
+      27456008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Berserk",
+      27456009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Hypnotize",
+      27456010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Forgetfulness",
+      27456011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Blind",
+      27456012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Teleport",
+      27456013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Remove Obstacle",
+      27456014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Clone",
+      27456015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Fire Elemental",
+      27456016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Earth Elemental",
+      27456017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Water Elemental",
+      27456018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spell Air Elemental",
+      27456019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Attack",
+      27456020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Def",
+      27456021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Spellpower",
+      27456022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Mutare Knowledge",
+      27456023,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

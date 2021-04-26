@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Dessa Name",
+      27402263,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Movement",
+      27402305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa EXP",
+      27402309,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 1",
+      27402373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 2",
+      27402377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 3",
+      27402381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 4",
+      27402385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 5",
+      27402389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 6",
+      27402393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Type Slot 7",
+      27402397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 1",
+      27402401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 2",
+      27402405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 3",
+      27402409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 4",
+      27402413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 5",
+      27402417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 6",
+      27402421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Unit Count Slot 7",
+      27402425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Pathfinding",
+      27402429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Archery",
+      27402430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Logistics",
+      27402431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Scouting",
+      27402432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Diplomacy",
+      27402433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Navigation",
+      27402434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Leadership",
+      27402435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Wisdom",
+      27402436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Mysticism",
+      27402437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Luck",
+      27402438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Ballistics",
+      27402439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Eagle Eye",
+      27402440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Necromancy",
+      27402441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Estates",
+      27402442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Fire Magic",
+      27402443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Air Magic",
+      27402444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Water Magic",
+      27402445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Earth Magic",
+      27402446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Scholar",
+      27402447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Tactics",
+      27402448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Artillery",
+      27402449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Learning",
+      27402450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Offence",
+      27402451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Armourer",
+      27402452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Intelligence",
+      27402453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Sorcery",
+      27402454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Resistance",
+      27402455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa First Aid",
+      27402456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Pathfinding Slot",
+      27402457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Archery Slot",
+      27402458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Logistics Slot",
+      27402459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Scouting Slot",
+      27402460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Diplomacy Slot",
+      27402461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Navigation Slot",
+      27402462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Leadership Slot",
+      27402463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Wisdom Slot",
+      27402464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Mysticism Slot",
+      27402465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Luck Slot",
+      27402466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Ballistics Slot",
+      27402467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Eagle Eye Slot",
+      27402468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Necromancy Slot",
+      27402469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Estates Slot",
+      27402470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Fire Magic Slot",
+      27402471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Air Magic Slot",
+      27402472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Water Magic Slot",
+      27402473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Earth Magic Slot",
+      27402474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Scholar Slot",
+      27402475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Tactics Slot",
+      27402476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Artillery Slot",
+      27402477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Learning Slot",
+      27402478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Offense Slot",
+      27402479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Armourer Slot",
+      27402480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Intelligence Slot",
+      27402481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Sorcery Slot",
+      27402482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Resistance Slot",
+      27402483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa First Aid Slot",
+      27402484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Skill Count",
+      27402485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Ballista equipped (4 or -1)",
+      27402633,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Ammo Cart equipped (5 or -1)",
+      27402641,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa First Aid equipped Item (6 or -1)",
+      27402649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Catapult equipped (3 or -1)",
+      27402657,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spellbook equipped (0 or -1)",
+      27402665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 1",
+      27402696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 2",
+      27402704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 3",
+      27402712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 4",
+      27402720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 5",
+      27402728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 6",
+      27402736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 7",
+      27402744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 8",
+      27402752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 9",
+      27402760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 10",
+      27402768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 11",
+      27402776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 12",
+      27402784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 13",
+      27402792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 14",
+      27402800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 15",
+      27402808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 16",
+      27402816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 17",
+      27402824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 18",
+      27402832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 19",
+      27402840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 20",
+      27402848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 21",
+      27402856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 22",
+      27402864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 23",
+      27402872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 24",
+      27402880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 25",
+      27402888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 26",
+      27402896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 27",
+      27402904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 28",
+      27402912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 29",
+      27402920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 30",
+      27402928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 31",
+      27402936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 32",
+      27402944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 33",
+      27402952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 34",
+      27402960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 35",
+      27402968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 36",
+      27402976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 37",
+      27402984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 38",
+      27402992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 39",
+      27403000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 40",
+      27403008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 41",
+      27403016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 42",
+      27403024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 43",
+      27403032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 44",
+      27403040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 45",
+      27403048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 46",
+      27403056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 47",
+      27403064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 48",
+      27403072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 49",
+      27403080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 50",
+      27403088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 51",
+      27403096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 52",
+      27403104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 53",
+      27403112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 54",
+      27403120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 55",
+      27403128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 56",
+      27403136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 57",
+      27403144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 58",
+      27403152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 59",
+      27403160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 60",
+      27403168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 61",
+      27403176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 62",
+      27403184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 63",
+      27403192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Backpack Slot 64",
+      27403200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Summon Boat",
+      27403300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Scuttle Boat",
+      27403301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Visions",
+      27403302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell View Earth",
+      27403303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Disguise",
+      27403304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell View Air",
+      27403305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fly",
+      27403306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Water Walk",
+      27403307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Dimension Door",
+      27403308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Town Portal",
+      27403309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Quicksand",
+      27403310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Land Mine",
+      27403311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Force Field",
+      27403312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fire Wall",
+      27403313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Earthquake",
+      27403314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Magic Arrow",
+      27403315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Ice Bolt",
+      27403316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Lightning Bolt",
+      27403317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Implosion",
+      27403318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Chain Lightning",
+      27403319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Frost Ring",
+      27403320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fireball",
+      27403321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Inferno",
+      27403322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Meteor Shower",
+      27403323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Death Ripple",
+      27403324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Destroy Undead",
+      27403325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Armageddon",
+      27403326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Shield",
+      27403327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Air Shield",
+      27403328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fire Shield",
+      27403329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Protection from Air",
+      27403330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Protection from Fire",
+      27403331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Protection from Water",
+      27403332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Protection from Earth",
+      27403333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Anti Magic",
+      27403334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Dispel",
+      27403335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Magic Mirror",
+      27403336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Cure",
+      27403337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Resurrection",
+      27403338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Animate Dead",
+      27403339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Sacrifice",
+      27403340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Bless",
+      27403341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Curse",
+      27403342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Bloodlust",
+      27403343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Precision",
+      27403344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Weakness",
+      27403345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Stone Skin",
+      27403346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Disrupting Ray",
+      27403347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Prayer",
+      27403348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Mirth",
+      27403349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Sorrow",
+      27403350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fortune",
+      27403351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Misfortune",
+      27403352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Haste",
+      27403353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Slow",
+      27403354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Slayer",
+      27403355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Frenzy",
+      27403356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Titan's Lighting Bolt",
+      27403357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Counterstrike",
+      27403358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Berserk",
+      27403359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Hypnotize",
+      27403360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Forgetfulness",
+      27403361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Blind",
+      27403362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Teleport",
+      27403363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Remove Obstacle",
+      27403364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Clone",
+      27403365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Fire Elemental",
+      27403366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Earth Elemental",
+      27403367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Water Elemental",
+      27403368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spell Air Elemental",
+      27403369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Attack",
+      27403370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Def",
+      27403371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Spellpower",
+      27403372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dessa Knowledge",
+      27403373,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

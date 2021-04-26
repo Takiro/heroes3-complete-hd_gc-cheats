@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Daremyth Name",
+      27328553,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Movement",
+      27328595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth EXP",
+      27328599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 1",
+      27328663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 2",
+      27328667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 3",
+      27328671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 4",
+      27328675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 5",
+      27328679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 6",
+      27328683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Type Slot 7",
+      27328687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 1",
+      27328691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 2",
+      27328695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 3",
+      27328699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 4",
+      27328703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 5",
+      27328707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 6",
+      27328711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Unit Count Slot 7",
+      27328715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Pathfinding",
+      27328719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Archery",
+      27328720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Logistics",
+      27328721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Scouting",
+      27328722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Diplomacy",
+      27328723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Navigation",
+      27328724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Leadership",
+      27328725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Wisdom",
+      27328726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Mysticism",
+      27328727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Luck",
+      27328728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Ballistics",
+      27328729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Eagle Eye",
+      27328730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Necromancy",
+      27328731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Estates",
+      27328732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Fire Magic",
+      27328733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Air Magic",
+      27328734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Water Magic",
+      27328735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Earth Magic",
+      27328736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Scholar",
+      27328737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Tactics",
+      27328738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Artillery",
+      27328739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Learning",
+      27328740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Offence",
+      27328741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Armourer",
+      27328742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Intelligence",
+      27328743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Sorcery",
+      27328744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Resistance",
+      27328745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth First Aid",
+      27328746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Pathfinding Slot",
+      27328747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Archery Slot",
+      27328748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Logistics Slot",
+      27328749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Scouting Slot",
+      27328750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Diplomacy Slot",
+      27328751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Navigation Slot",
+      27328752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Leadership Slot",
+      27328753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Wisdom Slot",
+      27328754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Mysticism Slot",
+      27328755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Luck Slot",
+      27328756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Ballistics Slot",
+      27328757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Eagle Eye Slot",
+      27328758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Necromancy Slot",
+      27328759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Estates Slot",
+      27328760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Fire Magic Slot",
+      27328761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Air Magic Slot",
+      27328762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Water Magic Slot",
+      27328763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Earth Magic Slot",
+      27328764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Scholar Slot",
+      27328765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Tactics Slot",
+      27328766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Artillery Slot",
+      27328767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Learning Slot",
+      27328768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Offense Slot",
+      27328769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Armourer Slot",
+      27328770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Intelligence Slot",
+      27328771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Sorcery Slot",
+      27328772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Resistance Slot",
+      27328773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth First Aid Slot",
+      27328774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Skill Count",
+      27328775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Ballista equipped (4 or -1)",
+      27328923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Ammo Cart equipped (5 or -1)",
+      27328931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth First Aid equipped Item (6 or -1)",
+      27328939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Catapult equipped (3 or -1)",
+      27328947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spellbook equipped (0 or -1)",
+      27328955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 1",
+      27328986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 2",
+      27328994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 3",
+      27329002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 4",
+      27329010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 5",
+      27329018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 6",
+      27329026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 7",
+      27329034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 8",
+      27329042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 9",
+      27329050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 10",
+      27329058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 11",
+      27329066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 12",
+      27329074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 13",
+      27329082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 14",
+      27329090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 15",
+      27329098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 16",
+      27329106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 17",
+      27329114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 18",
+      27329122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 19",
+      27329130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 20",
+      27329138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 21",
+      27329146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 22",
+      27329154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 23",
+      27329162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 24",
+      27329170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 25",
+      27329178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 26",
+      27329186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 27",
+      27329194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 28",
+      27329202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 29",
+      27329210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 30",
+      27329218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 31",
+      27329226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 32",
+      27329234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 33",
+      27329242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 34",
+      27329250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 35",
+      27329258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 36",
+      27329266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 37",
+      27329274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 38",
+      27329282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 39",
+      27329290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 40",
+      27329298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 41",
+      27329306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 42",
+      27329314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 43",
+      27329322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 44",
+      27329330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 45",
+      27329338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 46",
+      27329346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 47",
+      27329354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 48",
+      27329362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 49",
+      27329370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 50",
+      27329378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 51",
+      27329386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 52",
+      27329394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 53",
+      27329402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 54",
+      27329410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 55",
+      27329418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 56",
+      27329426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 57",
+      27329434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 58",
+      27329442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 59",
+      27329450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 60",
+      27329458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 61",
+      27329466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 62",
+      27329474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 63",
+      27329482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Backpack Slot 64",
+      27329490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Summon Boat",
+      27329590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Scuttle Boat",
+      27329591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Visions",
+      27329592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell View Earth",
+      27329593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Disguise",
+      27329594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell View Air",
+      27329595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fly",
+      27329596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Water Walk",
+      27329597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Dimension Door",
+      27329598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Town Portal",
+      27329599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Quicksand",
+      27329600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Land Mine",
+      27329601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Force Field",
+      27329602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fire Wall",
+      27329603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Earthquake",
+      27329604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Magic Arrow",
+      27329605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Ice Bolt",
+      27329606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Lightning Bolt",
+      27329607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Implosion",
+      27329608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Chain Lightning",
+      27329609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Frost Ring",
+      27329610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fireball",
+      27329611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Inferno",
+      27329612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Meteor Shower",
+      27329613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Death Ripple",
+      27329614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Destroy Undead",
+      27329615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Armageddon",
+      27329616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Shield",
+      27329617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Air Shield",
+      27329618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fire Shield",
+      27329619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Protection from Air",
+      27329620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Protection from Fire",
+      27329621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Protection from Water",
+      27329622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Protection from Earth",
+      27329623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Anti Magic",
+      27329624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Dispel",
+      27329625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Magic Mirror",
+      27329626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Cure",
+      27329627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Resurrection",
+      27329628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Animate Dead",
+      27329629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Sacrifice",
+      27329630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Bless",
+      27329631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Curse",
+      27329632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Bloodlust",
+      27329633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Precision",
+      27329634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Weakness",
+      27329635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Stone Skin",
+      27329636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Disrupting Ray",
+      27329637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Prayer",
+      27329638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Mirth",
+      27329639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Sorrow",
+      27329640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fortune",
+      27329641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Misfortune",
+      27329642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Haste",
+      27329643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Slow",
+      27329644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Slayer",
+      27329645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Frenzy",
+      27329646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Titan's Lighting Bolt",
+      27329647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Counterstrike",
+      27329648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Berserk",
+      27329649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Hypnotize",
+      27329650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Forgetfulness",
+      27329651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Blind",
+      27329652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Teleport",
+      27329653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Remove Obstacle",
+      27329654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Clone",
+      27329655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Fire Elemental",
+      27329656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Earth Elemental",
+      27329657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Water Elemental",
+      27329658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spell Air Elemental",
+      27329659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Attack",
+      27329660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Def",
+      27329661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Spellpower",
+      27329662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Daremyth Knowledge",
+      27329663,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

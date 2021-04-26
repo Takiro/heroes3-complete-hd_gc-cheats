@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Aislinn Name",
+      27363653,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Movement",
+      27363695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn EXP",
+      27363699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 1",
+      27363763,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 2",
+      27363767,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 3",
+      27363771,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 4",
+      27363775,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 5",
+      27363779,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 6",
+      27363783,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Type Slot 7",
+      27363787,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 1",
+      27363791,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 2",
+      27363795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 3",
+      27363799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 4",
+      27363803,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 5",
+      27363807,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 6",
+      27363811,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Unit Count Slot 7",
+      27363815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Pathfinding",
+      27363819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Archery",
+      27363820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Logistics",
+      27363821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Scouting",
+      27363822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Diplomacy",
+      27363823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Navigation",
+      27363824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Leadership",
+      27363825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Wisdom",
+      27363826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Mysticism",
+      27363827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Luck",
+      27363828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Ballistics",
+      27363829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Eagle Eye",
+      27363830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Necromancy",
+      27363831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Estates",
+      27363832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Fire Magic",
+      27363833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Air Magic",
+      27363834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Water Magic",
+      27363835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Earth Magic",
+      27363836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Scholar",
+      27363837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Tactics",
+      27363838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Artillery",
+      27363839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Learning",
+      27363840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Offence",
+      27363841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Armourer",
+      27363842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Intelligence",
+      27363843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Sorcery",
+      27363844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Resistance",
+      27363845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn First Aid",
+      27363846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Pathfinding Slot",
+      27363847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Archery Slot",
+      27363848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Logistics Slot",
+      27363849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Scouting Slot",
+      27363850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Diplomacy Slot",
+      27363851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Navigation Slot",
+      27363852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Leadership Slot",
+      27363853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Wisdom Slot",
+      27363854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Mysticism Slot",
+      27363855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Luck Slot",
+      27363856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Ballistics Slot",
+      27363857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Eagle Eye Slot",
+      27363858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Necromancy Slot",
+      27363859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Estates Slot",
+      27363860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Fire Magic Slot",
+      27363861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Air Magic Slot",
+      27363862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Water Magic Slot",
+      27363863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Earth Magic Slot",
+      27363864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Scholar Slot",
+      27363865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Tactics Slot",
+      27363866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Artillery Slot",
+      27363867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Learning Slot",
+      27363868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Offense Slot",
+      27363869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Armourer Slot",
+      27363870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Intelligence Slot",
+      27363871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Sorcery Slot",
+      27363872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Resistance Slot",
+      27363873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn First Aid Slot",
+      27363874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Skill Count",
+      27363875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Ballista equipped (4 or -1)",
+      27364023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Ammo Cart equipped (5 or -1)",
+      27364031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn First Aid equipped Item (6 or -1)",
+      27364039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Catapult equipped (3 or -1)",
+      27364047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spellbook equipped (0 or -1)",
+      27364055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 1",
+      27364086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 2",
+      27364094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 3",
+      27364102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 4",
+      27364110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 5",
+      27364118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 6",
+      27364126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 7",
+      27364134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 8",
+      27364142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 9",
+      27364150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 10",
+      27364158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 11",
+      27364166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 12",
+      27364174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 13",
+      27364182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 14",
+      27364190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 15",
+      27364198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 16",
+      27364206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 17",
+      27364214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 18",
+      27364222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 19",
+      27364230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 20",
+      27364238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 21",
+      27364246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 22",
+      27364254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 23",
+      27364262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 24",
+      27364270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 25",
+      27364278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 26",
+      27364286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 27",
+      27364294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 28",
+      27364302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 29",
+      27364310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 30",
+      27364318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 31",
+      27364326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 32",
+      27364334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 33",
+      27364342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 34",
+      27364350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 35",
+      27364358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 36",
+      27364366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 37",
+      27364374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 38",
+      27364382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 39",
+      27364390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 40",
+      27364398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 41",
+      27364406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 42",
+      27364414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 43",
+      27364422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 44",
+      27364430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 45",
+      27364438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 46",
+      27364446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 47",
+      27364454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 48",
+      27364462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 49",
+      27364470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 50",
+      27364478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 51",
+      27364486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 52",
+      27364494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 53",
+      27364502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 54",
+      27364510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 55",
+      27364518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 56",
+      27364526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 57",
+      27364534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 58",
+      27364542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 59",
+      27364550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 60",
+      27364558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 61",
+      27364566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 62",
+      27364574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 63",
+      27364582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Backpack Slot 64",
+      27364590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Summon Boat",
+      27364690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Scuttle Boat",
+      27364691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Visions",
+      27364692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell View Earth",
+      27364693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Disguise",
+      27364694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell View Air",
+      27364695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fly",
+      27364696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Water Walk",
+      27364697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Dimension Door",
+      27364698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Town Portal",
+      27364699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Quicksand",
+      27364700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Land Mine",
+      27364701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Force Field",
+      27364702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fire Wall",
+      27364703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Earthquake",
+      27364704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Magic Arrow",
+      27364705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Ice Bolt",
+      27364706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Lightning Bolt",
+      27364707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Implosion",
+      27364708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Chain Lightning",
+      27364709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Frost Ring",
+      27364710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fireball",
+      27364711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Inferno",
+      27364712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Meteor Shower",
+      27364713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Death Ripple",
+      27364714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Destroy Undead",
+      27364715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Armageddon",
+      27364716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Shield",
+      27364717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Air Shield",
+      27364718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fire Shield",
+      27364719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Protection from Air",
+      27364720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Protection from Fire",
+      27364721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Protection from Water",
+      27364722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Protection from Earth",
+      27364723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Anti Magic",
+      27364724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Dispel",
+      27364725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Magic Mirror",
+      27364726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Cure",
+      27364727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Resurrection",
+      27364728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Animate Dead",
+      27364729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Sacrifice",
+      27364730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Bless",
+      27364731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Curse",
+      27364732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Bloodlust",
+      27364733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Precision",
+      27364734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Weakness",
+      27364735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Stone Skin",
+      27364736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Disrupting Ray",
+      27364737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Prayer",
+      27364738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Mirth",
+      27364739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Sorrow",
+      27364740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fortune",
+      27364741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Misfortune",
+      27364742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Haste",
+      27364743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Slow",
+      27364744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Slayer",
+      27364745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Frenzy",
+      27364746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Titan's Lighting Bolt",
+      27364747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Counterstrike",
+      27364748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Berserk",
+      27364749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Hypnotize",
+      27364750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Forgetfulness",
+      27364751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Blind",
+      27364752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Teleport",
+      27364753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Remove Obstacle",
+      27364754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Clone",
+      27364755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Fire Elemental",
+      27364756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Earth Elemental",
+      27364757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Water Elemental",
+      27364758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spell Air Elemental",
+      27364759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Attack",
+      27364760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Def",
+      27364761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Spellpower",
+      27364762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aislinn Knowledge",
+      27364763,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

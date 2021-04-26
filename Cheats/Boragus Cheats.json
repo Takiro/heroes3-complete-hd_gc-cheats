@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Boragus Name",
+      27458423,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Movement",
+      27458465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus EXP",
+      27458469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 1",
+      27458533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 2",
+      27458537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 3",
+      27458541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 4",
+      27458545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 5",
+      27458549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 6",
+      27458553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Type Slot 7",
+      27458557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 1",
+      27458561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 2",
+      27458565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 3",
+      27458569,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 4",
+      27458573,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 5",
+      27458577,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 6",
+      27458581,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Unit Count Slot 7",
+      27458585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Pathfinding",
+      27458589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Archery",
+      27458590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Logistics",
+      27458591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Scouting",
+      27458592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Diplomacy",
+      27458593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Navigation",
+      27458594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Leadership",
+      27458595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Wisdom",
+      27458596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Mysticism",
+      27458597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Luck",
+      27458598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Ballistics",
+      27458599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Eagle Eye",
+      27458600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Necromancy",
+      27458601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Estates",
+      27458602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Fire Magic",
+      27458603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Air Magic",
+      27458604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Water Magic",
+      27458605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Earth Magic",
+      27458606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Scholar",
+      27458607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Tactics",
+      27458608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Artillery",
+      27458609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Learning",
+      27458610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Offence",
+      27458611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Armourer",
+      27458612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Intelligence",
+      27458613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Sorcery",
+      27458614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Resistance",
+      27458615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus First Aid",
+      27458616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Pathfinding Slot",
+      27458617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Archery Slot",
+      27458618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Logistics Slot",
+      27458619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Scouting Slot",
+      27458620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Diplomacy Slot",
+      27458621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Navigation Slot",
+      27458622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Leadership Slot",
+      27458623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Wisdom Slot",
+      27458624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Mysticism Slot",
+      27458625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Luck Slot",
+      27458626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Ballistics Slot",
+      27458627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Eagle Eye Slot",
+      27458628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Necromancy Slot",
+      27458629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Estates Slot",
+      27458630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Fire Magic Slot",
+      27458631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Air Magic Slot",
+      27458632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Water Magic Slot",
+      27458633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Earth Magic Slot",
+      27458634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Scholar Slot",
+      27458635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Tactics Slot",
+      27458636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Artillery Slot",
+      27458637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Learning Slot",
+      27458638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Offense Slot",
+      27458639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Armourer Slot",
+      27458640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Intelligence Slot",
+      27458641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Sorcery Slot",
+      27458642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Resistance Slot",
+      27458643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus First Aid Slot",
+      27458644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Skill Count",
+      27458645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Ballista equipped (4 or -1)",
+      27458793,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Ammo Cart equipped (5 or -1)",
+      27458801,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus First Aid equipped Item (6 or -1)",
+      27458809,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Catapult equipped (3 or -1)",
+      27458817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spellbook equipped (0 or -1)",
+      27458825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 1",
+      27458856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 2",
+      27458864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 3",
+      27458872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 4",
+      27458880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 5",
+      27458888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 6",
+      27458896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 7",
+      27458904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 8",
+      27458912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 9",
+      27458920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 10",
+      27458928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 11",
+      27458936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 12",
+      27458944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 13",
+      27458952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 14",
+      27458960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 15",
+      27458968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 16",
+      27458976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 17",
+      27458984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 18",
+      27458992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 19",
+      27459000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 20",
+      27459008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 21",
+      27459016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 22",
+      27459024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 23",
+      27459032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 24",
+      27459040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 25",
+      27459048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 26",
+      27459056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 27",
+      27459064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 28",
+      27459072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 29",
+      27459080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 30",
+      27459088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 31",
+      27459096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 32",
+      27459104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 33",
+      27459112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 34",
+      27459120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 35",
+      27459128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 36",
+      27459136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 37",
+      27459144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 38",
+      27459152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 39",
+      27459160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 40",
+      27459168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 41",
+      27459176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 42",
+      27459184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 43",
+      27459192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 44",
+      27459200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 45",
+      27459208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 46",
+      27459216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 47",
+      27459224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 48",
+      27459232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 49",
+      27459240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 50",
+      27459248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 51",
+      27459256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 52",
+      27459264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 53",
+      27459272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 54",
+      27459280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 55",
+      27459288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 56",
+      27459296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 57",
+      27459304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 58",
+      27459312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 59",
+      27459320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 60",
+      27459328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 61",
+      27459336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 62",
+      27459344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 63",
+      27459352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Backpack Slot 64",
+      27459360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Summon Boat",
+      27459460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Scuttle Boat",
+      27459461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Visions",
+      27459462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell View Earth",
+      27459463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Disguise",
+      27459464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell View Air",
+      27459465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fly",
+      27459466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Water Walk",
+      27459467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Dimension Door",
+      27459468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Town Portal",
+      27459469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Quicksand",
+      27459470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Land Mine",
+      27459471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Force Field",
+      27459472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fire Wall",
+      27459473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Earthquake",
+      27459474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Magic Arrow",
+      27459475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Ice Bolt",
+      27459476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Lightning Bolt",
+      27459477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Implosion",
+      27459478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Chain Lightning",
+      27459479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Frost Ring",
+      27459480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fireball",
+      27459481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Inferno",
+      27459482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Meteor Shower",
+      27459483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Death Ripple",
+      27459484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Destroy Undead",
+      27459485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Armageddon",
+      27459486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Shield",
+      27459487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Air Shield",
+      27459488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fire Shield",
+      27459489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Protection from Air",
+      27459490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Protection from Fire",
+      27459491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Protection from Water",
+      27459492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Protection from Earth",
+      27459493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Anti Magic",
+      27459494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Dispel",
+      27459495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Magic Mirror",
+      27459496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Cure",
+      27459497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Resurrection",
+      27459498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Animate Dead",
+      27459499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Sacrifice",
+      27459500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Bless",
+      27459501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Curse",
+      27459502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Bloodlust",
+      27459503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Precision",
+      27459504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Weakness",
+      27459505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Stone Skin",
+      27459506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Disrupting Ray",
+      27459507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Prayer",
+      27459508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Mirth",
+      27459509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Sorrow",
+      27459510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fortune",
+      27459511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Misfortune",
+      27459512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Haste",
+      27459513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Slow",
+      27459514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Slayer",
+      27459515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Frenzy",
+      27459516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Titan's Lighting Bolt",
+      27459517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Counterstrike",
+      27459518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Berserk",
+      27459519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Hypnotize",
+      27459520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Forgetfulness",
+      27459521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Blind",
+      27459522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Teleport",
+      27459523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Remove Obstacle",
+      27459524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Clone",
+      27459525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Fire Elemental",
+      27459526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Earth Elemental",
+      27459527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Water Elemental",
+      27459528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spell Air Elemental",
+      27459529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Attack",
+      27459530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Def",
+      27459531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Spellpower",
+      27459532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Boragus Knowledge",
+      27459533,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Jaegar Name",
+      27382373,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Movement",
+      27382415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar EXP",
+      27382419,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 1",
+      27382483,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 2",
+      27382487,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 3",
+      27382491,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 4",
+      27382495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 5",
+      27382499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 6",
+      27382503,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Type Slot 7",
+      27382507,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 1",
+      27382511,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 2",
+      27382515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 3",
+      27382519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 4",
+      27382523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 5",
+      27382527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 6",
+      27382531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Unit Count Slot 7",
+      27382535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Pathfinding",
+      27382539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Archery",
+      27382540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Logistics",
+      27382541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Scouting",
+      27382542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Diplomacy",
+      27382543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Navigation",
+      27382544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Leadership",
+      27382545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Wisdom",
+      27382546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Mysticism",
+      27382547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Luck",
+      27382548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Ballistics",
+      27382549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Eagle Eye",
+      27382550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Necromancy",
+      27382551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Estates",
+      27382552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Fire Magic",
+      27382553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Air Magic",
+      27382554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Water Magic",
+      27382555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Earth Magic",
+      27382556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Scholar",
+      27382557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Tactics",
+      27382558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Artillery",
+      27382559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Learning",
+      27382560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Offence",
+      27382561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Armourer",
+      27382562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Intelligence",
+      27382563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Sorcery",
+      27382564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Resistance",
+      27382565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar First Aid",
+      27382566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Pathfinding Slot",
+      27382567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Archery Slot",
+      27382568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Logistics Slot",
+      27382569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Scouting Slot",
+      27382570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Diplomacy Slot",
+      27382571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Navigation Slot",
+      27382572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Leadership Slot",
+      27382573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Wisdom Slot",
+      27382574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Mysticism Slot",
+      27382575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Luck Slot",
+      27382576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Ballistics Slot",
+      27382577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Eagle Eye Slot",
+      27382578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Necromancy Slot",
+      27382579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Estates Slot",
+      27382580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Fire Magic Slot",
+      27382581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Air Magic Slot",
+      27382582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Water Magic Slot",
+      27382583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Earth Magic Slot",
+      27382584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Scholar Slot",
+      27382585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Tactics Slot",
+      27382586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Artillery Slot",
+      27382587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Learning Slot",
+      27382588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Offense Slot",
+      27382589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Armourer Slot",
+      27382590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Intelligence Slot",
+      27382591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Sorcery Slot",
+      27382592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Resistance Slot",
+      27382593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar First Aid Slot",
+      27382594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Skill Count",
+      27382595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Ballista equipped (4 or -1)",
+      27382743,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Ammo Cart equipped (5 or -1)",
+      27382751,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar First Aid equipped Item (6 or -1)",
+      27382759,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Catapult equipped (3 or -1)",
+      27382767,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spellbook equipped (0 or -1)",
+      27382775,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 1",
+      27382806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 2",
+      27382814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 3",
+      27382822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 4",
+      27382830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 5",
+      27382838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 6",
+      27382846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 7",
+      27382854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 8",
+      27382862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 9",
+      27382870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 10",
+      27382878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 11",
+      27382886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 12",
+      27382894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 13",
+      27382902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 14",
+      27382910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 15",
+      27382918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 16",
+      27382926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 17",
+      27382934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 18",
+      27382942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 19",
+      27382950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 20",
+      27382958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 21",
+      27382966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 22",
+      27382974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 23",
+      27382982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 24",
+      27382990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 25",
+      27382998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 26",
+      27383006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 27",
+      27383014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 28",
+      27383022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 29",
+      27383030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 30",
+      27383038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 31",
+      27383046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 32",
+      27383054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 33",
+      27383062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 34",
+      27383070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 35",
+      27383078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 36",
+      27383086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 37",
+      27383094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 38",
+      27383102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 39",
+      27383110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 40",
+      27383118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 41",
+      27383126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 42",
+      27383134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 43",
+      27383142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 44",
+      27383150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 45",
+      27383158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 46",
+      27383166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 47",
+      27383174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 48",
+      27383182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 49",
+      27383190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 50",
+      27383198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 51",
+      27383206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 52",
+      27383214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 53",
+      27383222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 54",
+      27383230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 55",
+      27383238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 56",
+      27383246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 57",
+      27383254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 58",
+      27383262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 59",
+      27383270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 60",
+      27383278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 61",
+      27383286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 62",
+      27383294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 63",
+      27383302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Backpack Slot 64",
+      27383310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Summon Boat",
+      27383410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Scuttle Boat",
+      27383411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Visions",
+      27383412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell View Earth",
+      27383413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Disguise",
+      27383414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell View Air",
+      27383415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fly",
+      27383416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Water Walk",
+      27383417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Dimension Door",
+      27383418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Town Portal",
+      27383419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Quicksand",
+      27383420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Land Mine",
+      27383421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Force Field",
+      27383422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fire Wall",
+      27383423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Earthquake",
+      27383424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Magic Arrow",
+      27383425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Ice Bolt",
+      27383426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Lightning Bolt",
+      27383427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Implosion",
+      27383428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Chain Lightning",
+      27383429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Frost Ring",
+      27383430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fireball",
+      27383431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Inferno",
+      27383432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Meteor Shower",
+      27383433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Death Ripple",
+      27383434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Destroy Undead",
+      27383435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Armageddon",
+      27383436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Shield",
+      27383437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Air Shield",
+      27383438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fire Shield",
+      27383439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Protection from Air",
+      27383440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Protection from Fire",
+      27383441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Protection from Water",
+      27383442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Protection from Earth",
+      27383443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Anti Magic",
+      27383444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Dispel",
+      27383445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Magic Mirror",
+      27383446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Cure",
+      27383447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Resurrection",
+      27383448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Animate Dead",
+      27383449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Sacrifice",
+      27383450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Bless",
+      27383451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Curse",
+      27383452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Bloodlust",
+      27383453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Precision",
+      27383454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Weakness",
+      27383455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Stone Skin",
+      27383456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Disrupting Ray",
+      27383457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Prayer",
+      27383458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Mirth",
+      27383459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Sorrow",
+      27383460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fortune",
+      27383461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Misfortune",
+      27383462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Haste",
+      27383463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Slow",
+      27383464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Slayer",
+      27383465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Frenzy",
+      27383466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Titan's Lighting Bolt",
+      27383467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Counterstrike",
+      27383468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Berserk",
+      27383469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Hypnotize",
+      27383470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Forgetfulness",
+      27383471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Blind",
+      27383472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Teleport",
+      27383473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Remove Obstacle",
+      27383474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Clone",
+      27383475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Fire Elemental",
+      27383476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Earth Elemental",
+      27383477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Water Elemental",
+      27383478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spell Air Elemental",
+      27383479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Attack",
+      27383480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Def",
+      27383481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Spellpower",
+      27383482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jaegar Knowledge",
+      27383483,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

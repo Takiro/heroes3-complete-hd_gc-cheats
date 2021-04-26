@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Jeddite Name",
+      27384713,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Movement",
+      27384755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite EXP",
+      27384759,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 1",
+      27384823,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 2",
+      27384827,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 3",
+      27384831,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 4",
+      27384835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 5",
+      27384839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 6",
+      27384843,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Type Slot 7",
+      27384847,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 1",
+      27384851,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 2",
+      27384855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 3",
+      27384859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 4",
+      27384863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 5",
+      27384867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 6",
+      27384871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Unit Count Slot 7",
+      27384875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Pathfinding",
+      27384879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Archery",
+      27384880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Logistics",
+      27384881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Scouting",
+      27384882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Diplomacy",
+      27384883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Navigation",
+      27384884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Leadership",
+      27384885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Wisdom",
+      27384886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Mysticism",
+      27384887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Luck",
+      27384888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Ballistics",
+      27384889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Eagle Eye",
+      27384890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Necromancy",
+      27384891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Estates",
+      27384892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Fire Magic",
+      27384893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Air Magic",
+      27384894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Water Magic",
+      27384895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Earth Magic",
+      27384896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Scholar",
+      27384897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Tactics",
+      27384898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Artillery",
+      27384899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Learning",
+      27384900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Offence",
+      27384901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Armourer",
+      27384902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Intelligence",
+      27384903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Sorcery",
+      27384904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Resistance",
+      27384905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite First Aid",
+      27384906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Pathfinding Slot",
+      27384907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Archery Slot",
+      27384908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Logistics Slot",
+      27384909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Scouting Slot",
+      27384910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Diplomacy Slot",
+      27384911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Navigation Slot",
+      27384912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Leadership Slot",
+      27384913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Wisdom Slot",
+      27384914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Mysticism Slot",
+      27384915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Luck Slot",
+      27384916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Ballistics Slot",
+      27384917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Eagle Eye Slot",
+      27384918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Necromancy Slot",
+      27384919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Estates Slot",
+      27384920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Fire Magic Slot",
+      27384921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Air Magic Slot",
+      27384922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Water Magic Slot",
+      27384923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Earth Magic Slot",
+      27384924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Scholar Slot",
+      27384925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Tactics Slot",
+      27384926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Artillery Slot",
+      27384927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Learning Slot",
+      27384928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Offense Slot",
+      27384929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Armourer Slot",
+      27384930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Intelligence Slot",
+      27384931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Sorcery Slot",
+      27384932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Resistance Slot",
+      27384933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite First Aid Slot",
+      27384934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Skill Count",
+      27384935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Ballista equipped (4 or -1)",
+      27385083,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Ammo Cart equipped (5 or -1)",
+      27385091,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite First Aid equipped Item (6 or -1)",
+      27385099,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Catapult equipped (3 or -1)",
+      27385107,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spellbook equipped (0 or -1)",
+      27385115,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 1",
+      27385146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 2",
+      27385154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 3",
+      27385162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 4",
+      27385170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 5",
+      27385178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 6",
+      27385186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 7",
+      27385194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 8",
+      27385202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 9",
+      27385210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 10",
+      27385218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 11",
+      27385226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 12",
+      27385234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 13",
+      27385242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 14",
+      27385250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 15",
+      27385258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 16",
+      27385266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 17",
+      27385274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 18",
+      27385282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 19",
+      27385290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 20",
+      27385298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 21",
+      27385306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 22",
+      27385314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 23",
+      27385322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 24",
+      27385330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 25",
+      27385338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 26",
+      27385346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 27",
+      27385354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 28",
+      27385362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 29",
+      27385370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 30",
+      27385378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 31",
+      27385386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 32",
+      27385394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 33",
+      27385402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 34",
+      27385410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 35",
+      27385418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 36",
+      27385426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 37",
+      27385434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 38",
+      27385442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 39",
+      27385450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 40",
+      27385458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 41",
+      27385466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 42",
+      27385474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 43",
+      27385482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 44",
+      27385490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 45",
+      27385498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 46",
+      27385506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 47",
+      27385514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 48",
+      27385522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 49",
+      27385530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 50",
+      27385538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 51",
+      27385546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 52",
+      27385554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 53",
+      27385562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 54",
+      27385570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 55",
+      27385578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 56",
+      27385586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 57",
+      27385594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 58",
+      27385602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 59",
+      27385610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 60",
+      27385618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 61",
+      27385626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 62",
+      27385634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 63",
+      27385642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Backpack Slot 64",
+      27385650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Summon Boat",
+      27385750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Scuttle Boat",
+      27385751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Visions",
+      27385752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell View Earth",
+      27385753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Disguise",
+      27385754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell View Air",
+      27385755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fly",
+      27385756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Water Walk",
+      27385757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Dimension Door",
+      27385758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Town Portal",
+      27385759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Quicksand",
+      27385760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Land Mine",
+      27385761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Force Field",
+      27385762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fire Wall",
+      27385763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Earthquake",
+      27385764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Magic Arrow",
+      27385765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Ice Bolt",
+      27385766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Lightning Bolt",
+      27385767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Implosion",
+      27385768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Chain Lightning",
+      27385769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Frost Ring",
+      27385770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fireball",
+      27385771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Inferno",
+      27385772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Meteor Shower",
+      27385773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Death Ripple",
+      27385774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Destroy Undead",
+      27385775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Armageddon",
+      27385776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Shield",
+      27385777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Air Shield",
+      27385778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fire Shield",
+      27385779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Protection from Air",
+      27385780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Protection from Fire",
+      27385781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Protection from Water",
+      27385782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Protection from Earth",
+      27385783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Anti Magic",
+      27385784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Dispel",
+      27385785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Magic Mirror",
+      27385786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Cure",
+      27385787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Resurrection",
+      27385788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Animate Dead",
+      27385789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Sacrifice",
+      27385790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Bless",
+      27385791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Curse",
+      27385792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Bloodlust",
+      27385793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Precision",
+      27385794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Weakness",
+      27385795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Stone Skin",
+      27385796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Disrupting Ray",
+      27385797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Prayer",
+      27385798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Mirth",
+      27385799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Sorrow",
+      27385800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fortune",
+      27385801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Misfortune",
+      27385802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Haste",
+      27385803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Slow",
+      27385804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Slayer",
+      27385805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Frenzy",
+      27385806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Titan's Lighting Bolt",
+      27385807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Counterstrike",
+      27385808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Berserk",
+      27385809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Hypnotize",
+      27385810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Forgetfulness",
+      27385811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Blind",
+      27385812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Teleport",
+      27385813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Remove Obstacle",
+      27385814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Clone",
+      27385815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Fire Elemental",
+      27385816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Earth Elemental",
+      27385817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Water Elemental",
+      27385818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spell Air Elemental",
+      27385819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Attack",
+      27385820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Def",
+      27385821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Spellpower",
+      27385822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jeddite Knowledge",
+      27385823,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

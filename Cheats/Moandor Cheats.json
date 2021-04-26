@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Moandor Name",
+      27355463,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Movement",
+      27355505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor EXP",
+      27355509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 1",
+      27355573,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 2",
+      27355577,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 3",
+      27355581,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 4",
+      27355585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 5",
+      27355589,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 6",
+      27355593,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Type Slot 7",
+      27355597,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 1",
+      27355601,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 2",
+      27355605,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 3",
+      27355609,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 4",
+      27355613,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 5",
+      27355617,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 6",
+      27355621,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Unit Count Slot 7",
+      27355625,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Pathfinding",
+      27355629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Archery",
+      27355630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Logistics",
+      27355631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Scouting",
+      27355632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Diplomacy",
+      27355633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Navigation",
+      27355634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Leadership",
+      27355635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Wisdom",
+      27355636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Mysticism",
+      27355637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Luck",
+      27355638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Ballistics",
+      27355639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Eagle Eye",
+      27355640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Necromancy",
+      27355641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Estates",
+      27355642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Fire Magic",
+      27355643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Air Magic",
+      27355644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Water Magic",
+      27355645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Earth Magic",
+      27355646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Scholar",
+      27355647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Tactics",
+      27355648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Artillery",
+      27355649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Learning",
+      27355650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Offence",
+      27355651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Armourer",
+      27355652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Intelligence",
+      27355653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Sorcery",
+      27355654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Resistance",
+      27355655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor First Aid",
+      27355656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Pathfinding Slot",
+      27355657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Archery Slot",
+      27355658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Logistics Slot",
+      27355659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Scouting Slot",
+      27355660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Diplomacy Slot",
+      27355661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Navigation Slot",
+      27355662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Leadership Slot",
+      27355663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Wisdom Slot",
+      27355664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Mysticism Slot",
+      27355665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Luck Slot",
+      27355666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Ballistics Slot",
+      27355667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Eagle Eye Slot",
+      27355668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Necromancy Slot",
+      27355669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Estates Slot",
+      27355670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Fire Magic Slot",
+      27355671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Air Magic Slot",
+      27355672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Water Magic Slot",
+      27355673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Earth Magic Slot",
+      27355674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Scholar Slot",
+      27355675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Tactics Slot",
+      27355676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Artillery Slot",
+      27355677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Learning Slot",
+      27355678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Offense Slot",
+      27355679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Armourer Slot",
+      27355680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Intelligence Slot",
+      27355681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Sorcery Slot",
+      27355682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Resistance Slot",
+      27355683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor First Aid Slot",
+      27355684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Skill Count",
+      27355685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Ballista equipped (4 or -1)",
+      27355833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Ammo Cart equipped (5 or -1)",
+      27355841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor First Aid equipped Item (6 or -1)",
+      27355849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Catapult equipped (3 or -1)",
+      27355857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spellbook equipped (0 or -1)",
+      27355865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 1",
+      27355896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 2",
+      27355904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 3",
+      27355912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 4",
+      27355920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 5",
+      27355928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 6",
+      27355936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 7",
+      27355944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 8",
+      27355952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 9",
+      27355960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 10",
+      27355968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 11",
+      27355976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 12",
+      27355984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 13",
+      27355992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 14",
+      27356000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 15",
+      27356008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 16",
+      27356016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 17",
+      27356024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 18",
+      27356032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 19",
+      27356040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 20",
+      27356048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 21",
+      27356056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 22",
+      27356064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 23",
+      27356072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 24",
+      27356080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 25",
+      27356088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 26",
+      27356096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 27",
+      27356104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 28",
+      27356112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 29",
+      27356120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 30",
+      27356128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 31",
+      27356136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 32",
+      27356144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 33",
+      27356152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 34",
+      27356160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 35",
+      27356168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 36",
+      27356176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 37",
+      27356184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 38",
+      27356192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 39",
+      27356200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 40",
+      27356208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 41",
+      27356216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 42",
+      27356224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 43",
+      27356232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 44",
+      27356240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 45",
+      27356248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 46",
+      27356256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 47",
+      27356264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 48",
+      27356272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 49",
+      27356280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 50",
+      27356288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 51",
+      27356296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 52",
+      27356304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 53",
+      27356312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 54",
+      27356320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 55",
+      27356328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 56",
+      27356336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 57",
+      27356344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 58",
+      27356352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 59",
+      27356360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 60",
+      27356368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 61",
+      27356376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 62",
+      27356384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 63",
+      27356392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Backpack Slot 64",
+      27356400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Summon Boat",
+      27356500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Scuttle Boat",
+      27356501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Visions",
+      27356502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell View Earth",
+      27356503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Disguise",
+      27356504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell View Air",
+      27356505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fly",
+      27356506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Water Walk",
+      27356507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Dimension Door",
+      27356508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Town Portal",
+      27356509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Quicksand",
+      27356510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Land Mine",
+      27356511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Force Field",
+      27356512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fire Wall",
+      27356513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Earthquake",
+      27356514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Magic Arrow",
+      27356515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Ice Bolt",
+      27356516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Lightning Bolt",
+      27356517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Implosion",
+      27356518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Chain Lightning",
+      27356519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Frost Ring",
+      27356520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fireball",
+      27356521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Inferno",
+      27356522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Meteor Shower",
+      27356523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Death Ripple",
+      27356524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Destroy Undead",
+      27356525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Armageddon",
+      27356526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Shield",
+      27356527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Air Shield",
+      27356528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fire Shield",
+      27356529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Protection from Air",
+      27356530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Protection from Fire",
+      27356531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Protection from Water",
+      27356532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Protection from Earth",
+      27356533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Anti Magic",
+      27356534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Dispel",
+      27356535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Magic Mirror",
+      27356536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Cure",
+      27356537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Resurrection",
+      27356538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Animate Dead",
+      27356539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Sacrifice",
+      27356540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Bless",
+      27356541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Curse",
+      27356542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Bloodlust",
+      27356543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Precision",
+      27356544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Weakness",
+      27356545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Stone Skin",
+      27356546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Disrupting Ray",
+      27356547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Prayer",
+      27356548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Mirth",
+      27356549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Sorrow",
+      27356550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fortune",
+      27356551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Misfortune",
+      27356552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Haste",
+      27356553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Slow",
+      27356554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Slayer",
+      27356555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Frenzy",
+      27356556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Titan's Lighting Bolt",
+      27356557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Counterstrike",
+      27356558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Berserk",
+      27356559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Hypnotize",
+      27356560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Forgetfulness",
+      27356561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Blind",
+      27356562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Teleport",
+      27356563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Remove Obstacle",
+      27356564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Clone",
+      27356565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Fire Elemental",
+      27356566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Earth Elemental",
+      27356567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Water Elemental",
+      27356568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spell Air Elemental",
+      27356569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Attack",
+      27356570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Def",
+      27356571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Spellpower",
+      27356572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Moandor Knowledge",
+      27356573,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

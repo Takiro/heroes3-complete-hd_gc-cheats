@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ingham Name",
+      27292283,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Movement",
+      27292325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham EXP",
+      27292329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 1",
+      27292393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 2",
+      27292397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 3",
+      27292401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 4",
+      27292405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 5",
+      27292409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 6",
+      27292413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Type Slot 7",
+      27292417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 1",
+      27292421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 2",
+      27292425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 3",
+      27292429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 4",
+      27292433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 5",
+      27292437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 6",
+      27292441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Unit Count Slot 7",
+      27292445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Pathfinding",
+      27292449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Archery",
+      27292450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Logistics",
+      27292451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Scouting",
+      27292452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Diplomacy",
+      27292453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Navigation",
+      27292454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Leadership",
+      27292455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Wisdom",
+      27292456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Mysticism",
+      27292457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Luck",
+      27292458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Ballistics",
+      27292459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Eagle Eye",
+      27292460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Necromancy",
+      27292461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Estates",
+      27292462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Fire Magic",
+      27292463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Air Magic",
+      27292464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Water Magic",
+      27292465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Earth Magic",
+      27292466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Scholar",
+      27292467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Tactics",
+      27292468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Artillery",
+      27292469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Learning",
+      27292470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Offence",
+      27292471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Armourer",
+      27292472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Intelligence",
+      27292473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Sorcery",
+      27292474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Resistance",
+      27292475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham First Aid",
+      27292476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Pathfinding Slot",
+      27292477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Archery Slot",
+      27292478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Logistics Slot",
+      27292479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Scouting Slot",
+      27292480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Diplomacy Slot",
+      27292481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Navigation Slot",
+      27292482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Leadership Slot",
+      27292483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Wisdom Slot",
+      27292484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Mysticism Slot",
+      27292485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Luck Slot",
+      27292486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Ballistics Slot",
+      27292487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Eagle Eye Slot",
+      27292488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Necromancy Slot",
+      27292489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Estates Slot",
+      27292490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Fire Magic Slot",
+      27292491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Air Magic Slot",
+      27292492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Water Magic Slot",
+      27292493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Earth Magic Slot",
+      27292494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Scholar Slot",
+      27292495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Tactics Slot",
+      27292496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Artillery Slot",
+      27292497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Learning Slot",
+      27292498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Offense Slot",
+      27292499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Armourer Slot",
+      27292500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Intelligence Slot",
+      27292501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Sorcery Slot",
+      27292502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Resistance Slot",
+      27292503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham First Aid Slot",
+      27292504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Skill Count",
+      27292505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Ballista equipped (4 or -1)",
+      27292653,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Ammo Cart equipped (5 or -1)",
+      27292661,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham First Aid equipped Item (6 or -1)",
+      27292669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Catapult equipped (3 or -1)",
+      27292677,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spellbook equipped (0 or -1)",
+      27292685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 1",
+      27292716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 2",
+      27292724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 3",
+      27292732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 4",
+      27292740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 5",
+      27292748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 6",
+      27292756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 7",
+      27292764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 8",
+      27292772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 9",
+      27292780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 10",
+      27292788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 11",
+      27292796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 12",
+      27292804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 13",
+      27292812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 14",
+      27292820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 15",
+      27292828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 16",
+      27292836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 17",
+      27292844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 18",
+      27292852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 19",
+      27292860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 20",
+      27292868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 21",
+      27292876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 22",
+      27292884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 23",
+      27292892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 24",
+      27292900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 25",
+      27292908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 26",
+      27292916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 27",
+      27292924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 28",
+      27292932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 29",
+      27292940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 30",
+      27292948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 31",
+      27292956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 32",
+      27292964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 33",
+      27292972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 34",
+      27292980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 35",
+      27292988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 36",
+      27292996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 37",
+      27293004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 38",
+      27293012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 39",
+      27293020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 40",
+      27293028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 41",
+      27293036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 42",
+      27293044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 43",
+      27293052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 44",
+      27293060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 45",
+      27293068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 46",
+      27293076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 47",
+      27293084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 48",
+      27293092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 49",
+      27293100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 50",
+      27293108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 51",
+      27293116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 52",
+      27293124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 53",
+      27293132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 54",
+      27293140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 55",
+      27293148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 56",
+      27293156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 57",
+      27293164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 58",
+      27293172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 59",
+      27293180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 60",
+      27293188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 61",
+      27293196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 62",
+      27293204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 63",
+      27293212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Backpack Slot 64",
+      27293220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Summon Boat",
+      27293320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Scuttle Boat",
+      27293321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Visions",
+      27293322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell View Earth",
+      27293323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Disguise",
+      27293324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell View Air",
+      27293325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fly",
+      27293326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Water Walk",
+      27293327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Dimension Door",
+      27293328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Town Portal",
+      27293329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Quicksand",
+      27293330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Land Mine",
+      27293331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Force Field",
+      27293332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fire Wall",
+      27293333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Earthquake",
+      27293334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Magic Arrow",
+      27293335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Ice Bolt",
+      27293336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Lightning Bolt",
+      27293337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Implosion",
+      27293338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Chain Lightning",
+      27293339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Frost Ring",
+      27293340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fireball",
+      27293341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Inferno",
+      27293342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Meteor Shower",
+      27293343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Death Ripple",
+      27293344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Destroy Undead",
+      27293345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Armageddon",
+      27293346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Shield",
+      27293347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Air Shield",
+      27293348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fire Shield",
+      27293349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Protection from Air",
+      27293350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Protection from Fire",
+      27293351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Protection from Water",
+      27293352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Protection from Earth",
+      27293353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Anti Magic",
+      27293354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Dispel",
+      27293355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Magic Mirror",
+      27293356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Cure",
+      27293357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Resurrection",
+      27293358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Animate Dead",
+      27293359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Sacrifice",
+      27293360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Bless",
+      27293361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Curse",
+      27293362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Bloodlust",
+      27293363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Precision",
+      27293364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Weakness",
+      27293365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Stone Skin",
+      27293366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Disrupting Ray",
+      27293367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Prayer",
+      27293368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Mirth",
+      27293369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Sorrow",
+      27293370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fortune",
+      27293371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Misfortune",
+      27293372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Haste",
+      27293373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Slow",
+      27293374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Slayer",
+      27293375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Frenzy",
+      27293376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Titan's Lighting Bolt",
+      27293377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Counterstrike",
+      27293378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Berserk",
+      27293379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Hypnotize",
+      27293380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Forgetfulness",
+      27293381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Blind",
+      27293382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Teleport",
+      27293383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Remove Obstacle",
+      27293384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Clone",
+      27293385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Fire Elemental",
+      27293386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Earth Elemental",
+      27293387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Water Elemental",
+      27293388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spell Air Elemental",
+      27293389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Attack",
+      27293390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Def",
+      27293391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Spellpower",
+      27293392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ingham Knowledge",
+      27293393,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

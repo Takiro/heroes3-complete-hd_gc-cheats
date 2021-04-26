@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Jabarkas Name",
+      27392903,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Movement",
+      27392945,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas EXP",
+      27392949,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 1",
+      27393013,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 2",
+      27393017,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 3",
+      27393021,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 4",
+      27393025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 5",
+      27393029,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 6",
+      27393033,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Type Slot 7",
+      27393037,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 1",
+      27393041,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 2",
+      27393045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 3",
+      27393049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 4",
+      27393053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 5",
+      27393057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 6",
+      27393061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Unit Count Slot 7",
+      27393065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Pathfinding",
+      27393069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Archery",
+      27393070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Logistics",
+      27393071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Scouting",
+      27393072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Diplomacy",
+      27393073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Navigation",
+      27393074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Leadership",
+      27393075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Wisdom",
+      27393076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Mysticism",
+      27393077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Luck",
+      27393078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Ballistics",
+      27393079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Eagle Eye",
+      27393080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Necromancy",
+      27393081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Estates",
+      27393082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Fire Magic",
+      27393083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Air Magic",
+      27393084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Water Magic",
+      27393085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Earth Magic",
+      27393086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Scholar",
+      27393087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Tactics",
+      27393088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Artillery",
+      27393089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Learning",
+      27393090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Offence",
+      27393091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Armourer",
+      27393092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Intelligence",
+      27393093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Sorcery",
+      27393094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Resistance",
+      27393095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas First Aid",
+      27393096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Pathfinding Slot",
+      27393097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Archery Slot",
+      27393098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Logistics Slot",
+      27393099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Scouting Slot",
+      27393100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Diplomacy Slot",
+      27393101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Navigation Slot",
+      27393102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Leadership Slot",
+      27393103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Wisdom Slot",
+      27393104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Mysticism Slot",
+      27393105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Luck Slot",
+      27393106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Ballistics Slot",
+      27393107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Eagle Eye Slot",
+      27393108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Necromancy Slot",
+      27393109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Estates Slot",
+      27393110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Fire Magic Slot",
+      27393111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Air Magic Slot",
+      27393112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Water Magic Slot",
+      27393113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Earth Magic Slot",
+      27393114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Scholar Slot",
+      27393115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Tactics Slot",
+      27393116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Artillery Slot",
+      27393117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Learning Slot",
+      27393118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Offense Slot",
+      27393119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Armourer Slot",
+      27393120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Intelligence Slot",
+      27393121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Sorcery Slot",
+      27393122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Resistance Slot",
+      27393123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas First Aid Slot",
+      27393124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Skill Count",
+      27393125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Ballista equipped (4 or -1)",
+      27393273,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Ammo Cart equipped (5 or -1)",
+      27393281,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas First Aid equipped Item (6 or -1)",
+      27393289,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Catapult equipped (3 or -1)",
+      27393297,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spellbook equipped (0 or -1)",
+      27393305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 1",
+      27393336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 2",
+      27393344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 3",
+      27393352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 4",
+      27393360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 5",
+      27393368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 6",
+      27393376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 7",
+      27393384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 8",
+      27393392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 9",
+      27393400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 10",
+      27393408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 11",
+      27393416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 12",
+      27393424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 13",
+      27393432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 14",
+      27393440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 15",
+      27393448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 16",
+      27393456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 17",
+      27393464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 18",
+      27393472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 19",
+      27393480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 20",
+      27393488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 21",
+      27393496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 22",
+      27393504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 23",
+      27393512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 24",
+      27393520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 25",
+      27393528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 26",
+      27393536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 27",
+      27393544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 28",
+      27393552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 29",
+      27393560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 30",
+      27393568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 31",
+      27393576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 32",
+      27393584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 33",
+      27393592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 34",
+      27393600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 35",
+      27393608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 36",
+      27393616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 37",
+      27393624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 38",
+      27393632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 39",
+      27393640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 40",
+      27393648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 41",
+      27393656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 42",
+      27393664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 43",
+      27393672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 44",
+      27393680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 45",
+      27393688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 46",
+      27393696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 47",
+      27393704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 48",
+      27393712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 49",
+      27393720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 50",
+      27393728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 51",
+      27393736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 52",
+      27393744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 53",
+      27393752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 54",
+      27393760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 55",
+      27393768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 56",
+      27393776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 57",
+      27393784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 58",
+      27393792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 59",
+      27393800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 60",
+      27393808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 61",
+      27393816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 62",
+      27393824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 63",
+      27393832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Backpack Slot 64",
+      27393840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Summon Boat",
+      27393940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Scuttle Boat",
+      27393941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Visions",
+      27393942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell View Earth",
+      27393943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Disguise",
+      27393944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell View Air",
+      27393945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fly",
+      27393946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Water Walk",
+      27393947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Dimension Door",
+      27393948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Town Portal",
+      27393949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Quicksand",
+      27393950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Land Mine",
+      27393951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Force Field",
+      27393952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fire Wall",
+      27393953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Earthquake",
+      27393954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Magic Arrow",
+      27393955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Ice Bolt",
+      27393956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Lightning Bolt",
+      27393957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Implosion",
+      27393958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Chain Lightning",
+      27393959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Frost Ring",
+      27393960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fireball",
+      27393961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Inferno",
+      27393962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Meteor Shower",
+      27393963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Death Ripple",
+      27393964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Destroy Undead",
+      27393965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Armageddon",
+      27393966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Shield",
+      27393967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Air Shield",
+      27393968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fire Shield",
+      27393969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Protection from Air",
+      27393970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Protection from Fire",
+      27393971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Protection from Water",
+      27393972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Protection from Earth",
+      27393973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Anti Magic",
+      27393974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Dispel",
+      27393975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Magic Mirror",
+      27393976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Cure",
+      27393977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Resurrection",
+      27393978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Animate Dead",
+      27393979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Sacrifice",
+      27393980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Bless",
+      27393981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Curse",
+      27393982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Bloodlust",
+      27393983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Precision",
+      27393984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Weakness",
+      27393985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Stone Skin",
+      27393986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Disrupting Ray",
+      27393987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Prayer",
+      27393988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Mirth",
+      27393989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Sorrow",
+      27393990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fortune",
+      27393991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Misfortune",
+      27393992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Haste",
+      27393993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Slow",
+      27393994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Slayer",
+      27393995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Frenzy",
+      27393996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Titan's Lighting Bolt",
+      27393997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Counterstrike",
+      27393998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Berserk",
+      27393999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Hypnotize",
+      27394000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Forgetfulness",
+      27394001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Blind",
+      27394002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Teleport",
+      27394003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Remove Obstacle",
+      27394004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Clone",
+      27394005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Fire Elemental",
+      27394006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Earth Elemental",
+      27394007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Water Elemental",
+      27394008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spell Air Elemental",
+      27394009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Attack",
+      27394010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Def",
+      27394011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Spellpower",
+      27394012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Jabarkas Knowledge",
+      27394013,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

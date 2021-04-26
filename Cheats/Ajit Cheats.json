@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ajit Name",
+      27375353,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Movement",
+      27375395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit EXP",
+      27375399,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 1",
+      27375463,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 2",
+      27375467,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 3",
+      27375471,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 4",
+      27375475,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 5",
+      27375479,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 6",
+      27375483,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Type Slot 7",
+      27375487,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 1",
+      27375491,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 2",
+      27375495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 3",
+      27375499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 4",
+      27375503,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 5",
+      27375507,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 6",
+      27375511,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Unit Count Slot 7",
+      27375515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Pathfinding",
+      27375519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Archery",
+      27375520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Logistics",
+      27375521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Scouting",
+      27375522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Diplomacy",
+      27375523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Navigation",
+      27375524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Leadership",
+      27375525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Wisdom",
+      27375526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Mysticism",
+      27375527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Luck",
+      27375528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Ballistics",
+      27375529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Eagle Eye",
+      27375530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Necromancy",
+      27375531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Estates",
+      27375532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Fire Magic",
+      27375533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Air Magic",
+      27375534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Water Magic",
+      27375535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Earth Magic",
+      27375536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Scholar",
+      27375537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Tactics",
+      27375538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Artillery",
+      27375539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Learning",
+      27375540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Offence",
+      27375541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Armourer",
+      27375542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Intelligence",
+      27375543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Sorcery",
+      27375544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Resistance",
+      27375545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit First Aid",
+      27375546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Pathfinding Slot",
+      27375547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Archery Slot",
+      27375548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Logistics Slot",
+      27375549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Scouting Slot",
+      27375550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Diplomacy Slot",
+      27375551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Navigation Slot",
+      27375552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Leadership Slot",
+      27375553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Wisdom Slot",
+      27375554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Mysticism Slot",
+      27375555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Luck Slot",
+      27375556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Ballistics Slot",
+      27375557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Eagle Eye Slot",
+      27375558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Necromancy Slot",
+      27375559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Estates Slot",
+      27375560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Fire Magic Slot",
+      27375561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Air Magic Slot",
+      27375562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Water Magic Slot",
+      27375563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Earth Magic Slot",
+      27375564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Scholar Slot",
+      27375565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Tactics Slot",
+      27375566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Artillery Slot",
+      27375567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Learning Slot",
+      27375568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Offense Slot",
+      27375569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Armourer Slot",
+      27375570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Intelligence Slot",
+      27375571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Sorcery Slot",
+      27375572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Resistance Slot",
+      27375573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit First Aid Slot",
+      27375574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Skill Count",
+      27375575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Ballista equipped (4 or -1)",
+      27375723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Ammo Cart equipped (5 or -1)",
+      27375731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit First Aid equipped Item (6 or -1)",
+      27375739,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Catapult equipped (3 or -1)",
+      27375747,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spellbook equipped (0 or -1)",
+      27375755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 1",
+      27375786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 2",
+      27375794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 3",
+      27375802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 4",
+      27375810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 5",
+      27375818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 6",
+      27375826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 7",
+      27375834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 8",
+      27375842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 9",
+      27375850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 10",
+      27375858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 11",
+      27375866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 12",
+      27375874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 13",
+      27375882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 14",
+      27375890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 15",
+      27375898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 16",
+      27375906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 17",
+      27375914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 18",
+      27375922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 19",
+      27375930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 20",
+      27375938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 21",
+      27375946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 22",
+      27375954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 23",
+      27375962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 24",
+      27375970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 25",
+      27375978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 26",
+      27375986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 27",
+      27375994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 28",
+      27376002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 29",
+      27376010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 30",
+      27376018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 31",
+      27376026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 32",
+      27376034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 33",
+      27376042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 34",
+      27376050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 35",
+      27376058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 36",
+      27376066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 37",
+      27376074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 38",
+      27376082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 39",
+      27376090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 40",
+      27376098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 41",
+      27376106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 42",
+      27376114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 43",
+      27376122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 44",
+      27376130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 45",
+      27376138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 46",
+      27376146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 47",
+      27376154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 48",
+      27376162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 49",
+      27376170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 50",
+      27376178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 51",
+      27376186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 52",
+      27376194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 53",
+      27376202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 54",
+      27376210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 55",
+      27376218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 56",
+      27376226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 57",
+      27376234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 58",
+      27376242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 59",
+      27376250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 60",
+      27376258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 61",
+      27376266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 62",
+      27376274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 63",
+      27376282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Backpack Slot 64",
+      27376290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Summon Boat",
+      27376390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Scuttle Boat",
+      27376391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Visions",
+      27376392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell View Earth",
+      27376393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Disguise",
+      27376394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell View Air",
+      27376395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fly",
+      27376396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Water Walk",
+      27376397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Dimension Door",
+      27376398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Town Portal",
+      27376399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Quicksand",
+      27376400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Land Mine",
+      27376401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Force Field",
+      27376402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fire Wall",
+      27376403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Earthquake",
+      27376404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Magic Arrow",
+      27376405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Ice Bolt",
+      27376406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Lightning Bolt",
+      27376407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Implosion",
+      27376408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Chain Lightning",
+      27376409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Frost Ring",
+      27376410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fireball",
+      27376411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Inferno",
+      27376412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Meteor Shower",
+      27376413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Death Ripple",
+      27376414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Destroy Undead",
+      27376415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Armageddon",
+      27376416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Shield",
+      27376417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Air Shield",
+      27376418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fire Shield",
+      27376419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Protection from Air",
+      27376420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Protection from Fire",
+      27376421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Protection from Water",
+      27376422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Protection from Earth",
+      27376423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Anti Magic",
+      27376424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Dispel",
+      27376425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Magic Mirror",
+      27376426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Cure",
+      27376427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Resurrection",
+      27376428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Animate Dead",
+      27376429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Sacrifice",
+      27376430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Bless",
+      27376431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Curse",
+      27376432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Bloodlust",
+      27376433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Precision",
+      27376434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Weakness",
+      27376435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Stone Skin",
+      27376436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Disrupting Ray",
+      27376437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Prayer",
+      27376438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Mirth",
+      27376439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Sorrow",
+      27376440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fortune",
+      27376441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Misfortune",
+      27376442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Haste",
+      27376443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Slow",
+      27376444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Slayer",
+      27376445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Frenzy",
+      27376446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Titan's Lighting Bolt",
+      27376447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Counterstrike",
+      27376448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Berserk",
+      27376449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Hypnotize",
+      27376450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Forgetfulness",
+      27376451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Blind",
+      27376452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Teleport",
+      27376453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Remove Obstacle",
+      27376454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Clone",
+      27376455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Fire Elemental",
+      27376456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Earth Elemental",
+      27376457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Water Elemental",
+      27376458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spell Air Elemental",
+      27376459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Attack",
+      27376460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Def",
+      27376461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Spellpower",
+      27376462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ajit Knowledge",
+      27376463,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

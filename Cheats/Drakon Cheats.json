@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Drakon Name",
+      27410453,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Movement",
+      27410495,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon EXP",
+      27410499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 1",
+      27410563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 2",
+      27410567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 3",
+      27410571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 4",
+      27410575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 5",
+      27410579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 6",
+      27410583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Type Slot 7",
+      27410587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 1",
+      27410591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 2",
+      27410595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 3",
+      27410599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 4",
+      27410603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 5",
+      27410607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 6",
+      27410611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Unit Count Slot 7",
+      27410615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Pathfinding",
+      27410619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Archery",
+      27410620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Logistics",
+      27410621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Scouting",
+      27410622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Diplomacy",
+      27410623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Navigation",
+      27410624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Leadership",
+      27410625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Wisdom",
+      27410626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Mysticism",
+      27410627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Luck",
+      27410628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Ballistics",
+      27410629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Eagle Eye",
+      27410630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Necromancy",
+      27410631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Estates",
+      27410632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Fire Magic",
+      27410633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Air Magic",
+      27410634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Water Magic",
+      27410635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Earth Magic",
+      27410636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Scholar",
+      27410637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Tactics",
+      27410638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Artillery",
+      27410639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Learning",
+      27410640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Offence",
+      27410641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Armourer",
+      27410642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Intelligence",
+      27410643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Sorcery",
+      27410644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Resistance",
+      27410645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon First Aid",
+      27410646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Pathfinding Slot",
+      27410647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Archery Slot",
+      27410648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Logistics Slot",
+      27410649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Scouting Slot",
+      27410650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Diplomacy Slot",
+      27410651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Navigation Slot",
+      27410652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Leadership Slot",
+      27410653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Wisdom Slot",
+      27410654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Mysticism Slot",
+      27410655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Luck Slot",
+      27410656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Ballistics Slot",
+      27410657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Eagle Eye Slot",
+      27410658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Necromancy Slot",
+      27410659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Estates Slot",
+      27410660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Fire Magic Slot",
+      27410661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Air Magic Slot",
+      27410662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Water Magic Slot",
+      27410663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Earth Magic Slot",
+      27410664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Scholar Slot",
+      27410665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Tactics Slot",
+      27410666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Artillery Slot",
+      27410667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Learning Slot",
+      27410668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Offense Slot",
+      27410669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Armourer Slot",
+      27410670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Intelligence Slot",
+      27410671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Sorcery Slot",
+      27410672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Resistance Slot",
+      27410673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon First Aid Slot",
+      27410674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Skill Count",
+      27410675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Ballista equipped (4 or -1)",
+      27410823,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Ammo Cart equipped (5 or -1)",
+      27410831,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon First Aid equipped Item (6 or -1)",
+      27410839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Catapult equipped (3 or -1)",
+      27410847,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spellbook equipped (0 or -1)",
+      27410855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 1",
+      27410886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 2",
+      27410894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 3",
+      27410902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 4",
+      27410910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 5",
+      27410918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 6",
+      27410926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 7",
+      27410934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 8",
+      27410942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 9",
+      27410950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 10",
+      27410958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 11",
+      27410966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 12",
+      27410974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 13",
+      27410982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 14",
+      27410990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 15",
+      27410998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 16",
+      27411006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 17",
+      27411014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 18",
+      27411022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 19",
+      27411030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 20",
+      27411038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 21",
+      27411046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 22",
+      27411054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 23",
+      27411062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 24",
+      27411070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 25",
+      27411078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 26",
+      27411086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 27",
+      27411094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 28",
+      27411102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 29",
+      27411110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 30",
+      27411118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 31",
+      27411126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 32",
+      27411134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 33",
+      27411142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 34",
+      27411150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 35",
+      27411158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 36",
+      27411166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 37",
+      27411174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 38",
+      27411182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 39",
+      27411190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 40",
+      27411198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 41",
+      27411206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 42",
+      27411214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 43",
+      27411222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 44",
+      27411230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 45",
+      27411238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 46",
+      27411246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 47",
+      27411254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 48",
+      27411262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 49",
+      27411270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 50",
+      27411278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 51",
+      27411286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 52",
+      27411294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 53",
+      27411302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 54",
+      27411310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 55",
+      27411318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 56",
+      27411326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 57",
+      27411334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 58",
+      27411342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 59",
+      27411350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 60",
+      27411358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 61",
+      27411366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 62",
+      27411374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 63",
+      27411382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Backpack Slot 64",
+      27411390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Summon Boat",
+      27411490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Scuttle Boat",
+      27411491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Visions",
+      27411492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell View Earth",
+      27411493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Disguise",
+      27411494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell View Air",
+      27411495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fly",
+      27411496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Water Walk",
+      27411497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Dimension Door",
+      27411498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Town Portal",
+      27411499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Quicksand",
+      27411500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Land Mine",
+      27411501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Force Field",
+      27411502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fire Wall",
+      27411503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Earthquake",
+      27411504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Magic Arrow",
+      27411505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Ice Bolt",
+      27411506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Lightning Bolt",
+      27411507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Implosion",
+      27411508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Chain Lightning",
+      27411509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Frost Ring",
+      27411510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fireball",
+      27411511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Inferno",
+      27411512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Meteor Shower",
+      27411513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Death Ripple",
+      27411514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Destroy Undead",
+      27411515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Armageddon",
+      27411516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Shield",
+      27411517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Air Shield",
+      27411518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fire Shield",
+      27411519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Protection from Air",
+      27411520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Protection from Fire",
+      27411521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Protection from Water",
+      27411522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Protection from Earth",
+      27411523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Anti Magic",
+      27411524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Dispel",
+      27411525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Magic Mirror",
+      27411526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Cure",
+      27411527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Resurrection",
+      27411528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Animate Dead",
+      27411529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Sacrifice",
+      27411530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Bless",
+      27411531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Curse",
+      27411532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Bloodlust",
+      27411533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Precision",
+      27411534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Weakness",
+      27411535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Stone Skin",
+      27411536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Disrupting Ray",
+      27411537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Prayer",
+      27411538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Mirth",
+      27411539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Sorrow",
+      27411540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fortune",
+      27411541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Misfortune",
+      27411542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Haste",
+      27411543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Slow",
+      27411544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Slayer",
+      27411545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Frenzy",
+      27411546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Titan's Lighting Bolt",
+      27411547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Counterstrike",
+      27411548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Berserk",
+      27411549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Hypnotize",
+      27411550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Forgetfulness",
+      27411551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Blind",
+      27411552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Teleport",
+      27411553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Remove Obstacle",
+      27411554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Clone",
+      27411555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Fire Elemental",
+      27411556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Earth Elemental",
+      27411557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Water Elemental",
+      27411558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spell Air Elemental",
+      27411559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Attack",
+      27411560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Def",
+      27411561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Spellpower",
+      27411562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Drakon Knowledge",
+      27411563,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Christian Name",
+      27285263,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Movement",
+      27285305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian EXP",
+      27285309,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 1",
+      27285373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 2",
+      27285377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 3",
+      27285381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 4",
+      27285385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 5",
+      27285389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 6",
+      27285393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Type Slot 7",
+      27285397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 1",
+      27285401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 2",
+      27285405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 3",
+      27285409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 4",
+      27285413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 5",
+      27285417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 6",
+      27285421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Unit Count Slot 7",
+      27285425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Pathfinding",
+      27285429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Archery",
+      27285430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Logistics",
+      27285431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Scouting",
+      27285432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Diplomacy",
+      27285433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Navigation",
+      27285434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Leadership",
+      27285435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Wisdom",
+      27285436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Mysticism",
+      27285437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Luck",
+      27285438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Ballistics",
+      27285439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Eagle Eye",
+      27285440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Necromancy",
+      27285441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Estates",
+      27285442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Fire Magic",
+      27285443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Air Magic",
+      27285444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Water Magic",
+      27285445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Earth Magic",
+      27285446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Scholar",
+      27285447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Tactics",
+      27285448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Artillery",
+      27285449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Learning",
+      27285450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Offence",
+      27285451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Armourer",
+      27285452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Intelligence",
+      27285453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Sorcery",
+      27285454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Resistance",
+      27285455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian First Aid",
+      27285456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Pathfinding Slot",
+      27285457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Archery Slot",
+      27285458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Logistics Slot",
+      27285459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Scouting Slot",
+      27285460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Diplomacy Slot",
+      27285461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Navigation Slot",
+      27285462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Leadership Slot",
+      27285463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Wisdom Slot",
+      27285464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Mysticism Slot",
+      27285465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Luck Slot",
+      27285466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Ballistics Slot",
+      27285467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Eagle Eye Slot",
+      27285468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Necromancy Slot",
+      27285469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Estates Slot",
+      27285470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Fire Magic Slot",
+      27285471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Air Magic Slot",
+      27285472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Water Magic Slot",
+      27285473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Earth Magic Slot",
+      27285474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Scholar Slot",
+      27285475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Tactics Slot",
+      27285476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Artillery Slot",
+      27285477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Learning Slot",
+      27285478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Offense Slot",
+      27285479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Armourer Slot",
+      27285480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Intelligence Slot",
+      27285481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Sorcery Slot",
+      27285482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Resistance Slot",
+      27285483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian First Aid Slot",
+      27285484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Skill Count",
+      27285485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Ballista equipped (4 or -1)",
+      27285633,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Ammo Cart equipped (5 or -1)",
+      27285641,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian First Aid equipped Item (6 or -1)",
+      27285649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Catapult equipped (3 or -1)",
+      27285657,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spellbook equipped (0 or -1)",
+      27285665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 1",
+      27285696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 2",
+      27285704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 3",
+      27285712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 4",
+      27285720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 5",
+      27285728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 6",
+      27285736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 7",
+      27285744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 8",
+      27285752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 9",
+      27285760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 10",
+      27285768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 11",
+      27285776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 12",
+      27285784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 13",
+      27285792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 14",
+      27285800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 15",
+      27285808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 16",
+      27285816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 17",
+      27285824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 18",
+      27285832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 19",
+      27285840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 20",
+      27285848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 21",
+      27285856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 22",
+      27285864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 23",
+      27285872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 24",
+      27285880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 25",
+      27285888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 26",
+      27285896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 27",
+      27285904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 28",
+      27285912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 29",
+      27285920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 30",
+      27285928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 31",
+      27285936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 32",
+      27285944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 33",
+      27285952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 34",
+      27285960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 35",
+      27285968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 36",
+      27285976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 37",
+      27285984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 38",
+      27285992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 39",
+      27286000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 40",
+      27286008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 41",
+      27286016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 42",
+      27286024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 43",
+      27286032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 44",
+      27286040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 45",
+      27286048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 46",
+      27286056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 47",
+      27286064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 48",
+      27286072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 49",
+      27286080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 50",
+      27286088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 51",
+      27286096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 52",
+      27286104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 53",
+      27286112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 54",
+      27286120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 55",
+      27286128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 56",
+      27286136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 57",
+      27286144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 58",
+      27286152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 59",
+      27286160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 60",
+      27286168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 61",
+      27286176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 62",
+      27286184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 63",
+      27286192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Backpack Slot 64",
+      27286200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Summon Boat",
+      27286300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Scuttle Boat",
+      27286301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Visions",
+      27286302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell View Earth",
+      27286303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Disguise",
+      27286304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell View Air",
+      27286305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fly",
+      27286306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Water Walk",
+      27286307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Dimension Door",
+      27286308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Town Portal",
+      27286309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Quicksand",
+      27286310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Land Mine",
+      27286311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Force Field",
+      27286312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fire Wall",
+      27286313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Earthquake",
+      27286314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Magic Arrow",
+      27286315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Ice Bolt",
+      27286316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Lightning Bolt",
+      27286317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Implosion",
+      27286318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Chain Lightning",
+      27286319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Frost Ring",
+      27286320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fireball",
+      27286321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Inferno",
+      27286322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Meteor Shower",
+      27286323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Death Ripple",
+      27286324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Destroy Undead",
+      27286325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Armageddon",
+      27286326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Shield",
+      27286327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Air Shield",
+      27286328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fire Shield",
+      27286329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Protection from Air",
+      27286330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Protection from Fire",
+      27286331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Protection from Water",
+      27286332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Protection from Earth",
+      27286333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Anti Magic",
+      27286334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Dispel",
+      27286335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Magic Mirror",
+      27286336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Cure",
+      27286337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Resurrection",
+      27286338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Animate Dead",
+      27286339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Sacrifice",
+      27286340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Bless",
+      27286341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Curse",
+      27286342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Bloodlust",
+      27286343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Precision",
+      27286344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Weakness",
+      27286345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Stone Skin",
+      27286346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Disrupting Ray",
+      27286347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Prayer",
+      27286348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Mirth",
+      27286349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Sorrow",
+      27286350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fortune",
+      27286351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Misfortune",
+      27286352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Haste",
+      27286353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Slow",
+      27286354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Slayer",
+      27286355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Frenzy",
+      27286356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Titan's Lighting Bolt",
+      27286357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Counterstrike",
+      27286358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Berserk",
+      27286359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Hypnotize",
+      27286360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Forgetfulness",
+      27286361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Blind",
+      27286362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Teleport",
+      27286363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Remove Obstacle",
+      27286364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Clone",
+      27286365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Fire Elemental",
+      27286366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Earth Elemental",
+      27286367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Water Elemental",
+      27286368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spell Air Elemental",
+      27286369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Attack",
+      27286370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Def",
+      27286371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Spellpower",
+      27286372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Christian Knowledge",
+      27286373,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

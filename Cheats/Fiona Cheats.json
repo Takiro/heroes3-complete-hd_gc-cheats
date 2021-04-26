@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Fiona Name",
+      27334403,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Movement",
+      27334445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona EXP",
+      27334449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 1",
+      27334513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 2",
+      27334517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 3",
+      27334521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 4",
+      27334525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 5",
+      27334529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 6",
+      27334533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Type Slot 7",
+      27334537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 1",
+      27334541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 2",
+      27334545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 3",
+      27334549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 4",
+      27334553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 5",
+      27334557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 6",
+      27334561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Unit Count Slot 7",
+      27334565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Pathfinding",
+      27334569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Archery",
+      27334570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Logistics",
+      27334571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Scouting",
+      27334572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Diplomacy",
+      27334573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Navigation",
+      27334574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Leadership",
+      27334575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Wisdom",
+      27334576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Mysticism",
+      27334577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Luck",
+      27334578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Ballistics",
+      27334579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Eagle Eye",
+      27334580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Necromancy",
+      27334581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Estates",
+      27334582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Fire Magic",
+      27334583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Air Magic",
+      27334584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Water Magic",
+      27334585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Earth Magic",
+      27334586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Scholar",
+      27334587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Tactics",
+      27334588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Artillery",
+      27334589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Learning",
+      27334590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Offence",
+      27334591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Armourer",
+      27334592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Intelligence",
+      27334593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Sorcery",
+      27334594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Resistance",
+      27334595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona First Aid",
+      27334596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Pathfinding Slot",
+      27334597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Archery Slot",
+      27334598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Logistics Slot",
+      27334599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Scouting Slot",
+      27334600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Diplomacy Slot",
+      27334601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Navigation Slot",
+      27334602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Leadership Slot",
+      27334603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Wisdom Slot",
+      27334604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Mysticism Slot",
+      27334605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Luck Slot",
+      27334606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Ballistics Slot",
+      27334607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Eagle Eye Slot",
+      27334608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Necromancy Slot",
+      27334609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Estates Slot",
+      27334610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Fire Magic Slot",
+      27334611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Air Magic Slot",
+      27334612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Water Magic Slot",
+      27334613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Earth Magic Slot",
+      27334614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Scholar Slot",
+      27334615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Tactics Slot",
+      27334616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Artillery Slot",
+      27334617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Learning Slot",
+      27334618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Offense Slot",
+      27334619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Armourer Slot",
+      27334620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Intelligence Slot",
+      27334621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Sorcery Slot",
+      27334622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Resistance Slot",
+      27334623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona First Aid Slot",
+      27334624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Skill Count",
+      27334625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Ballista equipped (4 or -1)",
+      27334773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Ammo Cart equipped (5 or -1)",
+      27334781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona First Aid equipped Item (6 or -1)",
+      27334789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Catapult equipped (3 or -1)",
+      27334797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spellbook equipped (0 or -1)",
+      27334805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 1",
+      27334836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 2",
+      27334844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 3",
+      27334852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 4",
+      27334860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 5",
+      27334868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 6",
+      27334876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 7",
+      27334884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 8",
+      27334892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 9",
+      27334900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 10",
+      27334908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 11",
+      27334916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 12",
+      27334924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 13",
+      27334932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 14",
+      27334940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 15",
+      27334948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 16",
+      27334956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 17",
+      27334964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 18",
+      27334972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 19",
+      27334980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 20",
+      27334988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 21",
+      27334996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 22",
+      27335004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 23",
+      27335012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 24",
+      27335020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 25",
+      27335028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 26",
+      27335036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 27",
+      27335044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 28",
+      27335052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 29",
+      27335060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 30",
+      27335068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 31",
+      27335076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 32",
+      27335084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 33",
+      27335092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 34",
+      27335100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 35",
+      27335108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 36",
+      27335116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 37",
+      27335124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 38",
+      27335132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 39",
+      27335140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 40",
+      27335148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 41",
+      27335156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 42",
+      27335164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 43",
+      27335172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 44",
+      27335180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 45",
+      27335188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 46",
+      27335196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 47",
+      27335204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 48",
+      27335212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 49",
+      27335220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 50",
+      27335228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 51",
+      27335236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 52",
+      27335244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 53",
+      27335252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 54",
+      27335260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 55",
+      27335268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 56",
+      27335276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 57",
+      27335284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 58",
+      27335292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 59",
+      27335300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 60",
+      27335308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 61",
+      27335316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 62",
+      27335324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 63",
+      27335332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Backpack Slot 64",
+      27335340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Summon Boat",
+      27335440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Scuttle Boat",
+      27335441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Visions",
+      27335442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell View Earth",
+      27335443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Disguise",
+      27335444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell View Air",
+      27335445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fly",
+      27335446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Water Walk",
+      27335447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Dimension Door",
+      27335448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Town Portal",
+      27335449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Quicksand",
+      27335450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Land Mine",
+      27335451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Force Field",
+      27335452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fire Wall",
+      27335453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Earthquake",
+      27335454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Magic Arrow",
+      27335455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Ice Bolt",
+      27335456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Lightning Bolt",
+      27335457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Implosion",
+      27335458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Chain Lightning",
+      27335459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Frost Ring",
+      27335460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fireball",
+      27335461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Inferno",
+      27335462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Meteor Shower",
+      27335463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Death Ripple",
+      27335464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Destroy Undead",
+      27335465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Armageddon",
+      27335466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Shield",
+      27335467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Air Shield",
+      27335468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fire Shield",
+      27335469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Protection from Air",
+      27335470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Protection from Fire",
+      27335471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Protection from Water",
+      27335472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Protection from Earth",
+      27335473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Anti Magic",
+      27335474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Dispel",
+      27335475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Magic Mirror",
+      27335476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Cure",
+      27335477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Resurrection",
+      27335478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Animate Dead",
+      27335479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Sacrifice",
+      27335480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Bless",
+      27335481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Curse",
+      27335482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Bloodlust",
+      27335483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Precision",
+      27335484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Weakness",
+      27335485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Stone Skin",
+      27335486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Disrupting Ray",
+      27335487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Prayer",
+      27335488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Mirth",
+      27335489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Sorrow",
+      27335490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fortune",
+      27335491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Misfortune",
+      27335492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Haste",
+      27335493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Slow",
+      27335494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Slayer",
+      27335495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Frenzy",
+      27335496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Titan's Lighting Bolt",
+      27335497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Counterstrike",
+      27335498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Berserk",
+      27335499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Hypnotize",
+      27335500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Forgetfulness",
+      27335501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Blind",
+      27335502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Teleport",
+      27335503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Remove Obstacle",
+      27335504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Clone",
+      27335505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Fire Elemental",
+      27335506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Earth Elemental",
+      27335507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Water Elemental",
+      27335508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spell Air Elemental",
+      27335509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Attack",
+      27335510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Def",
+      27335511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Spellpower",
+      27335512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Fiona Knowledge",
+      27335513,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

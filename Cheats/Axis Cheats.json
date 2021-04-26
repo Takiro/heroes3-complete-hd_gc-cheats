@@ -1,0 +1,634 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Axis Movement",
+      27346145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis EXP",
+      27346149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 1",
+      27346241,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 2",
+      27346245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 3",
+      27346249,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 4",
+      27346253,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 5",
+      27346257,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 6",
+      27346261,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Unit Count Slot 7",
+      27346265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Pathfinding",
+      27346269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Archery",
+      27346270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Logistics",
+      27346271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Scouting",
+      27346272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Diplomacy",
+      27346273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Navigation",
+      27346274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Leadership",
+      27346275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Wisdom",
+      27346276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Mysticism",
+      27346277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Luck",
+      27346278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Ballistics",
+      27346279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Eagle Eye",
+      27346280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Necromancy",
+      27346281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Estates",
+      27346282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Fire Magic",
+      27346283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Air Magic",
+      27346284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Water Magic",
+      27346285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Earth Magic",
+      27346286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Scholar",
+      27346287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Tactics",
+      27346288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Artillery",
+      27346289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Learning",
+      27346290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Offence",
+      27346291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Armourer",
+      27346292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Intelligence",
+      27346293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Sorcery",
+      27346294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Resistance",
+      27346295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis First Aid",
+      27346296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Pathfinding Slot",
+      27346297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Archery Slot",
+      27346298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Logistics Slot",
+      27346299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Scouting Slot",
+      27346300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Diplomacy Slot",
+      27346301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Navigation Slot",
+      27346302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Leadership Slot",
+      27346303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Wisdom Slot",
+      27346304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Mysticism Slot",
+      27346305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Luck Slot",
+      27346306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Ballistics Slot",
+      27346307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Eagle Eye Slot",
+      27346308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Necromancy Slot",
+      27346309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Estates Slot",
+      27346310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Fire Magic Slot",
+      27346311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Air Magic Slot",
+      27346312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Water Magic Slot",
+      27346313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Earth Magic Slot",
+      27346314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Scholar Slot",
+      27346315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Tactics Slot",
+      27346316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Artillery Slot",
+      27346317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Learning Slot",
+      27346318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Offense Slot",
+      27346319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Armourer Slot",
+      27346320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Intelligence Slot",
+      27346321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Sorcery Slot",
+      27346322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Resistance Slot",
+      27346323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis First Aid Slot",
+      27346324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Skill Count",
+      27346325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Attack",
+      27347210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Defence",
+      27347211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Spellpower",
+      27347212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Axis Knowledge",
+      27347213,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Brissa Name",
+      27438533,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Movement",
+      27438575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa EXP",
+      27438579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 1",
+      27438643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 2",
+      27438647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 3",
+      27438651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 4",
+      27438655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 5",
+      27438659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 6",
+      27438663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Type Slot 7",
+      27438667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 1",
+      27438671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 2",
+      27438675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 3",
+      27438679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 4",
+      27438683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 5",
+      27438687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 6",
+      27438691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Unit Count Slot 7",
+      27438695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Pathfinding",
+      27438699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Archery",
+      27438700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Logistics",
+      27438701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Scouting",
+      27438702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Diplomacy",
+      27438703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Navigation",
+      27438704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Leadership",
+      27438705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Wisdom",
+      27438706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Mysticism",
+      27438707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Luck",
+      27438708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Ballistics",
+      27438709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Eagle Eye",
+      27438710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Necromancy",
+      27438711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Estates",
+      27438712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Fire Magic",
+      27438713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Air Magic",
+      27438714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Water Magic",
+      27438715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Earth Magic",
+      27438716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Scholar",
+      27438717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Tactics",
+      27438718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Artillery",
+      27438719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Learning",
+      27438720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Offence",
+      27438721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Armourer",
+      27438722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Intelligence",
+      27438723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Sorcery",
+      27438724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Resistance",
+      27438725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa First Aid",
+      27438726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Pathfinding Slot",
+      27438727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Archery Slot",
+      27438728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Logistics Slot",
+      27438729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Scouting Slot",
+      27438730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Diplomacy Slot",
+      27438731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Navigation Slot",
+      27438732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Leadership Slot",
+      27438733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Wisdom Slot",
+      27438734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Mysticism Slot",
+      27438735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Luck Slot",
+      27438736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Ballistics Slot",
+      27438737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Eagle Eye Slot",
+      27438738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Necromancy Slot",
+      27438739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Estates Slot",
+      27438740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Fire Magic Slot",
+      27438741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Air Magic Slot",
+      27438742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Water Magic Slot",
+      27438743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Earth Magic Slot",
+      27438744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Scholar Slot",
+      27438745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Tactics Slot",
+      27438746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Artillery Slot",
+      27438747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Learning Slot",
+      27438748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Offense Slot",
+      27438749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Armourer Slot",
+      27438750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Intelligence Slot",
+      27438751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Sorcery Slot",
+      27438752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Resistance Slot",
+      27438753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa First Aid Slot",
+      27438754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Skill Count",
+      27438755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Ballista equipped (4 or -1)",
+      27438903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Ammo Cart equipped (5 or -1)",
+      27438911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa First Aid equipped Item (6 or -1)",
+      27438919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Catapult equipped (3 or -1)",
+      27438927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spellbook equipped (0 or -1)",
+      27438935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 1",
+      27438966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 2",
+      27438974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 3",
+      27438982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 4",
+      27438990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 5",
+      27438998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 6",
+      27439006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 7",
+      27439014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 8",
+      27439022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 9",
+      27439030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 10",
+      27439038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 11",
+      27439046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 12",
+      27439054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 13",
+      27439062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 14",
+      27439070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 15",
+      27439078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 16",
+      27439086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 17",
+      27439094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 18",
+      27439102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 19",
+      27439110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 20",
+      27439118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 21",
+      27439126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 22",
+      27439134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 23",
+      27439142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 24",
+      27439150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 25",
+      27439158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 26",
+      27439166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 27",
+      27439174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 28",
+      27439182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 29",
+      27439190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 30",
+      27439198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 31",
+      27439206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 32",
+      27439214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 33",
+      27439222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 34",
+      27439230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 35",
+      27439238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 36",
+      27439246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 37",
+      27439254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 38",
+      27439262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 39",
+      27439270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 40",
+      27439278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 41",
+      27439286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 42",
+      27439294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 43",
+      27439302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 44",
+      27439310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 45",
+      27439318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 46",
+      27439326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 47",
+      27439334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 48",
+      27439342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 49",
+      27439350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 50",
+      27439358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 51",
+      27439366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 52",
+      27439374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 53",
+      27439382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 54",
+      27439390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 55",
+      27439398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 56",
+      27439406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 57",
+      27439414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 58",
+      27439422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 59",
+      27439430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 60",
+      27439438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 61",
+      27439446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 62",
+      27439454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 63",
+      27439462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Backpack Slot 64",
+      27439470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Summon Boat",
+      27439570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Scuttle Boat",
+      27439571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Visions",
+      27439572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell View Earth",
+      27439573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Disguise",
+      27439574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell View Air",
+      27439575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fly",
+      27439576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Water Walk",
+      27439577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Dimension Door",
+      27439578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Town Portal",
+      27439579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Quicksand",
+      27439580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Land Mine",
+      27439581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Force Field",
+      27439582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fire Wall",
+      27439583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Earthquake",
+      27439584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Magic Arrow",
+      27439585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Ice Bolt",
+      27439586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Lightning Bolt",
+      27439587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Implosion",
+      27439588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Chain Lightning",
+      27439589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Frost Ring",
+      27439590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fireball",
+      27439591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Inferno",
+      27439592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Meteor Shower",
+      27439593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Death Ripple",
+      27439594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Destroy Undead",
+      27439595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Armageddon",
+      27439596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Shield",
+      27439597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Air Shield",
+      27439598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fire Shield",
+      27439599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Protection from Air",
+      27439600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Protection from Fire",
+      27439601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Protection from Water",
+      27439602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Protection from Earth",
+      27439603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Anti Magic",
+      27439604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Dispel",
+      27439605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Magic Mirror",
+      27439606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Cure",
+      27439607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Resurrection",
+      27439608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Animate Dead",
+      27439609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Sacrifice",
+      27439610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Bless",
+      27439611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Curse",
+      27439612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Bloodlust",
+      27439613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Precision",
+      27439614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Weakness",
+      27439615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Stone Skin",
+      27439616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Disrupting Ray",
+      27439617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Prayer",
+      27439618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Mirth",
+      27439619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Sorrow",
+      27439620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fortune",
+      27439621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Misfortune",
+      27439622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Haste",
+      27439623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Slow",
+      27439624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Slayer",
+      27439625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Frenzy",
+      27439626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Titan's Lighting Bolt",
+      27439627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Counterstrike",
+      27439628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Berserk",
+      27439629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Hypnotize",
+      27439630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Forgetfulness",
+      27439631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Blind",
+      27439632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Teleport",
+      27439633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Remove Obstacle",
+      27439634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Clone",
+      27439635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Fire Elemental",
+      27439636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Earth Elemental",
+      27439637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Water Elemental",
+      27439638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spell Air Elemental",
+      27439639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Attack",
+      27439640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Def",
+      27439641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Spellpower",
+      27439642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Brissa Knowledge",
+      27439643,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gelare Name",
+      27444383,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Movement",
+      27444425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare EXP",
+      27444429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 1",
+      27444493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 2",
+      27444497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 3",
+      27444501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 4",
+      27444505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 5",
+      27444509,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 6",
+      27444513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Type Slot 7",
+      27444517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 1",
+      27444521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 2",
+      27444525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 3",
+      27444529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 4",
+      27444533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 5",
+      27444537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 6",
+      27444541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Unit Count Slot 7",
+      27444545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Pathfinding",
+      27444549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Archery",
+      27444550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Logistics",
+      27444551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Scouting",
+      27444552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Diplomacy",
+      27444553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Navigation",
+      27444554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Leadership",
+      27444555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Wisdom",
+      27444556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Mysticism",
+      27444557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Luck",
+      27444558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Ballistics",
+      27444559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Eagle Eye",
+      27444560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Necromancy",
+      27444561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Estates",
+      27444562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Fire Magic",
+      27444563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Air Magic",
+      27444564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Water Magic",
+      27444565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Earth Magic",
+      27444566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Scholar",
+      27444567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Tactics",
+      27444568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Artillery",
+      27444569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Learning",
+      27444570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Offence",
+      27444571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Armourer",
+      27444572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Intelligence",
+      27444573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Sorcery",
+      27444574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Resistance",
+      27444575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare First Aid",
+      27444576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Pathfinding Slot",
+      27444577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Archery Slot",
+      27444578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Logistics Slot",
+      27444579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Scouting Slot",
+      27444580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Diplomacy Slot",
+      27444581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Navigation Slot",
+      27444582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Leadership Slot",
+      27444583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Wisdom Slot",
+      27444584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Mysticism Slot",
+      27444585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Luck Slot",
+      27444586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Ballistics Slot",
+      27444587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Eagle Eye Slot",
+      27444588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Necromancy Slot",
+      27444589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Estates Slot",
+      27444590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Fire Magic Slot",
+      27444591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Air Magic Slot",
+      27444592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Water Magic Slot",
+      27444593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Earth Magic Slot",
+      27444594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Scholar Slot",
+      27444595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Tactics Slot",
+      27444596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Artillery Slot",
+      27444597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Learning Slot",
+      27444598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Offense Slot",
+      27444599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Armourer Slot",
+      27444600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Intelligence Slot",
+      27444601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Sorcery Slot",
+      27444602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Resistance Slot",
+      27444603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare First Aid Slot",
+      27444604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Skill Count",
+      27444605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Ballista equipped (4 or -1)",
+      27444753,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Ammo Cart equipped (5 or -1)",
+      27444761,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare First Aid equipped Item (6 or -1)",
+      27444769,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Catapult equipped (3 or -1)",
+      27444777,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spellbook equipped (0 or -1)",
+      27444785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 1",
+      27444816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 2",
+      27444824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 3",
+      27444832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 4",
+      27444840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 5",
+      27444848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 6",
+      27444856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 7",
+      27444864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 8",
+      27444872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 9",
+      27444880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 10",
+      27444888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 11",
+      27444896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 12",
+      27444904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 13",
+      27444912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 14",
+      27444920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 15",
+      27444928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 16",
+      27444936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 17",
+      27444944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 18",
+      27444952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 19",
+      27444960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 20",
+      27444968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 21",
+      27444976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 22",
+      27444984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 23",
+      27444992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 24",
+      27445000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 25",
+      27445008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 26",
+      27445016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 27",
+      27445024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 28",
+      27445032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 29",
+      27445040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 30",
+      27445048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 31",
+      27445056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 32",
+      27445064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 33",
+      27445072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 34",
+      27445080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 35",
+      27445088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 36",
+      27445096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 37",
+      27445104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 38",
+      27445112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 39",
+      27445120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 40",
+      27445128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 41",
+      27445136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 42",
+      27445144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 43",
+      27445152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 44",
+      27445160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 45",
+      27445168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 46",
+      27445176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 47",
+      27445184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 48",
+      27445192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 49",
+      27445200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 50",
+      27445208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 51",
+      27445216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 52",
+      27445224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 53",
+      27445232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 54",
+      27445240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 55",
+      27445248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 56",
+      27445256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 57",
+      27445264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 58",
+      27445272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 59",
+      27445280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 60",
+      27445288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 61",
+      27445296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 62",
+      27445304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 63",
+      27445312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Backpack Slot 64",
+      27445320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Summon Boat",
+      27445420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Scuttle Boat",
+      27445421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Visions",
+      27445422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell View Earth",
+      27445423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Disguise",
+      27445424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell View Air",
+      27445425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fly",
+      27445426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Water Walk",
+      27445427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Dimension Door",
+      27445428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Town Portal",
+      27445429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Quicksand",
+      27445430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Land Mine",
+      27445431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Force Field",
+      27445432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fire Wall",
+      27445433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Earthquake",
+      27445434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Magic Arrow",
+      27445435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Ice Bolt",
+      27445436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Lightning Bolt",
+      27445437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Implosion",
+      27445438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Chain Lightning",
+      27445439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Frost Ring",
+      27445440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fireball",
+      27445441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Inferno",
+      27445442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Meteor Shower",
+      27445443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Death Ripple",
+      27445444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Destroy Undead",
+      27445445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Armageddon",
+      27445446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Shield",
+      27445447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Air Shield",
+      27445448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fire Shield",
+      27445449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Protection from Air",
+      27445450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Protection from Fire",
+      27445451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Protection from Water",
+      27445452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Protection from Earth",
+      27445453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Anti Magic",
+      27445454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Dispel",
+      27445455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Magic Mirror",
+      27445456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Cure",
+      27445457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Resurrection",
+      27445458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Animate Dead",
+      27445459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Sacrifice",
+      27445460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Bless",
+      27445461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Curse",
+      27445462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Bloodlust",
+      27445463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Precision",
+      27445464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Weakness",
+      27445465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Stone Skin",
+      27445466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Disrupting Ray",
+      27445467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Prayer",
+      27445468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Mirth",
+      27445469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Sorrow",
+      27445470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fortune",
+      27445471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Misfortune",
+      27445472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Haste",
+      27445473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Slow",
+      27445474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Slayer",
+      27445475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Frenzy",
+      27445476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Titan's Lighting Bolt",
+      27445477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Counterstrike",
+      27445478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Berserk",
+      27445479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Hypnotize",
+      27445480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Forgetfulness",
+      27445481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Blind",
+      27445482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Teleport",
+      27445483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Remove Obstacle",
+      27445484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Clone",
+      27445485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Fire Elemental",
+      27445486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Earth Elemental",
+      27445487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Water Elemental",
+      27445488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spell Air Elemental",
+      27445489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Attack",
+      27445490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Def",
+      27445491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Spellpower",
+      27445492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelare Knowledge",
+      27445493,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gretchin Name",
+      27395243,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Movement",
+      27395285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin EXP",
+      27395289,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 1",
+      27395353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 2",
+      27395357,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 3",
+      27395361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 4",
+      27395365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 5",
+      27395369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 6",
+      27395373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Type Slot 7",
+      27395377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 1",
+      27395381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 2",
+      27395385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 3",
+      27395389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 4",
+      27395393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 5",
+      27395397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 6",
+      27395401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Unit Count Slot 7",
+      27395405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Pathfinding",
+      27395409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Archery",
+      27395410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Logistics",
+      27395411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Scouting",
+      27395412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Diplomacy",
+      27395413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Navigation",
+      27395414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Leadership",
+      27395415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Wisdom",
+      27395416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Mysticism",
+      27395417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Luck",
+      27395418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Ballistics",
+      27395419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Eagle Eye",
+      27395420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Necromancy",
+      27395421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Estates",
+      27395422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Fire Magic",
+      27395423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Air Magic",
+      27395424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Water Magic",
+      27395425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Earth Magic",
+      27395426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Scholar",
+      27395427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Tactics",
+      27395428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Artillery",
+      27395429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Learning",
+      27395430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Offence",
+      27395431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Armourer",
+      27395432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Intelligence",
+      27395433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Sorcery",
+      27395434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Resistance",
+      27395435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin First Aid",
+      27395436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Pathfinding Slot",
+      27395437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Archery Slot",
+      27395438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Logistics Slot",
+      27395439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Scouting Slot",
+      27395440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Diplomacy Slot",
+      27395441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Navigation Slot",
+      27395442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Leadership Slot",
+      27395443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Wisdom Slot",
+      27395444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Mysticism Slot",
+      27395445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Luck Slot",
+      27395446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Ballistics Slot",
+      27395447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Eagle Eye Slot",
+      27395448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Necromancy Slot",
+      27395449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Estates Slot",
+      27395450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Fire Magic Slot",
+      27395451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Air Magic Slot",
+      27395452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Water Magic Slot",
+      27395453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Earth Magic Slot",
+      27395454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Scholar Slot",
+      27395455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Tactics Slot",
+      27395456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Artillery Slot",
+      27395457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Learning Slot",
+      27395458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Offense Slot",
+      27395459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Armourer Slot",
+      27395460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Intelligence Slot",
+      27395461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Sorcery Slot",
+      27395462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Resistance Slot",
+      27395463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin First Aid Slot",
+      27395464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Skill Count",
+      27395465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Ballista equipped (4 or -1)",
+      27395613,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Ammo Cart equipped (5 or -1)",
+      27395621,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin First Aid equipped Item (6 or -1)",
+      27395629,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Catapult equipped (3 or -1)",
+      27395637,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spellbook equipped (0 or -1)",
+      27395645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 1",
+      27395676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 2",
+      27395684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 3",
+      27395692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 4",
+      27395700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 5",
+      27395708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 6",
+      27395716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 7",
+      27395724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 8",
+      27395732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 9",
+      27395740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 10",
+      27395748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 11",
+      27395756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 12",
+      27395764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 13",
+      27395772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 14",
+      27395780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 15",
+      27395788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 16",
+      27395796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 17",
+      27395804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 18",
+      27395812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 19",
+      27395820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 20",
+      27395828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 21",
+      27395836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 22",
+      27395844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 23",
+      27395852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 24",
+      27395860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 25",
+      27395868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 26",
+      27395876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 27",
+      27395884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 28",
+      27395892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 29",
+      27395900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 30",
+      27395908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 31",
+      27395916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 32",
+      27395924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 33",
+      27395932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 34",
+      27395940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 35",
+      27395948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 36",
+      27395956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 37",
+      27395964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 38",
+      27395972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 39",
+      27395980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 40",
+      27395988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 41",
+      27395996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 42",
+      27396004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 43",
+      27396012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 44",
+      27396020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 45",
+      27396028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 46",
+      27396036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 47",
+      27396044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 48",
+      27396052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 49",
+      27396060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 50",
+      27396068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 51",
+      27396076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 52",
+      27396084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 53",
+      27396092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 54",
+      27396100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 55",
+      27396108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 56",
+      27396116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 57",
+      27396124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 58",
+      27396132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 59",
+      27396140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 60",
+      27396148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 61",
+      27396156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 62",
+      27396164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 63",
+      27396172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Backpack Slot 64",
+      27396180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Summon Boat",
+      27396280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Scuttle Boat",
+      27396281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Visions",
+      27396282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell View Earth",
+      27396283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Disguise",
+      27396284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell View Air",
+      27396285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fly",
+      27396286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Water Walk",
+      27396287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Dimension Door",
+      27396288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Town Portal",
+      27396289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Quicksand",
+      27396290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Land Mine",
+      27396291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Force Field",
+      27396292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fire Wall",
+      27396293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Earthquake",
+      27396294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Magic Arrow",
+      27396295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Ice Bolt",
+      27396296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Lightning Bolt",
+      27396297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Implosion",
+      27396298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Chain Lightning",
+      27396299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Frost Ring",
+      27396300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fireball",
+      27396301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Inferno",
+      27396302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Meteor Shower",
+      27396303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Death Ripple",
+      27396304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Destroy Undead",
+      27396305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Armageddon",
+      27396306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Shield",
+      27396307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Air Shield",
+      27396308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fire Shield",
+      27396309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Protection from Air",
+      27396310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Protection from Fire",
+      27396311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Protection from Water",
+      27396312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Protection from Earth",
+      27396313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Anti Magic",
+      27396314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Dispel",
+      27396315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Magic Mirror",
+      27396316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Cure",
+      27396317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Resurrection",
+      27396318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Animate Dead",
+      27396319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Sacrifice",
+      27396320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Bless",
+      27396321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Curse",
+      27396322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Bloodlust",
+      27396323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Precision",
+      27396324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Weakness",
+      27396325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Stone Skin",
+      27396326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Disrupting Ray",
+      27396327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Prayer",
+      27396328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Mirth",
+      27396329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Sorrow",
+      27396330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fortune",
+      27396331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Misfortune",
+      27396332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Haste",
+      27396333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Slow",
+      27396334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Slayer",
+      27396335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Frenzy",
+      27396336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Titan's Lighting Bolt",
+      27396337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Counterstrike",
+      27396338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Berserk",
+      27396339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Hypnotize",
+      27396340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Forgetfulness",
+      27396341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Blind",
+      27396342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Teleport",
+      27396343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Remove Obstacle",
+      27396344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Clone",
+      27396345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Fire Elemental",
+      27396346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Earth Elemental",
+      27396347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Water Elemental",
+      27396348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spell Air Elemental",
+      27396349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Attack",
+      27396350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Def",
+      27396351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Spellpower",
+      27396352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gretchin Knowledge",
+      27396353,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

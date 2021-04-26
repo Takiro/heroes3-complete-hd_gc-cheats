@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Coronius Name",
+      27306323,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Movement",
+      27306365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius EXP",
+      27306369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 1",
+      27306433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 2",
+      27306437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 3",
+      27306441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 4",
+      27306445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 5",
+      27306449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 6",
+      27306453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Type Slot 7",
+      27306457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 1",
+      27306461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 2",
+      27306465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 3",
+      27306469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 4",
+      27306473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 5",
+      27306477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 6",
+      27306481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Unit Count Slot 7",
+      27306485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Pathfinding",
+      27306489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Archery",
+      27306490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Logistics",
+      27306491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Scouting",
+      27306492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Diplomacy",
+      27306493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Navigation",
+      27306494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Leadership",
+      27306495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Wisdom",
+      27306496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Mysticism",
+      27306497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Luck",
+      27306498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Ballistics",
+      27306499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Eagle Eye",
+      27306500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Necromancy",
+      27306501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Estates",
+      27306502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Fire Magic",
+      27306503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Air Magic",
+      27306504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Water Magic",
+      27306505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Earth Magic",
+      27306506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Scholar",
+      27306507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Tactics",
+      27306508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Artillery",
+      27306509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Learning",
+      27306510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Offence",
+      27306511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Armourer",
+      27306512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Intelligence",
+      27306513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Sorcery",
+      27306514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Resistance",
+      27306515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius First Aid",
+      27306516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Pathfinding Slot",
+      27306517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Archery Slot",
+      27306518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Logistics Slot",
+      27306519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Scouting Slot",
+      27306520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Diplomacy Slot",
+      27306521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Navigation Slot",
+      27306522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Leadership Slot",
+      27306523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Wisdom Slot",
+      27306524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Mysticism Slot",
+      27306525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Luck Slot",
+      27306526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Ballistics Slot",
+      27306527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Eagle Eye Slot",
+      27306528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Necromancy Slot",
+      27306529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Estates Slot",
+      27306530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Fire Magic Slot",
+      27306531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Air Magic Slot",
+      27306532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Water Magic Slot",
+      27306533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Earth Magic Slot",
+      27306534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Scholar Slot",
+      27306535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Tactics Slot",
+      27306536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Artillery Slot",
+      27306537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Learning Slot",
+      27306538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Offense Slot",
+      27306539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Armourer Slot",
+      27306540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Intelligence Slot",
+      27306541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Sorcery Slot",
+      27306542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Resistance Slot",
+      27306543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius First Aid Slot",
+      27306544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Skill Count",
+      27306545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Ballista equipped (4 or -1)",
+      27306693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Ammo Cart equipped (5 or -1)",
+      27306701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius First Aid equipped Item (6 or -1)",
+      27306709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Catapult equipped (3 or -1)",
+      27306717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spellbook equipped (0 or -1)",
+      27306725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 1",
+      27306756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 2",
+      27306764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 3",
+      27306772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 4",
+      27306780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 5",
+      27306788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 6",
+      27306796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 7",
+      27306804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 8",
+      27306812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 9",
+      27306820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 10",
+      27306828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 11",
+      27306836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 12",
+      27306844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 13",
+      27306852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 14",
+      27306860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 15",
+      27306868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 16",
+      27306876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 17",
+      27306884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 18",
+      27306892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 19",
+      27306900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 20",
+      27306908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 21",
+      27306916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 22",
+      27306924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 23",
+      27306932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 24",
+      27306940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 25",
+      27306948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 26",
+      27306956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 27",
+      27306964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 28",
+      27306972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 29",
+      27306980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 30",
+      27306988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 31",
+      27306996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 32",
+      27307004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 33",
+      27307012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 34",
+      27307020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 35",
+      27307028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 36",
+      27307036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 37",
+      27307044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 38",
+      27307052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 39",
+      27307060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 40",
+      27307068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 41",
+      27307076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 42",
+      27307084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 43",
+      27307092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 44",
+      27307100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 45",
+      27307108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 46",
+      27307116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 47",
+      27307124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 48",
+      27307132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 49",
+      27307140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 50",
+      27307148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 51",
+      27307156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 52",
+      27307164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 53",
+      27307172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 54",
+      27307180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 55",
+      27307188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 56",
+      27307196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 57",
+      27307204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 58",
+      27307212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 59",
+      27307220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 60",
+      27307228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 61",
+      27307236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 62",
+      27307244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 63",
+      27307252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Backpack Slot 64",
+      27307260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Summon Boat",
+      27307360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Scuttle Boat",
+      27307361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Visions",
+      27307362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell View Earth",
+      27307363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Disguise",
+      27307364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell View Air",
+      27307365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fly",
+      27307366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Water Walk",
+      27307367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Dimension Door",
+      27307368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Town Portal",
+      27307369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Quicksand",
+      27307370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Land Mine",
+      27307371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Force Field",
+      27307372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fire Wall",
+      27307373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Earthquake",
+      27307374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Magic Arrow",
+      27307375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Ice Bolt",
+      27307376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Lightning Bolt",
+      27307377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Implosion",
+      27307378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Chain Lightning",
+      27307379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Frost Ring",
+      27307380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fireball",
+      27307381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Inferno",
+      27307382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Meteor Shower",
+      27307383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Death Ripple",
+      27307384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Destroy Undead",
+      27307385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Armageddon",
+      27307386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Shield",
+      27307387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Air Shield",
+      27307388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fire Shield",
+      27307389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Protection from Air",
+      27307390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Protection from Fire",
+      27307391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Protection from Water",
+      27307392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Protection from Earth",
+      27307393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Anti Magic",
+      27307394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Dispel",
+      27307395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Magic Mirror",
+      27307396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Cure",
+      27307397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Resurrection",
+      27307398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Animate Dead",
+      27307399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Sacrifice",
+      27307400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Bless",
+      27307401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Curse",
+      27307402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Bloodlust",
+      27307403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Precision",
+      27307404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Weakness",
+      27307405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Stone Skin",
+      27307406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Disrupting Ray",
+      27307407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Prayer",
+      27307408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Mirth",
+      27307409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Sorrow",
+      27307410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fortune",
+      27307411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Misfortune",
+      27307412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Haste",
+      27307413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Slow",
+      27307414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Slayer",
+      27307415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Frenzy",
+      27307416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Titan's Lighting Bolt",
+      27307417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Counterstrike",
+      27307418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Berserk",
+      27307419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Hypnotize",
+      27307420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Forgetfulness",
+      27307421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Blind",
+      27307422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Teleport",
+      27307423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Remove Obstacle",
+      27307424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Clone",
+      27307425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Fire Elemental",
+      27307426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Earth Elemental",
+      27307427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Water Elemental",
+      27307428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spell Air Elemental",
+      27307429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Attack",
+      27307430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Def",
+      27307431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Spellpower",
+      27307432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Coronius Knowledge",
+      27307433,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

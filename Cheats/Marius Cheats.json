@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Marius Name",
+      27336743,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Movement",
+      27336785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius EXP",
+      27336789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 1",
+      27336853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 2",
+      27336857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 3",
+      27336861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 4",
+      27336865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 5",
+      27336869,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 6",
+      27336873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Type Slot 7",
+      27336877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 1",
+      27336881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 2",
+      27336885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 3",
+      27336889,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 4",
+      27336893,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 5",
+      27336897,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 6",
+      27336901,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Unit Count Slot 7",
+      27336905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Pathfinding",
+      27336909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Archery",
+      27336910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Logistics",
+      27336911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Scouting",
+      27336912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Diplomacy",
+      27336913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Navigation",
+      27336914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Leadership",
+      27336915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Wisdom",
+      27336916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Mysticism",
+      27336917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Luck",
+      27336918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Ballistics",
+      27336919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Eagle Eye",
+      27336920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Necromancy",
+      27336921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Estates",
+      27336922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Fire Magic",
+      27336923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Air Magic",
+      27336924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Water Magic",
+      27336925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Earth Magic",
+      27336926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Scholar",
+      27336927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Tactics",
+      27336928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Artillery",
+      27336929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Learning",
+      27336930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Offence",
+      27336931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Armourer",
+      27336932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Intelligence",
+      27336933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Sorcery",
+      27336934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Resistance",
+      27336935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius First Aid",
+      27336936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Pathfinding Slot",
+      27336937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Archery Slot",
+      27336938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Logistics Slot",
+      27336939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Scouting Slot",
+      27336940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Diplomacy Slot",
+      27336941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Navigation Slot",
+      27336942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Leadership Slot",
+      27336943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Wisdom Slot",
+      27336944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Mysticism Slot",
+      27336945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Luck Slot",
+      27336946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Ballistics Slot",
+      27336947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Eagle Eye Slot",
+      27336948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Necromancy Slot",
+      27336949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Estates Slot",
+      27336950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Fire Magic Slot",
+      27336951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Air Magic Slot",
+      27336952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Water Magic Slot",
+      27336953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Earth Magic Slot",
+      27336954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Scholar Slot",
+      27336955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Tactics Slot",
+      27336956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Artillery Slot",
+      27336957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Learning Slot",
+      27336958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Offense Slot",
+      27336959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Armourer Slot",
+      27336960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Intelligence Slot",
+      27336961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Sorcery Slot",
+      27336962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Resistance Slot",
+      27336963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius First Aid Slot",
+      27336964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Skill Count",
+      27336965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Ballista equipped (4 or -1)",
+      27337113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Ammo Cart equipped (5 or -1)",
+      27337121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius First Aid equipped Item (6 or -1)",
+      27337129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Catapult equipped (3 or -1)",
+      27337137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spellbook equipped (0 or -1)",
+      27337145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 1",
+      27337176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 2",
+      27337184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 3",
+      27337192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 4",
+      27337200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 5",
+      27337208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 6",
+      27337216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 7",
+      27337224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 8",
+      27337232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 9",
+      27337240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 10",
+      27337248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 11",
+      27337256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 12",
+      27337264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 13",
+      27337272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 14",
+      27337280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 15",
+      27337288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 16",
+      27337296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 17",
+      27337304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 18",
+      27337312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 19",
+      27337320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 20",
+      27337328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 21",
+      27337336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 22",
+      27337344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 23",
+      27337352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 24",
+      27337360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 25",
+      27337368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 26",
+      27337376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 27",
+      27337384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 28",
+      27337392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 29",
+      27337400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 30",
+      27337408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 31",
+      27337416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 32",
+      27337424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 33",
+      27337432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 34",
+      27337440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 35",
+      27337448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 36",
+      27337456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 37",
+      27337464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 38",
+      27337472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 39",
+      27337480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 40",
+      27337488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 41",
+      27337496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 42",
+      27337504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 43",
+      27337512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 44",
+      27337520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 45",
+      27337528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 46",
+      27337536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 47",
+      27337544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 48",
+      27337552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 49",
+      27337560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 50",
+      27337568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 51",
+      27337576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 52",
+      27337584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 53",
+      27337592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 54",
+      27337600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 55",
+      27337608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 56",
+      27337616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 57",
+      27337624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 58",
+      27337632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 59",
+      27337640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 60",
+      27337648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 61",
+      27337656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 62",
+      27337664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 63",
+      27337672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Backpack Slot 64",
+      27337680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Summon Boat",
+      27337780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Scuttle Boat",
+      27337781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Visions",
+      27337782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell View Earth",
+      27337783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Disguise",
+      27337784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell View Air",
+      27337785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fly",
+      27337786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Water Walk",
+      27337787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Dimension Door",
+      27337788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Town Portal",
+      27337789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Quicksand",
+      27337790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Land Mine",
+      27337791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Force Field",
+      27337792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fire Wall",
+      27337793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Earthquake",
+      27337794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Magic Arrow",
+      27337795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Ice Bolt",
+      27337796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Lightning Bolt",
+      27337797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Implosion",
+      27337798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Chain Lightning",
+      27337799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Frost Ring",
+      27337800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fireball",
+      27337801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Inferno",
+      27337802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Meteor Shower",
+      27337803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Death Ripple",
+      27337804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Destroy Undead",
+      27337805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Armageddon",
+      27337806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Shield",
+      27337807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Air Shield",
+      27337808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fire Shield",
+      27337809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Protection from Air",
+      27337810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Protection from Fire",
+      27337811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Protection from Water",
+      27337812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Protection from Earth",
+      27337813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Anti Magic",
+      27337814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Dispel",
+      27337815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Magic Mirror",
+      27337816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Cure",
+      27337817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Resurrection",
+      27337818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Animate Dead",
+      27337819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Sacrifice",
+      27337820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Bless",
+      27337821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Curse",
+      27337822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Bloodlust",
+      27337823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Precision",
+      27337824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Weakness",
+      27337825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Stone Skin",
+      27337826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Disrupting Ray",
+      27337827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Prayer",
+      27337828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Mirth",
+      27337829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Sorrow",
+      27337830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fortune",
+      27337831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Misfortune",
+      27337832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Haste",
+      27337833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Slow",
+      27337834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Slayer",
+      27337835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Frenzy",
+      27337836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Titan's Lighting Bolt",
+      27337837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Counterstrike",
+      27337838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Berserk",
+      27337839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Hypnotize",
+      27337840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Forgetfulness",
+      27337841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Blind",
+      27337842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Teleport",
+      27337843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Remove Obstacle",
+      27337844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Clone",
+      27337845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Fire Elemental",
+      27337846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Earth Elemental",
+      27337847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Water Elemental",
+      27337848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spell Air Elemental",
+      27337849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Attack",
+      27337850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Def",
+      27337851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Spellpower",
+      27337852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Marius Knowledge",
+      27337853,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

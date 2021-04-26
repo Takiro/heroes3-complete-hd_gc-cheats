@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ignatius Name",
+      27337913,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Movement",
+      27337955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius EXP",
+      27337959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 1",
+      27338023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 2",
+      27338027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 3",
+      27338031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 4",
+      27338035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 5",
+      27338039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 6",
+      27338043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Type Slot 7",
+      27338047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 1",
+      27338051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 2",
+      27338055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 3",
+      27338059,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 4",
+      27338063,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 5",
+      27338067,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 6",
+      27338071,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Unit Count Slot 7",
+      27338075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Pathfinding",
+      27338079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Archery",
+      27338080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Logistics",
+      27338081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Scouting",
+      27338082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Diplomacy",
+      27338083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Navigation",
+      27338084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Leadership",
+      27338085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Wisdom",
+      27338086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Mysticism",
+      27338087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Luck",
+      27338088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Ballistics",
+      27338089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Eagle Eye",
+      27338090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Necromancy",
+      27338091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Estates",
+      27338092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Fire Magic",
+      27338093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Air Magic",
+      27338094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Water Magic",
+      27338095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Earth Magic",
+      27338096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Scholar",
+      27338097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Tactics",
+      27338098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Artillery",
+      27338099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Learning",
+      27338100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Offence",
+      27338101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Armourer",
+      27338102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Intelligence",
+      27338103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Sorcery",
+      27338104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Resistance",
+      27338105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius First Aid",
+      27338106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Pathfinding Slot",
+      27338107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Archery Slot",
+      27338108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Logistics Slot",
+      27338109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Scouting Slot",
+      27338110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Diplomacy Slot",
+      27338111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Navigation Slot",
+      27338112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Leadership Slot",
+      27338113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Wisdom Slot",
+      27338114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Mysticism Slot",
+      27338115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Luck Slot",
+      27338116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Ballistics Slot",
+      27338117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Eagle Eye Slot",
+      27338118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Necromancy Slot",
+      27338119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Estates Slot",
+      27338120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Fire Magic Slot",
+      27338121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Air Magic Slot",
+      27338122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Water Magic Slot",
+      27338123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Earth Magic Slot",
+      27338124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Scholar Slot",
+      27338125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Tactics Slot",
+      27338126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Artillery Slot",
+      27338127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Learning Slot",
+      27338128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Offense Slot",
+      27338129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Armourer Slot",
+      27338130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Intelligence Slot",
+      27338131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Sorcery Slot",
+      27338132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Resistance Slot",
+      27338133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius First Aid Slot",
+      27338134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Skill Count",
+      27338135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Ballista equipped (4 or -1)",
+      27338283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Ammo Cart equipped (5 or -1)",
+      27338291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius First Aid equipped Item (6 or -1)",
+      27338299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Catapult equipped (3 or -1)",
+      27338307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spellbook equipped (0 or -1)",
+      27338315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 1",
+      27338346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 2",
+      27338354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 3",
+      27338362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 4",
+      27338370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 5",
+      27338378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 6",
+      27338386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 7",
+      27338394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 8",
+      27338402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 9",
+      27338410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 10",
+      27338418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 11",
+      27338426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 12",
+      27338434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 13",
+      27338442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 14",
+      27338450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 15",
+      27338458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 16",
+      27338466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 17",
+      27338474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 18",
+      27338482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 19",
+      27338490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 20",
+      27338498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 21",
+      27338506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 22",
+      27338514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 23",
+      27338522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 24",
+      27338530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 25",
+      27338538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 26",
+      27338546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 27",
+      27338554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 28",
+      27338562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 29",
+      27338570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 30",
+      27338578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 31",
+      27338586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 32",
+      27338594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 33",
+      27338602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 34",
+      27338610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 35",
+      27338618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 36",
+      27338626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 37",
+      27338634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 38",
+      27338642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 39",
+      27338650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 40",
+      27338658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 41",
+      27338666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 42",
+      27338674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 43",
+      27338682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 44",
+      27338690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 45",
+      27338698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 46",
+      27338706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 47",
+      27338714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 48",
+      27338722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 49",
+      27338730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 50",
+      27338738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 51",
+      27338746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 52",
+      27338754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 53",
+      27338762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 54",
+      27338770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 55",
+      27338778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 56",
+      27338786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 57",
+      27338794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 58",
+      27338802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 59",
+      27338810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 60",
+      27338818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 61",
+      27338826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 62",
+      27338834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 63",
+      27338842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Backpack Slot 64",
+      27338850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Summon Boat",
+      27338950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Scuttle Boat",
+      27338951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Visions",
+      27338952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell View Earth",
+      27338953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Disguise",
+      27338954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell View Air",
+      27338955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fly",
+      27338956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Water Walk",
+      27338957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Dimension Door",
+      27338958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Town Portal",
+      27338959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Quicksand",
+      27338960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Land Mine",
+      27338961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Force Field",
+      27338962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fire Wall",
+      27338963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Earthquake",
+      27338964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Magic Arrow",
+      27338965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Ice Bolt",
+      27338966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Lightning Bolt",
+      27338967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Implosion",
+      27338968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Chain Lightning",
+      27338969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Frost Ring",
+      27338970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fireball",
+      27338971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Inferno",
+      27338972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Meteor Shower",
+      27338973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Death Ripple",
+      27338974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Destroy Undead",
+      27338975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Armageddon",
+      27338976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Shield",
+      27338977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Air Shield",
+      27338978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fire Shield",
+      27338979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Protection from Air",
+      27338980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Protection from Fire",
+      27338981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Protection from Water",
+      27338982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Protection from Earth",
+      27338983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Anti Magic",
+      27338984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Dispel",
+      27338985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Magic Mirror",
+      27338986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Cure",
+      27338987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Resurrection",
+      27338988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Animate Dead",
+      27338989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Sacrifice",
+      27338990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Bless",
+      27338991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Curse",
+      27338992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Bloodlust",
+      27338993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Precision",
+      27338994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Weakness",
+      27338995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Stone Skin",
+      27338996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Disrupting Ray",
+      27338997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Prayer",
+      27338998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Mirth",
+      27338999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Sorrow",
+      27339000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fortune",
+      27339001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Misfortune",
+      27339002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Haste",
+      27339003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Slow",
+      27339004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Slayer",
+      27339005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Frenzy",
+      27339006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Titan's Lighting Bolt",
+      27339007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Counterstrike",
+      27339008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Berserk",
+      27339009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Hypnotize",
+      27339010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Forgetfulness",
+      27339011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Blind",
+      27339012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Teleport",
+      27339013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Remove Obstacle",
+      27339014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Clone",
+      27339015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Fire Elemental",
+      27339016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Earth Elemental",
+      27339017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Water Elemental",
+      27339018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spell Air Elemental",
+      27339019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Attack",
+      27339020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Def",
+      27339021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Spellpower",
+      27339022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignatius Knowledge",
+      27339023,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

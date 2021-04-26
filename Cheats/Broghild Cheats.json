@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Broghild Name",
+      27417473,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Movement",
+      27417515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild EXP",
+      27417519,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 1",
+      27417583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 2",
+      27417587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 3",
+      27417591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 4",
+      27417595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 5",
+      27417599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 6",
+      27417603,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Type Slot 7",
+      27417607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 1",
+      27417611,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 2",
+      27417615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 3",
+      27417619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 4",
+      27417623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 5",
+      27417627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 6",
+      27417631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Unit Count Slot 7",
+      27417635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Pathfinding",
+      27417639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Archery",
+      27417640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Logistics",
+      27417641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Scouting",
+      27417642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Diplomacy",
+      27417643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Navigation",
+      27417644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Leadership",
+      27417645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Wisdom",
+      27417646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Mysticism",
+      27417647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Luck",
+      27417648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Ballistics",
+      27417649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Eagle Eye",
+      27417650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Necromancy",
+      27417651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Estates",
+      27417652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Fire Magic",
+      27417653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Air Magic",
+      27417654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Water Magic",
+      27417655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Earth Magic",
+      27417656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Scholar",
+      27417657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Tactics",
+      27417658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Artillery",
+      27417659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Learning",
+      27417660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Offence",
+      27417661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Armourer",
+      27417662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Intelligence",
+      27417663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Sorcery",
+      27417664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Resistance",
+      27417665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild First Aid",
+      27417666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Pathfinding Slot",
+      27417667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Archery Slot",
+      27417668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Logistics Slot",
+      27417669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Scouting Slot",
+      27417670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Diplomacy Slot",
+      27417671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Navigation Slot",
+      27417672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Leadership Slot",
+      27417673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Wisdom Slot",
+      27417674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Mysticism Slot",
+      27417675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Luck Slot",
+      27417676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Ballistics Slot",
+      27417677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Eagle Eye Slot",
+      27417678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Necromancy Slot",
+      27417679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Estates Slot",
+      27417680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Fire Magic Slot",
+      27417681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Air Magic Slot",
+      27417682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Water Magic Slot",
+      27417683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Earth Magic Slot",
+      27417684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Scholar Slot",
+      27417685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Tactics Slot",
+      27417686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Artillery Slot",
+      27417687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Learning Slot",
+      27417688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Offense Slot",
+      27417689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Armourer Slot",
+      27417690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Intelligence Slot",
+      27417691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Sorcery Slot",
+      27417692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Resistance Slot",
+      27417693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild First Aid Slot",
+      27417694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Skill Count",
+      27417695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Ballista equipped (4 or -1)",
+      27417843,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Ammo Cart equipped (5 or -1)",
+      27417851,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild First Aid equipped Item (6 or -1)",
+      27417859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Catapult equipped (3 or -1)",
+      27417867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spellbook equipped (0 or -1)",
+      27417875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 1",
+      27417906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 2",
+      27417914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 3",
+      27417922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 4",
+      27417930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 5",
+      27417938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 6",
+      27417946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 7",
+      27417954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 8",
+      27417962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 9",
+      27417970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 10",
+      27417978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 11",
+      27417986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 12",
+      27417994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 13",
+      27418002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 14",
+      27418010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 15",
+      27418018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 16",
+      27418026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 17",
+      27418034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 18",
+      27418042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 19",
+      27418050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 20",
+      27418058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 21",
+      27418066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 22",
+      27418074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 23",
+      27418082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 24",
+      27418090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 25",
+      27418098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 26",
+      27418106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 27",
+      27418114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 28",
+      27418122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 29",
+      27418130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 30",
+      27418138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 31",
+      27418146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 32",
+      27418154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 33",
+      27418162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 34",
+      27418170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 35",
+      27418178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 36",
+      27418186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 37",
+      27418194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 38",
+      27418202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 39",
+      27418210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 40",
+      27418218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 41",
+      27418226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 42",
+      27418234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 43",
+      27418242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 44",
+      27418250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 45",
+      27418258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 46",
+      27418266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 47",
+      27418274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 48",
+      27418282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 49",
+      27418290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 50",
+      27418298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 51",
+      27418306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 52",
+      27418314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 53",
+      27418322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 54",
+      27418330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 55",
+      27418338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 56",
+      27418346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 57",
+      27418354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 58",
+      27418362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 59",
+      27418370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 60",
+      27418378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 61",
+      27418386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 62",
+      27418394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 63",
+      27418402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Backpack Slot 64",
+      27418410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Summon Boat",
+      27418510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Scuttle Boat",
+      27418511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Visions",
+      27418512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell View Earth",
+      27418513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Disguise",
+      27418514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell View Air",
+      27418515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fly",
+      27418516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Water Walk",
+      27418517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Dimension Door",
+      27418518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Town Portal",
+      27418519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Quicksand",
+      27418520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Land Mine",
+      27418521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Force Field",
+      27418522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fire Wall",
+      27418523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Earthquake",
+      27418524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Magic Arrow",
+      27418525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Ice Bolt",
+      27418526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Lightning Bolt",
+      27418527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Implosion",
+      27418528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Chain Lightning",
+      27418529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Frost Ring",
+      27418530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fireball",
+      27418531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Inferno",
+      27418532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Meteor Shower",
+      27418533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Death Ripple",
+      27418534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Destroy Undead",
+      27418535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Armageddon",
+      27418536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Shield",
+      27418537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Air Shield",
+      27418538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fire Shield",
+      27418539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Protection from Air",
+      27418540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Protection from Fire",
+      27418541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Protection from Water",
+      27418542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Protection from Earth",
+      27418543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Anti Magic",
+      27418544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Dispel",
+      27418545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Magic Mirror",
+      27418546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Cure",
+      27418547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Resurrection",
+      27418548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Animate Dead",
+      27418549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Sacrifice",
+      27418550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Bless",
+      27418551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Curse",
+      27418552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Bloodlust",
+      27418553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Precision",
+      27418554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Weakness",
+      27418555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Stone Skin",
+      27418556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Disrupting Ray",
+      27418557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Prayer",
+      27418558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Mirth",
+      27418559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Sorrow",
+      27418560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fortune",
+      27418561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Misfortune",
+      27418562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Haste",
+      27418563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Slow",
+      27418564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Slayer",
+      27418565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Frenzy",
+      27418566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Titan's Lighting Bolt",
+      27418567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Counterstrike",
+      27418568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Berserk",
+      27418569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Hypnotize",
+      27418570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Forgetfulness",
+      27418571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Blind",
+      27418572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Teleport",
+      27418573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Remove Obstacle",
+      27418574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Clone",
+      27418575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Fire Elemental",
+      27418576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Earth Elemental",
+      27418577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Water Elemental",
+      27418578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spell Air Elemental",
+      27418579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Attack",
+      27418580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Def",
+      27418581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Spellpower",
+      27418582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Broghild Knowledge",
+      27418583,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

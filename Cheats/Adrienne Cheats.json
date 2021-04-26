@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Adrienne Name",
+      27447893,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Movement",
+      27447935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne EXP",
+      27447939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 1",
+      27448003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 2",
+      27448007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 3",
+      27448011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 4",
+      27448015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 5",
+      27448019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 6",
+      27448023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Type Slot 7",
+      27448027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 1",
+      27448031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 2",
+      27448035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 3",
+      27448039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 4",
+      27448043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 5",
+      27448047,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 6",
+      27448051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Unit Count Slot 7",
+      27448055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Pathfinding",
+      27448059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Archery",
+      27448060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Logistics",
+      27448061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Scouting",
+      27448062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Diplomacy",
+      27448063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Navigation",
+      27448064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Leadership",
+      27448065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Wisdom",
+      27448066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Mysticism",
+      27448067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Luck",
+      27448068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Ballistics",
+      27448069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Eagle Eye",
+      27448070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Necromancy",
+      27448071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Estates",
+      27448072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Fire Magic",
+      27448073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Air Magic",
+      27448074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Water Magic",
+      27448075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Earth Magic",
+      27448076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Scholar",
+      27448077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Tactics",
+      27448078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Artillery",
+      27448079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Learning",
+      27448080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Offence",
+      27448081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Armourer",
+      27448082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Intelligence",
+      27448083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Sorcery",
+      27448084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Resistance",
+      27448085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne First Aid",
+      27448086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Pathfinding Slot",
+      27448087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Archery Slot",
+      27448088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Logistics Slot",
+      27448089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Scouting Slot",
+      27448090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Diplomacy Slot",
+      27448091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Navigation Slot",
+      27448092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Leadership Slot",
+      27448093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Wisdom Slot",
+      27448094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Mysticism Slot",
+      27448095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Luck Slot",
+      27448096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Ballistics Slot",
+      27448097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Eagle Eye Slot",
+      27448098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Necromancy Slot",
+      27448099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Estates Slot",
+      27448100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Fire Magic Slot",
+      27448101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Air Magic Slot",
+      27448102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Water Magic Slot",
+      27448103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Earth Magic Slot",
+      27448104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Scholar Slot",
+      27448105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Tactics Slot",
+      27448106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Artillery Slot",
+      27448107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Learning Slot",
+      27448108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Offense Slot",
+      27448109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Armourer Slot",
+      27448110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Intelligence Slot",
+      27448111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Sorcery Slot",
+      27448112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Resistance Slot",
+      27448113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne First Aid Slot",
+      27448114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Skill Count",
+      27448115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Ballista equipped (4 or -1)",
+      27448263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Ammo Cart equipped (5 or -1)",
+      27448271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne First Aid equipped Item (6 or -1)",
+      27448279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Catapult equipped (3 or -1)",
+      27448287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spellbook equipped (0 or -1)",
+      27448295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 1",
+      27448326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 2",
+      27448334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 3",
+      27448342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 4",
+      27448350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 5",
+      27448358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 6",
+      27448366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 7",
+      27448374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 8",
+      27448382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 9",
+      27448390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 10",
+      27448398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 11",
+      27448406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 12",
+      27448414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 13",
+      27448422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 14",
+      27448430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 15",
+      27448438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 16",
+      27448446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 17",
+      27448454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 18",
+      27448462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 19",
+      27448470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 20",
+      27448478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 21",
+      27448486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 22",
+      27448494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 23",
+      27448502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 24",
+      27448510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 25",
+      27448518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 26",
+      27448526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 27",
+      27448534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 28",
+      27448542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 29",
+      27448550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 30",
+      27448558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 31",
+      27448566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 32",
+      27448574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 33",
+      27448582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 34",
+      27448590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 35",
+      27448598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 36",
+      27448606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 37",
+      27448614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 38",
+      27448622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 39",
+      27448630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 40",
+      27448638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 41",
+      27448646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 42",
+      27448654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 43",
+      27448662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 44",
+      27448670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 45",
+      27448678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 46",
+      27448686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 47",
+      27448694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 48",
+      27448702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 49",
+      27448710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 50",
+      27448718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 51",
+      27448726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 52",
+      27448734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 53",
+      27448742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 54",
+      27448750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 55",
+      27448758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 56",
+      27448766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 57",
+      27448774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 58",
+      27448782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 59",
+      27448790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 60",
+      27448798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 61",
+      27448806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 62",
+      27448814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 63",
+      27448822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Backpack Slot 64",
+      27448830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Summon Boat",
+      27448930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Scuttle Boat",
+      27448931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Visions",
+      27448932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell View Earth",
+      27448933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Disguise",
+      27448934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell View Air",
+      27448935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fly",
+      27448936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Water Walk",
+      27448937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Dimension Door",
+      27448938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Town Portal",
+      27448939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Quicksand",
+      27448940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Land Mine",
+      27448941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Force Field",
+      27448942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fire Wall",
+      27448943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Earthquake",
+      27448944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Magic Arrow",
+      27448945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Ice Bolt",
+      27448946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Lightning Bolt",
+      27448947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Implosion",
+      27448948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Chain Lightning",
+      27448949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Frost Ring",
+      27448950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fireball",
+      27448951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Inferno",
+      27448952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Meteor Shower",
+      27448953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Death Ripple",
+      27448954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Destroy Undead",
+      27448955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Armageddon",
+      27448956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Shield",
+      27448957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Air Shield",
+      27448958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fire Shield",
+      27448959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Protection from Air",
+      27448960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Protection from Fire",
+      27448961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Protection from Water",
+      27448962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Protection from Earth",
+      27448963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Anti Magic",
+      27448964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Dispel",
+      27448965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Magic Mirror",
+      27448966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Cure",
+      27448967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Resurrection",
+      27448968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Animate Dead",
+      27448969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Sacrifice",
+      27448970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Bless",
+      27448971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Curse",
+      27448972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Bloodlust",
+      27448973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Precision",
+      27448974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Weakness",
+      27448975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Stone Skin",
+      27448976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Disrupting Ray",
+      27448977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Prayer",
+      27448978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Mirth",
+      27448979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Sorrow",
+      27448980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fortune",
+      27448981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Misfortune",
+      27448982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Haste",
+      27448983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Slow",
+      27448984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Slayer",
+      27448985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Frenzy",
+      27448986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Titan's Lighting Bolt",
+      27448987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Counterstrike",
+      27448988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Berserk",
+      27448989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Hypnotize",
+      27448990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Forgetfulness",
+      27448991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Blind",
+      27448992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Teleport",
+      27448993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Remove Obstacle",
+      27448994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Clone",
+      27448995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Fire Elemental",
+      27448996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Earth Elemental",
+      27448997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Water Elemental",
+      27448998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spell Air Elemental",
+      27448999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Attack",
+      27449000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Def",
+      27449001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Spellpower",
+      27449002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adrienne Knowledge",
+      27449003,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

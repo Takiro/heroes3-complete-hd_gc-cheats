@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Kyrre Name",
+      27305153,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Movement",
+      27305195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre EXP",
+      27305199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 1",
+      27305263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 2",
+      27305267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 3",
+      27305271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 4",
+      27305275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 5",
+      27305279,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 6",
+      27305283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Type Slot 7",
+      27305287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 1",
+      27305291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 2",
+      27305295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 3",
+      27305299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 4",
+      27305303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 5",
+      27305307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 6",
+      27305311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Unit Count Slot 7",
+      27305315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Pathfinding",
+      27305319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Archery",
+      27305320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Logistics",
+      27305321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Scouting",
+      27305322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Diplomacy",
+      27305323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Navigation",
+      27305324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Leadership",
+      27305325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Wisdom",
+      27305326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Mysticism",
+      27305327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Luck",
+      27305328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Ballistics",
+      27305329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Eagle Eye",
+      27305330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Necromancy",
+      27305331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Estates",
+      27305332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Fire Magic",
+      27305333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Air Magic",
+      27305334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Water Magic",
+      27305335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Earth Magic",
+      27305336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Scholar",
+      27305337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Tactics",
+      27305338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Artillery",
+      27305339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Learning",
+      27305340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Offence",
+      27305341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Armourer",
+      27305342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Intelligence",
+      27305343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Sorcery",
+      27305344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Resistance",
+      27305345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre First Aid",
+      27305346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Pathfinding Slot",
+      27305347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Archery Slot",
+      27305348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Logistics Slot",
+      27305349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Scouting Slot",
+      27305350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Diplomacy Slot",
+      27305351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Navigation Slot",
+      27305352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Leadership Slot",
+      27305353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Wisdom Slot",
+      27305354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Mysticism Slot",
+      27305355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Luck Slot",
+      27305356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Ballistics Slot",
+      27305357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Eagle Eye Slot",
+      27305358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Necromancy Slot",
+      27305359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Estates Slot",
+      27305360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Fire Magic Slot",
+      27305361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Air Magic Slot",
+      27305362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Water Magic Slot",
+      27305363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Earth Magic Slot",
+      27305364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Scholar Slot",
+      27305365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Tactics Slot",
+      27305366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Artillery Slot",
+      27305367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Learning Slot",
+      27305368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Offense Slot",
+      27305369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Armourer Slot",
+      27305370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Intelligence Slot",
+      27305371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Sorcery Slot",
+      27305372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Resistance Slot",
+      27305373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre First Aid Slot",
+      27305374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Skill Count",
+      27305375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Ballista equipped (4 or -1)",
+      27305523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Ammo Cart equipped (5 or -1)",
+      27305531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre First Aid equipped Item (6 or -1)",
+      27305539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Catapult equipped (3 or -1)",
+      27305547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spellbook equipped (0 or -1)",
+      27305555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 1",
+      27305586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 2",
+      27305594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 3",
+      27305602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 4",
+      27305610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 5",
+      27305618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 6",
+      27305626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 7",
+      27305634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 8",
+      27305642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 9",
+      27305650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 10",
+      27305658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 11",
+      27305666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 12",
+      27305674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 13",
+      27305682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 14",
+      27305690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 15",
+      27305698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 16",
+      27305706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 17",
+      27305714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 18",
+      27305722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 19",
+      27305730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 20",
+      27305738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 21",
+      27305746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 22",
+      27305754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 23",
+      27305762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 24",
+      27305770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 25",
+      27305778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 26",
+      27305786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 27",
+      27305794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 28",
+      27305802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 29",
+      27305810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 30",
+      27305818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 31",
+      27305826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 32",
+      27305834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 33",
+      27305842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 34",
+      27305850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 35",
+      27305858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 36",
+      27305866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 37",
+      27305874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 38",
+      27305882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 39",
+      27305890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 40",
+      27305898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 41",
+      27305906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 42",
+      27305914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 43",
+      27305922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 44",
+      27305930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 45",
+      27305938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 46",
+      27305946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 47",
+      27305954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 48",
+      27305962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 49",
+      27305970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 50",
+      27305978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 51",
+      27305986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 52",
+      27305994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 53",
+      27306002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 54",
+      27306010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 55",
+      27306018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 56",
+      27306026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 57",
+      27306034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 58",
+      27306042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 59",
+      27306050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 60",
+      27306058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 61",
+      27306066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 62",
+      27306074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 63",
+      27306082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Backpack Slot 64",
+      27306090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Summon Boat",
+      27306190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Scuttle Boat",
+      27306191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Visions",
+      27306192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell View Earth",
+      27306193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Disguise",
+      27306194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell View Air",
+      27306195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fly",
+      27306196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Water Walk",
+      27306197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Dimension Door",
+      27306198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Town Portal",
+      27306199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Quicksand",
+      27306200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Land Mine",
+      27306201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Force Field",
+      27306202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fire Wall",
+      27306203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Earthquake",
+      27306204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Magic Arrow",
+      27306205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Ice Bolt",
+      27306206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Lightning Bolt",
+      27306207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Implosion",
+      27306208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Chain Lightning",
+      27306209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Frost Ring",
+      27306210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fireball",
+      27306211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Inferno",
+      27306212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Meteor Shower",
+      27306213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Death Ripple",
+      27306214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Destroy Undead",
+      27306215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Armageddon",
+      27306216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Shield",
+      27306217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Air Shield",
+      27306218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fire Shield",
+      27306219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Protection from Air",
+      27306220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Protection from Fire",
+      27306221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Protection from Water",
+      27306222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Protection from Earth",
+      27306223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Anti Magic",
+      27306224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Dispel",
+      27306225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Magic Mirror",
+      27306226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Cure",
+      27306227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Resurrection",
+      27306228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Animate Dead",
+      27306229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Sacrifice",
+      27306230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Bless",
+      27306231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Curse",
+      27306232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Bloodlust",
+      27306233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Precision",
+      27306234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Weakness",
+      27306235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Stone Skin",
+      27306236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Disrupting Ray",
+      27306237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Prayer",
+      27306238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Mirth",
+      27306239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Sorrow",
+      27306240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fortune",
+      27306241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Misfortune",
+      27306242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Haste",
+      27306243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Slow",
+      27306244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Slayer",
+      27306245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Frenzy",
+      27306246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Titan's Lighting Bolt",
+      27306247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Counterstrike",
+      27306248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Berserk",
+      27306249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Hypnotize",
+      27306250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Forgetfulness",
+      27306251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Blind",
+      27306252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Teleport",
+      27306253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Remove Obstacle",
+      27306254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Clone",
+      27306255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Fire Elemental",
+      27306256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Earth Elemental",
+      27306257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Water Elemental",
+      27306258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spell Air Elemental",
+      27306259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Attack",
+      27306260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Def",
+      27306261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Spellpower",
+      27306262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kyrre Knowledge",
+      27306263,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

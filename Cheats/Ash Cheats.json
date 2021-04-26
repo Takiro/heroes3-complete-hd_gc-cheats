@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ash Name",
+      27349613,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Movement",
+      27349655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash EXP",
+      27349659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 1",
+      27349723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 2",
+      27349727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 3",
+      27349731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 4",
+      27349735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 5",
+      27349739,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 6",
+      27349743,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Type Slot 7",
+      27349747,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 1",
+      27349751,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 2",
+      27349755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 3",
+      27349759,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 4",
+      27349763,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 5",
+      27349767,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 6",
+      27349771,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Unit Count Slot 7",
+      27349775,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Pathfinding",
+      27349779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Archery",
+      27349780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Logistics",
+      27349781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Scouting",
+      27349782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Diplomacy",
+      27349783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Navigation",
+      27349784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Leadership",
+      27349785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Wisdom",
+      27349786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Mysticism",
+      27349787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Luck",
+      27349788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Ballistics",
+      27349789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Eagle Eye",
+      27349790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Necromancy",
+      27349791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Estates",
+      27349792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Fire Magic",
+      27349793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Air Magic",
+      27349794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Water Magic",
+      27349795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Earth Magic",
+      27349796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Scholar",
+      27349797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Tactics",
+      27349798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Artillery",
+      27349799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Learning",
+      27349800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Offence",
+      27349801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Armourer",
+      27349802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Intelligence",
+      27349803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Sorcery",
+      27349804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Resistance",
+      27349805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash First Aid",
+      27349806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Pathfinding Slot",
+      27349807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Archery Slot",
+      27349808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Logistics Slot",
+      27349809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Scouting Slot",
+      27349810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Diplomacy Slot",
+      27349811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Navigation Slot",
+      27349812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Leadership Slot",
+      27349813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Wisdom Slot",
+      27349814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Mysticism Slot",
+      27349815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Luck Slot",
+      27349816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Ballistics Slot",
+      27349817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Eagle Eye Slot",
+      27349818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Necromancy Slot",
+      27349819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Estates Slot",
+      27349820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Fire Magic Slot",
+      27349821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Air Magic Slot",
+      27349822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Water Magic Slot",
+      27349823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Earth Magic Slot",
+      27349824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Scholar Slot",
+      27349825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Tactics Slot",
+      27349826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Artillery Slot",
+      27349827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Learning Slot",
+      27349828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Offense Slot",
+      27349829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Armourer Slot",
+      27349830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Intelligence Slot",
+      27349831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Sorcery Slot",
+      27349832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Resistance Slot",
+      27349833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash First Aid Slot",
+      27349834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Skill Count",
+      27349835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Ballista equipped (4 or -1)",
+      27349983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Ammo Cart equipped (5 or -1)",
+      27349991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash First Aid equipped Item (6 or -1)",
+      27349999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Catapult equipped (3 or -1)",
+      27350007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spellbook equipped (0 or -1)",
+      27350015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 1",
+      27350046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 2",
+      27350054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 3",
+      27350062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 4",
+      27350070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 5",
+      27350078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 6",
+      27350086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 7",
+      27350094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 8",
+      27350102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 9",
+      27350110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 10",
+      27350118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 11",
+      27350126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 12",
+      27350134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 13",
+      27350142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 14",
+      27350150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 15",
+      27350158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 16",
+      27350166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 17",
+      27350174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 18",
+      27350182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 19",
+      27350190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 20",
+      27350198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 21",
+      27350206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 22",
+      27350214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 23",
+      27350222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 24",
+      27350230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 25",
+      27350238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 26",
+      27350246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 27",
+      27350254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 28",
+      27350262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 29",
+      27350270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 30",
+      27350278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 31",
+      27350286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 32",
+      27350294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 33",
+      27350302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 34",
+      27350310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 35",
+      27350318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 36",
+      27350326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 37",
+      27350334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 38",
+      27350342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 39",
+      27350350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 40",
+      27350358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 41",
+      27350366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 42",
+      27350374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 43",
+      27350382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 44",
+      27350390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 45",
+      27350398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 46",
+      27350406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 47",
+      27350414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 48",
+      27350422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 49",
+      27350430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 50",
+      27350438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 51",
+      27350446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 52",
+      27350454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 53",
+      27350462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 54",
+      27350470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 55",
+      27350478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 56",
+      27350486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 57",
+      27350494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 58",
+      27350502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 59",
+      27350510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 60",
+      27350518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 61",
+      27350526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 62",
+      27350534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 63",
+      27350542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Backpack Slot 64",
+      27350550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Summon Boat",
+      27350650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Scuttle Boat",
+      27350651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Visions",
+      27350652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell View Earth",
+      27350653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Disguise",
+      27350654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell View Air",
+      27350655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fly",
+      27350656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Water Walk",
+      27350657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Dimension Door",
+      27350658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Town Portal",
+      27350659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Quicksand",
+      27350660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Land Mine",
+      27350661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Force Field",
+      27350662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fire Wall",
+      27350663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Earthquake",
+      27350664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Magic Arrow",
+      27350665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Ice Bolt",
+      27350666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Lightning Bolt",
+      27350667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Implosion",
+      27350668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Chain Lightning",
+      27350669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Frost Ring",
+      27350670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fireball",
+      27350671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Inferno",
+      27350672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Meteor Shower",
+      27350673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Death Ripple",
+      27350674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Destroy Undead",
+      27350675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Armageddon",
+      27350676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Shield",
+      27350677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Air Shield",
+      27350678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fire Shield",
+      27350679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Protection from Air",
+      27350680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Protection from Fire",
+      27350681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Protection from Water",
+      27350682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Protection from Earth",
+      27350683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Anti Magic",
+      27350684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Dispel",
+      27350685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Magic Mirror",
+      27350686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Cure",
+      27350687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Resurrection",
+      27350688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Animate Dead",
+      27350689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Sacrifice",
+      27350690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Bless",
+      27350691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Curse",
+      27350692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Bloodlust",
+      27350693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Precision",
+      27350694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Weakness",
+      27350695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Stone Skin",
+      27350696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Disrupting Ray",
+      27350697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Prayer",
+      27350698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Mirth",
+      27350699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Sorrow",
+      27350700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fortune",
+      27350701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Misfortune",
+      27350702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Haste",
+      27350703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Slow",
+      27350704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Slayer",
+      27350705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Frenzy",
+      27350706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Titan's Lighting Bolt",
+      27350707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Counterstrike",
+      27350708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Berserk",
+      27350709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Hypnotize",
+      27350710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Forgetfulness",
+      27350711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Blind",
+      27350712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Teleport",
+      27350713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Remove Obstacle",
+      27350714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Clone",
+      27350715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Fire Elemental",
+      27350716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Earth Elemental",
+      27350717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Water Elemental",
+      27350718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spell Air Elemental",
+      27350719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Attack",
+      27350720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Def",
+      27350721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Spellpower",
+      27350722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ash Knowledge",
+      27350723,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

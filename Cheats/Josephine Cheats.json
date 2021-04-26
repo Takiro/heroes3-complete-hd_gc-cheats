@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Josephine Name",
+      27318023,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Movement",
+      27318065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine EXP",
+      27318069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 1",
+      27318133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 2",
+      27318137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 3",
+      27318141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 4",
+      27318145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 5",
+      27318149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 6",
+      27318153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Type Slot 7",
+      27318157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 1",
+      27318161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 2",
+      27318165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 3",
+      27318169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 4",
+      27318173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 5",
+      27318177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 6",
+      27318181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Unit Count Slot 7",
+      27318185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Pathfinding",
+      27318189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Archery",
+      27318190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Logistics",
+      27318191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Scouting",
+      27318192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Diplomacy",
+      27318193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Navigation",
+      27318194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Leadership",
+      27318195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Wisdom",
+      27318196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Mysticism",
+      27318197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Luck",
+      27318198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Ballistics",
+      27318199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Eagle Eye",
+      27318200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Necromancy",
+      27318201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Estates",
+      27318202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Fire Magic",
+      27318203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Air Magic",
+      27318204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Water Magic",
+      27318205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Earth Magic",
+      27318206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Scholar",
+      27318207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Tactics",
+      27318208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Artillery",
+      27318209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Learning",
+      27318210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Offence",
+      27318211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Armourer",
+      27318212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Intelligence",
+      27318213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Sorcery",
+      27318214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Resistance",
+      27318215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine First Aid",
+      27318216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Pathfinding Slot",
+      27318217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Archery Slot",
+      27318218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Logistics Slot",
+      27318219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Scouting Slot",
+      27318220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Diplomacy Slot",
+      27318221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Navigation Slot",
+      27318222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Leadership Slot",
+      27318223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Wisdom Slot",
+      27318224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Mysticism Slot",
+      27318225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Luck Slot",
+      27318226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Ballistics Slot",
+      27318227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Eagle Eye Slot",
+      27318228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Necromancy Slot",
+      27318229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Estates Slot",
+      27318230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Fire Magic Slot",
+      27318231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Air Magic Slot",
+      27318232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Water Magic Slot",
+      27318233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Earth Magic Slot",
+      27318234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Scholar Slot",
+      27318235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Tactics Slot",
+      27318236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Artillery Slot",
+      27318237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Learning Slot",
+      27318238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Offense Slot",
+      27318239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Armourer Slot",
+      27318240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Intelligence Slot",
+      27318241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Sorcery Slot",
+      27318242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Resistance Slot",
+      27318243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine First Aid Slot",
+      27318244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Skill Count",
+      27318245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Ballista equipped (4 or -1)",
+      27318393,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Ammo Cart equipped (5 or -1)",
+      27318401,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine First Aid equipped Item (6 or -1)",
+      27318409,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Catapult equipped (3 or -1)",
+      27318417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spellbook equipped (0 or -1)",
+      27318425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 1",
+      27318456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 2",
+      27318464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 3",
+      27318472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 4",
+      27318480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 5",
+      27318488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 6",
+      27318496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 7",
+      27318504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 8",
+      27318512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 9",
+      27318520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 10",
+      27318528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 11",
+      27318536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 12",
+      27318544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 13",
+      27318552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 14",
+      27318560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 15",
+      27318568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 16",
+      27318576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 17",
+      27318584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 18",
+      27318592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 19",
+      27318600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 20",
+      27318608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 21",
+      27318616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 22",
+      27318624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 23",
+      27318632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 24",
+      27318640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 25",
+      27318648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 26",
+      27318656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 27",
+      27318664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 28",
+      27318672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 29",
+      27318680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 30",
+      27318688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 31",
+      27318696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 32",
+      27318704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 33",
+      27318712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 34",
+      27318720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 35",
+      27318728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 36",
+      27318736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 37",
+      27318744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 38",
+      27318752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 39",
+      27318760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 40",
+      27318768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 41",
+      27318776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 42",
+      27318784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 43",
+      27318792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 44",
+      27318800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 45",
+      27318808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 46",
+      27318816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 47",
+      27318824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 48",
+      27318832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 49",
+      27318840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 50",
+      27318848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 51",
+      27318856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 52",
+      27318864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 53",
+      27318872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 54",
+      27318880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 55",
+      27318888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 56",
+      27318896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 57",
+      27318904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 58",
+      27318912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 59",
+      27318920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 60",
+      27318928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 61",
+      27318936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 62",
+      27318944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 63",
+      27318952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Backpack Slot 64",
+      27318960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Summon Boat",
+      27319060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Scuttle Boat",
+      27319061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Visions",
+      27319062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell View Earth",
+      27319063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Disguise",
+      27319064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell View Air",
+      27319065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fly",
+      27319066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Water Walk",
+      27319067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Dimension Door",
+      27319068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Town Portal",
+      27319069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Quicksand",
+      27319070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Land Mine",
+      27319071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Force Field",
+      27319072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fire Wall",
+      27319073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Earthquake",
+      27319074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Magic Arrow",
+      27319075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Ice Bolt",
+      27319076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Lightning Bolt",
+      27319077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Implosion",
+      27319078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Chain Lightning",
+      27319079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Frost Ring",
+      27319080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fireball",
+      27319081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Inferno",
+      27319082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Meteor Shower",
+      27319083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Death Ripple",
+      27319084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Destroy Undead",
+      27319085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Armageddon",
+      27319086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Shield",
+      27319087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Air Shield",
+      27319088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fire Shield",
+      27319089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Protection from Air",
+      27319090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Protection from Fire",
+      27319091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Protection from Water",
+      27319092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Protection from Earth",
+      27319093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Anti Magic",
+      27319094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Dispel",
+      27319095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Magic Mirror",
+      27319096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Cure",
+      27319097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Resurrection",
+      27319098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Animate Dead",
+      27319099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Sacrifice",
+      27319100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Bless",
+      27319101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Curse",
+      27319102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Bloodlust",
+      27319103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Precision",
+      27319104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Weakness",
+      27319105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Stone Skin",
+      27319106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Disrupting Ray",
+      27319107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Prayer",
+      27319108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Mirth",
+      27319109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Sorrow",
+      27319110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fortune",
+      27319111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Misfortune",
+      27319112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Haste",
+      27319113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Slow",
+      27319114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Slayer",
+      27319115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Frenzy",
+      27319116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Titan's Lighting Bolt",
+      27319117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Counterstrike",
+      27319118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Berserk",
+      27319119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Hypnotize",
+      27319120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Forgetfulness",
+      27319121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Blind",
+      27319122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Teleport",
+      27319123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Remove Obstacle",
+      27319124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Clone",
+      27319125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Fire Elemental",
+      27319126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Earth Elemental",
+      27319127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Water Elemental",
+      27319128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spell Air Elemental",
+      27319129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Attack",
+      27319130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Def",
+      27319131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Spellpower",
+      27319132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Josephine Knowledge",
+      27319133,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

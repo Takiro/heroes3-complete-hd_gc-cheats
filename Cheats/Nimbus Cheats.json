@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Nimbus Name",
+      27365993,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Movement",
+      27366035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus EXP",
+      27366039,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 1",
+      27366103,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 2",
+      27366107,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 3",
+      27366111,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 4",
+      27366115,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 5",
+      27366119,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 6",
+      27366123,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Type Slot 7",
+      27366127,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 1",
+      27366131,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 2",
+      27366135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 3",
+      27366139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 4",
+      27366143,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 5",
+      27366147,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 6",
+      27366151,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Unit Count Slot 7",
+      27366155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Pathfinding",
+      27366159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Archery",
+      27366160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Logistics",
+      27366161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Scouting",
+      27366162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Diplomacy",
+      27366163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Navigation",
+      27366164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Leadership",
+      27366165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Wisdom",
+      27366166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Mysticism",
+      27366167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Luck",
+      27366168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Ballistics",
+      27366169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Eagle Eye",
+      27366170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Necromancy",
+      27366171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Estates",
+      27366172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Fire Magic",
+      27366173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Air Magic",
+      27366174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Water Magic",
+      27366175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Earth Magic",
+      27366176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Scholar",
+      27366177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Tactics",
+      27366178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Artillery",
+      27366179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Learning",
+      27366180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Offence",
+      27366181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Armourer",
+      27366182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Intelligence",
+      27366183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Sorcery",
+      27366184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Resistance",
+      27366185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus First Aid",
+      27366186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Pathfinding Slot",
+      27366187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Archery Slot",
+      27366188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Logistics Slot",
+      27366189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Scouting Slot",
+      27366190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Diplomacy Slot",
+      27366191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Navigation Slot",
+      27366192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Leadership Slot",
+      27366193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Wisdom Slot",
+      27366194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Mysticism Slot",
+      27366195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Luck Slot",
+      27366196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Ballistics Slot",
+      27366197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Eagle Eye Slot",
+      27366198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Necromancy Slot",
+      27366199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Estates Slot",
+      27366200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Fire Magic Slot",
+      27366201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Air Magic Slot",
+      27366202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Water Magic Slot",
+      27366203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Earth Magic Slot",
+      27366204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Scholar Slot",
+      27366205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Tactics Slot",
+      27366206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Artillery Slot",
+      27366207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Learning Slot",
+      27366208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Offense Slot",
+      27366209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Armourer Slot",
+      27366210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Intelligence Slot",
+      27366211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Sorcery Slot",
+      27366212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Resistance Slot",
+      27366213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus First Aid Slot",
+      27366214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Skill Count",
+      27366215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Ballista equipped (4 or -1)",
+      27366363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Ammo Cart equipped (5 or -1)",
+      27366371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus First Aid equipped Item (6 or -1)",
+      27366379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Catapult equipped (3 or -1)",
+      27366387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spellbook equipped (0 or -1)",
+      27366395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 1",
+      27366426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 2",
+      27366434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 3",
+      27366442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 4",
+      27366450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 5",
+      27366458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 6",
+      27366466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 7",
+      27366474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 8",
+      27366482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 9",
+      27366490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 10",
+      27366498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 11",
+      27366506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 12",
+      27366514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 13",
+      27366522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 14",
+      27366530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 15",
+      27366538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 16",
+      27366546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 17",
+      27366554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 18",
+      27366562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 19",
+      27366570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 20",
+      27366578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 21",
+      27366586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 22",
+      27366594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 23",
+      27366602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 24",
+      27366610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 25",
+      27366618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 26",
+      27366626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 27",
+      27366634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 28",
+      27366642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 29",
+      27366650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 30",
+      27366658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 31",
+      27366666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 32",
+      27366674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 33",
+      27366682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 34",
+      27366690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 35",
+      27366698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 36",
+      27366706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 37",
+      27366714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 38",
+      27366722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 39",
+      27366730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 40",
+      27366738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 41",
+      27366746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 42",
+      27366754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 43",
+      27366762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 44",
+      27366770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 45",
+      27366778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 46",
+      27366786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 47",
+      27366794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 48",
+      27366802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 49",
+      27366810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 50",
+      27366818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 51",
+      27366826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 52",
+      27366834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 53",
+      27366842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 54",
+      27366850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 55",
+      27366858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 56",
+      27366866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 57",
+      27366874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 58",
+      27366882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 59",
+      27366890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 60",
+      27366898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 61",
+      27366906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 62",
+      27366914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 63",
+      27366922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Backpack Slot 64",
+      27366930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Summon Boat",
+      27367030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Scuttle Boat",
+      27367031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Visions",
+      27367032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell View Earth",
+      27367033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Disguise",
+      27367034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell View Air",
+      27367035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fly",
+      27367036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Water Walk",
+      27367037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Dimension Door",
+      27367038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Town Portal",
+      27367039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Quicksand",
+      27367040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Land Mine",
+      27367041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Force Field",
+      27367042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fire Wall",
+      27367043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Earthquake",
+      27367044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Magic Arrow",
+      27367045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Ice Bolt",
+      27367046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Lightning Bolt",
+      27367047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Implosion",
+      27367048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Chain Lightning",
+      27367049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Frost Ring",
+      27367050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fireball",
+      27367051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Inferno",
+      27367052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Meteor Shower",
+      27367053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Death Ripple",
+      27367054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Destroy Undead",
+      27367055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Armageddon",
+      27367056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Shield",
+      27367057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Air Shield",
+      27367058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fire Shield",
+      27367059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Protection from Air",
+      27367060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Protection from Fire",
+      27367061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Protection from Water",
+      27367062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Protection from Earth",
+      27367063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Anti Magic",
+      27367064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Dispel",
+      27367065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Magic Mirror",
+      27367066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Cure",
+      27367067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Resurrection",
+      27367068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Animate Dead",
+      27367069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Sacrifice",
+      27367070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Bless",
+      27367071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Curse",
+      27367072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Bloodlust",
+      27367073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Precision",
+      27367074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Weakness",
+      27367075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Stone Skin",
+      27367076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Disrupting Ray",
+      27367077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Prayer",
+      27367078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Mirth",
+      27367079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Sorrow",
+      27367080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fortune",
+      27367081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Misfortune",
+      27367082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Haste",
+      27367083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Slow",
+      27367084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Slayer",
+      27367085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Frenzy",
+      27367086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Titan's Lighting Bolt",
+      27367087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Counterstrike",
+      27367088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Berserk",
+      27367089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Hypnotize",
+      27367090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Forgetfulness",
+      27367091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Blind",
+      27367092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Teleport",
+      27367093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Remove Obstacle",
+      27367094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Clone",
+      27367095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Fire Elemental",
+      27367096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Earth Elemental",
+      27367097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Water Elemental",
+      27367098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spell Air Elemental",
+      27367099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Attack",
+      27367100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Def",
+      27367101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Spellpower",
+      27367102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nimbus Knowledge",
+      27367103,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

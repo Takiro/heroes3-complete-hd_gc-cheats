@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Cuthbert Name",
+      27289943,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Movement",
+      27289985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert EXP",
+      27289989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 1",
+      27290053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 2",
+      27290057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 3",
+      27290061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 4",
+      27290065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 5",
+      27290069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 6",
+      27290073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Type Slot 7",
+      27290077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 1",
+      27290081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 2",
+      27290085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 3",
+      27290089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 4",
+      27290093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 5",
+      27290097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 6",
+      27290101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Unit Count Slot 7",
+      27290105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Pathfinding",
+      27290109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Archery",
+      27290110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Logistics",
+      27290111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Scouting",
+      27290112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Diplomacy",
+      27290113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Navigation",
+      27290114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Leadership",
+      27290115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Wisdom",
+      27290116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Mysticism",
+      27290117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Luck",
+      27290118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Ballistics",
+      27290119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Eagle Eye",
+      27290120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Necromancy",
+      27290121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Estates",
+      27290122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Fire Magic",
+      27290123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Air Magic",
+      27290124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Water Magic",
+      27290125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Earth Magic",
+      27290126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Scholar",
+      27290127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Tactics",
+      27290128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Artillery",
+      27290129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Learning",
+      27290130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Offence",
+      27290131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Armourer",
+      27290132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Intelligence",
+      27290133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Sorcery",
+      27290134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Resistance",
+      27290135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert First Aid",
+      27290136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Pathfinding Slot",
+      27290137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Archery Slot",
+      27290138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Logistics Slot",
+      27290139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Scouting Slot",
+      27290140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Diplomacy Slot",
+      27290141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Navigation Slot",
+      27290142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Leadership Slot",
+      27290143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Wisdom Slot",
+      27290144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Mysticism Slot",
+      27290145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Luck Slot",
+      27290146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Ballistics Slot",
+      27290147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Eagle Eye Slot",
+      27290148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Necromancy Slot",
+      27290149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Estates Slot",
+      27290150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Fire Magic Slot",
+      27290151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Air Magic Slot",
+      27290152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Water Magic Slot",
+      27290153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Earth Magic Slot",
+      27290154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Scholar Slot",
+      27290155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Tactics Slot",
+      27290156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Artillery Slot",
+      27290157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Learning Slot",
+      27290158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Offense Slot",
+      27290159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Armourer Slot",
+      27290160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Intelligence Slot",
+      27290161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Sorcery Slot",
+      27290162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Resistance Slot",
+      27290163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert First Aid Slot",
+      27290164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Skill Count",
+      27290165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Ballista equipped (4 or -1)",
+      27290313,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Ammo Cart equipped (5 or -1)",
+      27290321,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert First Aid equipped Item (6 or -1)",
+      27290329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Catapult equipped (3 or -1)",
+      27290337,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spellbook equipped (0 or -1)",
+      27290345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 1",
+      27290376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 2",
+      27290384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 3",
+      27290392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 4",
+      27290400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 5",
+      27290408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 6",
+      27290416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 7",
+      27290424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 8",
+      27290432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 9",
+      27290440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 10",
+      27290448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 11",
+      27290456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 12",
+      27290464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 13",
+      27290472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 14",
+      27290480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 15",
+      27290488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 16",
+      27290496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 17",
+      27290504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 18",
+      27290512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 19",
+      27290520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 20",
+      27290528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 21",
+      27290536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 22",
+      27290544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 23",
+      27290552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 24",
+      27290560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 25",
+      27290568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 26",
+      27290576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 27",
+      27290584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 28",
+      27290592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 29",
+      27290600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 30",
+      27290608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 31",
+      27290616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 32",
+      27290624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 33",
+      27290632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 34",
+      27290640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 35",
+      27290648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 36",
+      27290656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 37",
+      27290664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 38",
+      27290672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 39",
+      27290680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 40",
+      27290688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 41",
+      27290696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 42",
+      27290704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 43",
+      27290712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 44",
+      27290720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 45",
+      27290728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 46",
+      27290736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 47",
+      27290744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 48",
+      27290752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 49",
+      27290760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 50",
+      27290768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 51",
+      27290776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 52",
+      27290784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 53",
+      27290792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 54",
+      27290800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 55",
+      27290808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 56",
+      27290816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 57",
+      27290824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 58",
+      27290832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 59",
+      27290840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 60",
+      27290848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 61",
+      27290856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 62",
+      27290864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 63",
+      27290872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Backpack Slot 64",
+      27290880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Summon Boat",
+      27290980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Scuttle Boat",
+      27290981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Visions",
+      27290982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell View Earth",
+      27290983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Disguise",
+      27290984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell View Air",
+      27290985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fly",
+      27290986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Water Walk",
+      27290987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Dimension Door",
+      27290988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Town Portal",
+      27290989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Quicksand",
+      27290990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Land Mine",
+      27290991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Force Field",
+      27290992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fire Wall",
+      27290993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Earthquake",
+      27290994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Magic Arrow",
+      27290995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Ice Bolt",
+      27290996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Lightning Bolt",
+      27290997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Implosion",
+      27290998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Chain Lightning",
+      27290999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Frost Ring",
+      27291000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fireball",
+      27291001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Inferno",
+      27291002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Meteor Shower",
+      27291003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Death Ripple",
+      27291004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Destroy Undead",
+      27291005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Armageddon",
+      27291006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Shield",
+      27291007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Air Shield",
+      27291008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fire Shield",
+      27291009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Protection from Air",
+      27291010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Protection from Fire",
+      27291011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Protection from Water",
+      27291012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Protection from Earth",
+      27291013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Anti Magic",
+      27291014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Dispel",
+      27291015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Magic Mirror",
+      27291016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Cure",
+      27291017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Resurrection",
+      27291018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Animate Dead",
+      27291019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Sacrifice",
+      27291020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Bless",
+      27291021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Curse",
+      27291022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Bloodlust",
+      27291023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Precision",
+      27291024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Weakness",
+      27291025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Stone Skin",
+      27291026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Disrupting Ray",
+      27291027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Prayer",
+      27291028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Mirth",
+      27291029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Sorrow",
+      27291030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fortune",
+      27291031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Misfortune",
+      27291032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Haste",
+      27291033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Slow",
+      27291034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Slayer",
+      27291035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Frenzy",
+      27291036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Titan's Lighting Bolt",
+      27291037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Counterstrike",
+      27291038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Berserk",
+      27291039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Hypnotize",
+      27291040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Forgetfulness",
+      27291041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Blind",
+      27291042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Teleport",
+      27291043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Remove Obstacle",
+      27291044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Clone",
+      27291045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Fire Elemental",
+      27291046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Earth Elemental",
+      27291047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Water Elemental",
+      27291048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spell Air Elemental",
+      27291049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Attack",
+      27291050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Def",
+      27291051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Spellpower",
+      27291052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cuthbert Knowledge",
+      27291053,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Inteus Name",
+      27442043,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Movement",
+      27442085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus EXP",
+      27442089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 1",
+      27442153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 2",
+      27442157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 3",
+      27442161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 4",
+      27442165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 5",
+      27442169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 6",
+      27442173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Type Slot 7",
+      27442177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 1",
+      27442181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 2",
+      27442185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 3",
+      27442189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 4",
+      27442193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 5",
+      27442197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 6",
+      27442201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Unit Count Slot 7",
+      27442205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Pathfinding",
+      27442209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Archery",
+      27442210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Logistics",
+      27442211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Scouting",
+      27442212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Diplomacy",
+      27442213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Navigation",
+      27442214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Leadership",
+      27442215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Wisdom",
+      27442216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Mysticism",
+      27442217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Luck",
+      27442218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Ballistics",
+      27442219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Eagle Eye",
+      27442220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Necromancy",
+      27442221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Estates",
+      27442222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Fire Magic",
+      27442223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Air Magic",
+      27442224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Water Magic",
+      27442225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Earth Magic",
+      27442226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Scholar",
+      27442227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Tactics",
+      27442228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Artillery",
+      27442229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Learning",
+      27442230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Offence",
+      27442231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Armourer",
+      27442232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Intelligence",
+      27442233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Sorcery",
+      27442234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Resistance",
+      27442235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus First Aid",
+      27442236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Pathfinding Slot",
+      27442237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Archery Slot",
+      27442238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Logistics Slot",
+      27442239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Scouting Slot",
+      27442240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Diplomacy Slot",
+      27442241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Navigation Slot",
+      27442242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Leadership Slot",
+      27442243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Wisdom Slot",
+      27442244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Mysticism Slot",
+      27442245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Luck Slot",
+      27442246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Ballistics Slot",
+      27442247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Eagle Eye Slot",
+      27442248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Necromancy Slot",
+      27442249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Estates Slot",
+      27442250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Fire Magic Slot",
+      27442251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Air Magic Slot",
+      27442252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Water Magic Slot",
+      27442253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Earth Magic Slot",
+      27442254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Scholar Slot",
+      27442255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Tactics Slot",
+      27442256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Artillery Slot",
+      27442257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Learning Slot",
+      27442258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Offense Slot",
+      27442259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Armourer Slot",
+      27442260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Intelligence Slot",
+      27442261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Sorcery Slot",
+      27442262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Resistance Slot",
+      27442263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus First Aid Slot",
+      27442264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Skill Count",
+      27442265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Ballista equipped (4 or -1)",
+      27442413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Ammo Cart equipped (5 or -1)",
+      27442421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus First Aid equipped Item (6 or -1)",
+      27442429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Catapult equipped (3 or -1)",
+      27442437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spellbook equipped (0 or -1)",
+      27442445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 1",
+      27442476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 2",
+      27442484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 3",
+      27442492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 4",
+      27442500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 5",
+      27442508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 6",
+      27442516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 7",
+      27442524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 8",
+      27442532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 9",
+      27442540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 10",
+      27442548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 11",
+      27442556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 12",
+      27442564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 13",
+      27442572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 14",
+      27442580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 15",
+      27442588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 16",
+      27442596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 17",
+      27442604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 18",
+      27442612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 19",
+      27442620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 20",
+      27442628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 21",
+      27442636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 22",
+      27442644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 23",
+      27442652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 24",
+      27442660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 25",
+      27442668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 26",
+      27442676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 27",
+      27442684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 28",
+      27442692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 29",
+      27442700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 30",
+      27442708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 31",
+      27442716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 32",
+      27442724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 33",
+      27442732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 34",
+      27442740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 35",
+      27442748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 36",
+      27442756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 37",
+      27442764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 38",
+      27442772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 39",
+      27442780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 40",
+      27442788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 41",
+      27442796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 42",
+      27442804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 43",
+      27442812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 44",
+      27442820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 45",
+      27442828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 46",
+      27442836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 47",
+      27442844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 48",
+      27442852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 49",
+      27442860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 50",
+      27442868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 51",
+      27442876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 52",
+      27442884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 53",
+      27442892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 54",
+      27442900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 55",
+      27442908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 56",
+      27442916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 57",
+      27442924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 58",
+      27442932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 59",
+      27442940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 60",
+      27442948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 61",
+      27442956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 62",
+      27442964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 63",
+      27442972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Backpack Slot 64",
+      27442980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Summon Boat",
+      27443080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Scuttle Boat",
+      27443081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Visions",
+      27443082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell View Earth",
+      27443083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Disguise",
+      27443084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell View Air",
+      27443085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fly",
+      27443086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Water Walk",
+      27443087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Dimension Door",
+      27443088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Town Portal",
+      27443089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Quicksand",
+      27443090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Land Mine",
+      27443091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Force Field",
+      27443092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fire Wall",
+      27443093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Earthquake",
+      27443094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Magic Arrow",
+      27443095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Ice Bolt",
+      27443096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Lightning Bolt",
+      27443097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Implosion",
+      27443098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Chain Lightning",
+      27443099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Frost Ring",
+      27443100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fireball",
+      27443101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Inferno",
+      27443102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Meteor Shower",
+      27443103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Death Ripple",
+      27443104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Destroy Undead",
+      27443105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Armageddon",
+      27443106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Shield",
+      27443107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Air Shield",
+      27443108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fire Shield",
+      27443109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Protection from Air",
+      27443110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Protection from Fire",
+      27443111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Protection from Water",
+      27443112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Protection from Earth",
+      27443113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Anti Magic",
+      27443114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Dispel",
+      27443115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Magic Mirror",
+      27443116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Cure",
+      27443117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Resurrection",
+      27443118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Animate Dead",
+      27443119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Sacrifice",
+      27443120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Bless",
+      27443121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Curse",
+      27443122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Bloodlust",
+      27443123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Precision",
+      27443124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Weakness",
+      27443125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Stone Skin",
+      27443126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Disrupting Ray",
+      27443127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Prayer",
+      27443128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Mirth",
+      27443129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Sorrow",
+      27443130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fortune",
+      27443131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Misfortune",
+      27443132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Haste",
+      27443133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Slow",
+      27443134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Slayer",
+      27443135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Frenzy",
+      27443136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Titan's Lighting Bolt",
+      27443137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Counterstrike",
+      27443138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Berserk",
+      27443139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Hypnotize",
+      27443140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Forgetfulness",
+      27443141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Blind",
+      27443142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Teleport",
+      27443143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Remove Obstacle",
+      27443144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Clone",
+      27443145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Fire Elemental",
+      27443146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Earth Elemental",
+      27443147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Water Elemental",
+      27443148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spell Air Elemental",
+      27443149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Attack",
+      27443150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Def",
+      27443151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Spellpower",
+      27443152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Inteus Knowledge",
+      27443153,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

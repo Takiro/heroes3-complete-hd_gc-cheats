@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Cyra Name",
+      27332063,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Movement",
+      27332105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra EXP",
+      27332109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 1",
+      27332173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 2",
+      27332177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 3",
+      27332181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 4",
+      27332185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 5",
+      27332189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 6",
+      27332193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Type Slot 7",
+      27332197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 1",
+      27332201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 2",
+      27332205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 3",
+      27332209,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 4",
+      27332213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 5",
+      27332217,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 6",
+      27332221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Unit Count Slot 7",
+      27332225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Pathfinding",
+      27332229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Archery",
+      27332230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Logistics",
+      27332231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Scouting",
+      27332232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Diplomacy",
+      27332233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Navigation",
+      27332234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Leadership",
+      27332235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Wisdom",
+      27332236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Mysticism",
+      27332237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Luck",
+      27332238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Ballistics",
+      27332239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Eagle Eye",
+      27332240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Necromancy",
+      27332241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Estates",
+      27332242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Fire Magic",
+      27332243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Air Magic",
+      27332244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Water Magic",
+      27332245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Earth Magic",
+      27332246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Scholar",
+      27332247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Tactics",
+      27332248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Artillery",
+      27332249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Learning",
+      27332250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Offence",
+      27332251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Armourer",
+      27332252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Intelligence",
+      27332253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Sorcery",
+      27332254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Resistance",
+      27332255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra First Aid",
+      27332256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Pathfinding Slot",
+      27332257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Archery Slot",
+      27332258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Logistics Slot",
+      27332259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Scouting Slot",
+      27332260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Diplomacy Slot",
+      27332261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Navigation Slot",
+      27332262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Leadership Slot",
+      27332263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Wisdom Slot",
+      27332264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Mysticism Slot",
+      27332265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Luck Slot",
+      27332266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Ballistics Slot",
+      27332267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Eagle Eye Slot",
+      27332268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Necromancy Slot",
+      27332269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Estates Slot",
+      27332270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Fire Magic Slot",
+      27332271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Air Magic Slot",
+      27332272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Water Magic Slot",
+      27332273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Earth Magic Slot",
+      27332274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Scholar Slot",
+      27332275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Tactics Slot",
+      27332276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Artillery Slot",
+      27332277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Learning Slot",
+      27332278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Offense Slot",
+      27332279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Armourer Slot",
+      27332280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Intelligence Slot",
+      27332281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Sorcery Slot",
+      27332282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Resistance Slot",
+      27332283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra First Aid Slot",
+      27332284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Skill Count",
+      27332285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Ballista equipped (4 or -1)",
+      27332433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Ammo Cart equipped (5 or -1)",
+      27332441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra First Aid equipped Item (6 or -1)",
+      27332449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Catapult equipped (3 or -1)",
+      27332457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spellbook equipped (0 or -1)",
+      27332465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 1",
+      27332496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 2",
+      27332504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 3",
+      27332512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 4",
+      27332520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 5",
+      27332528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 6",
+      27332536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 7",
+      27332544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 8",
+      27332552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 9",
+      27332560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 10",
+      27332568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 11",
+      27332576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 12",
+      27332584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 13",
+      27332592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 14",
+      27332600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 15",
+      27332608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 16",
+      27332616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 17",
+      27332624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 18",
+      27332632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 19",
+      27332640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 20",
+      27332648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 21",
+      27332656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 22",
+      27332664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 23",
+      27332672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 24",
+      27332680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 25",
+      27332688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 26",
+      27332696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 27",
+      27332704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 28",
+      27332712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 29",
+      27332720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 30",
+      27332728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 31",
+      27332736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 32",
+      27332744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 33",
+      27332752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 34",
+      27332760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 35",
+      27332768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 36",
+      27332776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 37",
+      27332784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 38",
+      27332792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 39",
+      27332800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 40",
+      27332808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 41",
+      27332816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 42",
+      27332824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 43",
+      27332832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 44",
+      27332840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 45",
+      27332848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 46",
+      27332856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 47",
+      27332864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 48",
+      27332872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 49",
+      27332880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 50",
+      27332888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 51",
+      27332896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 52",
+      27332904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 53",
+      27332912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 54",
+      27332920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 55",
+      27332928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 56",
+      27332936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 57",
+      27332944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 58",
+      27332952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 59",
+      27332960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 60",
+      27332968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 61",
+      27332976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 62",
+      27332984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 63",
+      27332992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Backpack Slot 64",
+      27333000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Summon Boat",
+      27333100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Scuttle Boat",
+      27333101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Visions",
+      27333102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell View Earth",
+      27333103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Disguise",
+      27333104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell View Air",
+      27333105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fly",
+      27333106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Water Walk",
+      27333107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Dimension Door",
+      27333108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Town Portal",
+      27333109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Quicksand",
+      27333110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Land Mine",
+      27333111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Force Field",
+      27333112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fire Wall",
+      27333113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Earthquake",
+      27333114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Magic Arrow",
+      27333115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Ice Bolt",
+      27333116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Lightning Bolt",
+      27333117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Implosion",
+      27333118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Chain Lightning",
+      27333119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Frost Ring",
+      27333120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fireball",
+      27333121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Inferno",
+      27333122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Meteor Shower",
+      27333123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Death Ripple",
+      27333124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Destroy Undead",
+      27333125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Armageddon",
+      27333126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Shield",
+      27333127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Air Shield",
+      27333128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fire Shield",
+      27333129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Protection from Air",
+      27333130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Protection from Fire",
+      27333131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Protection from Water",
+      27333132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Protection from Earth",
+      27333133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Anti Magic",
+      27333134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Dispel",
+      27333135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Magic Mirror",
+      27333136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Cure",
+      27333137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Resurrection",
+      27333138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Animate Dead",
+      27333139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Sacrifice",
+      27333140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Bless",
+      27333141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Curse",
+      27333142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Bloodlust",
+      27333143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Precision",
+      27333144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Weakness",
+      27333145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Stone Skin",
+      27333146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Disrupting Ray",
+      27333147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Prayer",
+      27333148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Mirth",
+      27333149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Sorrow",
+      27333150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fortune",
+      27333151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Misfortune",
+      27333152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Haste",
+      27333153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Slow",
+      27333154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Slayer",
+      27333155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Frenzy",
+      27333156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Titan's Lighting Bolt",
+      27333157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Counterstrike",
+      27333158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Berserk",
+      27333159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Hypnotize",
+      27333160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Forgetfulness",
+      27333161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Blind",
+      27333162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Teleport",
+      27333163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Remove Obstacle",
+      27333164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Clone",
+      27333165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Fire Elemental",
+      27333166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Earth Elemental",
+      27333167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Water Elemental",
+      27333168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spell Air Elemental",
+      27333169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Attack",
+      27333170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Def",
+      27333171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Spellpower",
+      27333172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Cyra Knowledge",
+      27333173,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

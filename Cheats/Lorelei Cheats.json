@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Lorelei Name",
+      27371843,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Movement",
+      27371885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei EXP",
+      27371889,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 1",
+      27371953,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 2",
+      27371957,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 3",
+      27371961,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 4",
+      27371965,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 5",
+      27371969,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 6",
+      27371973,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Type Slot 7",
+      27371977,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 1",
+      27371981,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 2",
+      27371985,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 3",
+      27371989,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 4",
+      27371993,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 5",
+      27371997,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 6",
+      27372001,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Unit Count Slot 7",
+      27372005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Pathfinding",
+      27372009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Archery",
+      27372010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Logistics",
+      27372011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Scouting",
+      27372012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Diplomacy",
+      27372013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Navigation",
+      27372014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Leadership",
+      27372015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Wisdom",
+      27372016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Mysticism",
+      27372017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Luck",
+      27372018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Ballistics",
+      27372019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Eagle Eye",
+      27372020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Necromancy",
+      27372021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Estates",
+      27372022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Fire Magic",
+      27372023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Air Magic",
+      27372024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Water Magic",
+      27372025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Earth Magic",
+      27372026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Scholar",
+      27372027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Tactics",
+      27372028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Artillery",
+      27372029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Learning",
+      27372030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Offence",
+      27372031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Armourer",
+      27372032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Intelligence",
+      27372033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Sorcery",
+      27372034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Resistance",
+      27372035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei First Aid",
+      27372036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Pathfinding Slot",
+      27372037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Archery Slot",
+      27372038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Logistics Slot",
+      27372039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Scouting Slot",
+      27372040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Diplomacy Slot",
+      27372041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Navigation Slot",
+      27372042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Leadership Slot",
+      27372043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Wisdom Slot",
+      27372044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Mysticism Slot",
+      27372045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Luck Slot",
+      27372046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Ballistics Slot",
+      27372047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Eagle Eye Slot",
+      27372048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Necromancy Slot",
+      27372049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Estates Slot",
+      27372050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Fire Magic Slot",
+      27372051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Air Magic Slot",
+      27372052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Water Magic Slot",
+      27372053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Earth Magic Slot",
+      27372054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Scholar Slot",
+      27372055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Tactics Slot",
+      27372056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Artillery Slot",
+      27372057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Learning Slot",
+      27372058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Offense Slot",
+      27372059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Armourer Slot",
+      27372060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Intelligence Slot",
+      27372061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Sorcery Slot",
+      27372062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Resistance Slot",
+      27372063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei First Aid Slot",
+      27372064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Skill Count",
+      27372065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Ballista equipped (4 or -1)",
+      27372213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Ammo Cart equipped (5 or -1)",
+      27372221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei First Aid equipped Item (6 or -1)",
+      27372229,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Catapult equipped (3 or -1)",
+      27372237,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spellbook equipped (0 or -1)",
+      27372245,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 1",
+      27372276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 2",
+      27372284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 3",
+      27372292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 4",
+      27372300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 5",
+      27372308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 6",
+      27372316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 7",
+      27372324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 8",
+      27372332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 9",
+      27372340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 10",
+      27372348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 11",
+      27372356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 12",
+      27372364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 13",
+      27372372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 14",
+      27372380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 15",
+      27372388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 16",
+      27372396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 17",
+      27372404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 18",
+      27372412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 19",
+      27372420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 20",
+      27372428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 21",
+      27372436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 22",
+      27372444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 23",
+      27372452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 24",
+      27372460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 25",
+      27372468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 26",
+      27372476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 27",
+      27372484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 28",
+      27372492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 29",
+      27372500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 30",
+      27372508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 31",
+      27372516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 32",
+      27372524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 33",
+      27372532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 34",
+      27372540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 35",
+      27372548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 36",
+      27372556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 37",
+      27372564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 38",
+      27372572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 39",
+      27372580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 40",
+      27372588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 41",
+      27372596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 42",
+      27372604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 43",
+      27372612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 44",
+      27372620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 45",
+      27372628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 46",
+      27372636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 47",
+      27372644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 48",
+      27372652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 49",
+      27372660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 50",
+      27372668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 51",
+      27372676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 52",
+      27372684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 53",
+      27372692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 54",
+      27372700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 55",
+      27372708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 56",
+      27372716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 57",
+      27372724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 58",
+      27372732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 59",
+      27372740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 60",
+      27372748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 61",
+      27372756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 62",
+      27372764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 63",
+      27372772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Backpack Slot 64",
+      27372780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Summon Boat",
+      27372880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Scuttle Boat",
+      27372881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Visions",
+      27372882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell View Earth",
+      27372883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Disguise",
+      27372884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell View Air",
+      27372885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fly",
+      27372886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Water Walk",
+      27372887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Dimension Door",
+      27372888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Town Portal",
+      27372889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Quicksand",
+      27372890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Land Mine",
+      27372891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Force Field",
+      27372892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fire Wall",
+      27372893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Earthquake",
+      27372894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Magic Arrow",
+      27372895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Ice Bolt",
+      27372896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Lightning Bolt",
+      27372897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Implosion",
+      27372898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Chain Lightning",
+      27372899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Frost Ring",
+      27372900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fireball",
+      27372901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Inferno",
+      27372902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Meteor Shower",
+      27372903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Death Ripple",
+      27372904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Destroy Undead",
+      27372905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Armageddon",
+      27372906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Shield",
+      27372907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Air Shield",
+      27372908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fire Shield",
+      27372909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Protection from Air",
+      27372910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Protection from Fire",
+      27372911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Protection from Water",
+      27372912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Protection from Earth",
+      27372913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Anti Magic",
+      27372914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Dispel",
+      27372915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Magic Mirror",
+      27372916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Cure",
+      27372917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Resurrection",
+      27372918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Animate Dead",
+      27372919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Sacrifice",
+      27372920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Bless",
+      27372921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Curse",
+      27372922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Bloodlust",
+      27372923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Precision",
+      27372924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Weakness",
+      27372925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Stone Skin",
+      27372926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Disrupting Ray",
+      27372927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Prayer",
+      27372928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Mirth",
+      27372929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Sorrow",
+      27372930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fortune",
+      27372931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Misfortune",
+      27372932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Haste",
+      27372933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Slow",
+      27372934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Slayer",
+      27372935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Frenzy",
+      27372936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Titan's Lighting Bolt",
+      27372937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Counterstrike",
+      27372938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Berserk",
+      27372939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Hypnotize",
+      27372940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Forgetfulness",
+      27372941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Blind",
+      27372942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Teleport",
+      27372943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Remove Obstacle",
+      27372944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Clone",
+      27372945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Fire Elemental",
+      27372946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Earth Elemental",
+      27372947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Water Elemental",
+      27372948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spell Air Elemental",
+      27372949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Attack",
+      27372950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Def",
+      27372951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Spellpower",
+      27372952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lorelei Knowledge",
+      27372953,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

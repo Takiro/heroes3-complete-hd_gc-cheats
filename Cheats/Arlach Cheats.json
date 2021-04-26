@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Arlach Name",
+      27373013,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Movement",
+      27373055,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach EXP",
+      27373059,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 1",
+      27373123,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 2",
+      27373127,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 3",
+      27373131,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 4",
+      27373135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 5",
+      27373139,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 6",
+      27373143,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Type Slot 7",
+      27373147,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 1",
+      27373151,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 2",
+      27373155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 3",
+      27373159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 4",
+      27373163,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 5",
+      27373167,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 6",
+      27373171,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Unit Count Slot 7",
+      27373175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Pathfinding",
+      27373179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Archery",
+      27373180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Logistics",
+      27373181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Scouting",
+      27373182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Diplomacy",
+      27373183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Navigation",
+      27373184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Leadership",
+      27373185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Wisdom",
+      27373186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Mysticism",
+      27373187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Luck",
+      27373188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Ballistics",
+      27373189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Eagle Eye",
+      27373190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Necromancy",
+      27373191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Estates",
+      27373192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Fire Magic",
+      27373193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Air Magic",
+      27373194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Water Magic",
+      27373195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Earth Magic",
+      27373196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Scholar",
+      27373197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Tactics",
+      27373198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Artillery",
+      27373199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Learning",
+      27373200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Offence",
+      27373201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Armourer",
+      27373202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Intelligence",
+      27373203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Sorcery",
+      27373204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Resistance",
+      27373205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach First Aid",
+      27373206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Pathfinding Slot",
+      27373207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Archery Slot",
+      27373208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Logistics Slot",
+      27373209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Scouting Slot",
+      27373210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Diplomacy Slot",
+      27373211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Navigation Slot",
+      27373212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Leadership Slot",
+      27373213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Wisdom Slot",
+      27373214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Mysticism Slot",
+      27373215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Luck Slot",
+      27373216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Ballistics Slot",
+      27373217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Eagle Eye Slot",
+      27373218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Necromancy Slot",
+      27373219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Estates Slot",
+      27373220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Fire Magic Slot",
+      27373221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Air Magic Slot",
+      27373222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Water Magic Slot",
+      27373223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Earth Magic Slot",
+      27373224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Scholar Slot",
+      27373225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Tactics Slot",
+      27373226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Artillery Slot",
+      27373227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Learning Slot",
+      27373228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Offense Slot",
+      27373229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Armourer Slot",
+      27373230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Intelligence Slot",
+      27373231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Sorcery Slot",
+      27373232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Resistance Slot",
+      27373233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach First Aid Slot",
+      27373234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Skill Count",
+      27373235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Ballista equipped (4 or -1)",
+      27373383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Ammo Cart equipped (5 or -1)",
+      27373391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach First Aid equipped Item (6 or -1)",
+      27373399,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Catapult equipped (3 or -1)",
+      27373407,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spellbook equipped (0 or -1)",
+      27373415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 1",
+      27373446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 2",
+      27373454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 3",
+      27373462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 4",
+      27373470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 5",
+      27373478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 6",
+      27373486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 7",
+      27373494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 8",
+      27373502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 9",
+      27373510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 10",
+      27373518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 11",
+      27373526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 12",
+      27373534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 13",
+      27373542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 14",
+      27373550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 15",
+      27373558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 16",
+      27373566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 17",
+      27373574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 18",
+      27373582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 19",
+      27373590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 20",
+      27373598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 21",
+      27373606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 22",
+      27373614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 23",
+      27373622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 24",
+      27373630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 25",
+      27373638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 26",
+      27373646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 27",
+      27373654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 28",
+      27373662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 29",
+      27373670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 30",
+      27373678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 31",
+      27373686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 32",
+      27373694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 33",
+      27373702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 34",
+      27373710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 35",
+      27373718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 36",
+      27373726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 37",
+      27373734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 38",
+      27373742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 39",
+      27373750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 40",
+      27373758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 41",
+      27373766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 42",
+      27373774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 43",
+      27373782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 44",
+      27373790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 45",
+      27373798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 46",
+      27373806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 47",
+      27373814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 48",
+      27373822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 49",
+      27373830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 50",
+      27373838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 51",
+      27373846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 52",
+      27373854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 53",
+      27373862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 54",
+      27373870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 55",
+      27373878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 56",
+      27373886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 57",
+      27373894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 58",
+      27373902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 59",
+      27373910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 60",
+      27373918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 61",
+      27373926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 62",
+      27373934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 63",
+      27373942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Backpack Slot 64",
+      27373950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Summon Boat",
+      27374050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Scuttle Boat",
+      27374051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Visions",
+      27374052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell View Earth",
+      27374053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Disguise",
+      27374054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell View Air",
+      27374055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fly",
+      27374056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Water Walk",
+      27374057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Dimension Door",
+      27374058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Town Portal",
+      27374059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Quicksand",
+      27374060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Land Mine",
+      27374061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Force Field",
+      27374062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fire Wall",
+      27374063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Earthquake",
+      27374064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Magic Arrow",
+      27374065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Ice Bolt",
+      27374066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Lightning Bolt",
+      27374067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Implosion",
+      27374068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Chain Lightning",
+      27374069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Frost Ring",
+      27374070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fireball",
+      27374071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Inferno",
+      27374072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Meteor Shower",
+      27374073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Death Ripple",
+      27374074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Destroy Undead",
+      27374075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Armageddon",
+      27374076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Shield",
+      27374077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Air Shield",
+      27374078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fire Shield",
+      27374079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Protection from Air",
+      27374080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Protection from Fire",
+      27374081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Protection from Water",
+      27374082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Protection from Earth",
+      27374083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Anti Magic",
+      27374084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Dispel",
+      27374085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Magic Mirror",
+      27374086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Cure",
+      27374087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Resurrection",
+      27374088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Animate Dead",
+      27374089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Sacrifice",
+      27374090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Bless",
+      27374091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Curse",
+      27374092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Bloodlust",
+      27374093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Precision",
+      27374094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Weakness",
+      27374095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Stone Skin",
+      27374096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Disrupting Ray",
+      27374097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Prayer",
+      27374098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Mirth",
+      27374099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Sorrow",
+      27374100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fortune",
+      27374101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Misfortune",
+      27374102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Haste",
+      27374103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Slow",
+      27374104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Slayer",
+      27374105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Frenzy",
+      27374106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Titan's Lighting Bolt",
+      27374107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Counterstrike",
+      27374108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Berserk",
+      27374109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Hypnotize",
+      27374110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Forgetfulness",
+      27374111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Blind",
+      27374112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Teleport",
+      27374113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Remove Obstacle",
+      27374114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Clone",
+      27374115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Fire Elemental",
+      27374116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Earth Elemental",
+      27374117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Water Elemental",
+      27374118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spell Air Elemental",
+      27374119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Attack",
+      27374120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Def",
+      27374121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Spellpower",
+      27374122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Arlach Knowledge",
+      27374123,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

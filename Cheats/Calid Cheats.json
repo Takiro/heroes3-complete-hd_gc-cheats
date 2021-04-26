@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Calid Name",
+      27348443,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Movement",
+      27348485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid EXP",
+      27348489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 1",
+      27348553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 2",
+      27348557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 3",
+      27348561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 4",
+      27348565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 5",
+      27348569,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 6",
+      27348573,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Type Slot 7",
+      27348577,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 1",
+      27348581,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 2",
+      27348585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 3",
+      27348589,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 4",
+      27348593,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 5",
+      27348597,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 6",
+      27348601,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Unit Count Slot 7",
+      27348605,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Pathfinding",
+      27348609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Archery",
+      27348610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Logistics",
+      27348611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Scouting",
+      27348612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Diplomacy",
+      27348613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Navigation",
+      27348614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Leadership",
+      27348615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Wisdom",
+      27348616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Mysticism",
+      27348617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Luck",
+      27348618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Ballistics",
+      27348619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Eagle Eye",
+      27348620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Necromancy",
+      27348621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Estates",
+      27348622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Fire Magic",
+      27348623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Air Magic",
+      27348624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Water Magic",
+      27348625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Earth Magic",
+      27348626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Scholar",
+      27348627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Tactics",
+      27348628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Artillery",
+      27348629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Learning",
+      27348630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Offence",
+      27348631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Armourer",
+      27348632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Intelligence",
+      27348633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Sorcery",
+      27348634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Resistance",
+      27348635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid First Aid",
+      27348636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Pathfinding Slot",
+      27348637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Archery Slot",
+      27348638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Logistics Slot",
+      27348639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Scouting Slot",
+      27348640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Diplomacy Slot",
+      27348641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Navigation Slot",
+      27348642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Leadership Slot",
+      27348643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Wisdom Slot",
+      27348644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Mysticism Slot",
+      27348645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Luck Slot",
+      27348646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Ballistics Slot",
+      27348647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Eagle Eye Slot",
+      27348648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Necromancy Slot",
+      27348649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Estates Slot",
+      27348650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Fire Magic Slot",
+      27348651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Air Magic Slot",
+      27348652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Water Magic Slot",
+      27348653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Earth Magic Slot",
+      27348654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Scholar Slot",
+      27348655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Tactics Slot",
+      27348656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Artillery Slot",
+      27348657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Learning Slot",
+      27348658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Offense Slot",
+      27348659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Armourer Slot",
+      27348660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Intelligence Slot",
+      27348661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Sorcery Slot",
+      27348662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Resistance Slot",
+      27348663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid First Aid Slot",
+      27348664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Skill Count",
+      27348665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Ballista equipped (4 or -1)",
+      27348813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Ammo Cart equipped (5 or -1)",
+      27348821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid First Aid equipped Item (6 or -1)",
+      27348829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Catapult equipped (3 or -1)",
+      27348837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spellbook equipped (0 or -1)",
+      27348845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 1",
+      27348876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 2",
+      27348884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 3",
+      27348892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 4",
+      27348900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 5",
+      27348908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 6",
+      27348916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 7",
+      27348924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 8",
+      27348932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 9",
+      27348940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 10",
+      27348948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 11",
+      27348956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 12",
+      27348964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 13",
+      27348972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 14",
+      27348980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 15",
+      27348988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 16",
+      27348996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 17",
+      27349004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 18",
+      27349012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 19",
+      27349020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 20",
+      27349028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 21",
+      27349036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 22",
+      27349044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 23",
+      27349052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 24",
+      27349060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 25",
+      27349068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 26",
+      27349076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 27",
+      27349084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 28",
+      27349092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 29",
+      27349100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 30",
+      27349108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 31",
+      27349116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 32",
+      27349124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 33",
+      27349132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 34",
+      27349140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 35",
+      27349148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 36",
+      27349156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 37",
+      27349164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 38",
+      27349172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 39",
+      27349180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 40",
+      27349188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 41",
+      27349196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 42",
+      27349204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 43",
+      27349212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 44",
+      27349220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 45",
+      27349228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 46",
+      27349236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 47",
+      27349244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 48",
+      27349252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 49",
+      27349260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 50",
+      27349268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 51",
+      27349276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 52",
+      27349284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 53",
+      27349292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 54",
+      27349300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 55",
+      27349308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 56",
+      27349316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 57",
+      27349324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 58",
+      27349332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 59",
+      27349340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 60",
+      27349348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 61",
+      27349356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 62",
+      27349364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 63",
+      27349372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Backpack Slot 64",
+      27349380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Summon Boat",
+      27349480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Scuttle Boat",
+      27349481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Visions",
+      27349482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell View Earth",
+      27349483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Disguise",
+      27349484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell View Air",
+      27349485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fly",
+      27349486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Water Walk",
+      27349487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Dimension Door",
+      27349488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Town Portal",
+      27349489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Quicksand",
+      27349490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Land Mine",
+      27349491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Force Field",
+      27349492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fire Wall",
+      27349493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Earthquake",
+      27349494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Magic Arrow",
+      27349495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Ice Bolt",
+      27349496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Lightning Bolt",
+      27349497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Implosion",
+      27349498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Chain Lightning",
+      27349499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Frost Ring",
+      27349500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fireball",
+      27349501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Inferno",
+      27349502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Meteor Shower",
+      27349503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Death Ripple",
+      27349504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Destroy Undead",
+      27349505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Armageddon",
+      27349506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Shield",
+      27349507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Air Shield",
+      27349508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fire Shield",
+      27349509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Protection from Air",
+      27349510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Protection from Fire",
+      27349511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Protection from Water",
+      27349512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Protection from Earth",
+      27349513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Anti Magic",
+      27349514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Dispel",
+      27349515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Magic Mirror",
+      27349516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Cure",
+      27349517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Resurrection",
+      27349518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Animate Dead",
+      27349519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Sacrifice",
+      27349520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Bless",
+      27349521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Curse",
+      27349522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Bloodlust",
+      27349523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Precision",
+      27349524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Weakness",
+      27349525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Stone Skin",
+      27349526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Disrupting Ray",
+      27349527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Prayer",
+      27349528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Mirth",
+      27349529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Sorrow",
+      27349530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fortune",
+      27349531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Misfortune",
+      27349532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Haste",
+      27349533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Slow",
+      27349534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Slayer",
+      27349535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Frenzy",
+      27349536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Titan's Lighting Bolt",
+      27349537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Counterstrike",
+      27349538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Berserk",
+      27349539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Hypnotize",
+      27349540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Forgetfulness",
+      27349541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Blind",
+      27349542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Teleport",
+      27349543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Remove Obstacle",
+      27349544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Clone",
+      27349545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Fire Elemental",
+      27349546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Earth Elemental",
+      27349547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Water Elemental",
+      27349548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spell Air Elemental",
+      27349549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Attack",
+      27349550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Def",
+      27349551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Spellpower",
+      27349552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calid Knowledge",
+      27349553,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

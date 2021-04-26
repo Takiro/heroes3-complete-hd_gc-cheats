@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Geon Name",
+      27385883,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Movement",
+      27385925,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon EXP",
+      27385929,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 1",
+      27385993,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 2",
+      27385997,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 3",
+      27386001,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 4",
+      27386005,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 5",
+      27386009,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 6",
+      27386013,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Type Slot 7",
+      27386017,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 1",
+      27386021,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 2",
+      27386025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 3",
+      27386029,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 4",
+      27386033,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 5",
+      27386037,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 6",
+      27386041,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Unit Count Slot 7",
+      27386045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Pathfinding",
+      27386049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Archery",
+      27386050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Logistics",
+      27386051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Scouting",
+      27386052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Diplomacy",
+      27386053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Navigation",
+      27386054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Leadership",
+      27386055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Wisdom",
+      27386056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Mysticism",
+      27386057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Luck",
+      27386058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Ballistics",
+      27386059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Eagle Eye",
+      27386060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Necromancy",
+      27386061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Estates",
+      27386062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Fire Magic",
+      27386063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Air Magic",
+      27386064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Water Magic",
+      27386065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Earth Magic",
+      27386066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Scholar",
+      27386067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Tactics",
+      27386068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Artillery",
+      27386069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Learning",
+      27386070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Offence",
+      27386071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Armourer",
+      27386072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Intelligence",
+      27386073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Sorcery",
+      27386074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Resistance",
+      27386075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon First Aid",
+      27386076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Pathfinding Slot",
+      27386077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Archery Slot",
+      27386078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Logistics Slot",
+      27386079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Scouting Slot",
+      27386080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Diplomacy Slot",
+      27386081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Navigation Slot",
+      27386082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Leadership Slot",
+      27386083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Wisdom Slot",
+      27386084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Mysticism Slot",
+      27386085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Luck Slot",
+      27386086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Ballistics Slot",
+      27386087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Eagle Eye Slot",
+      27386088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Necromancy Slot",
+      27386089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Estates Slot",
+      27386090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Fire Magic Slot",
+      27386091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Air Magic Slot",
+      27386092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Water Magic Slot",
+      27386093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Earth Magic Slot",
+      27386094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Scholar Slot",
+      27386095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Tactics Slot",
+      27386096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Artillery Slot",
+      27386097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Learning Slot",
+      27386098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Offense Slot",
+      27386099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Armourer Slot",
+      27386100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Intelligence Slot",
+      27386101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Sorcery Slot",
+      27386102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Resistance Slot",
+      27386103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon First Aid Slot",
+      27386104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Skill Count",
+      27386105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Ballista equipped (4 or -1)",
+      27386253,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Ammo Cart equipped (5 or -1)",
+      27386261,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon First Aid equipped Item (6 or -1)",
+      27386269,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Catapult equipped (3 or -1)",
+      27386277,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spellbook equipped (0 or -1)",
+      27386285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 1",
+      27386316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 2",
+      27386324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 3",
+      27386332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 4",
+      27386340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 5",
+      27386348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 6",
+      27386356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 7",
+      27386364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 8",
+      27386372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 9",
+      27386380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 10",
+      27386388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 11",
+      27386396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 12",
+      27386404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 13",
+      27386412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 14",
+      27386420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 15",
+      27386428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 16",
+      27386436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 17",
+      27386444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 18",
+      27386452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 19",
+      27386460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 20",
+      27386468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 21",
+      27386476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 22",
+      27386484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 23",
+      27386492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 24",
+      27386500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 25",
+      27386508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 26",
+      27386516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 27",
+      27386524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 28",
+      27386532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 29",
+      27386540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 30",
+      27386548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 31",
+      27386556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 32",
+      27386564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 33",
+      27386572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 34",
+      27386580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 35",
+      27386588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 36",
+      27386596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 37",
+      27386604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 38",
+      27386612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 39",
+      27386620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 40",
+      27386628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 41",
+      27386636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 42",
+      27386644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 43",
+      27386652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 44",
+      27386660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 45",
+      27386668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 46",
+      27386676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 47",
+      27386684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 48",
+      27386692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 49",
+      27386700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 50",
+      27386708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 51",
+      27386716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 52",
+      27386724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 53",
+      27386732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 54",
+      27386740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 55",
+      27386748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 56",
+      27386756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 57",
+      27386764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 58",
+      27386772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 59",
+      27386780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 60",
+      27386788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 61",
+      27386796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 62",
+      27386804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 63",
+      27386812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Backpack Slot 64",
+      27386820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Summon Boat",
+      27386920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Scuttle Boat",
+      27386921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Visions",
+      27386922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell View Earth",
+      27386923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Disguise",
+      27386924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell View Air",
+      27386925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fly",
+      27386926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Water Walk",
+      27386927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Dimension Door",
+      27386928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Town Portal",
+      27386929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Quicksand",
+      27386930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Land Mine",
+      27386931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Force Field",
+      27386932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fire Wall",
+      27386933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Earthquake",
+      27386934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Magic Arrow",
+      27386935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Ice Bolt",
+      27386936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Lightning Bolt",
+      27386937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Implosion",
+      27386938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Chain Lightning",
+      27386939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Frost Ring",
+      27386940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fireball",
+      27386941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Inferno",
+      27386942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Meteor Shower",
+      27386943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Death Ripple",
+      27386944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Destroy Undead",
+      27386945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Armageddon",
+      27386946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Shield",
+      27386947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Air Shield",
+      27386948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fire Shield",
+      27386949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Protection from Air",
+      27386950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Protection from Fire",
+      27386951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Protection from Water",
+      27386952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Protection from Earth",
+      27386953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Anti Magic",
+      27386954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Dispel",
+      27386955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Magic Mirror",
+      27386956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Cure",
+      27386957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Resurrection",
+      27386958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Animate Dead",
+      27386959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Sacrifice",
+      27386960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Bless",
+      27386961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Curse",
+      27386962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Bloodlust",
+      27386963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Precision",
+      27386964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Weakness",
+      27386965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Stone Skin",
+      27386966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Disrupting Ray",
+      27386967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Prayer",
+      27386968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Mirth",
+      27386969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Sorrow",
+      27386970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fortune",
+      27386971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Misfortune",
+      27386972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Haste",
+      27386973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Slow",
+      27386974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Slayer",
+      27386975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Frenzy",
+      27386976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Titan's Lighting Bolt",
+      27386977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Counterstrike",
+      27386978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Berserk",
+      27386979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Hypnotize",
+      27386980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Forgetfulness",
+      27386981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Blind",
+      27386982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Teleport",
+      27386983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Remove Obstacle",
+      27386984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Clone",
+      27386985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Fire Elemental",
+      27386986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Earth Elemental",
+      27386987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Water Elemental",
+      27386988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spell Air Elemental",
+      27386989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Attack",
+      27386990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Def",
+      27386991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Spellpower",
+      27386992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Geon Knowledge",
+      27386993,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

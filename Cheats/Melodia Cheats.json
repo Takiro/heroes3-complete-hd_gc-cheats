@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Melodia Name",
+      27312173,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Movement",
+      27312215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia EXP",
+      27312219,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 1",
+      27312283,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 2",
+      27312287,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 3",
+      27312291,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 4",
+      27312295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 5",
+      27312299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 6",
+      27312303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Type Slot 7",
+      27312307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 1",
+      27312311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 2",
+      27312315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 3",
+      27312319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 4",
+      27312323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 5",
+      27312327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 6",
+      27312331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Unit Count Slot 7",
+      27312335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Pathfinding",
+      27312339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Archery",
+      27312340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Logistics",
+      27312341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Scouting",
+      27312342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Diplomacy",
+      27312343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Navigation",
+      27312344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Leadership",
+      27312345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Wisdom",
+      27312346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Mysticism",
+      27312347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Luck",
+      27312348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Ballistics",
+      27312349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Eagle Eye",
+      27312350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Necromancy",
+      27312351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Estates",
+      27312352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Fire Magic",
+      27312353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Air Magic",
+      27312354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Water Magic",
+      27312355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Earth Magic",
+      27312356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Scholar",
+      27312357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Tactics",
+      27312358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Artillery",
+      27312359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Learning",
+      27312360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Offence",
+      27312361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Armourer",
+      27312362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Intelligence",
+      27312363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Sorcery",
+      27312364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Resistance",
+      27312365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia First Aid",
+      27312366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Pathfinding Slot",
+      27312367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Archery Slot",
+      27312368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Logistics Slot",
+      27312369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Scouting Slot",
+      27312370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Diplomacy Slot",
+      27312371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Navigation Slot",
+      27312372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Leadership Slot",
+      27312373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Wisdom Slot",
+      27312374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Mysticism Slot",
+      27312375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Luck Slot",
+      27312376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Ballistics Slot",
+      27312377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Eagle Eye Slot",
+      27312378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Necromancy Slot",
+      27312379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Estates Slot",
+      27312380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Fire Magic Slot",
+      27312381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Air Magic Slot",
+      27312382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Water Magic Slot",
+      27312383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Earth Magic Slot",
+      27312384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Scholar Slot",
+      27312385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Tactics Slot",
+      27312386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Artillery Slot",
+      27312387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Learning Slot",
+      27312388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Offense Slot",
+      27312389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Armourer Slot",
+      27312390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Intelligence Slot",
+      27312391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Sorcery Slot",
+      27312392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Resistance Slot",
+      27312393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia First Aid Slot",
+      27312394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Skill Count",
+      27312395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Ballista equipped (4 or -1)",
+      27312543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Ammo Cart equipped (5 or -1)",
+      27312551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia First Aid equipped Item (6 or -1)",
+      27312559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Catapult equipped (3 or -1)",
+      27312567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spellbook equipped (0 or -1)",
+      27312575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 1",
+      27312606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 2",
+      27312614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 3",
+      27312622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 4",
+      27312630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 5",
+      27312638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 6",
+      27312646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 7",
+      27312654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 8",
+      27312662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 9",
+      27312670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 10",
+      27312678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 11",
+      27312686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 12",
+      27312694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 13",
+      27312702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 14",
+      27312710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 15",
+      27312718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 16",
+      27312726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 17",
+      27312734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 18",
+      27312742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 19",
+      27312750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 20",
+      27312758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 21",
+      27312766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 22",
+      27312774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 23",
+      27312782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 24",
+      27312790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 25",
+      27312798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 26",
+      27312806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 27",
+      27312814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 28",
+      27312822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 29",
+      27312830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 30",
+      27312838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 31",
+      27312846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 32",
+      27312854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 33",
+      27312862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 34",
+      27312870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 35",
+      27312878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 36",
+      27312886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 37",
+      27312894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 38",
+      27312902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 39",
+      27312910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 40",
+      27312918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 41",
+      27312926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 42",
+      27312934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 43",
+      27312942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 44",
+      27312950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 45",
+      27312958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 46",
+      27312966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 47",
+      27312974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 48",
+      27312982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 49",
+      27312990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 50",
+      27312998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 51",
+      27313006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 52",
+      27313014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 53",
+      27313022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 54",
+      27313030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 55",
+      27313038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 56",
+      27313046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 57",
+      27313054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 58",
+      27313062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 59",
+      27313070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 60",
+      27313078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 61",
+      27313086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 62",
+      27313094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 63",
+      27313102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Backpack Slot 64",
+      27313110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Summon Boat",
+      27313210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Scuttle Boat",
+      27313211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Visions",
+      27313212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell View Earth",
+      27313213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Disguise",
+      27313214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell View Air",
+      27313215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fly",
+      27313216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Water Walk",
+      27313217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Dimension Door",
+      27313218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Town Portal",
+      27313219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Quicksand",
+      27313220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Land Mine",
+      27313221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Force Field",
+      27313222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fire Wall",
+      27313223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Earthquake",
+      27313224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Magic Arrow",
+      27313225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Ice Bolt",
+      27313226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Lightning Bolt",
+      27313227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Implosion",
+      27313228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Chain Lightning",
+      27313229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Frost Ring",
+      27313230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fireball",
+      27313231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Inferno",
+      27313232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Meteor Shower",
+      27313233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Death Ripple",
+      27313234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Destroy Undead",
+      27313235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Armageddon",
+      27313236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Shield",
+      27313237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Air Shield",
+      27313238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fire Shield",
+      27313239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Protection from Air",
+      27313240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Protection from Fire",
+      27313241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Protection from Water",
+      27313242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Protection from Earth",
+      27313243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Anti Magic",
+      27313244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Dispel",
+      27313245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Magic Mirror",
+      27313246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Cure",
+      27313247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Resurrection",
+      27313248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Animate Dead",
+      27313249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Sacrifice",
+      27313250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Bless",
+      27313251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Curse",
+      27313252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Bloodlust",
+      27313253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Precision",
+      27313254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Weakness",
+      27313255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Stone Skin",
+      27313256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Disrupting Ray",
+      27313257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Prayer",
+      27313258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Mirth",
+      27313259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Sorrow",
+      27313260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fortune",
+      27313261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Misfortune",
+      27313262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Haste",
+      27313263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Slow",
+      27313264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Slayer",
+      27313265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Frenzy",
+      27313266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Titan's Lighting Bolt",
+      27313267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Counterstrike",
+      27313268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Berserk",
+      27313269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Hypnotize",
+      27313270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Forgetfulness",
+      27313271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Blind",
+      27313272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Teleport",
+      27313273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Remove Obstacle",
+      27313274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Clone",
+      27313275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Fire Elemental",
+      27313276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Earth Elemental",
+      27313277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Water Elemental",
+      27313278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spell Air Elemental",
+      27313279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Attack",
+      27313280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Def",
+      27313281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Spellpower",
+      27313282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Melodia Knowledge",
+      27313283,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

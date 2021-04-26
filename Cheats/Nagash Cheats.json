@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Nagash Name",
+      27370673,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Movement",
+      27370715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash EXP",
+      27370719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 1",
+      27370783,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 2",
+      27370787,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 3",
+      27370791,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 4",
+      27370795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 5",
+      27370799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 6",
+      27370803,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Type Slot 7",
+      27370807,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 1",
+      27370811,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 2",
+      27370815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 3",
+      27370819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 4",
+      27370823,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 5",
+      27370827,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 6",
+      27370831,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Unit Count Slot 7",
+      27370835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Pathfinding",
+      27370839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Archery",
+      27370840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Logistics",
+      27370841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Scouting",
+      27370842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Diplomacy",
+      27370843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Navigation",
+      27370844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Leadership",
+      27370845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Wisdom",
+      27370846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Mysticism",
+      27370847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Luck",
+      27370848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Ballistics",
+      27370849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Eagle Eye",
+      27370850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Necromancy",
+      27370851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Estates",
+      27370852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Fire Magic",
+      27370853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Air Magic",
+      27370854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Water Magic",
+      27370855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Earth Magic",
+      27370856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Scholar",
+      27370857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Tactics",
+      27370858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Artillery",
+      27370859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Learning",
+      27370860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Offence",
+      27370861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Armourer",
+      27370862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Intelligence",
+      27370863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Sorcery",
+      27370864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Resistance",
+      27370865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash First Aid",
+      27370866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Pathfinding Slot",
+      27370867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Archery Slot",
+      27370868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Logistics Slot",
+      27370869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Scouting Slot",
+      27370870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Diplomacy Slot",
+      27370871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Navigation Slot",
+      27370872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Leadership Slot",
+      27370873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Wisdom Slot",
+      27370874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Mysticism Slot",
+      27370875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Luck Slot",
+      27370876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Ballistics Slot",
+      27370877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Eagle Eye Slot",
+      27370878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Necromancy Slot",
+      27370879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Estates Slot",
+      27370880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Fire Magic Slot",
+      27370881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Air Magic Slot",
+      27370882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Water Magic Slot",
+      27370883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Earth Magic Slot",
+      27370884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Scholar Slot",
+      27370885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Tactics Slot",
+      27370886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Artillery Slot",
+      27370887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Learning Slot",
+      27370888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Offense Slot",
+      27370889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Armourer Slot",
+      27370890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Intelligence Slot",
+      27370891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Sorcery Slot",
+      27370892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Resistance Slot",
+      27370893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash First Aid Slot",
+      27370894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Skill Count",
+      27370895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Ballista equipped (4 or -1)",
+      27371043,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Ammo Cart equipped (5 or -1)",
+      27371051,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash First Aid equipped Item (6 or -1)",
+      27371059,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Catapult equipped (3 or -1)",
+      27371067,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spellbook equipped (0 or -1)",
+      27371075,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 1",
+      27371106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 2",
+      27371114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 3",
+      27371122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 4",
+      27371130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 5",
+      27371138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 6",
+      27371146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 7",
+      27371154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 8",
+      27371162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 9",
+      27371170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 10",
+      27371178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 11",
+      27371186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 12",
+      27371194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 13",
+      27371202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 14",
+      27371210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 15",
+      27371218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 16",
+      27371226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 17",
+      27371234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 18",
+      27371242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 19",
+      27371250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 20",
+      27371258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 21",
+      27371266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 22",
+      27371274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 23",
+      27371282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 24",
+      27371290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 25",
+      27371298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 26",
+      27371306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 27",
+      27371314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 28",
+      27371322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 29",
+      27371330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 30",
+      27371338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 31",
+      27371346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 32",
+      27371354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 33",
+      27371362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 34",
+      27371370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 35",
+      27371378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 36",
+      27371386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 37",
+      27371394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 38",
+      27371402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 39",
+      27371410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 40",
+      27371418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 41",
+      27371426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 42",
+      27371434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 43",
+      27371442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 44",
+      27371450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 45",
+      27371458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 46",
+      27371466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 47",
+      27371474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 48",
+      27371482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 49",
+      27371490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 50",
+      27371498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 51",
+      27371506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 52",
+      27371514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 53",
+      27371522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 54",
+      27371530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 55",
+      27371538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 56",
+      27371546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 57",
+      27371554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 58",
+      27371562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 59",
+      27371570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 60",
+      27371578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 61",
+      27371586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 62",
+      27371594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 63",
+      27371602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Backpack Slot 64",
+      27371610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Summon Boat",
+      27371710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Scuttle Boat",
+      27371711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Visions",
+      27371712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell View Earth",
+      27371713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Disguise",
+      27371714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell View Air",
+      27371715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fly",
+      27371716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Water Walk",
+      27371717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Dimension Door",
+      27371718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Town Portal",
+      27371719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Quicksand",
+      27371720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Land Mine",
+      27371721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Force Field",
+      27371722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fire Wall",
+      27371723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Earthquake",
+      27371724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Magic Arrow",
+      27371725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Ice Bolt",
+      27371726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Lightning Bolt",
+      27371727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Implosion",
+      27371728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Chain Lightning",
+      27371729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Frost Ring",
+      27371730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fireball",
+      27371731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Inferno",
+      27371732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Meteor Shower",
+      27371733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Death Ripple",
+      27371734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Destroy Undead",
+      27371735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Armageddon",
+      27371736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Shield",
+      27371737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Air Shield",
+      27371738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fire Shield",
+      27371739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Protection from Air",
+      27371740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Protection from Fire",
+      27371741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Protection from Water",
+      27371742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Protection from Earth",
+      27371743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Anti Magic",
+      27371744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Dispel",
+      27371745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Magic Mirror",
+      27371746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Cure",
+      27371747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Resurrection",
+      27371748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Animate Dead",
+      27371749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Sacrifice",
+      27371750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Bless",
+      27371751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Curse",
+      27371752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Bloodlust",
+      27371753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Precision",
+      27371754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Weakness",
+      27371755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Stone Skin",
+      27371756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Disrupting Ray",
+      27371757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Prayer",
+      27371758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Mirth",
+      27371759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Sorrow",
+      27371760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fortune",
+      27371761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Misfortune",
+      27371762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Haste",
+      27371763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Slow",
+      27371764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Slayer",
+      27371765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Frenzy",
+      27371766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Titan's Lighting Bolt",
+      27371767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Counterstrike",
+      27371768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Berserk",
+      27371769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Hypnotize",
+      27371770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Forgetfulness",
+      27371771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Blind",
+      27371772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Teleport",
+      27371773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Remove Obstacle",
+      27371774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Clone",
+      27371775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Fire Elemental",
+      27371776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Earth Elemental",
+      27371777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Water Elemental",
+      27371778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spell Air Elemental",
+      27371779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Attack",
+      27371780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Def",
+      27371781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Spellpower",
+      27371782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Nagash Knowledge",
+      27371783,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

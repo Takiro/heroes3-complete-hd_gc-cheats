@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Kalt Name",
+      27436193,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Movement",
+      27436235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt EXP",
+      27436239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 1",
+      27436303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 2",
+      27436307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 3",
+      27436311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 4",
+      27436315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 5",
+      27436319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 6",
+      27436323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Type Slot 7",
+      27436327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 1",
+      27436331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 2",
+      27436335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 3",
+      27436339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 4",
+      27436343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 5",
+      27436347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 6",
+      27436351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Unit Count Slot 7",
+      27436355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Pathfinding",
+      27436359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Archery",
+      27436360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Logistics",
+      27436361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Scouting",
+      27436362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Diplomacy",
+      27436363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Navigation",
+      27436364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Leadership",
+      27436365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Wisdom",
+      27436366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Mysticism",
+      27436367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Luck",
+      27436368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Ballistics",
+      27436369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Eagle Eye",
+      27436370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Necromancy",
+      27436371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Estates",
+      27436372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Fire Magic",
+      27436373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Air Magic",
+      27436374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Water Magic",
+      27436375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Earth Magic",
+      27436376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Scholar",
+      27436377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Tactics",
+      27436378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Artillery",
+      27436379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Learning",
+      27436380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Offence",
+      27436381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Armourer",
+      27436382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Intelligence",
+      27436383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Sorcery",
+      27436384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Resistance",
+      27436385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt First Aid",
+      27436386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Pathfinding Slot",
+      27436387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Archery Slot",
+      27436388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Logistics Slot",
+      27436389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Scouting Slot",
+      27436390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Diplomacy Slot",
+      27436391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Navigation Slot",
+      27436392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Leadership Slot",
+      27436393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Wisdom Slot",
+      27436394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Mysticism Slot",
+      27436395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Luck Slot",
+      27436396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Ballistics Slot",
+      27436397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Eagle Eye Slot",
+      27436398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Necromancy Slot",
+      27436399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Estates Slot",
+      27436400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Fire Magic Slot",
+      27436401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Air Magic Slot",
+      27436402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Water Magic Slot",
+      27436403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Earth Magic Slot",
+      27436404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Scholar Slot",
+      27436405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Tactics Slot",
+      27436406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Artillery Slot",
+      27436407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Learning Slot",
+      27436408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Offense Slot",
+      27436409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Armourer Slot",
+      27436410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Intelligence Slot",
+      27436411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Sorcery Slot",
+      27436412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Resistance Slot",
+      27436413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt First Aid Slot",
+      27436414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Skill Count",
+      27436415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Ballista equipped (4 or -1)",
+      27436563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Ammo Cart equipped (5 or -1)",
+      27436571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt First Aid equipped Item (6 or -1)",
+      27436579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Catapult equipped (3 or -1)",
+      27436587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spellbook equipped (0 or -1)",
+      27436595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 1",
+      27436626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 2",
+      27436634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 3",
+      27436642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 4",
+      27436650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 5",
+      27436658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 6",
+      27436666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 7",
+      27436674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 8",
+      27436682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 9",
+      27436690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 10",
+      27436698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 11",
+      27436706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 12",
+      27436714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 13",
+      27436722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 14",
+      27436730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 15",
+      27436738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 16",
+      27436746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 17",
+      27436754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 18",
+      27436762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 19",
+      27436770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 20",
+      27436778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 21",
+      27436786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 22",
+      27436794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 23",
+      27436802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 24",
+      27436810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 25",
+      27436818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 26",
+      27436826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 27",
+      27436834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 28",
+      27436842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 29",
+      27436850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 30",
+      27436858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 31",
+      27436866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 32",
+      27436874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 33",
+      27436882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 34",
+      27436890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 35",
+      27436898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 36",
+      27436906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 37",
+      27436914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 38",
+      27436922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 39",
+      27436930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 40",
+      27436938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 41",
+      27436946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 42",
+      27436954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 43",
+      27436962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 44",
+      27436970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 45",
+      27436978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 46",
+      27436986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 47",
+      27436994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 48",
+      27437002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 49",
+      27437010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 50",
+      27437018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 51",
+      27437026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 52",
+      27437034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 53",
+      27437042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 54",
+      27437050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 55",
+      27437058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 56",
+      27437066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 57",
+      27437074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 58",
+      27437082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 59",
+      27437090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 60",
+      27437098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 61",
+      27437106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 62",
+      27437114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 63",
+      27437122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Backpack Slot 64",
+      27437130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Summon Boat",
+      27437230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Scuttle Boat",
+      27437231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Visions",
+      27437232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell View Earth",
+      27437233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Disguise",
+      27437234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell View Air",
+      27437235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fly",
+      27437236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Water Walk",
+      27437237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Dimension Door",
+      27437238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Town Portal",
+      27437239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Quicksand",
+      27437240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Land Mine",
+      27437241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Force Field",
+      27437242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fire Wall",
+      27437243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Earthquake",
+      27437244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Magic Arrow",
+      27437245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Ice Bolt",
+      27437246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Lightning Bolt",
+      27437247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Implosion",
+      27437248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Chain Lightning",
+      27437249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Frost Ring",
+      27437250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fireball",
+      27437251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Inferno",
+      27437252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Meteor Shower",
+      27437253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Death Ripple",
+      27437254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Destroy Undead",
+      27437255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Armageddon",
+      27437256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Shield",
+      27437257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Air Shield",
+      27437258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fire Shield",
+      27437259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Protection from Air",
+      27437260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Protection from Fire",
+      27437261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Protection from Water",
+      27437262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Protection from Earth",
+      27437263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Anti Magic",
+      27437264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Dispel",
+      27437265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Magic Mirror",
+      27437266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Cure",
+      27437267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Resurrection",
+      27437268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Animate Dead",
+      27437269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Sacrifice",
+      27437270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Bless",
+      27437271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Curse",
+      27437272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Bloodlust",
+      27437273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Precision",
+      27437274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Weakness",
+      27437275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Stone Skin",
+      27437276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Disrupting Ray",
+      27437277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Prayer",
+      27437278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Mirth",
+      27437279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Sorrow",
+      27437280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fortune",
+      27437281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Misfortune",
+      27437282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Haste",
+      27437283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Slow",
+      27437284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Slayer",
+      27437285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Frenzy",
+      27437286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Titan's Lighting Bolt",
+      27437287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Counterstrike",
+      27437288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Berserk",
+      27437289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Hypnotize",
+      27437290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Forgetfulness",
+      27437291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Blind",
+      27437292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Teleport",
+      27437293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Remove Obstacle",
+      27437294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Clone",
+      27437295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Fire Elemental",
+      27437296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Earth Elemental",
+      27437297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Water Elemental",
+      27437298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spell Air Elemental",
+      27437299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Attack",
+      27437300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Def",
+      27437301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Spellpower",
+      27437302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kalt Knowledge",
+      27437303,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Iona Name",
+      27323873,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Movement",
+      27323915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona EXP",
+      27323919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 1",
+      27323983,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 2",
+      27323987,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 3",
+      27323991,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 4",
+      27323995,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 5",
+      27323999,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 6",
+      27324003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Type Slot 7",
+      27324007,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 1",
+      27324011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 2",
+      27324015,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 3",
+      27324019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 4",
+      27324023,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 5",
+      27324027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 6",
+      27324031,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Unit Count Slot 7",
+      27324035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Pathfinding",
+      27324039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Archery",
+      27324040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Logistics",
+      27324041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Scouting",
+      27324042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Diplomacy",
+      27324043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Navigation",
+      27324044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Leadership",
+      27324045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Wisdom",
+      27324046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Mysticism",
+      27324047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Luck",
+      27324048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Ballistics",
+      27324049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Eagle Eye",
+      27324050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Necromancy",
+      27324051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Estates",
+      27324052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Fire Magic",
+      27324053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Air Magic",
+      27324054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Water Magic",
+      27324055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Earth Magic",
+      27324056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Scholar",
+      27324057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Tactics",
+      27324058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Artillery",
+      27324059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Learning",
+      27324060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Offence",
+      27324061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Armourer",
+      27324062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Intelligence",
+      27324063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Sorcery",
+      27324064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Resistance",
+      27324065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona First Aid",
+      27324066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Pathfinding Slot",
+      27324067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Archery Slot",
+      27324068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Logistics Slot",
+      27324069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Scouting Slot",
+      27324070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Diplomacy Slot",
+      27324071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Navigation Slot",
+      27324072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Leadership Slot",
+      27324073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Wisdom Slot",
+      27324074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Mysticism Slot",
+      27324075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Luck Slot",
+      27324076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Ballistics Slot",
+      27324077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Eagle Eye Slot",
+      27324078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Necromancy Slot",
+      27324079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Estates Slot",
+      27324080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Fire Magic Slot",
+      27324081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Air Magic Slot",
+      27324082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Water Magic Slot",
+      27324083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Earth Magic Slot",
+      27324084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Scholar Slot",
+      27324085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Tactics Slot",
+      27324086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Artillery Slot",
+      27324087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Learning Slot",
+      27324088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Offense Slot",
+      27324089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Armourer Slot",
+      27324090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Intelligence Slot",
+      27324091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Sorcery Slot",
+      27324092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Resistance Slot",
+      27324093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona First Aid Slot",
+      27324094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Skill Count",
+      27324095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Ballista equipped (4 or -1)",
+      27324243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Ammo Cart equipped (5 or -1)",
+      27324251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona First Aid equipped Item (6 or -1)",
+      27324259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Catapult equipped (3 or -1)",
+      27324267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spellbook equipped (0 or -1)",
+      27324275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 1",
+      27324306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 2",
+      27324314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 3",
+      27324322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 4",
+      27324330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 5",
+      27324338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 6",
+      27324346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 7",
+      27324354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 8",
+      27324362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 9",
+      27324370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 10",
+      27324378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 11",
+      27324386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 12",
+      27324394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 13",
+      27324402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 14",
+      27324410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 15",
+      27324418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 16",
+      27324426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 17",
+      27324434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 18",
+      27324442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 19",
+      27324450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 20",
+      27324458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 21",
+      27324466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 22",
+      27324474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 23",
+      27324482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 24",
+      27324490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 25",
+      27324498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 26",
+      27324506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 27",
+      27324514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 28",
+      27324522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 29",
+      27324530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 30",
+      27324538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 31",
+      27324546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 32",
+      27324554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 33",
+      27324562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 34",
+      27324570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 35",
+      27324578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 36",
+      27324586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 37",
+      27324594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 38",
+      27324602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 39",
+      27324610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 40",
+      27324618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 41",
+      27324626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 42",
+      27324634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 43",
+      27324642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 44",
+      27324650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 45",
+      27324658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 46",
+      27324666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 47",
+      27324674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 48",
+      27324682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 49",
+      27324690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 50",
+      27324698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 51",
+      27324706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 52",
+      27324714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 53",
+      27324722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 54",
+      27324730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 55",
+      27324738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 56",
+      27324746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 57",
+      27324754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 58",
+      27324762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 59",
+      27324770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 60",
+      27324778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 61",
+      27324786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 62",
+      27324794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 63",
+      27324802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Backpack Slot 64",
+      27324810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Summon Boat",
+      27324910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Scuttle Boat",
+      27324911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Visions",
+      27324912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell View Earth",
+      27324913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Disguise",
+      27324914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell View Air",
+      27324915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fly",
+      27324916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Water Walk",
+      27324917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Dimension Door",
+      27324918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Town Portal",
+      27324919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Quicksand",
+      27324920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Land Mine",
+      27324921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Force Field",
+      27324922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fire Wall",
+      27324923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Earthquake",
+      27324924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Magic Arrow",
+      27324925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Ice Bolt",
+      27324926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Lightning Bolt",
+      27324927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Implosion",
+      27324928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Chain Lightning",
+      27324929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Frost Ring",
+      27324930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fireball",
+      27324931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Inferno",
+      27324932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Meteor Shower",
+      27324933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Death Ripple",
+      27324934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Destroy Undead",
+      27324935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Armageddon",
+      27324936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Shield",
+      27324937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Air Shield",
+      27324938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fire Shield",
+      27324939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Protection from Air",
+      27324940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Protection from Fire",
+      27324941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Protection from Water",
+      27324942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Protection from Earth",
+      27324943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Anti Magic",
+      27324944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Dispel",
+      27324945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Magic Mirror",
+      27324946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Cure",
+      27324947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Resurrection",
+      27324948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Animate Dead",
+      27324949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Sacrifice",
+      27324950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Bless",
+      27324951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Curse",
+      27324952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Bloodlust",
+      27324953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Precision",
+      27324954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Weakness",
+      27324955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Stone Skin",
+      27324956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Disrupting Ray",
+      27324957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Prayer",
+      27324958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Mirth",
+      27324959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Sorrow",
+      27324960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fortune",
+      27324961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Misfortune",
+      27324962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Haste",
+      27324963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Slow",
+      27324964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Slayer",
+      27324965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Frenzy",
+      27324966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Titan's Lighting Bolt",
+      27324967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Counterstrike",
+      27324968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Berserk",
+      27324969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Hypnotize",
+      27324970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Forgetfulness",
+      27324971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Blind",
+      27324972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Teleport",
+      27324973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Remove Obstacle",
+      27324974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Clone",
+      27324975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Fire Elemental",
+      27324976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Earth Elemental",
+      27324977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Water Elemental",
+      27324978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spell Air Elemental",
+      27324979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Attack",
+      27324980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Def",
+      27324981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Spellpower",
+      27324982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Iona Knowledge",
+      27324983,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

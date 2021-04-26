@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Deemer Name",
+      27387053,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Movement",
+      27387095,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer EXP",
+      27387099,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 1",
+      27387163,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 2",
+      27387167,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 3",
+      27387171,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 4",
+      27387175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 5",
+      27387179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 6",
+      27387183,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Type Slot 7",
+      27387187,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 1",
+      27387191,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 2",
+      27387195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 3",
+      27387199,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 4",
+      27387203,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 5",
+      27387207,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 6",
+      27387211,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Unit Count Slot 7",
+      27387215,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Pathfinding",
+      27387219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Archery",
+      27387220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Logistics",
+      27387221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Scouting",
+      27387222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Diplomacy",
+      27387223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Navigation",
+      27387224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Leadership",
+      27387225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Wisdom",
+      27387226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Mysticism",
+      27387227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Luck",
+      27387228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Ballistics",
+      27387229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Eagle Eye",
+      27387230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Necromancy",
+      27387231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Estates",
+      27387232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Fire Magic",
+      27387233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Air Magic",
+      27387234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Water Magic",
+      27387235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Earth Magic",
+      27387236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Scholar",
+      27387237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Tactics",
+      27387238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Artillery",
+      27387239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Learning",
+      27387240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Offence",
+      27387241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Armourer",
+      27387242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Intelligence",
+      27387243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Sorcery",
+      27387244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Resistance",
+      27387245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer First Aid",
+      27387246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Pathfinding Slot",
+      27387247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Archery Slot",
+      27387248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Logistics Slot",
+      27387249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Scouting Slot",
+      27387250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Diplomacy Slot",
+      27387251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Navigation Slot",
+      27387252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Leadership Slot",
+      27387253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Wisdom Slot",
+      27387254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Mysticism Slot",
+      27387255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Luck Slot",
+      27387256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Ballistics Slot",
+      27387257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Eagle Eye Slot",
+      27387258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Necromancy Slot",
+      27387259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Estates Slot",
+      27387260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Fire Magic Slot",
+      27387261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Air Magic Slot",
+      27387262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Water Magic Slot",
+      27387263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Earth Magic Slot",
+      27387264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Scholar Slot",
+      27387265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Tactics Slot",
+      27387266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Artillery Slot",
+      27387267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Learning Slot",
+      27387268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Offense Slot",
+      27387269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Armourer Slot",
+      27387270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Intelligence Slot",
+      27387271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Sorcery Slot",
+      27387272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Resistance Slot",
+      27387273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer First Aid Slot",
+      27387274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Skill Count",
+      27387275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Ballista equipped (4 or -1)",
+      27387423,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Ammo Cart equipped (5 or -1)",
+      27387431,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer First Aid equipped Item (6 or -1)",
+      27387439,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Catapult equipped (3 or -1)",
+      27387447,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spellbook equipped (0 or -1)",
+      27387455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 1",
+      27387486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 2",
+      27387494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 3",
+      27387502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 4",
+      27387510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 5",
+      27387518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 6",
+      27387526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 7",
+      27387534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 8",
+      27387542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 9",
+      27387550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 10",
+      27387558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 11",
+      27387566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 12",
+      27387574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 13",
+      27387582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 14",
+      27387590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 15",
+      27387598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 16",
+      27387606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 17",
+      27387614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 18",
+      27387622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 19",
+      27387630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 20",
+      27387638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 21",
+      27387646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 22",
+      27387654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 23",
+      27387662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 24",
+      27387670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 25",
+      27387678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 26",
+      27387686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 27",
+      27387694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 28",
+      27387702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 29",
+      27387710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 30",
+      27387718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 31",
+      27387726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 32",
+      27387734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 33",
+      27387742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 34",
+      27387750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 35",
+      27387758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 36",
+      27387766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 37",
+      27387774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 38",
+      27387782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 39",
+      27387790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 40",
+      27387798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 41",
+      27387806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 42",
+      27387814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 43",
+      27387822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 44",
+      27387830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 45",
+      27387838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 46",
+      27387846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 47",
+      27387854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 48",
+      27387862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 49",
+      27387870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 50",
+      27387878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 51",
+      27387886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 52",
+      27387894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 53",
+      27387902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 54",
+      27387910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 55",
+      27387918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 56",
+      27387926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 57",
+      27387934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 58",
+      27387942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 59",
+      27387950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 60",
+      27387958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 61",
+      27387966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 62",
+      27387974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 63",
+      27387982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Backpack Slot 64",
+      27387990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Summon Boat",
+      27388090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Scuttle Boat",
+      27388091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Visions",
+      27388092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell View Earth",
+      27388093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Disguise",
+      27388094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell View Air",
+      27388095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fly",
+      27388096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Water Walk",
+      27388097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Dimension Door",
+      27388098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Town Portal",
+      27388099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Quicksand",
+      27388100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Land Mine",
+      27388101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Force Field",
+      27388102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fire Wall",
+      27388103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Earthquake",
+      27388104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Magic Arrow",
+      27388105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Ice Bolt",
+      27388106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Lightning Bolt",
+      27388107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Implosion",
+      27388108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Chain Lightning",
+      27388109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Frost Ring",
+      27388110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fireball",
+      27388111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Inferno",
+      27388112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Meteor Shower",
+      27388113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Death Ripple",
+      27388114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Destroy Undead",
+      27388115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Armageddon",
+      27388116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Shield",
+      27388117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Air Shield",
+      27388118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fire Shield",
+      27388119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Protection from Air",
+      27388120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Protection from Fire",
+      27388121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Protection from Water",
+      27388122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Protection from Earth",
+      27388123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Anti Magic",
+      27388124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Dispel",
+      27388125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Magic Mirror",
+      27388126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Cure",
+      27388127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Resurrection",
+      27388128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Animate Dead",
+      27388129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Sacrifice",
+      27388130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Bless",
+      27388131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Curse",
+      27388132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Bloodlust",
+      27388133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Precision",
+      27388134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Weakness",
+      27388135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Stone Skin",
+      27388136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Disrupting Ray",
+      27388137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Prayer",
+      27388138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Mirth",
+      27388139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Sorrow",
+      27388140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fortune",
+      27388141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Misfortune",
+      27388142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Haste",
+      27388143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Slow",
+      27388144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Slayer",
+      27388145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Frenzy",
+      27388146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Titan's Lighting Bolt",
+      27388147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Counterstrike",
+      27388148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Berserk",
+      27388149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Hypnotize",
+      27388150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Forgetfulness",
+      27388151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Blind",
+      27388152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Teleport",
+      27388153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Remove Obstacle",
+      27388154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Clone",
+      27388155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Fire Elemental",
+      27388156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Earth Elemental",
+      27388157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Water Elemental",
+      27388158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spell Air Elemental",
+      27388159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Attack",
+      27388160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Def",
+      27388161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Spellpower",
+      27388162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Deemer Knowledge",
+      27388163,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

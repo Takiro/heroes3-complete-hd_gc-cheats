@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Neela Name",
+      27319193,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Movement",
+      27319235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela EXP",
+      27319239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 1",
+      27319303,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 2",
+      27319307,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 3",
+      27319311,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 4",
+      27319315,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 5",
+      27319319,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 6",
+      27319323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Type Slot 7",
+      27319327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 1",
+      27319331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 2",
+      27319335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 3",
+      27319339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 4",
+      27319343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 5",
+      27319347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 6",
+      27319351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Unit Count Slot 7",
+      27319355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Pathfinding",
+      27319359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Archery",
+      27319360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Logistics",
+      27319361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Scouting",
+      27319362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Diplomacy",
+      27319363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Navigation",
+      27319364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Leadership",
+      27319365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Wisdom",
+      27319366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Mysticism",
+      27319367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Luck",
+      27319368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Ballistics",
+      27319369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Eagle Eye",
+      27319370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Necromancy",
+      27319371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Estates",
+      27319372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Fire Magic",
+      27319373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Air Magic",
+      27319374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Water Magic",
+      27319375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Earth Magic",
+      27319376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Scholar",
+      27319377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Tactics",
+      27319378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Artillery",
+      27319379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Learning",
+      27319380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Offence",
+      27319381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Armourer",
+      27319382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Intelligence",
+      27319383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Sorcery",
+      27319384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Resistance",
+      27319385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela First Aid",
+      27319386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Pathfinding Slot",
+      27319387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Archery Slot",
+      27319388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Logistics Slot",
+      27319389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Scouting Slot",
+      27319390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Diplomacy Slot",
+      27319391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Navigation Slot",
+      27319392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Leadership Slot",
+      27319393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Wisdom Slot",
+      27319394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Mysticism Slot",
+      27319395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Luck Slot",
+      27319396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Ballistics Slot",
+      27319397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Eagle Eye Slot",
+      27319398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Necromancy Slot",
+      27319399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Estates Slot",
+      27319400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Fire Magic Slot",
+      27319401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Air Magic Slot",
+      27319402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Water Magic Slot",
+      27319403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Earth Magic Slot",
+      27319404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Scholar Slot",
+      27319405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Tactics Slot",
+      27319406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Artillery Slot",
+      27319407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Learning Slot",
+      27319408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Offense Slot",
+      27319409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Armourer Slot",
+      27319410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Intelligence Slot",
+      27319411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Sorcery Slot",
+      27319412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Resistance Slot",
+      27319413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela First Aid Slot",
+      27319414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Skill Count",
+      27319415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Ballista equipped (4 or -1)",
+      27319563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Ammo Cart equipped (5 or -1)",
+      27319571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela First Aid equipped Item (6 or -1)",
+      27319579,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Catapult equipped (3 or -1)",
+      27319587,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spellbook equipped (0 or -1)",
+      27319595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 1",
+      27319626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 2",
+      27319634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 3",
+      27319642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 4",
+      27319650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 5",
+      27319658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 6",
+      27319666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 7",
+      27319674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 8",
+      27319682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 9",
+      27319690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 10",
+      27319698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 11",
+      27319706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 12",
+      27319714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 13",
+      27319722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 14",
+      27319730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 15",
+      27319738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 16",
+      27319746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 17",
+      27319754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 18",
+      27319762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 19",
+      27319770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 20",
+      27319778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 21",
+      27319786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 22",
+      27319794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 23",
+      27319802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 24",
+      27319810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 25",
+      27319818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 26",
+      27319826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 27",
+      27319834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 28",
+      27319842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 29",
+      27319850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 30",
+      27319858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 31",
+      27319866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 32",
+      27319874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 33",
+      27319882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 34",
+      27319890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 35",
+      27319898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 36",
+      27319906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 37",
+      27319914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 38",
+      27319922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 39",
+      27319930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 40",
+      27319938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 41",
+      27319946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 42",
+      27319954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 43",
+      27319962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 44",
+      27319970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 45",
+      27319978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 46",
+      27319986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 47",
+      27319994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 48",
+      27320002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 49",
+      27320010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 50",
+      27320018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 51",
+      27320026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 52",
+      27320034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 53",
+      27320042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 54",
+      27320050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 55",
+      27320058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 56",
+      27320066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 57",
+      27320074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 58",
+      27320082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 59",
+      27320090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 60",
+      27320098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 61",
+      27320106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 62",
+      27320114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 63",
+      27320122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Backpack Slot 64",
+      27320130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Summon Boat",
+      27320230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Scuttle Boat",
+      27320231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Visions",
+      27320232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell View Earth",
+      27320233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Disguise",
+      27320234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell View Air",
+      27320235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fly",
+      27320236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Water Walk",
+      27320237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Dimension Door",
+      27320238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Town Portal",
+      27320239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Quicksand",
+      27320240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Land Mine",
+      27320241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Force Field",
+      27320242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fire Wall",
+      27320243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Earthquake",
+      27320244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Magic Arrow",
+      27320245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Ice Bolt",
+      27320246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Lightning Bolt",
+      27320247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Implosion",
+      27320248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Chain Lightning",
+      27320249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Frost Ring",
+      27320250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fireball",
+      27320251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Inferno",
+      27320252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Meteor Shower",
+      27320253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Death Ripple",
+      27320254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Destroy Undead",
+      27320255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Armageddon",
+      27320256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Shield",
+      27320257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Air Shield",
+      27320258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fire Shield",
+      27320259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Protection from Air",
+      27320260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Protection from Fire",
+      27320261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Protection from Water",
+      27320262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Protection from Earth",
+      27320263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Anti Magic",
+      27320264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Dispel",
+      27320265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Magic Mirror",
+      27320266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Cure",
+      27320267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Resurrection",
+      27320268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Animate Dead",
+      27320269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Sacrifice",
+      27320270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Bless",
+      27320271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Curse",
+      27320272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Bloodlust",
+      27320273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Precision",
+      27320274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Weakness",
+      27320275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Stone Skin",
+      27320276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Disrupting Ray",
+      27320277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Prayer",
+      27320278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Mirth",
+      27320279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Sorrow",
+      27320280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fortune",
+      27320281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Misfortune",
+      27320282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Haste",
+      27320283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Slow",
+      27320284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Slayer",
+      27320285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Frenzy",
+      27320286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Titan's Lighting Bolt",
+      27320287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Counterstrike",
+      27320288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Berserk",
+      27320289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Hypnotize",
+      27320290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Forgetfulness",
+      27320291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Blind",
+      27320292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Teleport",
+      27320293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Remove Obstacle",
+      27320294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Clone",
+      27320295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Fire Elemental",
+      27320296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Earth Elemental",
+      27320297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Water Elemental",
+      27320298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spell Air Elemental",
+      27320299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Attack",
+      27320300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Def",
+      27320301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Spellpower",
+      27320302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Neela Knowledge",
+      27320303,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Calh Name",
+      27340253,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Movement",
+      27340295,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh EXP",
+      27340299,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 1",
+      27340363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 2",
+      27340367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 3",
+      27340371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 4",
+      27340375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 5",
+      27340379,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 6",
+      27340383,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Type Slot 7",
+      27340387,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 1",
+      27340391,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 2",
+      27340395,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 3",
+      27340399,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 4",
+      27340403,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 5",
+      27340407,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 6",
+      27340411,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Unit Count Slot 7",
+      27340415,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Pathfinding",
+      27340419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Archery",
+      27340420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Logistics",
+      27340421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Scouting",
+      27340422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Diplomacy",
+      27340423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Navigation",
+      27340424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Leadership",
+      27340425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Wisdom",
+      27340426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Mysticism",
+      27340427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Luck",
+      27340428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Ballistics",
+      27340429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Eagle Eye",
+      27340430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Necromancy",
+      27340431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Estates",
+      27340432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Fire Magic",
+      27340433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Air Magic",
+      27340434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Water Magic",
+      27340435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Earth Magic",
+      27340436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Scholar",
+      27340437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Tactics",
+      27340438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Artillery",
+      27340439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Learning",
+      27340440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Offence",
+      27340441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Armourer",
+      27340442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Intelligence",
+      27340443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Sorcery",
+      27340444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Resistance",
+      27340445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh First Aid",
+      27340446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Pathfinding Slot",
+      27340447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Archery Slot",
+      27340448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Logistics Slot",
+      27340449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Scouting Slot",
+      27340450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Diplomacy Slot",
+      27340451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Navigation Slot",
+      27340452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Leadership Slot",
+      27340453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Wisdom Slot",
+      27340454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Mysticism Slot",
+      27340455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Luck Slot",
+      27340456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Ballistics Slot",
+      27340457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Eagle Eye Slot",
+      27340458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Necromancy Slot",
+      27340459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Estates Slot",
+      27340460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Fire Magic Slot",
+      27340461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Air Magic Slot",
+      27340462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Water Magic Slot",
+      27340463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Earth Magic Slot",
+      27340464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Scholar Slot",
+      27340465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Tactics Slot",
+      27340466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Artillery Slot",
+      27340467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Learning Slot",
+      27340468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Offense Slot",
+      27340469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Armourer Slot",
+      27340470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Intelligence Slot",
+      27340471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Sorcery Slot",
+      27340472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Resistance Slot",
+      27340473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh First Aid Slot",
+      27340474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Skill Count",
+      27340475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Ballista equipped (4 or -1)",
+      27340623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Ammo Cart equipped (5 or -1)",
+      27340631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh First Aid equipped Item (6 or -1)",
+      27340639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Catapult equipped (3 or -1)",
+      27340647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spellbook equipped (0 or -1)",
+      27340655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 1",
+      27340686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 2",
+      27340694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 3",
+      27340702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 4",
+      27340710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 5",
+      27340718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 6",
+      27340726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 7",
+      27340734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 8",
+      27340742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 9",
+      27340750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 10",
+      27340758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 11",
+      27340766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 12",
+      27340774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 13",
+      27340782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 14",
+      27340790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 15",
+      27340798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 16",
+      27340806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 17",
+      27340814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 18",
+      27340822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 19",
+      27340830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 20",
+      27340838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 21",
+      27340846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 22",
+      27340854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 23",
+      27340862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 24",
+      27340870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 25",
+      27340878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 26",
+      27340886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 27",
+      27340894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 28",
+      27340902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 29",
+      27340910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 30",
+      27340918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 31",
+      27340926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 32",
+      27340934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 33",
+      27340942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 34",
+      27340950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 35",
+      27340958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 36",
+      27340966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 37",
+      27340974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 38",
+      27340982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 39",
+      27340990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 40",
+      27340998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 41",
+      27341006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 42",
+      27341014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 43",
+      27341022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 44",
+      27341030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 45",
+      27341038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 46",
+      27341046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 47",
+      27341054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 48",
+      27341062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 49",
+      27341070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 50",
+      27341078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 51",
+      27341086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 52",
+      27341094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 53",
+      27341102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 54",
+      27341110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 55",
+      27341118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 56",
+      27341126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 57",
+      27341134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 58",
+      27341142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 59",
+      27341150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 60",
+      27341158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 61",
+      27341166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 62",
+      27341174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 63",
+      27341182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Backpack Slot 64",
+      27341190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Summon Boat",
+      27341290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Scuttle Boat",
+      27341291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Visions",
+      27341292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell View Earth",
+      27341293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Disguise",
+      27341294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell View Air",
+      27341295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fly",
+      27341296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Water Walk",
+      27341297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Dimension Door",
+      27341298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Town Portal",
+      27341299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Quicksand",
+      27341300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Land Mine",
+      27341301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Force Field",
+      27341302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fire Wall",
+      27341303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Earthquake",
+      27341304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Magic Arrow",
+      27341305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Ice Bolt",
+      27341306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Lightning Bolt",
+      27341307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Implosion",
+      27341308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Chain Lightning",
+      27341309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Frost Ring",
+      27341310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fireball",
+      27341311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Inferno",
+      27341312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Meteor Shower",
+      27341313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Death Ripple",
+      27341314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Destroy Undead",
+      27341315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Armageddon",
+      27341316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Shield",
+      27341317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Air Shield",
+      27341318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fire Shield",
+      27341319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Protection from Air",
+      27341320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Protection from Fire",
+      27341321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Protection from Water",
+      27341322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Protection from Earth",
+      27341323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Anti Magic",
+      27341324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Dispel",
+      27341325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Magic Mirror",
+      27341326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Cure",
+      27341327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Resurrection",
+      27341328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Animate Dead",
+      27341329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Sacrifice",
+      27341330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Bless",
+      27341331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Curse",
+      27341332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Bloodlust",
+      27341333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Precision",
+      27341334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Weakness",
+      27341335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Stone Skin",
+      27341336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Disrupting Ray",
+      27341337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Prayer",
+      27341338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Mirth",
+      27341339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Sorrow",
+      27341340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fortune",
+      27341341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Misfortune",
+      27341342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Haste",
+      27341343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Slow",
+      27341344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Slayer",
+      27341345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Frenzy",
+      27341346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Titan's Lighting Bolt",
+      27341347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Counterstrike",
+      27341348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Berserk",
+      27341349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Hypnotize",
+      27341350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Forgetfulness",
+      27341351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Blind",
+      27341352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Teleport",
+      27341353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Remove Obstacle",
+      27341354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Clone",
+      27341355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Fire Elemental",
+      27341356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Earth Elemental",
+      27341357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Water Elemental",
+      27341358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spell Air Elemental",
+      27341359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Attack",
+      27341360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Def",
+      27341361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Spellpower",
+      27341362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Calh Knowledge",
+      27341363,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

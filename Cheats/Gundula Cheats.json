@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gundula Name",
+      27405773,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Movement",
+      27405815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula EXP",
+      27405819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 1",
+      27405883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 2",
+      27405887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 3",
+      27405891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 4",
+      27405895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 5",
+      27405899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 6",
+      27405903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Type Slot 7",
+      27405907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 1",
+      27405911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 2",
+      27405915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 3",
+      27405919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 4",
+      27405923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 5",
+      27405927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 6",
+      27405931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Unit Count Slot 7",
+      27405935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Pathfinding",
+      27405939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Archery",
+      27405940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Logistics",
+      27405941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Scouting",
+      27405942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Diplomacy",
+      27405943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Navigation",
+      27405944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Leadership",
+      27405945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Wisdom",
+      27405946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Mysticism",
+      27405947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Luck",
+      27405948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Ballistics",
+      27405949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Eagle Eye",
+      27405950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Necromancy",
+      27405951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Estates",
+      27405952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Fire Magic",
+      27405953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Air Magic",
+      27405954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Water Magic",
+      27405955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Earth Magic",
+      27405956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Scholar",
+      27405957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Tactics",
+      27405958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Artillery",
+      27405959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Learning",
+      27405960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Offence",
+      27405961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Armourer",
+      27405962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Intelligence",
+      27405963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Sorcery",
+      27405964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Resistance",
+      27405965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula First Aid",
+      27405966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Pathfinding Slot",
+      27405967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Archery Slot",
+      27405968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Logistics Slot",
+      27405969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Scouting Slot",
+      27405970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Diplomacy Slot",
+      27405971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Navigation Slot",
+      27405972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Leadership Slot",
+      27405973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Wisdom Slot",
+      27405974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Mysticism Slot",
+      27405975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Luck Slot",
+      27405976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Ballistics Slot",
+      27405977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Eagle Eye Slot",
+      27405978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Necromancy Slot",
+      27405979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Estates Slot",
+      27405980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Fire Magic Slot",
+      27405981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Air Magic Slot",
+      27405982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Water Magic Slot",
+      27405983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Earth Magic Slot",
+      27405984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Scholar Slot",
+      27405985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Tactics Slot",
+      27405986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Artillery Slot",
+      27405987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Learning Slot",
+      27405988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Offense Slot",
+      27405989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Armourer Slot",
+      27405990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Intelligence Slot",
+      27405991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Sorcery Slot",
+      27405992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Resistance Slot",
+      27405993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula First Aid Slot",
+      27405994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Skill Count",
+      27405995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Ballista equipped (4 or -1)",
+      27406143,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Ammo Cart equipped (5 or -1)",
+      27406151,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula First Aid equipped Item (6 or -1)",
+      27406159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Catapult equipped (3 or -1)",
+      27406167,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spellbook equipped (0 or -1)",
+      27406175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 1",
+      27406206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 2",
+      27406214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 3",
+      27406222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 4",
+      27406230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 5",
+      27406238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 6",
+      27406246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 7",
+      27406254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 8",
+      27406262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 9",
+      27406270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 10",
+      27406278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 11",
+      27406286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 12",
+      27406294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 13",
+      27406302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 14",
+      27406310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 15",
+      27406318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 16",
+      27406326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 17",
+      27406334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 18",
+      27406342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 19",
+      27406350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 20",
+      27406358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 21",
+      27406366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 22",
+      27406374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 23",
+      27406382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 24",
+      27406390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 25",
+      27406398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 26",
+      27406406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 27",
+      27406414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 28",
+      27406422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 29",
+      27406430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 30",
+      27406438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 31",
+      27406446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 32",
+      27406454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 33",
+      27406462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 34",
+      27406470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 35",
+      27406478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 36",
+      27406486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 37",
+      27406494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 38",
+      27406502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 39",
+      27406510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 40",
+      27406518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 41",
+      27406526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 42",
+      27406534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 43",
+      27406542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 44",
+      27406550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 45",
+      27406558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 46",
+      27406566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 47",
+      27406574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 48",
+      27406582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 49",
+      27406590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 50",
+      27406598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 51",
+      27406606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 52",
+      27406614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 53",
+      27406622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 54",
+      27406630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 55",
+      27406638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 56",
+      27406646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 57",
+      27406654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 58",
+      27406662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 59",
+      27406670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 60",
+      27406678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 61",
+      27406686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 62",
+      27406694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 63",
+      27406702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Backpack Slot 64",
+      27406710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Summon Boat",
+      27406810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Scuttle Boat",
+      27406811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Visions",
+      27406812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell View Earth",
+      27406813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Disguise",
+      27406814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell View Air",
+      27406815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fly",
+      27406816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Water Walk",
+      27406817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Dimension Door",
+      27406818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Town Portal",
+      27406819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Quicksand",
+      27406820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Land Mine",
+      27406821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Force Field",
+      27406822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fire Wall",
+      27406823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Earthquake",
+      27406824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Magic Arrow",
+      27406825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Ice Bolt",
+      27406826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Lightning Bolt",
+      27406827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Implosion",
+      27406828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Chain Lightning",
+      27406829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Frost Ring",
+      27406830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fireball",
+      27406831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Inferno",
+      27406832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Meteor Shower",
+      27406833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Death Ripple",
+      27406834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Destroy Undead",
+      27406835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Armageddon",
+      27406836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Shield",
+      27406837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Air Shield",
+      27406838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fire Shield",
+      27406839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Protection from Air",
+      27406840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Protection from Fire",
+      27406841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Protection from Water",
+      27406842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Protection from Earth",
+      27406843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Anti Magic",
+      27406844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Dispel",
+      27406845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Magic Mirror",
+      27406846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Cure",
+      27406847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Resurrection",
+      27406848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Animate Dead",
+      27406849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Sacrifice",
+      27406850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Bless",
+      27406851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Curse",
+      27406852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Bloodlust",
+      27406853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Precision",
+      27406854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Weakness",
+      27406855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Stone Skin",
+      27406856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Disrupting Ray",
+      27406857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Prayer",
+      27406858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Mirth",
+      27406859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Sorrow",
+      27406860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fortune",
+      27406861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Misfortune",
+      27406862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Haste",
+      27406863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Slow",
+      27406864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Slayer",
+      27406865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Frenzy",
+      27406866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Titan's Lighting Bolt",
+      27406867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Counterstrike",
+      27406868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Berserk",
+      27406869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Hypnotize",
+      27406870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Forgetfulness",
+      27406871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Blind",
+      27406872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Teleport",
+      27406873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Remove Obstacle",
+      27406874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Clone",
+      27406875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Fire Elemental",
+      27406876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Earth Elemental",
+      27406877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Water Elemental",
+      27406878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spell Air Elemental",
+      27406879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Attack",
+      27406880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Def",
+      27406881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Spellpower",
+      27406882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gundula Knowledge",
+      27406883,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ciele Name",
+      27439703,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Movement",
+      27439745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele EXP",
+      27439749,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 1",
+      27439813,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 2",
+      27439817,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 3",
+      27439821,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 4",
+      27439825,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 5",
+      27439829,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 6",
+      27439833,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Type Slot 7",
+      27439837,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 1",
+      27439841,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 2",
+      27439845,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 3",
+      27439849,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 4",
+      27439853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 5",
+      27439857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 6",
+      27439861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Unit Count Slot 7",
+      27439865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Pathfinding",
+      27439869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Archery",
+      27439870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Logistics",
+      27439871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Scouting",
+      27439872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Diplomacy",
+      27439873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Navigation",
+      27439874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Leadership",
+      27439875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Wisdom",
+      27439876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Mysticism",
+      27439877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Luck",
+      27439878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Ballistics",
+      27439879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Eagle Eye",
+      27439880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Necromancy",
+      27439881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Estates",
+      27439882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Fire Magic",
+      27439883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Air Magic",
+      27439884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Water Magic",
+      27439885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Earth Magic",
+      27439886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Scholar",
+      27439887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Tactics",
+      27439888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Artillery",
+      27439889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Learning",
+      27439890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Offence",
+      27439891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Armourer",
+      27439892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Intelligence",
+      27439893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Sorcery",
+      27439894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Resistance",
+      27439895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele First Aid",
+      27439896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Pathfinding Slot",
+      27439897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Archery Slot",
+      27439898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Logistics Slot",
+      27439899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Scouting Slot",
+      27439900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Diplomacy Slot",
+      27439901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Navigation Slot",
+      27439902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Leadership Slot",
+      27439903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Wisdom Slot",
+      27439904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Mysticism Slot",
+      27439905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Luck Slot",
+      27439906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Ballistics Slot",
+      27439907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Eagle Eye Slot",
+      27439908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Necromancy Slot",
+      27439909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Estates Slot",
+      27439910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Fire Magic Slot",
+      27439911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Air Magic Slot",
+      27439912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Water Magic Slot",
+      27439913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Earth Magic Slot",
+      27439914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Scholar Slot",
+      27439915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Tactics Slot",
+      27439916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Artillery Slot",
+      27439917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Learning Slot",
+      27439918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Offense Slot",
+      27439919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Armourer Slot",
+      27439920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Intelligence Slot",
+      27439921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Sorcery Slot",
+      27439922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Resistance Slot",
+      27439923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele First Aid Slot",
+      27439924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Skill Count",
+      27439925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Ballista equipped (4 or -1)",
+      27440073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Ammo Cart equipped (5 or -1)",
+      27440081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele First Aid equipped Item (6 or -1)",
+      27440089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Catapult equipped (3 or -1)",
+      27440097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spellbook equipped (0 or -1)",
+      27440105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 1",
+      27440136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 2",
+      27440144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 3",
+      27440152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 4",
+      27440160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 5",
+      27440168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 6",
+      27440176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 7",
+      27440184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 8",
+      27440192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 9",
+      27440200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 10",
+      27440208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 11",
+      27440216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 12",
+      27440224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 13",
+      27440232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 14",
+      27440240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 15",
+      27440248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 16",
+      27440256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 17",
+      27440264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 18",
+      27440272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 19",
+      27440280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 20",
+      27440288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 21",
+      27440296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 22",
+      27440304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 23",
+      27440312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 24",
+      27440320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 25",
+      27440328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 26",
+      27440336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 27",
+      27440344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 28",
+      27440352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 29",
+      27440360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 30",
+      27440368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 31",
+      27440376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 32",
+      27440384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 33",
+      27440392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 34",
+      27440400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 35",
+      27440408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 36",
+      27440416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 37",
+      27440424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 38",
+      27440432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 39",
+      27440440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 40",
+      27440448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 41",
+      27440456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 42",
+      27440464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 43",
+      27440472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 44",
+      27440480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 45",
+      27440488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 46",
+      27440496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 47",
+      27440504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 48",
+      27440512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 49",
+      27440520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 50",
+      27440528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 51",
+      27440536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 52",
+      27440544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 53",
+      27440552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 54",
+      27440560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 55",
+      27440568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 56",
+      27440576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 57",
+      27440584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 58",
+      27440592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 59",
+      27440600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 60",
+      27440608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 61",
+      27440616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 62",
+      27440624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 63",
+      27440632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Backpack Slot 64",
+      27440640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Summon Boat",
+      27440740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Scuttle Boat",
+      27440741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Visions",
+      27440742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell View Earth",
+      27440743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Disguise",
+      27440744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell View Air",
+      27440745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fly",
+      27440746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Water Walk",
+      27440747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Dimension Door",
+      27440748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Town Portal",
+      27440749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Quicksand",
+      27440750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Land Mine",
+      27440751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Force Field",
+      27440752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fire Wall",
+      27440753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Earthquake",
+      27440754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Magic Arrow",
+      27440755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Ice Bolt",
+      27440756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Lightning Bolt",
+      27440757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Implosion",
+      27440758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Chain Lightning",
+      27440759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Frost Ring",
+      27440760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fireball",
+      27440761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Inferno",
+      27440762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Meteor Shower",
+      27440763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Death Ripple",
+      27440764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Destroy Undead",
+      27440765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Armageddon",
+      27440766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Shield",
+      27440767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Air Shield",
+      27440768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fire Shield",
+      27440769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Protection from Air",
+      27440770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Protection from Fire",
+      27440771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Protection from Water",
+      27440772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Protection from Earth",
+      27440773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Anti Magic",
+      27440774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Dispel",
+      27440775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Magic Mirror",
+      27440776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Cure",
+      27440777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Resurrection",
+      27440778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Animate Dead",
+      27440779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Sacrifice",
+      27440780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Bless",
+      27440781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Curse",
+      27440782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Bloodlust",
+      27440783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Precision",
+      27440784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Weakness",
+      27440785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Stone Skin",
+      27440786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Disrupting Ray",
+      27440787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Prayer",
+      27440788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Mirth",
+      27440789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Sorrow",
+      27440790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fortune",
+      27440791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Misfortune",
+      27440792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Haste",
+      27440793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Slow",
+      27440794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Slayer",
+      27440795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Frenzy",
+      27440796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Titan's Lighting Bolt",
+      27440797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Counterstrike",
+      27440798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Berserk",
+      27440799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Hypnotize",
+      27440800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Forgetfulness",
+      27440801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Blind",
+      27440802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Teleport",
+      27440803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Remove Obstacle",
+      27440804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Clone",
+      27440805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Fire Elemental",
+      27440806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Earth Elemental",
+      27440807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Water Elemental",
+      27440808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spell Air Elemental",
+      27440809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Attack",
+      27440810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Def",
+      27440811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Spellpower",
+      27440812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ciele Knowledge",
+      27440813,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Grindan Name",
+      27445553,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Movement",
+      27445595,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan EXP",
+      27445599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 1",
+      27445663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 2",
+      27445667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 3",
+      27445671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 4",
+      27445675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 5",
+      27445679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 6",
+      27445683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Type Slot 7",
+      27445687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 1",
+      27445691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 2",
+      27445695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 3",
+      27445699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 4",
+      27445703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 5",
+      27445707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 6",
+      27445711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Unit Count Slot 7",
+      27445715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Pathfinding",
+      27445719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Archery",
+      27445720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Logistics",
+      27445721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Scouting",
+      27445722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Diplomacy",
+      27445723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Navigation",
+      27445724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Leadership",
+      27445725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Wisdom",
+      27445726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Mysticism",
+      27445727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Luck",
+      27445728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Ballistics",
+      27445729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Eagle Eye",
+      27445730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Necromancy",
+      27445731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Estates",
+      27445732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Fire Magic",
+      27445733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Air Magic",
+      27445734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Water Magic",
+      27445735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Earth Magic",
+      27445736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Scholar",
+      27445737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Tactics",
+      27445738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Artillery",
+      27445739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Learning",
+      27445740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Offence",
+      27445741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Armourer",
+      27445742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Intelligence",
+      27445743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Sorcery",
+      27445744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Resistance",
+      27445745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan First Aid",
+      27445746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Pathfinding Slot",
+      27445747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Archery Slot",
+      27445748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Logistics Slot",
+      27445749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Scouting Slot",
+      27445750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Diplomacy Slot",
+      27445751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Navigation Slot",
+      27445752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Leadership Slot",
+      27445753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Wisdom Slot",
+      27445754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Mysticism Slot",
+      27445755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Luck Slot",
+      27445756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Ballistics Slot",
+      27445757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Eagle Eye Slot",
+      27445758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Necromancy Slot",
+      27445759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Estates Slot",
+      27445760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Fire Magic Slot",
+      27445761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Air Magic Slot",
+      27445762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Water Magic Slot",
+      27445763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Earth Magic Slot",
+      27445764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Scholar Slot",
+      27445765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Tactics Slot",
+      27445766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Artillery Slot",
+      27445767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Learning Slot",
+      27445768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Offense Slot",
+      27445769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Armourer Slot",
+      27445770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Intelligence Slot",
+      27445771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Sorcery Slot",
+      27445772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Resistance Slot",
+      27445773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan First Aid Slot",
+      27445774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Skill Count",
+      27445775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Ballista equipped (4 or -1)",
+      27445923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Ammo Cart equipped (5 or -1)",
+      27445931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan First Aid equipped Item (6 or -1)",
+      27445939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Catapult equipped (3 or -1)",
+      27445947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spellbook equipped (0 or -1)",
+      27445955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 1",
+      27445986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 2",
+      27445994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 3",
+      27446002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 4",
+      27446010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 5",
+      27446018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 6",
+      27446026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 7",
+      27446034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 8",
+      27446042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 9",
+      27446050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 10",
+      27446058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 11",
+      27446066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 12",
+      27446074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 13",
+      27446082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 14",
+      27446090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 15",
+      27446098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 16",
+      27446106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 17",
+      27446114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 18",
+      27446122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 19",
+      27446130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 20",
+      27446138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 21",
+      27446146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 22",
+      27446154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 23",
+      27446162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 24",
+      27446170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 25",
+      27446178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 26",
+      27446186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 27",
+      27446194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 28",
+      27446202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 29",
+      27446210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 30",
+      27446218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 31",
+      27446226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 32",
+      27446234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 33",
+      27446242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 34",
+      27446250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 35",
+      27446258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 36",
+      27446266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 37",
+      27446274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 38",
+      27446282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 39",
+      27446290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 40",
+      27446298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 41",
+      27446306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 42",
+      27446314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 43",
+      27446322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 44",
+      27446330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 45",
+      27446338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 46",
+      27446346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 47",
+      27446354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 48",
+      27446362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 49",
+      27446370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 50",
+      27446378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 51",
+      27446386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 52",
+      27446394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 53",
+      27446402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 54",
+      27446410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 55",
+      27446418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 56",
+      27446426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 57",
+      27446434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 58",
+      27446442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 59",
+      27446450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 60",
+      27446458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 61",
+      27446466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 62",
+      27446474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 63",
+      27446482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Backpack Slot 64",
+      27446490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Summon Boat",
+      27446590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Scuttle Boat",
+      27446591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Visions",
+      27446592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell View Earth",
+      27446593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Disguise",
+      27446594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell View Air",
+      27446595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fly",
+      27446596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Water Walk",
+      27446597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Dimension Door",
+      27446598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Town Portal",
+      27446599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Quicksand",
+      27446600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Land Mine",
+      27446601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Force Field",
+      27446602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fire Wall",
+      27446603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Earthquake",
+      27446604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Magic Arrow",
+      27446605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Ice Bolt",
+      27446606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Lightning Bolt",
+      27446607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Implosion",
+      27446608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Chain Lightning",
+      27446609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Frost Ring",
+      27446610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fireball",
+      27446611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Inferno",
+      27446612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Meteor Shower",
+      27446613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Death Ripple",
+      27446614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Destroy Undead",
+      27446615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Armageddon",
+      27446616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Shield",
+      27446617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Air Shield",
+      27446618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fire Shield",
+      27446619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Protection from Air",
+      27446620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Protection from Fire",
+      27446621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Protection from Water",
+      27446622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Protection from Earth",
+      27446623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Anti Magic",
+      27446624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Dispel",
+      27446625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Magic Mirror",
+      27446626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Cure",
+      27446627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Resurrection",
+      27446628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Animate Dead",
+      27446629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Sacrifice",
+      27446630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Bless",
+      27446631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Curse",
+      27446632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Bloodlust",
+      27446633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Precision",
+      27446634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Weakness",
+      27446635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Stone Skin",
+      27446636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Disrupting Ray",
+      27446637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Prayer",
+      27446638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Mirth",
+      27446639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Sorrow",
+      27446640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fortune",
+      27446641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Misfortune",
+      27446642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Haste",
+      27446643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Slow",
+      27446644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Slayer",
+      27446645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Frenzy",
+      27446646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Titan's Lighting Bolt",
+      27446647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Counterstrike",
+      27446648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Berserk",
+      27446649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Hypnotize",
+      27446650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Forgetfulness",
+      27446651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Blind",
+      27446652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Teleport",
+      27446653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Remove Obstacle",
+      27446654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Clone",
+      27446655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Fire Elemental",
+      27446656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Earth Elemental",
+      27446657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Water Elemental",
+      27446658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spell Air Elemental",
+      27446659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Attack",
+      27446660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Def",
+      27446661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Spellpower",
+      27446662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Grindan Knowledge",
+      27446663,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

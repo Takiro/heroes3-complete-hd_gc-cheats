@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gurnisson Name",
+      27391733,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Movement",
+      27391775,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson EXP",
+      27391779,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 1",
+      27391843,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 2",
+      27391847,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 3",
+      27391851,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 4",
+      27391855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 5",
+      27391859,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 6",
+      27391863,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Type Slot 7",
+      27391867,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 1",
+      27391871,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 2",
+      27391875,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 3",
+      27391879,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 4",
+      27391883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 5",
+      27391887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 6",
+      27391891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Unit Count Slot 7",
+      27391895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Pathfinding",
+      27391899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Archery",
+      27391900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Logistics",
+      27391901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Scouting",
+      27391902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Diplomacy",
+      27391903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Navigation",
+      27391904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Leadership",
+      27391905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Wisdom",
+      27391906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Mysticism",
+      27391907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Luck",
+      27391908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Ballistics",
+      27391909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Eagle Eye",
+      27391910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Necromancy",
+      27391911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Estates",
+      27391912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Fire Magic",
+      27391913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Air Magic",
+      27391914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Water Magic",
+      27391915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Earth Magic",
+      27391916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Scholar",
+      27391917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Tactics",
+      27391918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Artillery",
+      27391919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Learning",
+      27391920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Offence",
+      27391921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Armourer",
+      27391922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Intelligence",
+      27391923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Sorcery",
+      27391924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Resistance",
+      27391925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson First Aid",
+      27391926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Pathfinding Slot",
+      27391927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Archery Slot",
+      27391928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Logistics Slot",
+      27391929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Scouting Slot",
+      27391930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Diplomacy Slot",
+      27391931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Navigation Slot",
+      27391932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Leadership Slot",
+      27391933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Wisdom Slot",
+      27391934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Mysticism Slot",
+      27391935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Luck Slot",
+      27391936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Ballistics Slot",
+      27391937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Eagle Eye Slot",
+      27391938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Necromancy Slot",
+      27391939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Estates Slot",
+      27391940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Fire Magic Slot",
+      27391941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Air Magic Slot",
+      27391942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Water Magic Slot",
+      27391943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Earth Magic Slot",
+      27391944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Scholar Slot",
+      27391945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Tactics Slot",
+      27391946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Artillery Slot",
+      27391947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Learning Slot",
+      27391948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Offense Slot",
+      27391949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Armourer Slot",
+      27391950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Intelligence Slot",
+      27391951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Sorcery Slot",
+      27391952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Resistance Slot",
+      27391953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson First Aid Slot",
+      27391954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Skill Count",
+      27391955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Ballista equipped (4 or -1)",
+      27392103,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Ammo Cart equipped (5 or -1)",
+      27392111,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson First Aid equipped Item (6 or -1)",
+      27392119,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Catapult equipped (3 or -1)",
+      27392127,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spellbook equipped (0 or -1)",
+      27392135,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 1",
+      27392166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 2",
+      27392174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 3",
+      27392182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 4",
+      27392190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 5",
+      27392198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 6",
+      27392206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 7",
+      27392214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 8",
+      27392222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 9",
+      27392230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 10",
+      27392238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 11",
+      27392246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 12",
+      27392254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 13",
+      27392262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 14",
+      27392270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 15",
+      27392278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 16",
+      27392286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 17",
+      27392294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 18",
+      27392302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 19",
+      27392310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 20",
+      27392318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 21",
+      27392326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 22",
+      27392334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 23",
+      27392342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 24",
+      27392350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 25",
+      27392358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 26",
+      27392366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 27",
+      27392374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 28",
+      27392382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 29",
+      27392390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 30",
+      27392398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 31",
+      27392406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 32",
+      27392414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 33",
+      27392422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 34",
+      27392430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 35",
+      27392438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 36",
+      27392446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 37",
+      27392454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 38",
+      27392462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 39",
+      27392470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 40",
+      27392478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 41",
+      27392486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 42",
+      27392494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 43",
+      27392502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 44",
+      27392510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 45",
+      27392518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 46",
+      27392526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 47",
+      27392534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 48",
+      27392542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 49",
+      27392550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 50",
+      27392558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 51",
+      27392566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 52",
+      27392574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 53",
+      27392582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 54",
+      27392590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 55",
+      27392598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 56",
+      27392606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 57",
+      27392614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 58",
+      27392622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 59",
+      27392630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 60",
+      27392638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 61",
+      27392646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 62",
+      27392654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 63",
+      27392662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Backpack Slot 64",
+      27392670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Summon Boat",
+      27392770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Scuttle Boat",
+      27392771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Visions",
+      27392772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell View Earth",
+      27392773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Disguise",
+      27392774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell View Air",
+      27392775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fly",
+      27392776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Water Walk",
+      27392777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Dimension Door",
+      27392778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Town Portal",
+      27392779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Quicksand",
+      27392780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Land Mine",
+      27392781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Force Field",
+      27392782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fire Wall",
+      27392783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Earthquake",
+      27392784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Magic Arrow",
+      27392785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Ice Bolt",
+      27392786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Lightning Bolt",
+      27392787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Implosion",
+      27392788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Chain Lightning",
+      27392789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Frost Ring",
+      27392790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fireball",
+      27392791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Inferno",
+      27392792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Meteor Shower",
+      27392793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Death Ripple",
+      27392794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Destroy Undead",
+      27392795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Armageddon",
+      27392796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Shield",
+      27392797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Air Shield",
+      27392798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fire Shield",
+      27392799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Protection from Air",
+      27392800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Protection from Fire",
+      27392801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Protection from Water",
+      27392802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Protection from Earth",
+      27392803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Anti Magic",
+      27392804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Dispel",
+      27392805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Magic Mirror",
+      27392806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Cure",
+      27392807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Resurrection",
+      27392808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Animate Dead",
+      27392809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Sacrifice",
+      27392810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Bless",
+      27392811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Curse",
+      27392812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Bloodlust",
+      27392813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Precision",
+      27392814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Weakness",
+      27392815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Stone Skin",
+      27392816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Disrupting Ray",
+      27392817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Prayer",
+      27392818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Mirth",
+      27392819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Sorrow",
+      27392820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fortune",
+      27392821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Misfortune",
+      27392822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Haste",
+      27392823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Slow",
+      27392824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Slayer",
+      27392825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Frenzy",
+      27392826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Titan's Lighting Bolt",
+      27392827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Counterstrike",
+      27392828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Berserk",
+      27392829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Hypnotize",
+      27392830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Forgetfulness",
+      27392831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Blind",
+      27392832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Teleport",
+      27392833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Remove Obstacle",
+      27392834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Clone",
+      27392835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Fire Elemental",
+      27392836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Earth Elemental",
+      27392837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Water Elemental",
+      27392838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spell Air Elemental",
+      27392839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Attack",
+      27392840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Def",
+      27392841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Spellpower",
+      27392842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gurnisson Knowledge",
+      27392843,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

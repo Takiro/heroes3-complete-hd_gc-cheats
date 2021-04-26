@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Damacon Name",
+      27376523,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Movement",
+      27376565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon EXP",
+      27376569,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 1",
+      27376633,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 2",
+      27376637,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 3",
+      27376641,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 4",
+      27376645,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 5",
+      27376649,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 6",
+      27376653,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Type Slot 7",
+      27376657,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 1",
+      27376661,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 2",
+      27376665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 3",
+      27376669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 4",
+      27376673,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 5",
+      27376677,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 6",
+      27376681,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Unit Count Slot 7",
+      27376685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Pathfinding",
+      27376689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Archery",
+      27376690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Logistics",
+      27376691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Scouting",
+      27376692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Diplomacy",
+      27376693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Navigation",
+      27376694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Leadership",
+      27376695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Wisdom",
+      27376696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Mysticism",
+      27376697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Luck",
+      27376698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Ballistics",
+      27376699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Eagle Eye",
+      27376700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Necromancy",
+      27376701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Estates",
+      27376702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Fire Magic",
+      27376703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Air Magic",
+      27376704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Water Magic",
+      27376705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Earth Magic",
+      27376706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Scholar",
+      27376707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Tactics",
+      27376708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Artillery",
+      27376709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Learning",
+      27376710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Offence",
+      27376711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Armourer",
+      27376712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Intelligence",
+      27376713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Sorcery",
+      27376714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Resistance",
+      27376715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon First Aid",
+      27376716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Pathfinding Slot",
+      27376717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Archery Slot",
+      27376718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Logistics Slot",
+      27376719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Scouting Slot",
+      27376720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Diplomacy Slot",
+      27376721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Navigation Slot",
+      27376722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Leadership Slot",
+      27376723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Wisdom Slot",
+      27376724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Mysticism Slot",
+      27376725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Luck Slot",
+      27376726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Ballistics Slot",
+      27376727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Eagle Eye Slot",
+      27376728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Necromancy Slot",
+      27376729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Estates Slot",
+      27376730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Fire Magic Slot",
+      27376731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Air Magic Slot",
+      27376732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Water Magic Slot",
+      27376733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Earth Magic Slot",
+      27376734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Scholar Slot",
+      27376735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Tactics Slot",
+      27376736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Artillery Slot",
+      27376737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Learning Slot",
+      27376738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Offense Slot",
+      27376739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Armourer Slot",
+      27376740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Intelligence Slot",
+      27376741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Sorcery Slot",
+      27376742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Resistance Slot",
+      27376743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon First Aid Slot",
+      27376744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Skill Count",
+      27376745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Ballista equipped (4 or -1)",
+      27376893,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Ammo Cart equipped (5 or -1)",
+      27376901,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon First Aid equipped Item (6 or -1)",
+      27376909,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Catapult equipped (3 or -1)",
+      27376917,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spellbook equipped (0 or -1)",
+      27376925,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 1",
+      27376956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 2",
+      27376964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 3",
+      27376972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 4",
+      27376980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 5",
+      27376988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 6",
+      27376996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 7",
+      27377004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 8",
+      27377012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 9",
+      27377020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 10",
+      27377028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 11",
+      27377036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 12",
+      27377044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 13",
+      27377052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 14",
+      27377060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 15",
+      27377068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 16",
+      27377076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 17",
+      27377084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 18",
+      27377092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 19",
+      27377100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 20",
+      27377108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 21",
+      27377116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 22",
+      27377124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 23",
+      27377132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 24",
+      27377140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 25",
+      27377148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 26",
+      27377156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 27",
+      27377164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 28",
+      27377172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 29",
+      27377180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 30",
+      27377188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 31",
+      27377196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 32",
+      27377204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 33",
+      27377212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 34",
+      27377220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 35",
+      27377228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 36",
+      27377236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 37",
+      27377244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 38",
+      27377252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 39",
+      27377260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 40",
+      27377268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 41",
+      27377276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 42",
+      27377284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 43",
+      27377292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 44",
+      27377300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 45",
+      27377308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 46",
+      27377316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 47",
+      27377324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 48",
+      27377332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 49",
+      27377340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 50",
+      27377348,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 51",
+      27377356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 52",
+      27377364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 53",
+      27377372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 54",
+      27377380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 55",
+      27377388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 56",
+      27377396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 57",
+      27377404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 58",
+      27377412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 59",
+      27377420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 60",
+      27377428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 61",
+      27377436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 62",
+      27377444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 63",
+      27377452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Backpack Slot 64",
+      27377460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Summon Boat",
+      27377560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Scuttle Boat",
+      27377561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Visions",
+      27377562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell View Earth",
+      27377563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Disguise",
+      27377564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell View Air",
+      27377565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fly",
+      27377566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Water Walk",
+      27377567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Dimension Door",
+      27377568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Town Portal",
+      27377569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Quicksand",
+      27377570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Land Mine",
+      27377571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Force Field",
+      27377572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fire Wall",
+      27377573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Earthquake",
+      27377574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Magic Arrow",
+      27377575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Ice Bolt",
+      27377576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Lightning Bolt",
+      27377577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Implosion",
+      27377578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Chain Lightning",
+      27377579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Frost Ring",
+      27377580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fireball",
+      27377581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Inferno",
+      27377582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Meteor Shower",
+      27377583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Death Ripple",
+      27377584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Destroy Undead",
+      27377585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Armageddon",
+      27377586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Shield",
+      27377587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Air Shield",
+      27377588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fire Shield",
+      27377589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Protection from Air",
+      27377590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Protection from Fire",
+      27377591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Protection from Water",
+      27377592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Protection from Earth",
+      27377593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Anti Magic",
+      27377594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Dispel",
+      27377595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Magic Mirror",
+      27377596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Cure",
+      27377597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Resurrection",
+      27377598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Animate Dead",
+      27377599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Sacrifice",
+      27377600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Bless",
+      27377601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Curse",
+      27377602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Bloodlust",
+      27377603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Precision",
+      27377604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Weakness",
+      27377605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Stone Skin",
+      27377606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Disrupting Ray",
+      27377607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Prayer",
+      27377608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Mirth",
+      27377609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Sorrow",
+      27377610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fortune",
+      27377611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Misfortune",
+      27377612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Haste",
+      27377613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Slow",
+      27377614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Slayer",
+      27377615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Frenzy",
+      27377616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Titan's Lighting Bolt",
+      27377617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Counterstrike",
+      27377618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Berserk",
+      27377619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Hypnotize",
+      27377620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Forgetfulness",
+      27377621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Blind",
+      27377622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Teleport",
+      27377623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Remove Obstacle",
+      27377624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Clone",
+      27377625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Fire Elemental",
+      27377626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Earth Elemental",
+      27377627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Water Elemental",
+      27377628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spell Air Elemental",
+      27377629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Attack",
+      27377630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Def",
+      27377631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Spellpower",
+      27377632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Damacon Knowledge",
+      27377633,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

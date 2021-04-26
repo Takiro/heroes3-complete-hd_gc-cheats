@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gerwulf Name",
+      27416303,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Movement",
+      27416345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf EXP",
+      27416349,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 1",
+      27416413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 2",
+      27416417,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 3",
+      27416421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 4",
+      27416425,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 5",
+      27416429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 6",
+      27416433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Type Slot 7",
+      27416437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 1",
+      27416441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 2",
+      27416445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 3",
+      27416449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 4",
+      27416453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 5",
+      27416457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 6",
+      27416461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Unit Count Slot 7",
+      27416465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Pathfinding",
+      27416469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Archery",
+      27416470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Logistics",
+      27416471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Scouting",
+      27416472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Diplomacy",
+      27416473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Navigation",
+      27416474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Leadership",
+      27416475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Wisdom",
+      27416476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Mysticism",
+      27416477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Luck",
+      27416478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Ballistics",
+      27416479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Eagle Eye",
+      27416480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Necromancy",
+      27416481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Estates",
+      27416482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Fire Magic",
+      27416483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Air Magic",
+      27416484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Water Magic",
+      27416485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Earth Magic",
+      27416486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Scholar",
+      27416487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Tactics",
+      27416488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Artillery",
+      27416489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Learning",
+      27416490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Offence",
+      27416491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Armourer",
+      27416492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Intelligence",
+      27416493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Sorcery",
+      27416494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Resistance",
+      27416495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf First Aid",
+      27416496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Pathfinding Slot",
+      27416497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Archery Slot",
+      27416498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Logistics Slot",
+      27416499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Scouting Slot",
+      27416500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Diplomacy Slot",
+      27416501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Navigation Slot",
+      27416502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Leadership Slot",
+      27416503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Wisdom Slot",
+      27416504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Mysticism Slot",
+      27416505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Luck Slot",
+      27416506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Ballistics Slot",
+      27416507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Eagle Eye Slot",
+      27416508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Necromancy Slot",
+      27416509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Estates Slot",
+      27416510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Fire Magic Slot",
+      27416511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Air Magic Slot",
+      27416512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Water Magic Slot",
+      27416513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Earth Magic Slot",
+      27416514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Scholar Slot",
+      27416515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Tactics Slot",
+      27416516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Artillery Slot",
+      27416517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Learning Slot",
+      27416518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Offense Slot",
+      27416519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Armourer Slot",
+      27416520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Intelligence Slot",
+      27416521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Sorcery Slot",
+      27416522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Resistance Slot",
+      27416523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf First Aid Slot",
+      27416524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Skill Count",
+      27416525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Ballista equipped (4 or -1)",
+      27416673,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Ammo Cart equipped (5 or -1)",
+      27416681,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf First Aid equipped Item (6 or -1)",
+      27416689,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Catapult equipped (3 or -1)",
+      27416697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spellbook equipped (0 or -1)",
+      27416705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 1",
+      27416736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 2",
+      27416744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 3",
+      27416752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 4",
+      27416760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 5",
+      27416768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 6",
+      27416776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 7",
+      27416784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 8",
+      27416792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 9",
+      27416800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 10",
+      27416808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 11",
+      27416816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 12",
+      27416824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 13",
+      27416832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 14",
+      27416840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 15",
+      27416848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 16",
+      27416856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 17",
+      27416864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 18",
+      27416872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 19",
+      27416880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 20",
+      27416888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 21",
+      27416896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 22",
+      27416904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 23",
+      27416912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 24",
+      27416920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 25",
+      27416928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 26",
+      27416936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 27",
+      27416944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 28",
+      27416952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 29",
+      27416960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 30",
+      27416968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 31",
+      27416976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 32",
+      27416984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 33",
+      27416992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 34",
+      27417000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 35",
+      27417008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 36",
+      27417016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 37",
+      27417024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 38",
+      27417032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 39",
+      27417040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 40",
+      27417048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 41",
+      27417056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 42",
+      27417064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 43",
+      27417072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 44",
+      27417080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 45",
+      27417088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 46",
+      27417096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 47",
+      27417104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 48",
+      27417112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 49",
+      27417120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 50",
+      27417128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 51",
+      27417136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 52",
+      27417144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 53",
+      27417152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 54",
+      27417160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 55",
+      27417168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 56",
+      27417176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 57",
+      27417184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 58",
+      27417192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 59",
+      27417200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 60",
+      27417208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 61",
+      27417216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 62",
+      27417224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 63",
+      27417232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Backpack Slot 64",
+      27417240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Summon Boat",
+      27417340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Scuttle Boat",
+      27417341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Visions",
+      27417342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell View Earth",
+      27417343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Disguise",
+      27417344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell View Air",
+      27417345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fly",
+      27417346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Water Walk",
+      27417347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Dimension Door",
+      27417348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Town Portal",
+      27417349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Quicksand",
+      27417350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Land Mine",
+      27417351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Force Field",
+      27417352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fire Wall",
+      27417353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Earthquake",
+      27417354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Magic Arrow",
+      27417355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Ice Bolt",
+      27417356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Lightning Bolt",
+      27417357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Implosion",
+      27417358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Chain Lightning",
+      27417359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Frost Ring",
+      27417360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fireball",
+      27417361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Inferno",
+      27417362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Meteor Shower",
+      27417363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Death Ripple",
+      27417364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Destroy Undead",
+      27417365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Armageddon",
+      27417366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Shield",
+      27417367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Air Shield",
+      27417368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fire Shield",
+      27417369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Protection from Air",
+      27417370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Protection from Fire",
+      27417371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Protection from Water",
+      27417372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Protection from Earth",
+      27417373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Anti Magic",
+      27417374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Dispel",
+      27417375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Magic Mirror",
+      27417376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Cure",
+      27417377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Resurrection",
+      27417378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Animate Dead",
+      27417379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Sacrifice",
+      27417380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Bless",
+      27417381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Curse",
+      27417382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Bloodlust",
+      27417383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Precision",
+      27417384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Weakness",
+      27417385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Stone Skin",
+      27417386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Disrupting Ray",
+      27417387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Prayer",
+      27417388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Mirth",
+      27417389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Sorrow",
+      27417390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fortune",
+      27417391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Misfortune",
+      27417392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Haste",
+      27417393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Slow",
+      27417394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Slayer",
+      27417395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Frenzy",
+      27417396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Titan's Lighting Bolt",
+      27417397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Counterstrike",
+      27417398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Berserk",
+      27417399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Hypnotize",
+      27417400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Forgetfulness",
+      27417401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Blind",
+      27417402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Teleport",
+      27417403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Remove Obstacle",
+      27417404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Clone",
+      27417405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Fire Elemental",
+      27417406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Earth Elemental",
+      27417407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Water Elemental",
+      27417408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spell Air Elemental",
+      27417409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Attack",
+      27417410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Def",
+      27417411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Spellpower",
+      27417412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gerwulf Knowledge",
+      27417413,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

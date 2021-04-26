@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Krellion Name",
+      27396413,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Movement",
+      27396455,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion EXP",
+      27396459,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 1",
+      27396523,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 2",
+      27396527,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 3",
+      27396531,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 4",
+      27396535,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 5",
+      27396539,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 6",
+      27396543,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Type Slot 7",
+      27396547,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 1",
+      27396551,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 2",
+      27396555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 3",
+      27396559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 4",
+      27396563,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 5",
+      27396567,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 6",
+      27396571,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Unit Count Slot 7",
+      27396575,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Pathfinding",
+      27396579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Archery",
+      27396580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Logistics",
+      27396581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Scouting",
+      27396582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Diplomacy",
+      27396583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Navigation",
+      27396584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Leadership",
+      27396585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Wisdom",
+      27396586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Mysticism",
+      27396587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Luck",
+      27396588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Ballistics",
+      27396589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Eagle Eye",
+      27396590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Necromancy",
+      27396591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Estates",
+      27396592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Fire Magic",
+      27396593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Air Magic",
+      27396594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Water Magic",
+      27396595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Earth Magic",
+      27396596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Scholar",
+      27396597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Tactics",
+      27396598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Artillery",
+      27396599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Learning",
+      27396600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Offence",
+      27396601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Armourer",
+      27396602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Intelligence",
+      27396603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Sorcery",
+      27396604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Resistance",
+      27396605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion First Aid",
+      27396606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Pathfinding Slot",
+      27396607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Archery Slot",
+      27396608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Logistics Slot",
+      27396609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Scouting Slot",
+      27396610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Diplomacy Slot",
+      27396611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Navigation Slot",
+      27396612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Leadership Slot",
+      27396613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Wisdom Slot",
+      27396614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Mysticism Slot",
+      27396615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Luck Slot",
+      27396616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Ballistics Slot",
+      27396617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Eagle Eye Slot",
+      27396618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Necromancy Slot",
+      27396619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Estates Slot",
+      27396620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Fire Magic Slot",
+      27396621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Air Magic Slot",
+      27396622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Water Magic Slot",
+      27396623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Earth Magic Slot",
+      27396624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Scholar Slot",
+      27396625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Tactics Slot",
+      27396626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Artillery Slot",
+      27396627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Learning Slot",
+      27396628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Offense Slot",
+      27396629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Armourer Slot",
+      27396630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Intelligence Slot",
+      27396631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Sorcery Slot",
+      27396632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Resistance Slot",
+      27396633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion First Aid Slot",
+      27396634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Skill Count",
+      27396635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Ballista equipped (4 or -1)",
+      27396783,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Ammo Cart equipped (5 or -1)",
+      27396791,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion First Aid equipped Item (6 or -1)",
+      27396799,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Catapult equipped (3 or -1)",
+      27396807,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spellbook equipped (0 or -1)",
+      27396815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 1",
+      27396846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 2",
+      27396854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 3",
+      27396862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 4",
+      27396870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 5",
+      27396878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 6",
+      27396886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 7",
+      27396894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 8",
+      27396902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 9",
+      27396910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 10",
+      27396918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 11",
+      27396926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 12",
+      27396934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 13",
+      27396942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 14",
+      27396950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 15",
+      27396958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 16",
+      27396966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 17",
+      27396974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 18",
+      27396982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 19",
+      27396990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 20",
+      27396998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 21",
+      27397006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 22",
+      27397014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 23",
+      27397022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 24",
+      27397030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 25",
+      27397038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 26",
+      27397046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 27",
+      27397054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 28",
+      27397062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 29",
+      27397070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 30",
+      27397078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 31",
+      27397086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 32",
+      27397094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 33",
+      27397102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 34",
+      27397110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 35",
+      27397118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 36",
+      27397126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 37",
+      27397134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 38",
+      27397142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 39",
+      27397150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 40",
+      27397158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 41",
+      27397166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 42",
+      27397174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 43",
+      27397182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 44",
+      27397190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 45",
+      27397198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 46",
+      27397206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 47",
+      27397214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 48",
+      27397222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 49",
+      27397230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 50",
+      27397238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 51",
+      27397246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 52",
+      27397254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 53",
+      27397262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 54",
+      27397270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 55",
+      27397278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 56",
+      27397286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 57",
+      27397294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 58",
+      27397302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 59",
+      27397310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 60",
+      27397318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 61",
+      27397326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 62",
+      27397334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 63",
+      27397342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Backpack Slot 64",
+      27397350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Summon Boat",
+      27397450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Scuttle Boat",
+      27397451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Visions",
+      27397452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell View Earth",
+      27397453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Disguise",
+      27397454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell View Air",
+      27397455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fly",
+      27397456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Water Walk",
+      27397457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Dimension Door",
+      27397458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Town Portal",
+      27397459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Quicksand",
+      27397460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Land Mine",
+      27397461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Force Field",
+      27397462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fire Wall",
+      27397463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Earthquake",
+      27397464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Magic Arrow",
+      27397465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Ice Bolt",
+      27397466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Lightning Bolt",
+      27397467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Implosion",
+      27397468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Chain Lightning",
+      27397469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Frost Ring",
+      27397470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fireball",
+      27397471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Inferno",
+      27397472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Meteor Shower",
+      27397473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Death Ripple",
+      27397474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Destroy Undead",
+      27397475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Armageddon",
+      27397476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Shield",
+      27397477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Air Shield",
+      27397478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fire Shield",
+      27397479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Protection from Air",
+      27397480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Protection from Fire",
+      27397481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Protection from Water",
+      27397482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Protection from Earth",
+      27397483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Anti Magic",
+      27397484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Dispel",
+      27397485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Magic Mirror",
+      27397486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Cure",
+      27397487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Resurrection",
+      27397488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Animate Dead",
+      27397489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Sacrifice",
+      27397490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Bless",
+      27397491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Curse",
+      27397492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Bloodlust",
+      27397493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Precision",
+      27397494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Weakness",
+      27397495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Stone Skin",
+      27397496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Disrupting Ray",
+      27397497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Prayer",
+      27397498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Mirth",
+      27397499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Sorrow",
+      27397500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fortune",
+      27397501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Misfortune",
+      27397502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Haste",
+      27397503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Slow",
+      27397504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Slayer",
+      27397505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Frenzy",
+      27397506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Titan's Lighting Bolt",
+      27397507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Counterstrike",
+      27397508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Berserk",
+      27397509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Hypnotize",
+      27397510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Forgetfulness",
+      27397511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Blind",
+      27397512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Teleport",
+      27397513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Remove Obstacle",
+      27397514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Clone",
+      27397515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Fire Elemental",
+      27397516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Earth Elemental",
+      27397517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Water Elemental",
+      27397518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spell Air Elemental",
+      27397519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Attack",
+      27397520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Def",
+      27397521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Spellpower",
+      27397522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Krellion Knowledge",
+      27397523,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

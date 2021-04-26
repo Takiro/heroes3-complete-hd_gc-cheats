@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Charna Name",
+      27356633,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Movement",
+      27356675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna EXP",
+      27356679,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 1",
+      27356743,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 2",
+      27356747,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 3",
+      27356751,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 4",
+      27356755,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 5",
+      27356759,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 6",
+      27356763,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Type Slot 7",
+      27356767,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 1",
+      27356771,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 2",
+      27356775,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 3",
+      27356779,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 4",
+      27356783,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 5",
+      27356787,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 6",
+      27356791,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Unit Count Slot 7",
+      27356795,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Pathfinding",
+      27356799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Archery",
+      27356800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Logistics",
+      27356801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Scouting",
+      27356802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Diplomacy",
+      27356803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Navigation",
+      27356804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Leadership",
+      27356805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Wisdom",
+      27356806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Mysticism",
+      27356807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Luck",
+      27356808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Ballistics",
+      27356809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Eagle Eye",
+      27356810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Necromancy",
+      27356811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Estates",
+      27356812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Fire Magic",
+      27356813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Air Magic",
+      27356814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Water Magic",
+      27356815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Earth Magic",
+      27356816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Scholar",
+      27356817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Tactics",
+      27356818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Artillery",
+      27356819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Learning",
+      27356820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Offence",
+      27356821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Armourer",
+      27356822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Intelligence",
+      27356823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Sorcery",
+      27356824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Resistance",
+      27356825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna First Aid",
+      27356826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Pathfinding Slot",
+      27356827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Archery Slot",
+      27356828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Logistics Slot",
+      27356829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Scouting Slot",
+      27356830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Diplomacy Slot",
+      27356831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Navigation Slot",
+      27356832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Leadership Slot",
+      27356833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Wisdom Slot",
+      27356834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Mysticism Slot",
+      27356835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Luck Slot",
+      27356836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Ballistics Slot",
+      27356837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Eagle Eye Slot",
+      27356838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Necromancy Slot",
+      27356839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Estates Slot",
+      27356840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Fire Magic Slot",
+      27356841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Air Magic Slot",
+      27356842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Water Magic Slot",
+      27356843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Earth Magic Slot",
+      27356844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Scholar Slot",
+      27356845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Tactics Slot",
+      27356846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Artillery Slot",
+      27356847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Learning Slot",
+      27356848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Offense Slot",
+      27356849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Armourer Slot",
+      27356850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Intelligence Slot",
+      27356851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Sorcery Slot",
+      27356852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Resistance Slot",
+      27356853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna First Aid Slot",
+      27356854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Skill Count",
+      27356855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Ballista equipped (4 or -1)",
+      27357003,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Ammo Cart equipped (5 or -1)",
+      27357011,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna First Aid equipped Item (6 or -1)",
+      27357019,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Catapult equipped (3 or -1)",
+      27357027,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spellbook equipped (0 or -1)",
+      27357035,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 1",
+      27357066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 2",
+      27357074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 3",
+      27357082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 4",
+      27357090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 5",
+      27357098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 6",
+      27357106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 7",
+      27357114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 8",
+      27357122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 9",
+      27357130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 10",
+      27357138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 11",
+      27357146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 12",
+      27357154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 13",
+      27357162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 14",
+      27357170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 15",
+      27357178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 16",
+      27357186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 17",
+      27357194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 18",
+      27357202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 19",
+      27357210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 20",
+      27357218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 21",
+      27357226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 22",
+      27357234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 23",
+      27357242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 24",
+      27357250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 25",
+      27357258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 26",
+      27357266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 27",
+      27357274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 28",
+      27357282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 29",
+      27357290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 30",
+      27357298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 31",
+      27357306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 32",
+      27357314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 33",
+      27357322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 34",
+      27357330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 35",
+      27357338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 36",
+      27357346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 37",
+      27357354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 38",
+      27357362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 39",
+      27357370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 40",
+      27357378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 41",
+      27357386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 42",
+      27357394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 43",
+      27357402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 44",
+      27357410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 45",
+      27357418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 46",
+      27357426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 47",
+      27357434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 48",
+      27357442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 49",
+      27357450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 50",
+      27357458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 51",
+      27357466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 52",
+      27357474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 53",
+      27357482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 54",
+      27357490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 55",
+      27357498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 56",
+      27357506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 57",
+      27357514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 58",
+      27357522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 59",
+      27357530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 60",
+      27357538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 61",
+      27357546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 62",
+      27357554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 63",
+      27357562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Backpack Slot 64",
+      27357570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Summon Boat",
+      27357670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Scuttle Boat",
+      27357671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Visions",
+      27357672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell View Earth",
+      27357673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Disguise",
+      27357674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell View Air",
+      27357675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fly",
+      27357676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Water Walk",
+      27357677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Dimension Door",
+      27357678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Town Portal",
+      27357679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Quicksand",
+      27357680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Land Mine",
+      27357681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Force Field",
+      27357682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fire Wall",
+      27357683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Earthquake",
+      27357684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Magic Arrow",
+      27357685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Ice Bolt",
+      27357686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Lightning Bolt",
+      27357687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Implosion",
+      27357688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Chain Lightning",
+      27357689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Frost Ring",
+      27357690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fireball",
+      27357691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Inferno",
+      27357692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Meteor Shower",
+      27357693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Death Ripple",
+      27357694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Destroy Undead",
+      27357695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Armageddon",
+      27357696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Shield",
+      27357697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Air Shield",
+      27357698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fire Shield",
+      27357699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Protection from Air",
+      27357700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Protection from Fire",
+      27357701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Protection from Water",
+      27357702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Protection from Earth",
+      27357703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Anti Magic",
+      27357704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Dispel",
+      27357705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Magic Mirror",
+      27357706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Cure",
+      27357707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Resurrection",
+      27357708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Animate Dead",
+      27357709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Sacrifice",
+      27357710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Bless",
+      27357711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Curse",
+      27357712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Bloodlust",
+      27357713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Precision",
+      27357714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Weakness",
+      27357715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Stone Skin",
+      27357716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Disrupting Ray",
+      27357717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Prayer",
+      27357718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Mirth",
+      27357719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Sorrow",
+      27357720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fortune",
+      27357721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Misfortune",
+      27357722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Haste",
+      27357723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Slow",
+      27357724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Slayer",
+      27357725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Frenzy",
+      27357726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Titan's Lighting Bolt",
+      27357727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Counterstrike",
+      27357728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Berserk",
+      27357729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Hypnotize",
+      27357730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Forgetfulness",
+      27357731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Blind",
+      27357732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Teleport",
+      27357733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Remove Obstacle",
+      27357734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Clone",
+      27357735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Fire Elemental",
+      27357736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Earth Elemental",
+      27357737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Water Elemental",
+      27357738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spell Air Elemental",
+      27357739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Attack",
+      27357740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Def",
+      27357741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Spellpower",
+      27357742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Charna Knowledge",
+      27357743,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

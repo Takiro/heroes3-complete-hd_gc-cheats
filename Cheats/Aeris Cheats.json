@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Aeris Name",
+      27314513,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Movement",
+      27314555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris EXP",
+      27314559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 1",
+      27314623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 2",
+      27314627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 3",
+      27314631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 4",
+      27314635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 5",
+      27314639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 6",
+      27314643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Type Slot 7",
+      27314647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 1",
+      27314651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 2",
+      27314655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 3",
+      27314659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 4",
+      27314663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 5",
+      27314667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 6",
+      27314671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Unit Count Slot 7",
+      27314675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Pathfinding",
+      27314679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Archery",
+      27314680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Logistics",
+      27314681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Scouting",
+      27314682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Diplomacy",
+      27314683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Navigation",
+      27314684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Leadership",
+      27314685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Wisdom",
+      27314686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Mysticism",
+      27314687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Luck",
+      27314688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Ballistics",
+      27314689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Eagle Eye",
+      27314690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Necromancy",
+      27314691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Estates",
+      27314692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Fire Magic",
+      27314693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Air Magic",
+      27314694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Water Magic",
+      27314695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Earth Magic",
+      27314696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Scholar",
+      27314697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Tactics",
+      27314698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Artillery",
+      27314699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Learning",
+      27314700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Offence",
+      27314701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Armourer",
+      27314702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Intelligence",
+      27314703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Sorcery",
+      27314704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Resistance",
+      27314705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris First Aid",
+      27314706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Pathfinding Slot",
+      27314707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Archery Slot",
+      27314708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Logistics Slot",
+      27314709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Scouting Slot",
+      27314710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Diplomacy Slot",
+      27314711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Navigation Slot",
+      27314712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Leadership Slot",
+      27314713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Wisdom Slot",
+      27314714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Mysticism Slot",
+      27314715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Luck Slot",
+      27314716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Ballistics Slot",
+      27314717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Eagle Eye Slot",
+      27314718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Necromancy Slot",
+      27314719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Estates Slot",
+      27314720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Fire Magic Slot",
+      27314721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Air Magic Slot",
+      27314722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Water Magic Slot",
+      27314723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Earth Magic Slot",
+      27314724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Scholar Slot",
+      27314725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Tactics Slot",
+      27314726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Artillery Slot",
+      27314727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Learning Slot",
+      27314728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Offense Slot",
+      27314729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Armourer Slot",
+      27314730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Intelligence Slot",
+      27314731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Sorcery Slot",
+      27314732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Resistance Slot",
+      27314733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris First Aid Slot",
+      27314734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Skill Count",
+      27314735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Ballista equipped (4 or -1)",
+      27314883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Ammo Cart equipped (5 or -1)",
+      27314891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris First Aid equipped Item (6 or -1)",
+      27314899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Catapult equipped (3 or -1)",
+      27314907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spellbook equipped (0 or -1)",
+      27314915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 1",
+      27314946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 2",
+      27314954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 3",
+      27314962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 4",
+      27314970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 5",
+      27314978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 6",
+      27314986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 7",
+      27314994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 8",
+      27315002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 9",
+      27315010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 10",
+      27315018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 11",
+      27315026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 12",
+      27315034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 13",
+      27315042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 14",
+      27315050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 15",
+      27315058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 16",
+      27315066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 17",
+      27315074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 18",
+      27315082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 19",
+      27315090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 20",
+      27315098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 21",
+      27315106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 22",
+      27315114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 23",
+      27315122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 24",
+      27315130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 25",
+      27315138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 26",
+      27315146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 27",
+      27315154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 28",
+      27315162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 29",
+      27315170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 30",
+      27315178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 31",
+      27315186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 32",
+      27315194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 33",
+      27315202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 34",
+      27315210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 35",
+      27315218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 36",
+      27315226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 37",
+      27315234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 38",
+      27315242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 39",
+      27315250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 40",
+      27315258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 41",
+      27315266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 42",
+      27315274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 43",
+      27315282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 44",
+      27315290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 45",
+      27315298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 46",
+      27315306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 47",
+      27315314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 48",
+      27315322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 49",
+      27315330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 50",
+      27315338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 51",
+      27315346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 52",
+      27315354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 53",
+      27315362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 54",
+      27315370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 55",
+      27315378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 56",
+      27315386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 57",
+      27315394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 58",
+      27315402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 59",
+      27315410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 60",
+      27315418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 61",
+      27315426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 62",
+      27315434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 63",
+      27315442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Backpack Slot 64",
+      27315450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Summon Boat",
+      27315550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Scuttle Boat",
+      27315551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Visions",
+      27315552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell View Earth",
+      27315553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Disguise",
+      27315554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell View Air",
+      27315555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fly",
+      27315556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Water Walk",
+      27315557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Dimension Door",
+      27315558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Town Portal",
+      27315559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Quicksand",
+      27315560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Land Mine",
+      27315561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Force Field",
+      27315562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fire Wall",
+      27315563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Earthquake",
+      27315564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Magic Arrow",
+      27315565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Ice Bolt",
+      27315566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Lightning Bolt",
+      27315567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Implosion",
+      27315568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Chain Lightning",
+      27315569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Frost Ring",
+      27315570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fireball",
+      27315571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Inferno",
+      27315572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Meteor Shower",
+      27315573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Death Ripple",
+      27315574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Destroy Undead",
+      27315575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Armageddon",
+      27315576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Shield",
+      27315577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Air Shield",
+      27315578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fire Shield",
+      27315579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Protection from Air",
+      27315580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Protection from Fire",
+      27315581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Protection from Water",
+      27315582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Protection from Earth",
+      27315583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Anti Magic",
+      27315584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Dispel",
+      27315585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Magic Mirror",
+      27315586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Cure",
+      27315587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Resurrection",
+      27315588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Animate Dead",
+      27315589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Sacrifice",
+      27315590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Bless",
+      27315591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Curse",
+      27315592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Bloodlust",
+      27315593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Precision",
+      27315594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Weakness",
+      27315595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Stone Skin",
+      27315596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Disrupting Ray",
+      27315597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Prayer",
+      27315598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Mirth",
+      27315599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Sorrow",
+      27315600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fortune",
+      27315601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Misfortune",
+      27315602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Haste",
+      27315603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Slow",
+      27315604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Slayer",
+      27315605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Frenzy",
+      27315606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Titan's Lighting Bolt",
+      27315607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Counterstrike",
+      27315608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Berserk",
+      27315609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Hypnotize",
+      27315610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Forgetfulness",
+      27315611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Blind",
+      27315612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Teleport",
+      27315613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Remove Obstacle",
+      27315614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Clone",
+      27315615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Fire Elemental",
+      27315616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Earth Elemental",
+      27315617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Water Elemental",
+      27315618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spell Air Elemental",
+      27315619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Attack",
+      27315620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Def",
+      27315621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Spellpower",
+      27315622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Aeris Knowledge",
+      27315623,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

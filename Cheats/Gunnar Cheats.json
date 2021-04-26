@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gunnar Name",
+      27377693,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Movement",
+      27377735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar EXP",
+      27377739,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 1",
+      27377803,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 2",
+      27377807,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 3",
+      27377811,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 4",
+      27377815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 5",
+      27377819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 6",
+      27377823,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Type Slot 7",
+      27377827,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 1",
+      27377831,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 2",
+      27377835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 3",
+      27377839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 4",
+      27377843,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 5",
+      27377847,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 6",
+      27377851,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Unit Count Slot 7",
+      27377855,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Pathfinding",
+      27377859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Archery",
+      27377860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Logistics",
+      27377861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Scouting",
+      27377862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Diplomacy",
+      27377863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Navigation",
+      27377864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Leadership",
+      27377865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Wisdom",
+      27377866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Mysticism",
+      27377867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Luck",
+      27377868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Ballistics",
+      27377869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Eagle Eye",
+      27377870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Necromancy",
+      27377871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Estates",
+      27377872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Fire Magic",
+      27377873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Air Magic",
+      27377874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Water Magic",
+      27377875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Earth Magic",
+      27377876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Scholar",
+      27377877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Tactics",
+      27377878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Artillery",
+      27377879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Learning",
+      27377880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Offence",
+      27377881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Armourer",
+      27377882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Intelligence",
+      27377883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Sorcery",
+      27377884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Resistance",
+      27377885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar First Aid",
+      27377886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Pathfinding Slot",
+      27377887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Archery Slot",
+      27377888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Logistics Slot",
+      27377889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Scouting Slot",
+      27377890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Diplomacy Slot",
+      27377891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Navigation Slot",
+      27377892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Leadership Slot",
+      27377893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Wisdom Slot",
+      27377894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Mysticism Slot",
+      27377895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Luck Slot",
+      27377896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Ballistics Slot",
+      27377897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Eagle Eye Slot",
+      27377898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Necromancy Slot",
+      27377899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Estates Slot",
+      27377900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Fire Magic Slot",
+      27377901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Air Magic Slot",
+      27377902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Water Magic Slot",
+      27377903,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Earth Magic Slot",
+      27377904,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Scholar Slot",
+      27377905,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Tactics Slot",
+      27377906,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Artillery Slot",
+      27377907,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Learning Slot",
+      27377908,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Offense Slot",
+      27377909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Armourer Slot",
+      27377910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Intelligence Slot",
+      27377911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Sorcery Slot",
+      27377912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Resistance Slot",
+      27377913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar First Aid Slot",
+      27377914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Skill Count",
+      27377915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Ballista equipped (4 or -1)",
+      27378063,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Ammo Cart equipped (5 or -1)",
+      27378071,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar First Aid equipped Item (6 or -1)",
+      27378079,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Catapult equipped (3 or -1)",
+      27378087,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spellbook equipped (0 or -1)",
+      27378095,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 1",
+      27378126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 2",
+      27378134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 3",
+      27378142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 4",
+      27378150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 5",
+      27378158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 6",
+      27378166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 7",
+      27378174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 8",
+      27378182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 9",
+      27378190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 10",
+      27378198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 11",
+      27378206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 12",
+      27378214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 13",
+      27378222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 14",
+      27378230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 15",
+      27378238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 16",
+      27378246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 17",
+      27378254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 18",
+      27378262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 19",
+      27378270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 20",
+      27378278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 21",
+      27378286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 22",
+      27378294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 23",
+      27378302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 24",
+      27378310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 25",
+      27378318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 26",
+      27378326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 27",
+      27378334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 28",
+      27378342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 29",
+      27378350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 30",
+      27378358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 31",
+      27378366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 32",
+      27378374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 33",
+      27378382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 34",
+      27378390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 35",
+      27378398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 36",
+      27378406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 37",
+      27378414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 38",
+      27378422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 39",
+      27378430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 40",
+      27378438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 41",
+      27378446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 42",
+      27378454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 43",
+      27378462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 44",
+      27378470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 45",
+      27378478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 46",
+      27378486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 47",
+      27378494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 48",
+      27378502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 49",
+      27378510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 50",
+      27378518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 51",
+      27378526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 52",
+      27378534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 53",
+      27378542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 54",
+      27378550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 55",
+      27378558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 56",
+      27378566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 57",
+      27378574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 58",
+      27378582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 59",
+      27378590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 60",
+      27378598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 61",
+      27378606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 62",
+      27378614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 63",
+      27378622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Backpack Slot 64",
+      27378630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Summon Boat",
+      27378730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Scuttle Boat",
+      27378731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Visions",
+      27378732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell View Earth",
+      27378733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Disguise",
+      27378734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell View Air",
+      27378735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fly",
+      27378736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Water Walk",
+      27378737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Dimension Door",
+      27378738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Town Portal",
+      27378739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Quicksand",
+      27378740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Land Mine",
+      27378741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Force Field",
+      27378742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fire Wall",
+      27378743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Earthquake",
+      27378744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Magic Arrow",
+      27378745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Ice Bolt",
+      27378746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Lightning Bolt",
+      27378747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Implosion",
+      27378748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Chain Lightning",
+      27378749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Frost Ring",
+      27378750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fireball",
+      27378751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Inferno",
+      27378752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Meteor Shower",
+      27378753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Death Ripple",
+      27378754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Destroy Undead",
+      27378755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Armageddon",
+      27378756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Shield",
+      27378757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Air Shield",
+      27378758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fire Shield",
+      27378759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Protection from Air",
+      27378760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Protection from Fire",
+      27378761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Protection from Water",
+      27378762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Protection from Earth",
+      27378763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Anti Magic",
+      27378764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Dispel",
+      27378765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Magic Mirror",
+      27378766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Cure",
+      27378767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Resurrection",
+      27378768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Animate Dead",
+      27378769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Sacrifice",
+      27378770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Bless",
+      27378771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Curse",
+      27378772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Bloodlust",
+      27378773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Precision",
+      27378774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Weakness",
+      27378775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Stone Skin",
+      27378776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Disrupting Ray",
+      27378777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Prayer",
+      27378778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Mirth",
+      27378779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Sorrow",
+      27378780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fortune",
+      27378781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Misfortune",
+      27378782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Haste",
+      27378783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Slow",
+      27378784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Slayer",
+      27378785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Frenzy",
+      27378786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Titan's Lighting Bolt",
+      27378787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Counterstrike",
+      27378788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Berserk",
+      27378789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Hypnotize",
+      27378790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Forgetfulness",
+      27378791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Blind",
+      27378792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Teleport",
+      27378793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Remove Obstacle",
+      27378794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Clone",
+      27378795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Fire Elemental",
+      27378796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Earth Elemental",
+      27378797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Water Elemental",
+      27378798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spell Air Elemental",
+      27378799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Attack",
+      27378800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Def",
+      27378801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Spellpower",
+      27378802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gunnar Knowledge",
+      27378803,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

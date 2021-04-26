@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Halon Name",
+      27326213,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Movement",
+      27326255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon EXP",
+      27326259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 1",
+      27326323,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 2",
+      27326327,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 3",
+      27326331,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 4",
+      27326335,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 5",
+      27326339,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 6",
+      27326343,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Type Slot 7",
+      27326347,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 1",
+      27326351,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 2",
+      27326355,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 3",
+      27326359,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 4",
+      27326363,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 5",
+      27326367,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 6",
+      27326371,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Unit Count Slot 7",
+      27326375,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Pathfinding",
+      27326379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Archery",
+      27326380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Logistics",
+      27326381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Scouting",
+      27326382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Diplomacy",
+      27326383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Navigation",
+      27326384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Leadership",
+      27326385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Wisdom",
+      27326386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Mysticism",
+      27326387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Luck",
+      27326388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Ballistics",
+      27326389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Eagle Eye",
+      27326390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Necromancy",
+      27326391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Estates",
+      27326392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Fire Magic",
+      27326393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Air Magic",
+      27326394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Water Magic",
+      27326395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Earth Magic",
+      27326396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Scholar",
+      27326397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Tactics",
+      27326398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Artillery",
+      27326399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Learning",
+      27326400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Offence",
+      27326401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Armourer",
+      27326402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Intelligence",
+      27326403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Sorcery",
+      27326404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Resistance",
+      27326405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon First Aid",
+      27326406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Pathfinding Slot",
+      27326407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Archery Slot",
+      27326408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Logistics Slot",
+      27326409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Scouting Slot",
+      27326410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Diplomacy Slot",
+      27326411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Navigation Slot",
+      27326412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Leadership Slot",
+      27326413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Wisdom Slot",
+      27326414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Mysticism Slot",
+      27326415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Luck Slot",
+      27326416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Ballistics Slot",
+      27326417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Eagle Eye Slot",
+      27326418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Necromancy Slot",
+      27326419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Estates Slot",
+      27326420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Fire Magic Slot",
+      27326421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Air Magic Slot",
+      27326422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Water Magic Slot",
+      27326423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Earth Magic Slot",
+      27326424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Scholar Slot",
+      27326425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Tactics Slot",
+      27326426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Artillery Slot",
+      27326427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Learning Slot",
+      27326428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Offense Slot",
+      27326429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Armourer Slot",
+      27326430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Intelligence Slot",
+      27326431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Sorcery Slot",
+      27326432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Resistance Slot",
+      27326433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon First Aid Slot",
+      27326434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Skill Count",
+      27326435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Ballista equipped (4 or -1)",
+      27326583,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Ammo Cart equipped (5 or -1)",
+      27326591,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon First Aid equipped Item (6 or -1)",
+      27326599,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Catapult equipped (3 or -1)",
+      27326607,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spellbook equipped (0 or -1)",
+      27326615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 1",
+      27326646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 2",
+      27326654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 3",
+      27326662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 4",
+      27326670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 5",
+      27326678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 6",
+      27326686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 7",
+      27326694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 8",
+      27326702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 9",
+      27326710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 10",
+      27326718,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 11",
+      27326726,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 12",
+      27326734,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 13",
+      27326742,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 14",
+      27326750,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 15",
+      27326758,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 16",
+      27326766,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 17",
+      27326774,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 18",
+      27326782,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 19",
+      27326790,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 20",
+      27326798,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 21",
+      27326806,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 22",
+      27326814,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 23",
+      27326822,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 24",
+      27326830,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 25",
+      27326838,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 26",
+      27326846,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 27",
+      27326854,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 28",
+      27326862,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 29",
+      27326870,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 30",
+      27326878,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 31",
+      27326886,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 32",
+      27326894,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 33",
+      27326902,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 34",
+      27326910,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 35",
+      27326918,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 36",
+      27326926,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 37",
+      27326934,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 38",
+      27326942,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 39",
+      27326950,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 40",
+      27326958,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 41",
+      27326966,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 42",
+      27326974,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 43",
+      27326982,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 44",
+      27326990,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 45",
+      27326998,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 46",
+      27327006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 47",
+      27327014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 48",
+      27327022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 49",
+      27327030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 50",
+      27327038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 51",
+      27327046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 52",
+      27327054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 53",
+      27327062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 54",
+      27327070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 55",
+      27327078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 56",
+      27327086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 57",
+      27327094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 58",
+      27327102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 59",
+      27327110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 60",
+      27327118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 61",
+      27327126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 62",
+      27327134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 63",
+      27327142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Backpack Slot 64",
+      27327150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Summon Boat",
+      27327250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Scuttle Boat",
+      27327251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Visions",
+      27327252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell View Earth",
+      27327253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Disguise",
+      27327254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell View Air",
+      27327255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fly",
+      27327256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Water Walk",
+      27327257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Dimension Door",
+      27327258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Town Portal",
+      27327259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Quicksand",
+      27327260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Land Mine",
+      27327261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Force Field",
+      27327262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fire Wall",
+      27327263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Earthquake",
+      27327264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Magic Arrow",
+      27327265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Ice Bolt",
+      27327266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Lightning Bolt",
+      27327267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Implosion",
+      27327268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Chain Lightning",
+      27327269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Frost Ring",
+      27327270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fireball",
+      27327271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Inferno",
+      27327272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Meteor Shower",
+      27327273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Death Ripple",
+      27327274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Destroy Undead",
+      27327275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Armageddon",
+      27327276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Shield",
+      27327277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Air Shield",
+      27327278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fire Shield",
+      27327279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Protection from Air",
+      27327280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Protection from Fire",
+      27327281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Protection from Water",
+      27327282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Protection from Earth",
+      27327283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Anti Magic",
+      27327284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Dispel",
+      27327285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Magic Mirror",
+      27327286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Cure",
+      27327287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Resurrection",
+      27327288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Animate Dead",
+      27327289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Sacrifice",
+      27327290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Bless",
+      27327291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Curse",
+      27327292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Bloodlust",
+      27327293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Precision",
+      27327294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Weakness",
+      27327295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Stone Skin",
+      27327296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Disrupting Ray",
+      27327297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Prayer",
+      27327298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Mirth",
+      27327299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Sorrow",
+      27327300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fortune",
+      27327301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Misfortune",
+      27327302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Haste",
+      27327303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Slow",
+      27327304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Slayer",
+      27327305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Frenzy",
+      27327306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Titan's Lighting Bolt",
+      27327307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Counterstrike",
+      27327308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Berserk",
+      27327309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Hypnotize",
+      27327310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Forgetfulness",
+      27327311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Blind",
+      27327312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Teleport",
+      27327313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Remove Obstacle",
+      27327314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Clone",
+      27327315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Fire Elemental",
+      27327316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Earth Elemental",
+      27327317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Water Elemental",
+      27327318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spell Air Elemental",
+      27327319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Attack",
+      27327320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Def",
+      27327321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Spellpower",
+      27327322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Halon Knowledge",
+      27327323,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

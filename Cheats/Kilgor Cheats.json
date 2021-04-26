@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Kilgor Name",
+      27452573,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Movement",
+      27452615,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor EXP",
+      27452619,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 1",
+      27452683,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 2",
+      27452687,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 3",
+      27452691,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 4",
+      27452695,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 5",
+      27452699,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 6",
+      27452703,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Type Slot 7",
+      27452707,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 1",
+      27452711,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 2",
+      27452715,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 3",
+      27452719,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 4",
+      27452723,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 5",
+      27452727,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 6",
+      27452731,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Unit Count Slot 7",
+      27452735,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Pathfinding",
+      27452739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Archery",
+      27452740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Logistics",
+      27452741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Scouting",
+      27452742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Diplomacy",
+      27452743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Navigation",
+      27452744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Leadership",
+      27452745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Wisdom",
+      27452746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Mysticism",
+      27452747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Luck",
+      27452748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Ballistics",
+      27452749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Eagle Eye",
+      27452750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Necromancy",
+      27452751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Estates",
+      27452752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Fire Magic",
+      27452753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Air Magic",
+      27452754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Water Magic",
+      27452755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Earth Magic",
+      27452756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Scholar",
+      27452757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Tactics",
+      27452758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Artillery",
+      27452759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Learning",
+      27452760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Offence",
+      27452761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Armourer",
+      27452762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Intelligence",
+      27452763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Sorcery",
+      27452764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Resistance",
+      27452765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor First Aid",
+      27452766,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Pathfinding Slot",
+      27452767,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Archery Slot",
+      27452768,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Logistics Slot",
+      27452769,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Scouting Slot",
+      27452770,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Diplomacy Slot",
+      27452771,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Navigation Slot",
+      27452772,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Leadership Slot",
+      27452773,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Wisdom Slot",
+      27452774,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Mysticism Slot",
+      27452775,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Luck Slot",
+      27452776,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Ballistics Slot",
+      27452777,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Eagle Eye Slot",
+      27452778,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Necromancy Slot",
+      27452779,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Estates Slot",
+      27452780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Fire Magic Slot",
+      27452781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Air Magic Slot",
+      27452782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Water Magic Slot",
+      27452783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Earth Magic Slot",
+      27452784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Scholar Slot",
+      27452785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Tactics Slot",
+      27452786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Artillery Slot",
+      27452787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Learning Slot",
+      27452788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Offense Slot",
+      27452789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Armourer Slot",
+      27452790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Intelligence Slot",
+      27452791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Sorcery Slot",
+      27452792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Resistance Slot",
+      27452793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor First Aid Slot",
+      27452794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Skill Count",
+      27452795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Ballista equipped (4 or -1)",
+      27452943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Ammo Cart equipped (5 or -1)",
+      27452951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor First Aid equipped Item (6 or -1)",
+      27452959,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Catapult equipped (3 or -1)",
+      27452967,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spellbook equipped (0 or -1)",
+      27452975,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 1",
+      27453006,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 2",
+      27453014,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 3",
+      27453022,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 4",
+      27453030,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 5",
+      27453038,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 6",
+      27453046,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 7",
+      27453054,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 8",
+      27453062,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 9",
+      27453070,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 10",
+      27453078,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 11",
+      27453086,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 12",
+      27453094,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 13",
+      27453102,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 14",
+      27453110,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 15",
+      27453118,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 16",
+      27453126,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 17",
+      27453134,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 18",
+      27453142,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 19",
+      27453150,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 20",
+      27453158,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 21",
+      27453166,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 22",
+      27453174,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 23",
+      27453182,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 24",
+      27453190,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 25",
+      27453198,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 26",
+      27453206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 27",
+      27453214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 28",
+      27453222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 29",
+      27453230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 30",
+      27453238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 31",
+      27453246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 32",
+      27453254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 33",
+      27453262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 34",
+      27453270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 35",
+      27453278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 36",
+      27453286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 37",
+      27453294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 38",
+      27453302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 39",
+      27453310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 40",
+      27453318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 41",
+      27453326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 42",
+      27453334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 43",
+      27453342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 44",
+      27453350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 45",
+      27453358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 46",
+      27453366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 47",
+      27453374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 48",
+      27453382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 49",
+      27453390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 50",
+      27453398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 51",
+      27453406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 52",
+      27453414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 53",
+      27453422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 54",
+      27453430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 55",
+      27453438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 56",
+      27453446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 57",
+      27453454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 58",
+      27453462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 59",
+      27453470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 60",
+      27453478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 61",
+      27453486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 62",
+      27453494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 63",
+      27453502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Backpack Slot 64",
+      27453510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Summon Boat",
+      27453610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Scuttle Boat",
+      27453611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Visions",
+      27453612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell View Earth",
+      27453613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Disguise",
+      27453614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell View Air",
+      27453615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fly",
+      27453616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Water Walk",
+      27453617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Dimension Door",
+      27453618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Town Portal",
+      27453619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Quicksand",
+      27453620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Land Mine",
+      27453621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Force Field",
+      27453622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fire Wall",
+      27453623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Earthquake",
+      27453624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Magic Arrow",
+      27453625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Ice Bolt",
+      27453626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Lightning Bolt",
+      27453627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Implosion",
+      27453628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Chain Lightning",
+      27453629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Frost Ring",
+      27453630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fireball",
+      27453631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Inferno",
+      27453632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Meteor Shower",
+      27453633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Death Ripple",
+      27453634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Destroy Undead",
+      27453635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Armageddon",
+      27453636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Shield",
+      27453637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Air Shield",
+      27453638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fire Shield",
+      27453639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Protection from Air",
+      27453640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Protection from Fire",
+      27453641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Protection from Water",
+      27453642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Protection from Earth",
+      27453643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Anti Magic",
+      27453644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Dispel",
+      27453645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Magic Mirror",
+      27453646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Cure",
+      27453647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Resurrection",
+      27453648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Animate Dead",
+      27453649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Sacrifice",
+      27453650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Bless",
+      27453651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Curse",
+      27453652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Bloodlust",
+      27453653,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Precision",
+      27453654,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Weakness",
+      27453655,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Stone Skin",
+      27453656,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Disrupting Ray",
+      27453657,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Prayer",
+      27453658,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Mirth",
+      27453659,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Sorrow",
+      27453660,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fortune",
+      27453661,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Misfortune",
+      27453662,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Haste",
+      27453663,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Slow",
+      27453664,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Slayer",
+      27453665,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Frenzy",
+      27453666,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Titan's Lighting Bolt",
+      27453667,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Counterstrike",
+      27453668,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Berserk",
+      27453669,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Hypnotize",
+      27453670,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Forgetfulness",
+      27453671,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Blind",
+      27453672,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Teleport",
+      27453673,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Remove Obstacle",
+      27453674,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Clone",
+      27453675,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Fire Elemental",
+      27453676,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Earth Elemental",
+      27453677,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Water Elemental",
+      27453678,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spell Air Elemental",
+      27453679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Attack",
+      27453680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Def",
+      27453681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Spellpower",
+      27453682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Kilgor Knowledge",
+      27453683,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

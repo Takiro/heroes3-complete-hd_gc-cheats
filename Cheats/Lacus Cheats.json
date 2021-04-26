@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Lacus Name",
+      27431513,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Movement",
+      27431555,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus EXP",
+      27431559,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 1",
+      27431623,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 2",
+      27431627,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 3",
+      27431631,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 4",
+      27431635,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 5",
+      27431639,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 6",
+      27431643,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Type Slot 7",
+      27431647,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 1",
+      27431651,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 2",
+      27431655,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 3",
+      27431659,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 4",
+      27431663,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 5",
+      27431667,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 6",
+      27431671,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Unit Count Slot 7",
+      27431675,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Pathfinding",
+      27431679,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Archery",
+      27431680,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Logistics",
+      27431681,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Scouting",
+      27431682,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Diplomacy",
+      27431683,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Navigation",
+      27431684,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Leadership",
+      27431685,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Wisdom",
+      27431686,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Mysticism",
+      27431687,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Luck",
+      27431688,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Ballistics",
+      27431689,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Eagle Eye",
+      27431690,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Necromancy",
+      27431691,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Estates",
+      27431692,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Fire Magic",
+      27431693,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Air Magic",
+      27431694,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Water Magic",
+      27431695,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Earth Magic",
+      27431696,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Scholar",
+      27431697,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Tactics",
+      27431698,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Artillery",
+      27431699,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Learning",
+      27431700,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Offence",
+      27431701,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Armourer",
+      27431702,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Intelligence",
+      27431703,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Sorcery",
+      27431704,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Resistance",
+      27431705,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus First Aid",
+      27431706,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Pathfinding Slot",
+      27431707,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Archery Slot",
+      27431708,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Logistics Slot",
+      27431709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Scouting Slot",
+      27431710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Diplomacy Slot",
+      27431711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Navigation Slot",
+      27431712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Leadership Slot",
+      27431713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Wisdom Slot",
+      27431714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Mysticism Slot",
+      27431715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Luck Slot",
+      27431716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Ballistics Slot",
+      27431717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Eagle Eye Slot",
+      27431718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Necromancy Slot",
+      27431719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Estates Slot",
+      27431720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Fire Magic Slot",
+      27431721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Air Magic Slot",
+      27431722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Water Magic Slot",
+      27431723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Earth Magic Slot",
+      27431724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Scholar Slot",
+      27431725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Tactics Slot",
+      27431726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Artillery Slot",
+      27431727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Learning Slot",
+      27431728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Offense Slot",
+      27431729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Armourer Slot",
+      27431730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Intelligence Slot",
+      27431731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Sorcery Slot",
+      27431732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Resistance Slot",
+      27431733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus First Aid Slot",
+      27431734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Skill Count",
+      27431735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Ballista equipped (4 or -1)",
+      27431883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Ammo Cart equipped (5 or -1)",
+      27431891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus First Aid equipped Item (6 or -1)",
+      27431899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Catapult equipped (3 or -1)",
+      27431907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spellbook equipped (0 or -1)",
+      27431915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 1",
+      27431946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 2",
+      27431954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 3",
+      27431962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 4",
+      27431970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 5",
+      27431978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 6",
+      27431986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 7",
+      27431994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 8",
+      27432002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 9",
+      27432010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 10",
+      27432018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 11",
+      27432026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 12",
+      27432034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 13",
+      27432042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 14",
+      27432050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 15",
+      27432058,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 16",
+      27432066,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 17",
+      27432074,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 18",
+      27432082,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 19",
+      27432090,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 20",
+      27432098,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 21",
+      27432106,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 22",
+      27432114,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 23",
+      27432122,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 24",
+      27432130,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 25",
+      27432138,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 26",
+      27432146,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 27",
+      27432154,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 28",
+      27432162,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 29",
+      27432170,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 30",
+      27432178,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 31",
+      27432186,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 32",
+      27432194,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 33",
+      27432202,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 34",
+      27432210,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 35",
+      27432218,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 36",
+      27432226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 37",
+      27432234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 38",
+      27432242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 39",
+      27432250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 40",
+      27432258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 41",
+      27432266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 42",
+      27432274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 43",
+      27432282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 44",
+      27432290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 45",
+      27432298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 46",
+      27432306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 47",
+      27432314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 48",
+      27432322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 49",
+      27432330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 50",
+      27432338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 51",
+      27432346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 52",
+      27432354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 53",
+      27432362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 54",
+      27432370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 55",
+      27432378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 56",
+      27432386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 57",
+      27432394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 58",
+      27432402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 59",
+      27432410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 60",
+      27432418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 61",
+      27432426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 62",
+      27432434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 63",
+      27432442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Backpack Slot 64",
+      27432450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Summon Boat",
+      27432550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Scuttle Boat",
+      27432551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Visions",
+      27432552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell View Earth",
+      27432553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Disguise",
+      27432554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell View Air",
+      27432555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fly",
+      27432556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Water Walk",
+      27432557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Dimension Door",
+      27432558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Town Portal",
+      27432559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Quicksand",
+      27432560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Land Mine",
+      27432561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Force Field",
+      27432562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fire Wall",
+      27432563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Earthquake",
+      27432564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Magic Arrow",
+      27432565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Ice Bolt",
+      27432566,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Lightning Bolt",
+      27432567,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Implosion",
+      27432568,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Chain Lightning",
+      27432569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Frost Ring",
+      27432570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fireball",
+      27432571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Inferno",
+      27432572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Meteor Shower",
+      27432573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Death Ripple",
+      27432574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Destroy Undead",
+      27432575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Armageddon",
+      27432576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Shield",
+      27432577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Air Shield",
+      27432578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fire Shield",
+      27432579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Protection from Air",
+      27432580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Protection from Fire",
+      27432581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Protection from Water",
+      27432582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Protection from Earth",
+      27432583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Anti Magic",
+      27432584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Dispel",
+      27432585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Magic Mirror",
+      27432586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Cure",
+      27432587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Resurrection",
+      27432588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Animate Dead",
+      27432589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Sacrifice",
+      27432590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Bless",
+      27432591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Curse",
+      27432592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Bloodlust",
+      27432593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Precision",
+      27432594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Weakness",
+      27432595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Stone Skin",
+      27432596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Disrupting Ray",
+      27432597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Prayer",
+      27432598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Mirth",
+      27432599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Sorrow",
+      27432600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fortune",
+      27432601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Misfortune",
+      27432602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Haste",
+      27432603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Slow",
+      27432604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Slayer",
+      27432605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Frenzy",
+      27432606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Titan's Lighting Bolt",
+      27432607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Counterstrike",
+      27432608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Berserk",
+      27432609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Hypnotize",
+      27432610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Forgetfulness",
+      27432611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Blind",
+      27432612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Teleport",
+      27432613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Remove Obstacle",
+      27432614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Clone",
+      27432615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Fire Elemental",
+      27432616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Earth Elemental",
+      27432617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Water Elemental",
+      27432618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spell Air Elemental",
+      27432619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Attack",
+      27432620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Def",
+      27432621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Spellpower",
+      27432622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lacus Knowledge",
+      27432623,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

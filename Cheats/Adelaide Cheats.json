@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Adelaide Name",
+      27291113,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Movement",
+      27291155,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide EXP",
+      27291159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 1",
+      27291223,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 2",
+      27291227,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 3",
+      27291231,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 4",
+      27291235,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 5",
+      27291239,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 6",
+      27291243,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Type Slot 7",
+      27291247,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 1",
+      27291251,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 2",
+      27291255,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 3",
+      27291259,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 4",
+      27291263,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 5",
+      27291267,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 6",
+      27291271,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Unit Count Slot 7",
+      27291275,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Pathfinding",
+      27291279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Archery",
+      27291280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Logistics",
+      27291281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Scouting",
+      27291282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Diplomacy",
+      27291283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Navigation",
+      27291284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Leadership",
+      27291285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Wisdom",
+      27291286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Mysticism",
+      27291287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Luck",
+      27291288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Ballistics",
+      27291289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Eagle Eye",
+      27291290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Necromancy",
+      27291291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Estates",
+      27291292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Fire Magic",
+      27291293,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Air Magic",
+      27291294,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Water Magic",
+      27291295,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Earth Magic",
+      27291296,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Scholar",
+      27291297,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Tactics",
+      27291298,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Artillery",
+      27291299,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Learning",
+      27291300,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Offence",
+      27291301,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Armourer",
+      27291302,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Intelligence",
+      27291303,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Sorcery",
+      27291304,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Resistance",
+      27291305,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide First Aid",
+      27291306,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Pathfinding Slot",
+      27291307,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Archery Slot",
+      27291308,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Logistics Slot",
+      27291309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Scouting Slot",
+      27291310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Diplomacy Slot",
+      27291311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Navigation Slot",
+      27291312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Leadership Slot",
+      27291313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Wisdom Slot",
+      27291314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Mysticism Slot",
+      27291315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Luck Slot",
+      27291316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Ballistics Slot",
+      27291317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Eagle Eye Slot",
+      27291318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Necromancy Slot",
+      27291319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Estates Slot",
+      27291320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Fire Magic Slot",
+      27291321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Air Magic Slot",
+      27291322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Water Magic Slot",
+      27291323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Earth Magic Slot",
+      27291324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Scholar Slot",
+      27291325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Tactics Slot",
+      27291326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Artillery Slot",
+      27291327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Learning Slot",
+      27291328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Offense Slot",
+      27291329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Armourer Slot",
+      27291330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Intelligence Slot",
+      27291331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Sorcery Slot",
+      27291332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Resistance Slot",
+      27291333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide First Aid Slot",
+      27291334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Skill Count",
+      27291335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Ballista equipped (4 or -1)",
+      27291483,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Ammo Cart equipped (5 or -1)",
+      27291491,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide First Aid equipped Item (6 or -1)",
+      27291499,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Catapult equipped (3 or -1)",
+      27291507,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spellbook equipped (0 or -1)",
+      27291515,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 1",
+      27291546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 2",
+      27291554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 3",
+      27291562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 4",
+      27291570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 5",
+      27291578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 6",
+      27291586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 7",
+      27291594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 8",
+      27291602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 9",
+      27291610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 10",
+      27291618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 11",
+      27291626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 12",
+      27291634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 13",
+      27291642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 14",
+      27291650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 15",
+      27291658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 16",
+      27291666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 17",
+      27291674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 18",
+      27291682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 19",
+      27291690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 20",
+      27291698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 21",
+      27291706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 22",
+      27291714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 23",
+      27291722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 24",
+      27291730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 25",
+      27291738,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 26",
+      27291746,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 27",
+      27291754,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 28",
+      27291762,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 29",
+      27291770,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 30",
+      27291778,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 31",
+      27291786,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 32",
+      27291794,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 33",
+      27291802,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 34",
+      27291810,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 35",
+      27291818,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 36",
+      27291826,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 37",
+      27291834,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 38",
+      27291842,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 39",
+      27291850,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 40",
+      27291858,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 41",
+      27291866,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 42",
+      27291874,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 43",
+      27291882,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 44",
+      27291890,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 45",
+      27291898,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 46",
+      27291906,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 47",
+      27291914,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 48",
+      27291922,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 49",
+      27291930,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 50",
+      27291938,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 51",
+      27291946,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 52",
+      27291954,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 53",
+      27291962,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 54",
+      27291970,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 55",
+      27291978,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 56",
+      27291986,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 57",
+      27291994,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 58",
+      27292002,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 59",
+      27292010,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 60",
+      27292018,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 61",
+      27292026,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 62",
+      27292034,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 63",
+      27292042,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Backpack Slot 64",
+      27292050,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Summon Boat",
+      27292150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Scuttle Boat",
+      27292151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Visions",
+      27292152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell View Earth",
+      27292153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Disguise",
+      27292154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell View Air",
+      27292155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fly",
+      27292156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Water Walk",
+      27292157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Dimension Door",
+      27292158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Town Portal",
+      27292159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Quicksand",
+      27292160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Land Mine",
+      27292161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Force Field",
+      27292162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fire Wall",
+      27292163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Earthquake",
+      27292164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Magic Arrow",
+      27292165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Ice Bolt",
+      27292166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Lightning Bolt",
+      27292167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Implosion",
+      27292168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Chain Lightning",
+      27292169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Frost Ring",
+      27292170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fireball",
+      27292171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Inferno",
+      27292172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Meteor Shower",
+      27292173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Death Ripple",
+      27292174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Destroy Undead",
+      27292175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Armageddon",
+      27292176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Shield",
+      27292177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Air Shield",
+      27292178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fire Shield",
+      27292179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Protection from Air",
+      27292180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Protection from Fire",
+      27292181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Protection from Water",
+      27292182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Protection from Earth",
+      27292183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Anti Magic",
+      27292184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Dispel",
+      27292185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Magic Mirror",
+      27292186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Cure",
+      27292187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Resurrection",
+      27292188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Animate Dead",
+      27292189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Sacrifice",
+      27292190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Bless",
+      27292191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Curse",
+      27292192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Bloodlust",
+      27292193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Precision",
+      27292194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Weakness",
+      27292195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Stone Skin",
+      27292196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Disrupting Ray",
+      27292197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Prayer",
+      27292198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Mirth",
+      27292199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Sorrow",
+      27292200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fortune",
+      27292201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Misfortune",
+      27292202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Haste",
+      27292203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Slow",
+      27292204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Slayer",
+      27292205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Frenzy",
+      27292206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Titan's Lighting Bolt",
+      27292207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Counterstrike",
+      27292208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Berserk",
+      27292209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Hypnotize",
+      27292210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Forgetfulness",
+      27292211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Blind",
+      27292212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Teleport",
+      27292213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Remove Obstacle",
+      27292214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Clone",
+      27292215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Fire Elemental",
+      27292216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Earth Elemental",
+      27292217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Water Elemental",
+      27292218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spell Air Elemental",
+      27292219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Attack",
+      27292220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Def",
+      27292221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Spellpower",
+      27292222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adelaide Knowledge",
+      27292223,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

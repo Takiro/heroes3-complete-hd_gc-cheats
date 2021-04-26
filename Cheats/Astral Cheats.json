@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Astral Name",
+      27325043,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Movement",
+      27325085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral EXP",
+      27325089,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 1",
+      27325153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 2",
+      27325157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 3",
+      27325161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 4",
+      27325165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 5",
+      27325169,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 6",
+      27325173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Type Slot 7",
+      27325177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 1",
+      27325181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 2",
+      27325185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 3",
+      27325189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 4",
+      27325193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 5",
+      27325197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 6",
+      27325201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Unit Count Slot 7",
+      27325205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Pathfinding",
+      27325209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Archery",
+      27325210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Logistics",
+      27325211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Scouting",
+      27325212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Diplomacy",
+      27325213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Navigation",
+      27325214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Leadership",
+      27325215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Wisdom",
+      27325216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Mysticism",
+      27325217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Luck",
+      27325218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Ballistics",
+      27325219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Eagle Eye",
+      27325220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Necromancy",
+      27325221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Estates",
+      27325222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Fire Magic",
+      27325223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Air Magic",
+      27325224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Water Magic",
+      27325225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Earth Magic",
+      27325226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Scholar",
+      27325227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Tactics",
+      27325228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Artillery",
+      27325229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Learning",
+      27325230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Offence",
+      27325231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Armourer",
+      27325232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Intelligence",
+      27325233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Sorcery",
+      27325234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Resistance",
+      27325235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral First Aid",
+      27325236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Pathfinding Slot",
+      27325237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Archery Slot",
+      27325238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Logistics Slot",
+      27325239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Scouting Slot",
+      27325240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Diplomacy Slot",
+      27325241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Navigation Slot",
+      27325242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Leadership Slot",
+      27325243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Wisdom Slot",
+      27325244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Mysticism Slot",
+      27325245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Luck Slot",
+      27325246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Ballistics Slot",
+      27325247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Eagle Eye Slot",
+      27325248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Necromancy Slot",
+      27325249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Estates Slot",
+      27325250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Fire Magic Slot",
+      27325251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Air Magic Slot",
+      27325252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Water Magic Slot",
+      27325253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Earth Magic Slot",
+      27325254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Scholar Slot",
+      27325255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Tactics Slot",
+      27325256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Artillery Slot",
+      27325257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Learning Slot",
+      27325258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Offense Slot",
+      27325259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Armourer Slot",
+      27325260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Intelligence Slot",
+      27325261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Sorcery Slot",
+      27325262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Resistance Slot",
+      27325263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral First Aid Slot",
+      27325264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Skill Count",
+      27325265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Ballista equipped (4 or -1)",
+      27325413,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Ammo Cart equipped (5 or -1)",
+      27325421,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral First Aid equipped Item (6 or -1)",
+      27325429,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Catapult equipped (3 or -1)",
+      27325437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spellbook equipped (0 or -1)",
+      27325445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 1",
+      27325476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 2",
+      27325484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 3",
+      27325492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 4",
+      27325500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 5",
+      27325508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 6",
+      27325516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 7",
+      27325524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 8",
+      27325532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 9",
+      27325540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 10",
+      27325548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 11",
+      27325556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 12",
+      27325564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 13",
+      27325572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 14",
+      27325580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 15",
+      27325588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 16",
+      27325596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 17",
+      27325604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 18",
+      27325612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 19",
+      27325620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 20",
+      27325628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 21",
+      27325636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 22",
+      27325644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 23",
+      27325652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 24",
+      27325660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 25",
+      27325668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 26",
+      27325676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 27",
+      27325684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 28",
+      27325692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 29",
+      27325700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 30",
+      27325708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 31",
+      27325716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 32",
+      27325724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 33",
+      27325732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 34",
+      27325740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 35",
+      27325748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 36",
+      27325756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 37",
+      27325764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 38",
+      27325772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 39",
+      27325780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 40",
+      27325788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 41",
+      27325796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 42",
+      27325804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 43",
+      27325812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 44",
+      27325820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 45",
+      27325828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 46",
+      27325836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 47",
+      27325844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 48",
+      27325852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 49",
+      27325860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 50",
+      27325868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 51",
+      27325876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 52",
+      27325884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 53",
+      27325892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 54",
+      27325900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 55",
+      27325908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 56",
+      27325916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 57",
+      27325924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 58",
+      27325932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 59",
+      27325940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 60",
+      27325948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 61",
+      27325956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 62",
+      27325964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 63",
+      27325972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Backpack Slot 64",
+      27325980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Summon Boat",
+      27326080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Scuttle Boat",
+      27326081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Visions",
+      27326082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell View Earth",
+      27326083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Disguise",
+      27326084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell View Air",
+      27326085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fly",
+      27326086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Water Walk",
+      27326087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Dimension Door",
+      27326088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Town Portal",
+      27326089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Quicksand",
+      27326090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Land Mine",
+      27326091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Force Field",
+      27326092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fire Wall",
+      27326093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Earthquake",
+      27326094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Magic Arrow",
+      27326095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Ice Bolt",
+      27326096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Lightning Bolt",
+      27326097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Implosion",
+      27326098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Chain Lightning",
+      27326099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Frost Ring",
+      27326100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fireball",
+      27326101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Inferno",
+      27326102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Meteor Shower",
+      27326103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Death Ripple",
+      27326104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Destroy Undead",
+      27326105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Armageddon",
+      27326106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Shield",
+      27326107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Air Shield",
+      27326108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fire Shield",
+      27326109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Protection from Air",
+      27326110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Protection from Fire",
+      27326111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Protection from Water",
+      27326112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Protection from Earth",
+      27326113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Anti Magic",
+      27326114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Dispel",
+      27326115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Magic Mirror",
+      27326116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Cure",
+      27326117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Resurrection",
+      27326118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Animate Dead",
+      27326119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Sacrifice",
+      27326120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Bless",
+      27326121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Curse",
+      27326122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Bloodlust",
+      27326123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Precision",
+      27326124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Weakness",
+      27326125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Stone Skin",
+      27326126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Disrupting Ray",
+      27326127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Prayer",
+      27326128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Mirth",
+      27326129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Sorrow",
+      27326130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fortune",
+      27326131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Misfortune",
+      27326132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Haste",
+      27326133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Slow",
+      27326134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Slayer",
+      27326135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Frenzy",
+      27326136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Titan's Lighting Bolt",
+      27326137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Counterstrike",
+      27326138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Berserk",
+      27326139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Hypnotize",
+      27326140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Forgetfulness",
+      27326141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Blind",
+      27326142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Teleport",
+      27326143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Remove Obstacle",
+      27326144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Clone",
+      27326145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Fire Elemental",
+      27326146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Earth Elemental",
+      27326147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Water Elemental",
+      27326148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spell Air Elemental",
+      27326149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Attack",
+      27326150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Def",
+      27326151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Spellpower",
+      27326152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Astral Knowledge",
+      27326153,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

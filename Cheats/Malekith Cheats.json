@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Malekith Name",
+      27383543,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Movement",
+      27383585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith EXP",
+      27383589,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 1",
+      27383653,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 2",
+      27383657,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 3",
+      27383661,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 4",
+      27383665,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 5",
+      27383669,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 6",
+      27383673,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Type Slot 7",
+      27383677,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 1",
+      27383681,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 2",
+      27383685,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 3",
+      27383689,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 4",
+      27383693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 5",
+      27383697,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 6",
+      27383701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Unit Count Slot 7",
+      27383705,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Pathfinding",
+      27383709,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Archery",
+      27383710,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Logistics",
+      27383711,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Scouting",
+      27383712,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Diplomacy",
+      27383713,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Navigation",
+      27383714,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Leadership",
+      27383715,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Wisdom",
+      27383716,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Mysticism",
+      27383717,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Luck",
+      27383718,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Ballistics",
+      27383719,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Eagle Eye",
+      27383720,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Necromancy",
+      27383721,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Estates",
+      27383722,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Fire Magic",
+      27383723,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Air Magic",
+      27383724,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Water Magic",
+      27383725,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Earth Magic",
+      27383726,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Scholar",
+      27383727,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Tactics",
+      27383728,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Artillery",
+      27383729,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Learning",
+      27383730,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Offence",
+      27383731,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Armourer",
+      27383732,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Intelligence",
+      27383733,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Sorcery",
+      27383734,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Resistance",
+      27383735,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith First Aid",
+      27383736,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Pathfinding Slot",
+      27383737,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Archery Slot",
+      27383738,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Logistics Slot",
+      27383739,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Scouting Slot",
+      27383740,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Diplomacy Slot",
+      27383741,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Navigation Slot",
+      27383742,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Leadership Slot",
+      27383743,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Wisdom Slot",
+      27383744,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Mysticism Slot",
+      27383745,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Luck Slot",
+      27383746,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Ballistics Slot",
+      27383747,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Eagle Eye Slot",
+      27383748,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Necromancy Slot",
+      27383749,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Estates Slot",
+      27383750,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Fire Magic Slot",
+      27383751,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Air Magic Slot",
+      27383752,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Water Magic Slot",
+      27383753,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Earth Magic Slot",
+      27383754,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Scholar Slot",
+      27383755,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Tactics Slot",
+      27383756,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Artillery Slot",
+      27383757,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Learning Slot",
+      27383758,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Offense Slot",
+      27383759,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Armourer Slot",
+      27383760,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Intelligence Slot",
+      27383761,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Sorcery Slot",
+      27383762,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Resistance Slot",
+      27383763,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith First Aid Slot",
+      27383764,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Skill Count",
+      27383765,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Ballista equipped (4 or -1)",
+      27383913,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Ammo Cart equipped (5 or -1)",
+      27383921,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith First Aid equipped Item (6 or -1)",
+      27383929,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Catapult equipped (3 or -1)",
+      27383937,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spellbook equipped (0 or -1)",
+      27383945,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 1",
+      27383976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 2",
+      27383984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 3",
+      27383992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 4",
+      27384000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 5",
+      27384008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 6",
+      27384016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 7",
+      27384024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 8",
+      27384032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 9",
+      27384040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 10",
+      27384048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 11",
+      27384056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 12",
+      27384064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 13",
+      27384072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 14",
+      27384080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 15",
+      27384088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 16",
+      27384096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 17",
+      27384104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 18",
+      27384112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 19",
+      27384120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 20",
+      27384128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 21",
+      27384136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 22",
+      27384144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 23",
+      27384152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 24",
+      27384160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 25",
+      27384168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 26",
+      27384176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 27",
+      27384184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 28",
+      27384192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 29",
+      27384200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 30",
+      27384208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 31",
+      27384216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 32",
+      27384224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 33",
+      27384232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 34",
+      27384240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 35",
+      27384248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 36",
+      27384256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 37",
+      27384264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 38",
+      27384272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 39",
+      27384280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 40",
+      27384288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 41",
+      27384296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 42",
+      27384304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 43",
+      27384312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 44",
+      27384320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 45",
+      27384328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 46",
+      27384336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 47",
+      27384344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 48",
+      27384352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 49",
+      27384360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 50",
+      27384368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 51",
+      27384376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 52",
+      27384384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 53",
+      27384392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 54",
+      27384400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 55",
+      27384408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 56",
+      27384416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 57",
+      27384424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 58",
+      27384432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 59",
+      27384440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 60",
+      27384448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 61",
+      27384456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 62",
+      27384464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 63",
+      27384472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Backpack Slot 64",
+      27384480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Summon Boat",
+      27384580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Scuttle Boat",
+      27384581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Visions",
+      27384582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell View Earth",
+      27384583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Disguise",
+      27384584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell View Air",
+      27384585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fly",
+      27384586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Water Walk",
+      27384587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Dimension Door",
+      27384588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Town Portal",
+      27384589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Quicksand",
+      27384590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Land Mine",
+      27384591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Force Field",
+      27384592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fire Wall",
+      27384593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Earthquake",
+      27384594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Magic Arrow",
+      27384595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Ice Bolt",
+      27384596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Lightning Bolt",
+      27384597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Implosion",
+      27384598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Chain Lightning",
+      27384599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Frost Ring",
+      27384600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fireball",
+      27384601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Inferno",
+      27384602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Meteor Shower",
+      27384603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Death Ripple",
+      27384604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Destroy Undead",
+      27384605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Armageddon",
+      27384606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Shield",
+      27384607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Air Shield",
+      27384608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fire Shield",
+      27384609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Protection from Air",
+      27384610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Protection from Fire",
+      27384611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Protection from Water",
+      27384612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Protection from Earth",
+      27384613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Anti Magic",
+      27384614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Dispel",
+      27384615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Magic Mirror",
+      27384616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Cure",
+      27384617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Resurrection",
+      27384618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Animate Dead",
+      27384619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Sacrifice",
+      27384620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Bless",
+      27384621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Curse",
+      27384622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Bloodlust",
+      27384623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Precision",
+      27384624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Weakness",
+      27384625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Stone Skin",
+      27384626,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Disrupting Ray",
+      27384627,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Prayer",
+      27384628,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Mirth",
+      27384629,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Sorrow",
+      27384630,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fortune",
+      27384631,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Misfortune",
+      27384632,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Haste",
+      27384633,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Slow",
+      27384634,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Slayer",
+      27384635,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Frenzy",
+      27384636,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Titan's Lighting Bolt",
+      27384637,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Counterstrike",
+      27384638,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Berserk",
+      27384639,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Hypnotize",
+      27384640,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Forgetfulness",
+      27384641,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Blind",
+      27384642,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Teleport",
+      27384643,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Remove Obstacle",
+      27384644,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Clone",
+      27384645,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Fire Elemental",
+      27384646,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Earth Elemental",
+      27384647,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Water Elemental",
+      27384648,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spell Air Elemental",
+      27384649,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Attack",
+      27384650,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Def",
+      27384651,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Spellpower",
+      27384652,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malekith Knowledge",
+      27384653,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

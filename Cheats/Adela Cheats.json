@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Adela Name",
+      27288773,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Movement",
+      27288815,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela EXP",
+      27288819,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 1",
+      27288883,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 2",
+      27288887,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 3",
+      27288891,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 4",
+      27288895,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 5",
+      27288899,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 6",
+      27288903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Type Slot 7",
+      27288907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 1",
+      27288911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 2",
+      27288915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 3",
+      27288919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 4",
+      27288923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 5",
+      27288927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 6",
+      27288931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Unit Count Slot 7",
+      27288935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Pathfinding",
+      27288939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Archery",
+      27288940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Logistics",
+      27288941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Scouting",
+      27288942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Diplomacy",
+      27288943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Navigation",
+      27288944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Leadership",
+      27288945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Wisdom",
+      27288946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Mysticism",
+      27288947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Luck",
+      27288948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Ballistics",
+      27288949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Eagle Eye",
+      27288950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Necromancy",
+      27288951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Estates",
+      27288952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Fire Magic",
+      27288953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Air Magic",
+      27288954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Water Magic",
+      27288955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Earth Magic",
+      27288956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Scholar",
+      27288957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Tactics",
+      27288958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Artillery",
+      27288959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Learning",
+      27288960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Offence",
+      27288961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Armourer",
+      27288962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Intelligence",
+      27288963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Sorcery",
+      27288964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Resistance",
+      27288965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela First Aid",
+      27288966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Pathfinding Slot",
+      27288967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Archery Slot",
+      27288968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Logistics Slot",
+      27288969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Scouting Slot",
+      27288970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Diplomacy Slot",
+      27288971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Navigation Slot",
+      27288972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Leadership Slot",
+      27288973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Wisdom Slot",
+      27288974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Mysticism Slot",
+      27288975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Luck Slot",
+      27288976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Ballistics Slot",
+      27288977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Eagle Eye Slot",
+      27288978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Necromancy Slot",
+      27288979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Estates Slot",
+      27288980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Fire Magic Slot",
+      27288981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Air Magic Slot",
+      27288982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Water Magic Slot",
+      27288983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Earth Magic Slot",
+      27288984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Scholar Slot",
+      27288985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Tactics Slot",
+      27288986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Artillery Slot",
+      27288987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Learning Slot",
+      27288988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Offense Slot",
+      27288989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Armourer Slot",
+      27288990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Intelligence Slot",
+      27288991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Sorcery Slot",
+      27288992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Resistance Slot",
+      27288993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela First Aid Slot",
+      27288994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Skill Count",
+      27288995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Ballista equipped (4 or -1)",
+      27289143,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Ammo Cart equipped (5 or -1)",
+      27289151,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela First Aid equipped Item (6 or -1)",
+      27289159,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Catapult equipped (3 or -1)",
+      27289167,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spellbook equipped (0 or -1)",
+      27289175,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 1",
+      27289206,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 2",
+      27289214,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 3",
+      27289222,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 4",
+      27289230,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 5",
+      27289238,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 6",
+      27289246,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 7",
+      27289254,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 8",
+      27289262,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 9",
+      27289270,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 10",
+      27289278,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 11",
+      27289286,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 12",
+      27289294,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 13",
+      27289302,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 14",
+      27289310,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 15",
+      27289318,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 16",
+      27289326,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 17",
+      27289334,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 18",
+      27289342,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 19",
+      27289350,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 20",
+      27289358,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 21",
+      27289366,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 22",
+      27289374,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 23",
+      27289382,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 24",
+      27289390,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 25",
+      27289398,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 26",
+      27289406,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 27",
+      27289414,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 28",
+      27289422,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 29",
+      27289430,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 30",
+      27289438,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 31",
+      27289446,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 32",
+      27289454,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 33",
+      27289462,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 34",
+      27289470,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 35",
+      27289478,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 36",
+      27289486,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 37",
+      27289494,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 38",
+      27289502,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 39",
+      27289510,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 40",
+      27289518,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 41",
+      27289526,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 42",
+      27289534,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 43",
+      27289542,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 44",
+      27289550,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 45",
+      27289558,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 46",
+      27289566,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 47",
+      27289574,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 48",
+      27289582,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 49",
+      27289590,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 50",
+      27289598,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 51",
+      27289606,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 52",
+      27289614,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 53",
+      27289622,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 54",
+      27289630,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 55",
+      27289638,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 56",
+      27289646,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 57",
+      27289654,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 58",
+      27289662,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 59",
+      27289670,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 60",
+      27289678,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 61",
+      27289686,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 62",
+      27289694,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 63",
+      27289702,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Backpack Slot 64",
+      27289710,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Summon Boat",
+      27289810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Scuttle Boat",
+      27289811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Visions",
+      27289812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell View Earth",
+      27289813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Disguise",
+      27289814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell View Air",
+      27289815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fly",
+      27289816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Water Walk",
+      27289817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Dimension Door",
+      27289818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Town Portal",
+      27289819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Quicksand",
+      27289820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Land Mine",
+      27289821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Force Field",
+      27289822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fire Wall",
+      27289823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Earthquake",
+      27289824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Magic Arrow",
+      27289825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Ice Bolt",
+      27289826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Lightning Bolt",
+      27289827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Implosion",
+      27289828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Chain Lightning",
+      27289829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Frost Ring",
+      27289830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fireball",
+      27289831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Inferno",
+      27289832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Meteor Shower",
+      27289833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Death Ripple",
+      27289834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Destroy Undead",
+      27289835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Armageddon",
+      27289836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Shield",
+      27289837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Air Shield",
+      27289838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fire Shield",
+      27289839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Protection from Air",
+      27289840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Protection from Fire",
+      27289841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Protection from Water",
+      27289842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Protection from Earth",
+      27289843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Anti Magic",
+      27289844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Dispel",
+      27289845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Magic Mirror",
+      27289846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Cure",
+      27289847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Resurrection",
+      27289848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Animate Dead",
+      27289849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Sacrifice",
+      27289850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Bless",
+      27289851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Curse",
+      27289852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Bloodlust",
+      27289853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Precision",
+      27289854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Weakness",
+      27289855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Stone Skin",
+      27289856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Disrupting Ray",
+      27289857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Prayer",
+      27289858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Mirth",
+      27289859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Sorrow",
+      27289860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fortune",
+      27289861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Misfortune",
+      27289862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Haste",
+      27289863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Slow",
+      27289864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Slayer",
+      27289865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Frenzy",
+      27289866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Titan's Lighting Bolt",
+      27289867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Counterstrike",
+      27289868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Berserk",
+      27289869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Hypnotize",
+      27289870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Forgetfulness",
+      27289871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Blind",
+      27289872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Teleport",
+      27289873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Remove Obstacle",
+      27289874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Clone",
+      27289875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Fire Elemental",
+      27289876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Earth Elemental",
+      27289877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Water Elemental",
+      27289878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spell Air Elemental",
+      27289879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Attack",
+      27289880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Def",
+      27289881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Spellpower",
+      27289882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Adela Knowledge",
+      27289883,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

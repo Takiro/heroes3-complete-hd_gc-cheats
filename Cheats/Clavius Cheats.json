@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Clavius Name",
+      27360143,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Movement",
+      27360185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius EXP",
+      27360189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 1",
+      27360253,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 2",
+      27360257,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 3",
+      27360261,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 4",
+      27360265,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 5",
+      27360269,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 6",
+      27360273,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Type Slot 7",
+      27360277,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 1",
+      27360281,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 2",
+      27360285,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 3",
+      27360289,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 4",
+      27360293,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 5",
+      27360297,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 6",
+      27360301,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Unit Count Slot 7",
+      27360305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Pathfinding",
+      27360309,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Archery",
+      27360310,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Logistics",
+      27360311,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Scouting",
+      27360312,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Diplomacy",
+      27360313,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Navigation",
+      27360314,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Leadership",
+      27360315,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Wisdom",
+      27360316,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Mysticism",
+      27360317,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Luck",
+      27360318,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Ballistics",
+      27360319,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Eagle Eye",
+      27360320,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Necromancy",
+      27360321,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Estates",
+      27360322,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Fire Magic",
+      27360323,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Air Magic",
+      27360324,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Water Magic",
+      27360325,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Earth Magic",
+      27360326,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Scholar",
+      27360327,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Tactics",
+      27360328,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Artillery",
+      27360329,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Learning",
+      27360330,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Offence",
+      27360331,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Armourer",
+      27360332,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Intelligence",
+      27360333,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Sorcery",
+      27360334,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Resistance",
+      27360335,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius First Aid",
+      27360336,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Pathfinding Slot",
+      27360337,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Archery Slot",
+      27360338,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Logistics Slot",
+      27360339,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Scouting Slot",
+      27360340,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Diplomacy Slot",
+      27360341,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Navigation Slot",
+      27360342,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Leadership Slot",
+      27360343,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Wisdom Slot",
+      27360344,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Mysticism Slot",
+      27360345,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Luck Slot",
+      27360346,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Ballistics Slot",
+      27360347,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Eagle Eye Slot",
+      27360348,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Necromancy Slot",
+      27360349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Estates Slot",
+      27360350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Fire Magic Slot",
+      27360351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Air Magic Slot",
+      27360352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Water Magic Slot",
+      27360353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Earth Magic Slot",
+      27360354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Scholar Slot",
+      27360355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Tactics Slot",
+      27360356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Artillery Slot",
+      27360357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Learning Slot",
+      27360358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Offense Slot",
+      27360359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Armourer Slot",
+      27360360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Intelligence Slot",
+      27360361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Sorcery Slot",
+      27360362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Resistance Slot",
+      27360363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius First Aid Slot",
+      27360364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Skill Count",
+      27360365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Ballista equipped (4 or -1)",
+      27360513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Ammo Cart equipped (5 or -1)",
+      27360521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius First Aid equipped Item (6 or -1)",
+      27360529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Catapult equipped (3 or -1)",
+      27360537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spellbook equipped (0 or -1)",
+      27360545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 1",
+      27360576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 2",
+      27360584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 3",
+      27360592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 4",
+      27360600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 5",
+      27360608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 6",
+      27360616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 7",
+      27360624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 8",
+      27360632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 9",
+      27360640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 10",
+      27360648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 11",
+      27360656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 12",
+      27360664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 13",
+      27360672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 14",
+      27360680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 15",
+      27360688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 16",
+      27360696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 17",
+      27360704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 18",
+      27360712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 19",
+      27360720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 20",
+      27360728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 21",
+      27360736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 22",
+      27360744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 23",
+      27360752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 24",
+      27360760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 25",
+      27360768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 26",
+      27360776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 27",
+      27360784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 28",
+      27360792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 29",
+      27360800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 30",
+      27360808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 31",
+      27360816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 32",
+      27360824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 33",
+      27360832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 34",
+      27360840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 35",
+      27360848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 36",
+      27360856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 37",
+      27360864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 38",
+      27360872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 39",
+      27360880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 40",
+      27360888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 41",
+      27360896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 42",
+      27360904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 43",
+      27360912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 44",
+      27360920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 45",
+      27360928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 46",
+      27360936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 47",
+      27360944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 48",
+      27360952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 49",
+      27360960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 50",
+      27360968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 51",
+      27360976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 52",
+      27360984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 53",
+      27360992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 54",
+      27361000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 55",
+      27361008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 56",
+      27361016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 57",
+      27361024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 58",
+      27361032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 59",
+      27361040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 60",
+      27361048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 61",
+      27361056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 62",
+      27361064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 63",
+      27361072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Backpack Slot 64",
+      27361080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Summon Boat",
+      27361180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Scuttle Boat",
+      27361181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Visions",
+      27361182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell View Earth",
+      27361183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Disguise",
+      27361184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell View Air",
+      27361185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fly",
+      27361186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Water Walk",
+      27361187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Dimension Door",
+      27361188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Town Portal",
+      27361189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Quicksand",
+      27361190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Land Mine",
+      27361191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Force Field",
+      27361192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fire Wall",
+      27361193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Earthquake",
+      27361194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Magic Arrow",
+      27361195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Ice Bolt",
+      27361196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Lightning Bolt",
+      27361197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Implosion",
+      27361198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Chain Lightning",
+      27361199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Frost Ring",
+      27361200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fireball",
+      27361201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Inferno",
+      27361202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Meteor Shower",
+      27361203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Death Ripple",
+      27361204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Destroy Undead",
+      27361205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Armageddon",
+      27361206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Shield",
+      27361207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Air Shield",
+      27361208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fire Shield",
+      27361209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Protection from Air",
+      27361210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Protection from Fire",
+      27361211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Protection from Water",
+      27361212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Protection from Earth",
+      27361213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Anti Magic",
+      27361214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Dispel",
+      27361215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Magic Mirror",
+      27361216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Cure",
+      27361217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Resurrection",
+      27361218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Animate Dead",
+      27361219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Sacrifice",
+      27361220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Bless",
+      27361221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Curse",
+      27361222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Bloodlust",
+      27361223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Precision",
+      27361224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Weakness",
+      27361225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Stone Skin",
+      27361226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Disrupting Ray",
+      27361227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Prayer",
+      27361228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Mirth",
+      27361229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Sorrow",
+      27361230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fortune",
+      27361231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Misfortune",
+      27361232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Haste",
+      27361233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Slow",
+      27361234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Slayer",
+      27361235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Frenzy",
+      27361236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Titan's Lighting Bolt",
+      27361237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Counterstrike",
+      27361238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Berserk",
+      27361239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Hypnotize",
+      27361240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Forgetfulness",
+      27361241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Blind",
+      27361242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Teleport",
+      27361243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Remove Obstacle",
+      27361244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Clone",
+      27361245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Fire Elemental",
+      27361246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Earth Elemental",
+      27361247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Water Elemental",
+      27361248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spell Air Elemental",
+      27361249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Attack",
+      27361250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Def",
+      27361251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Spellpower",
+      27361252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clavius Knowledge",
+      27361253,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

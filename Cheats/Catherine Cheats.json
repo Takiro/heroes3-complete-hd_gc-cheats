@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Catherine Name",
+      27449063,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Movement",
+      27449105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine EXP",
+      27449109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 1",
+      27449173,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 2",
+      27449177,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 3",
+      27449181,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 4",
+      27449185,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 5",
+      27449189,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 6",
+      27449193,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Type Slot 7",
+      27449197,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 1",
+      27449201,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 2",
+      27449205,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 3",
+      27449209,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 4",
+      27449213,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 5",
+      27449217,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 6",
+      27449221,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Unit Count Slot 7",
+      27449225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Pathfinding",
+      27449229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Archery",
+      27449230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Logistics",
+      27449231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Scouting",
+      27449232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Diplomacy",
+      27449233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Navigation",
+      27449234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Leadership",
+      27449235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Wisdom",
+      27449236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Mysticism",
+      27449237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Luck",
+      27449238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Ballistics",
+      27449239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Eagle Eye",
+      27449240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Necromancy",
+      27449241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Estates",
+      27449242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Fire Magic",
+      27449243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Air Magic",
+      27449244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Water Magic",
+      27449245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Earth Magic",
+      27449246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Scholar",
+      27449247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Tactics",
+      27449248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Artillery",
+      27449249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Learning",
+      27449250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Offence",
+      27449251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Armourer",
+      27449252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Intelligence",
+      27449253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Sorcery",
+      27449254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Resistance",
+      27449255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine First Aid",
+      27449256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Pathfinding Slot",
+      27449257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Archery Slot",
+      27449258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Logistics Slot",
+      27449259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Scouting Slot",
+      27449260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Diplomacy Slot",
+      27449261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Navigation Slot",
+      27449262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Leadership Slot",
+      27449263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Wisdom Slot",
+      27449264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Mysticism Slot",
+      27449265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Luck Slot",
+      27449266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Ballistics Slot",
+      27449267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Eagle Eye Slot",
+      27449268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Necromancy Slot",
+      27449269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Estates Slot",
+      27449270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Fire Magic Slot",
+      27449271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Air Magic Slot",
+      27449272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Water Magic Slot",
+      27449273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Earth Magic Slot",
+      27449274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Scholar Slot",
+      27449275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Tactics Slot",
+      27449276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Artillery Slot",
+      27449277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Learning Slot",
+      27449278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Offense Slot",
+      27449279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Armourer Slot",
+      27449280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Intelligence Slot",
+      27449281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Sorcery Slot",
+      27449282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Resistance Slot",
+      27449283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine First Aid Slot",
+      27449284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Skill Count",
+      27449285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Ballista equipped (4 or -1)",
+      27449433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Ammo Cart equipped (5 or -1)",
+      27449441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine First Aid equipped Item (6 or -1)",
+      27449449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Catapult equipped (3 or -1)",
+      27449457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spellbook equipped (0 or -1)",
+      27449465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 1",
+      27449496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 2",
+      27449504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 3",
+      27449512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 4",
+      27449520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 5",
+      27449528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 6",
+      27449536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 7",
+      27449544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 8",
+      27449552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 9",
+      27449560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 10",
+      27449568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 11",
+      27449576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 12",
+      27449584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 13",
+      27449592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 14",
+      27449600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 15",
+      27449608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 16",
+      27449616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 17",
+      27449624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 18",
+      27449632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 19",
+      27449640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 20",
+      27449648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 21",
+      27449656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 22",
+      27449664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 23",
+      27449672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 24",
+      27449680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 25",
+      27449688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 26",
+      27449696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 27",
+      27449704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 28",
+      27449712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 29",
+      27449720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 30",
+      27449728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 31",
+      27449736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 32",
+      27449744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 33",
+      27449752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 34",
+      27449760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 35",
+      27449768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 36",
+      27449776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 37",
+      27449784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 38",
+      27449792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 39",
+      27449800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 40",
+      27449808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 41",
+      27449816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 42",
+      27449824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 43",
+      27449832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 44",
+      27449840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 45",
+      27449848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 46",
+      27449856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 47",
+      27449864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 48",
+      27449872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 49",
+      27449880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 50",
+      27449888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 51",
+      27449896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 52",
+      27449904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 53",
+      27449912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 54",
+      27449920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 55",
+      27449928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 56",
+      27449936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 57",
+      27449944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 58",
+      27449952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 59",
+      27449960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 60",
+      27449968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 61",
+      27449976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 62",
+      27449984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 63",
+      27449992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Backpack Slot 64",
+      27450000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Summon Boat",
+      27450100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Scuttle Boat",
+      27450101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Visions",
+      27450102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell View Earth",
+      27450103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Disguise",
+      27450104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell View Air",
+      27450105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fly",
+      27450106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Water Walk",
+      27450107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Dimension Door",
+      27450108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Town Portal",
+      27450109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Quicksand",
+      27450110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Land Mine",
+      27450111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Force Field",
+      27450112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fire Wall",
+      27450113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Earthquake",
+      27450114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Magic Arrow",
+      27450115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Ice Bolt",
+      27450116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Lightning Bolt",
+      27450117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Implosion",
+      27450118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Chain Lightning",
+      27450119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Frost Ring",
+      27450120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fireball",
+      27450121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Inferno",
+      27450122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Meteor Shower",
+      27450123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Death Ripple",
+      27450124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Destroy Undead",
+      27450125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Armageddon",
+      27450126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Shield",
+      27450127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Air Shield",
+      27450128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fire Shield",
+      27450129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Protection from Air",
+      27450130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Protection from Fire",
+      27450131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Protection from Water",
+      27450132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Protection from Earth",
+      27450133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Anti Magic",
+      27450134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Dispel",
+      27450135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Magic Mirror",
+      27450136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Cure",
+      27450137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Resurrection",
+      27450138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Animate Dead",
+      27450139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Sacrifice",
+      27450140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Bless",
+      27450141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Curse",
+      27450142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Bloodlust",
+      27450143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Precision",
+      27450144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Weakness",
+      27450145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Stone Skin",
+      27450146,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Disrupting Ray",
+      27450147,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Prayer",
+      27450148,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Mirth",
+      27450149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Sorrow",
+      27450150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fortune",
+      27450151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Misfortune",
+      27450152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Haste",
+      27450153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Slow",
+      27450154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Slayer",
+      27450155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Frenzy",
+      27450156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Titan's Lighting Bolt",
+      27450157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Counterstrike",
+      27450158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Berserk",
+      27450159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Hypnotize",
+      27450160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Forgetfulness",
+      27450161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Blind",
+      27450162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Teleport",
+      27450163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Remove Obstacle",
+      27450164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Clone",
+      27450165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Fire Elemental",
+      27450166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Earth Elemental",
+      27450167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Water Elemental",
+      27450168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spell Air Elemental",
+      27450169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Attack",
+      27450170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Def",
+      27450171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Spellpower",
+      27450172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Catherine Knowledge",
+      27450173,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gelu Name",
+      27451403,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Movement",
+      27451445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu EXP",
+      27451449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 1",
+      27451513,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 2",
+      27451517,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 3",
+      27451521,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 4",
+      27451525,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 5",
+      27451529,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 6",
+      27451533,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Type Slot 7",
+      27451537,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 1",
+      27451541,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 2",
+      27451545,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 3",
+      27451549,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 4",
+      27451553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 5",
+      27451557,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 6",
+      27451561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Unit Count Slot 7",
+      27451565,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Pathfinding",
+      27451569,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Archery",
+      27451570,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Logistics",
+      27451571,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Scouting",
+      27451572,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Diplomacy",
+      27451573,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Navigation",
+      27451574,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Leadership",
+      27451575,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Wisdom",
+      27451576,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Mysticism",
+      27451577,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Luck",
+      27451578,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Ballistics",
+      27451579,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Eagle Eye",
+      27451580,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Necromancy",
+      27451581,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Estates",
+      27451582,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Fire Magic",
+      27451583,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Air Magic",
+      27451584,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Water Magic",
+      27451585,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Earth Magic",
+      27451586,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Scholar",
+      27451587,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Tactics",
+      27451588,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Artillery",
+      27451589,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Learning",
+      27451590,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Offence",
+      27451591,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Armourer",
+      27451592,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Intelligence",
+      27451593,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Sorcery",
+      27451594,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Resistance",
+      27451595,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu First Aid",
+      27451596,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Pathfinding Slot",
+      27451597,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Archery Slot",
+      27451598,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Logistics Slot",
+      27451599,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Scouting Slot",
+      27451600,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Diplomacy Slot",
+      27451601,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Navigation Slot",
+      27451602,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Leadership Slot",
+      27451603,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Wisdom Slot",
+      27451604,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Mysticism Slot",
+      27451605,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Luck Slot",
+      27451606,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Ballistics Slot",
+      27451607,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Eagle Eye Slot",
+      27451608,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Necromancy Slot",
+      27451609,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Estates Slot",
+      27451610,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Fire Magic Slot",
+      27451611,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Air Magic Slot",
+      27451612,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Water Magic Slot",
+      27451613,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Earth Magic Slot",
+      27451614,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Scholar Slot",
+      27451615,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Tactics Slot",
+      27451616,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Artillery Slot",
+      27451617,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Learning Slot",
+      27451618,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Offense Slot",
+      27451619,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Armourer Slot",
+      27451620,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Intelligence Slot",
+      27451621,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Sorcery Slot",
+      27451622,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Resistance Slot",
+      27451623,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu First Aid Slot",
+      27451624,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Skill Count",
+      27451625,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Ballista equipped (4 or -1)",
+      27451773,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Ammo Cart equipped (5 or -1)",
+      27451781,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu First Aid equipped Item (6 or -1)",
+      27451789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Catapult equipped (3 or -1)",
+      27451797,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spellbook equipped (0 or -1)",
+      27451805,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 1",
+      27451836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 2",
+      27451844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 3",
+      27451852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 4",
+      27451860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 5",
+      27451868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 6",
+      27451876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 7",
+      27451884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 8",
+      27451892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 9",
+      27451900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 10",
+      27451908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 11",
+      27451916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 12",
+      27451924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 13",
+      27451932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 14",
+      27451940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 15",
+      27451948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 16",
+      27451956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 17",
+      27451964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 18",
+      27451972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 19",
+      27451980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 20",
+      27451988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 21",
+      27451996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 22",
+      27452004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 23",
+      27452012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 24",
+      27452020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 25",
+      27452028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 26",
+      27452036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 27",
+      27452044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 28",
+      27452052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 29",
+      27452060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 30",
+      27452068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 31",
+      27452076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 32",
+      27452084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 33",
+      27452092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 34",
+      27452100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 35",
+      27452108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 36",
+      27452116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 37",
+      27452124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 38",
+      27452132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 39",
+      27452140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 40",
+      27452148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 41",
+      27452156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 42",
+      27452164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 43",
+      27452172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 44",
+      27452180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 45",
+      27452188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 46",
+      27452196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 47",
+      27452204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 48",
+      27452212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 49",
+      27452220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 50",
+      27452228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 51",
+      27452236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 52",
+      27452244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 53",
+      27452252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 54",
+      27452260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 55",
+      27452268,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 56",
+      27452276,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 57",
+      27452284,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 58",
+      27452292,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 59",
+      27452300,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 60",
+      27452308,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 61",
+      27452316,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 62",
+      27452324,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 63",
+      27452332,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Backpack Slot 64",
+      27452340,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Summon Boat",
+      27452440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Scuttle Boat",
+      27452441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Visions",
+      27452442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell View Earth",
+      27452443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Disguise",
+      27452444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell View Air",
+      27452445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fly",
+      27452446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Water Walk",
+      27452447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Dimension Door",
+      27452448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Town Portal",
+      27452449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Quicksand",
+      27452450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Land Mine",
+      27452451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Force Field",
+      27452452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fire Wall",
+      27452453,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Earthquake",
+      27452454,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Magic Arrow",
+      27452455,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Ice Bolt",
+      27452456,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Lightning Bolt",
+      27452457,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Implosion",
+      27452458,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Chain Lightning",
+      27452459,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Frost Ring",
+      27452460,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fireball",
+      27452461,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Inferno",
+      27452462,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Meteor Shower",
+      27452463,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Death Ripple",
+      27452464,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Destroy Undead",
+      27452465,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Armageddon",
+      27452466,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Shield",
+      27452467,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Air Shield",
+      27452468,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fire Shield",
+      27452469,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Protection from Air",
+      27452470,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Protection from Fire",
+      27452471,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Protection from Water",
+      27452472,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Protection from Earth",
+      27452473,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Anti Magic",
+      27452474,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Dispel",
+      27452475,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Magic Mirror",
+      27452476,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Cure",
+      27452477,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Resurrection",
+      27452478,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Animate Dead",
+      27452479,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Sacrifice",
+      27452480,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Bless",
+      27452481,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Curse",
+      27452482,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Bloodlust",
+      27452483,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Precision",
+      27452484,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Weakness",
+      27452485,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Stone Skin",
+      27452486,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Disrupting Ray",
+      27452487,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Prayer",
+      27452488,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Mirth",
+      27452489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Sorrow",
+      27452490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fortune",
+      27452491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Misfortune",
+      27452492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Haste",
+      27452493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Slow",
+      27452494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Slayer",
+      27452495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Frenzy",
+      27452496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Titan's Lighting Bolt",
+      27452497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Counterstrike",
+      27452498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Berserk",
+      27452499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Hypnotize",
+      27452500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Forgetfulness",
+      27452501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Blind",
+      27452502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Teleport",
+      27452503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Remove Obstacle",
+      27452504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Clone",
+      27452505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Fire Elemental",
+      27452506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Earth Elemental",
+      27452507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Water Elemental",
+      27452508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spell Air Elemental",
+      27452509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Attack",
+      27452510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Def",
+      27452511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Spellpower",
+      27452512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gelu Knowledge",
+      27452513,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

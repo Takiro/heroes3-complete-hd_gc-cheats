@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Dace Name",
+      27374183,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Movement",
+      27374225,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace EXP",
+      27374229,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 1",
+      27374293,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 2",
+      27374297,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 3",
+      27374301,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 4",
+      27374305,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 5",
+      27374309,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 6",
+      27374313,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Type Slot 7",
+      27374317,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 1",
+      27374321,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 2",
+      27374325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 3",
+      27374329,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 4",
+      27374333,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 5",
+      27374337,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 6",
+      27374341,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Unit Count Slot 7",
+      27374345,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Pathfinding",
+      27374349,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Archery",
+      27374350,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Logistics",
+      27374351,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Scouting",
+      27374352,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Diplomacy",
+      27374353,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Navigation",
+      27374354,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Leadership",
+      27374355,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Wisdom",
+      27374356,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Mysticism",
+      27374357,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Luck",
+      27374358,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Ballistics",
+      27374359,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Eagle Eye",
+      27374360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Necromancy",
+      27374361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Estates",
+      27374362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Fire Magic",
+      27374363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Air Magic",
+      27374364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Water Magic",
+      27374365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Earth Magic",
+      27374366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Scholar",
+      27374367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Tactics",
+      27374368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Artillery",
+      27374369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Learning",
+      27374370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Offence",
+      27374371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Armourer",
+      27374372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Intelligence",
+      27374373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Sorcery",
+      27374374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Resistance",
+      27374375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace First Aid",
+      27374376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Pathfinding Slot",
+      27374377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Archery Slot",
+      27374378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Logistics Slot",
+      27374379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Scouting Slot",
+      27374380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Diplomacy Slot",
+      27374381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Navigation Slot",
+      27374382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Leadership Slot",
+      27374383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Wisdom Slot",
+      27374384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Mysticism Slot",
+      27374385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Luck Slot",
+      27374386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Ballistics Slot",
+      27374387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Eagle Eye Slot",
+      27374388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Necromancy Slot",
+      27374389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Estates Slot",
+      27374390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Fire Magic Slot",
+      27374391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Air Magic Slot",
+      27374392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Water Magic Slot",
+      27374393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Earth Magic Slot",
+      27374394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Scholar Slot",
+      27374395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Tactics Slot",
+      27374396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Artillery Slot",
+      27374397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Learning Slot",
+      27374398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Offense Slot",
+      27374399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Armourer Slot",
+      27374400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Intelligence Slot",
+      27374401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Sorcery Slot",
+      27374402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Resistance Slot",
+      27374403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace First Aid Slot",
+      27374404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Skill Count",
+      27374405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Ballista equipped (4 or -1)",
+      27374553,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Ammo Cart equipped (5 or -1)",
+      27374561,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace First Aid equipped Item (6 or -1)",
+      27374569,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Catapult equipped (3 or -1)",
+      27374577,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spellbook equipped (0 or -1)",
+      27374585,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 1",
+      27374616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 2",
+      27374624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 3",
+      27374632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 4",
+      27374640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 5",
+      27374648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 6",
+      27374656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 7",
+      27374664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 8",
+      27374672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 9",
+      27374680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 10",
+      27374688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 11",
+      27374696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 12",
+      27374704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 13",
+      27374712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 14",
+      27374720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 15",
+      27374728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 16",
+      27374736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 17",
+      27374744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 18",
+      27374752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 19",
+      27374760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 20",
+      27374768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 21",
+      27374776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 22",
+      27374784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 23",
+      27374792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 24",
+      27374800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 25",
+      27374808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 26",
+      27374816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 27",
+      27374824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 28",
+      27374832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 29",
+      27374840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 30",
+      27374848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 31",
+      27374856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 32",
+      27374864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 33",
+      27374872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 34",
+      27374880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 35",
+      27374888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 36",
+      27374896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 37",
+      27374904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 38",
+      27374912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 39",
+      27374920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 40",
+      27374928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 41",
+      27374936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 42",
+      27374944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 43",
+      27374952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 44",
+      27374960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 45",
+      27374968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 46",
+      27374976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 47",
+      27374984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 48",
+      27374992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 49",
+      27375000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 50",
+      27375008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 51",
+      27375016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 52",
+      27375024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 53",
+      27375032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 54",
+      27375040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 55",
+      27375048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 56",
+      27375056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 57",
+      27375064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 58",
+      27375072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 59",
+      27375080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 60",
+      27375088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 61",
+      27375096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 62",
+      27375104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 63",
+      27375112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Backpack Slot 64",
+      27375120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Summon Boat",
+      27375220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Scuttle Boat",
+      27375221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Visions",
+      27375222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell View Earth",
+      27375223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Disguise",
+      27375224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell View Air",
+      27375225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fly",
+      27375226,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Water Walk",
+      27375227,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Dimension Door",
+      27375228,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Town Portal",
+      27375229,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Quicksand",
+      27375230,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Land Mine",
+      27375231,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Force Field",
+      27375232,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fire Wall",
+      27375233,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Earthquake",
+      27375234,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Magic Arrow",
+      27375235,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Ice Bolt",
+      27375236,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Lightning Bolt",
+      27375237,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Implosion",
+      27375238,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Chain Lightning",
+      27375239,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Frost Ring",
+      27375240,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fireball",
+      27375241,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Inferno",
+      27375242,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Meteor Shower",
+      27375243,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Death Ripple",
+      27375244,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Destroy Undead",
+      27375245,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Armageddon",
+      27375246,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Shield",
+      27375247,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Air Shield",
+      27375248,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fire Shield",
+      27375249,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Protection from Air",
+      27375250,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Protection from Fire",
+      27375251,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Protection from Water",
+      27375252,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Protection from Earth",
+      27375253,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Anti Magic",
+      27375254,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Dispel",
+      27375255,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Magic Mirror",
+      27375256,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Cure",
+      27375257,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Resurrection",
+      27375258,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Animate Dead",
+      27375259,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Sacrifice",
+      27375260,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Bless",
+      27375261,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Curse",
+      27375262,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Bloodlust",
+      27375263,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Precision",
+      27375264,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Weakness",
+      27375265,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Stone Skin",
+      27375266,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Disrupting Ray",
+      27375267,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Prayer",
+      27375268,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Mirth",
+      27375269,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Sorrow",
+      27375270,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fortune",
+      27375271,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Misfortune",
+      27375272,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Haste",
+      27375273,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Slow",
+      27375274,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Slayer",
+      27375275,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Frenzy",
+      27375276,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Titan's Lighting Bolt",
+      27375277,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Counterstrike",
+      27375278,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Berserk",
+      27375279,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Hypnotize",
+      27375280,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Forgetfulness",
+      27375281,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Blind",
+      27375282,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Teleport",
+      27375283,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Remove Obstacle",
+      27375284,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Clone",
+      27375285,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Fire Elemental",
+      27375286,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Earth Elemental",
+      27375287,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Water Elemental",
+      27375288,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spell Air Elemental",
+      27375289,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Attack",
+      27375290,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Def",
+      27375291,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Spellpower",
+      27375292,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Dace Knowledge",
+      27375293,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

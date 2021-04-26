@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Caitlin Name",
+      27295793,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Movement",
+      27295835,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin EXP",
+      27295839,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 1",
+      27295903,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 2",
+      27295907,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 3",
+      27295911,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 4",
+      27295915,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 5",
+      27295919,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 6",
+      27295923,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Type Slot 7",
+      27295927,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 1",
+      27295931,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 2",
+      27295935,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 3",
+      27295939,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 4",
+      27295943,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 5",
+      27295947,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 6",
+      27295951,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Unit Count Slot 7",
+      27295955,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Pathfinding",
+      27295959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Archery",
+      27295960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Logistics",
+      27295961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Scouting",
+      27295962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Diplomacy",
+      27295963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Navigation",
+      27295964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Leadership",
+      27295965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Wisdom",
+      27295966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Mysticism",
+      27295967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Luck",
+      27295968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Ballistics",
+      27295969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Eagle Eye",
+      27295970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Necromancy",
+      27295971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Estates",
+      27295972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Fire Magic",
+      27295973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Air Magic",
+      27295974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Water Magic",
+      27295975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Earth Magic",
+      27295976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Scholar",
+      27295977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Tactics",
+      27295978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Artillery",
+      27295979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Learning",
+      27295980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Offence",
+      27295981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Armourer",
+      27295982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Intelligence",
+      27295983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Sorcery",
+      27295984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Resistance",
+      27295985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin First Aid",
+      27295986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Pathfinding Slot",
+      27295987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Archery Slot",
+      27295988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Logistics Slot",
+      27295989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Scouting Slot",
+      27295990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Diplomacy Slot",
+      27295991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Navigation Slot",
+      27295992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Leadership Slot",
+      27295993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Wisdom Slot",
+      27295994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Mysticism Slot",
+      27295995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Luck Slot",
+      27295996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Ballistics Slot",
+      27295997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Eagle Eye Slot",
+      27295998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Necromancy Slot",
+      27295999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Estates Slot",
+      27296000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Fire Magic Slot",
+      27296001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Air Magic Slot",
+      27296002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Water Magic Slot",
+      27296003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Earth Magic Slot",
+      27296004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Scholar Slot",
+      27296005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Tactics Slot",
+      27296006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Artillery Slot",
+      27296007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Learning Slot",
+      27296008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Offense Slot",
+      27296009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Armourer Slot",
+      27296010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Intelligence Slot",
+      27296011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Sorcery Slot",
+      27296012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Resistance Slot",
+      27296013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin First Aid Slot",
+      27296014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Skill Count",
+      27296015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Ballista equipped (4 or -1)",
+      27296163,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Ammo Cart equipped (5 or -1)",
+      27296171,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin First Aid equipped Item (6 or -1)",
+      27296179,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Catapult equipped (3 or -1)",
+      27296187,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spellbook equipped (0 or -1)",
+      27296195,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 1",
+      27296226,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 2",
+      27296234,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 3",
+      27296242,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 4",
+      27296250,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 5",
+      27296258,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 6",
+      27296266,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 7",
+      27296274,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 8",
+      27296282,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 9",
+      27296290,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 10",
+      27296298,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 11",
+      27296306,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 12",
+      27296314,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 13",
+      27296322,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 14",
+      27296330,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 15",
+      27296338,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 16",
+      27296346,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 17",
+      27296354,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 18",
+      27296362,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 19",
+      27296370,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 20",
+      27296378,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 21",
+      27296386,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 22",
+      27296394,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 23",
+      27296402,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 24",
+      27296410,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 25",
+      27296418,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 26",
+      27296426,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 27",
+      27296434,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 28",
+      27296442,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 29",
+      27296450,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 30",
+      27296458,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 31",
+      27296466,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 32",
+      27296474,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 33",
+      27296482,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 34",
+      27296490,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 35",
+      27296498,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 36",
+      27296506,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 37",
+      27296514,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 38",
+      27296522,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 39",
+      27296530,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 40",
+      27296538,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 41",
+      27296546,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 42",
+      27296554,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 43",
+      27296562,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 44",
+      27296570,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 45",
+      27296578,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 46",
+      27296586,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 47",
+      27296594,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 48",
+      27296602,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 49",
+      27296610,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 50",
+      27296618,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 51",
+      27296626,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 52",
+      27296634,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 53",
+      27296642,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 54",
+      27296650,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 55",
+      27296658,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 56",
+      27296666,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 57",
+      27296674,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 58",
+      27296682,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 59",
+      27296690,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 60",
+      27296698,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 61",
+      27296706,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 62",
+      27296714,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 63",
+      27296722,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Backpack Slot 64",
+      27296730,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Summon Boat",
+      27296830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Scuttle Boat",
+      27296831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Visions",
+      27296832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell View Earth",
+      27296833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Disguise",
+      27296834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell View Air",
+      27296835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fly",
+      27296836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Water Walk",
+      27296837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Dimension Door",
+      27296838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Town Portal",
+      27296839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Quicksand",
+      27296840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Land Mine",
+      27296841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Force Field",
+      27296842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fire Wall",
+      27296843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Earthquake",
+      27296844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Magic Arrow",
+      27296845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Ice Bolt",
+      27296846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Lightning Bolt",
+      27296847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Implosion",
+      27296848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Chain Lightning",
+      27296849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Frost Ring",
+      27296850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fireball",
+      27296851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Inferno",
+      27296852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Meteor Shower",
+      27296853,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Death Ripple",
+      27296854,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Destroy Undead",
+      27296855,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Armageddon",
+      27296856,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Shield",
+      27296857,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Air Shield",
+      27296858,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fire Shield",
+      27296859,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Protection from Air",
+      27296860,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Protection from Fire",
+      27296861,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Protection from Water",
+      27296862,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Protection from Earth",
+      27296863,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Anti Magic",
+      27296864,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Dispel",
+      27296865,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Magic Mirror",
+      27296866,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Cure",
+      27296867,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Resurrection",
+      27296868,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Animate Dead",
+      27296869,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Sacrifice",
+      27296870,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Bless",
+      27296871,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Curse",
+      27296872,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Bloodlust",
+      27296873,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Precision",
+      27296874,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Weakness",
+      27296875,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Stone Skin",
+      27296876,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Disrupting Ray",
+      27296877,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Prayer",
+      27296878,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Mirth",
+      27296879,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Sorrow",
+      27296880,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fortune",
+      27296881,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Misfortune",
+      27296882,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Haste",
+      27296883,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Slow",
+      27296884,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Slayer",
+      27296885,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Frenzy",
+      27296886,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Titan's Lighting Bolt",
+      27296887,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Counterstrike",
+      27296888,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Berserk",
+      27296889,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Hypnotize",
+      27296890,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Forgetfulness",
+      27296891,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Blind",
+      27296892,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Teleport",
+      27296893,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Remove Obstacle",
+      27296894,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Clone",
+      27296895,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Fire Elemental",
+      27296896,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Earth Elemental",
+      27296897,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Water Elemental",
+      27296898,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spell Air Elemental",
+      27296899,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Attack",
+      27296900,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Def",
+      27296901,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Spellpower",
+      27296902,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Caitlin Knowledge",
+      27296903,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

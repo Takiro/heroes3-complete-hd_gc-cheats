@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Ignissa Name",
+      27430343,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Movement",
+      27430385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa EXP",
+      27430389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 1",
+      27430453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 2",
+      27430457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 3",
+      27430461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 4",
+      27430465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 5",
+      27430469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 6",
+      27430473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Type Slot 7",
+      27430477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 1",
+      27430481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 2",
+      27430485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 3",
+      27430489,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 4",
+      27430493,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 5",
+      27430497,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 6",
+      27430501,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Unit Count Slot 7",
+      27430505,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Pathfinding",
+      27430509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Archery",
+      27430510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Logistics",
+      27430511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Scouting",
+      27430512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Diplomacy",
+      27430513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Navigation",
+      27430514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Leadership",
+      27430515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Wisdom",
+      27430516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Mysticism",
+      27430517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Luck",
+      27430518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Ballistics",
+      27430519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Eagle Eye",
+      27430520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Necromancy",
+      27430521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Estates",
+      27430522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Fire Magic",
+      27430523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Air Magic",
+      27430524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Water Magic",
+      27430525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Earth Magic",
+      27430526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Scholar",
+      27430527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Tactics",
+      27430528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Artillery",
+      27430529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Learning",
+      27430530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Offence",
+      27430531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Armourer",
+      27430532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Intelligence",
+      27430533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Sorcery",
+      27430534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Resistance",
+      27430535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa First Aid",
+      27430536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Pathfinding Slot",
+      27430537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Archery Slot",
+      27430538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Logistics Slot",
+      27430539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Scouting Slot",
+      27430540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Diplomacy Slot",
+      27430541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Navigation Slot",
+      27430542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Leadership Slot",
+      27430543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Wisdom Slot",
+      27430544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Mysticism Slot",
+      27430545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Luck Slot",
+      27430546,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Ballistics Slot",
+      27430547,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Eagle Eye Slot",
+      27430548,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Necromancy Slot",
+      27430549,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Estates Slot",
+      27430550,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Fire Magic Slot",
+      27430551,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Air Magic Slot",
+      27430552,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Water Magic Slot",
+      27430553,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Earth Magic Slot",
+      27430554,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Scholar Slot",
+      27430555,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Tactics Slot",
+      27430556,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Artillery Slot",
+      27430557,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Learning Slot",
+      27430558,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Offense Slot",
+      27430559,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Armourer Slot",
+      27430560,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Intelligence Slot",
+      27430561,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Sorcery Slot",
+      27430562,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Resistance Slot",
+      27430563,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa First Aid Slot",
+      27430564,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Skill Count",
+      27430565,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Ballista equipped (4 or -1)",
+      27430713,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Ammo Cart equipped (5 or -1)",
+      27430721,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa First Aid equipped Item (6 or -1)",
+      27430729,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Catapult equipped (3 or -1)",
+      27430737,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spellbook equipped (0 or -1)",
+      27430745,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 1",
+      27430776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 2",
+      27430784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 3",
+      27430792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 4",
+      27430800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 5",
+      27430808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 6",
+      27430816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 7",
+      27430824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 8",
+      27430832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 9",
+      27430840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 10",
+      27430848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 11",
+      27430856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 12",
+      27430864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 13",
+      27430872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 14",
+      27430880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 15",
+      27430888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 16",
+      27430896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 17",
+      27430904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 18",
+      27430912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 19",
+      27430920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 20",
+      27430928,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 21",
+      27430936,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 22",
+      27430944,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 23",
+      27430952,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 24",
+      27430960,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 25",
+      27430968,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 26",
+      27430976,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 27",
+      27430984,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 28",
+      27430992,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 29",
+      27431000,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 30",
+      27431008,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 31",
+      27431016,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 32",
+      27431024,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 33",
+      27431032,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 34",
+      27431040,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 35",
+      27431048,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 36",
+      27431056,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 37",
+      27431064,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 38",
+      27431072,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 39",
+      27431080,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 40",
+      27431088,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 41",
+      27431096,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 42",
+      27431104,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 43",
+      27431112,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 44",
+      27431120,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 45",
+      27431128,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 46",
+      27431136,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 47",
+      27431144,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 48",
+      27431152,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 49",
+      27431160,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 50",
+      27431168,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 51",
+      27431176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 52",
+      27431184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 53",
+      27431192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 54",
+      27431200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 55",
+      27431208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 56",
+      27431216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 57",
+      27431224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 58",
+      27431232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 59",
+      27431240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 60",
+      27431248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 61",
+      27431256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 62",
+      27431264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 63",
+      27431272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Backpack Slot 64",
+      27431280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Summon Boat",
+      27431380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Scuttle Boat",
+      27431381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Visions",
+      27431382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell View Earth",
+      27431383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Disguise",
+      27431384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell View Air",
+      27431385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fly",
+      27431386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Water Walk",
+      27431387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Dimension Door",
+      27431388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Town Portal",
+      27431389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Quicksand",
+      27431390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Land Mine",
+      27431391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Force Field",
+      27431392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fire Wall",
+      27431393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Earthquake",
+      27431394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Magic Arrow",
+      27431395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Ice Bolt",
+      27431396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Lightning Bolt",
+      27431397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Implosion",
+      27431398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Chain Lightning",
+      27431399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Frost Ring",
+      27431400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fireball",
+      27431401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Inferno",
+      27431402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Meteor Shower",
+      27431403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Death Ripple",
+      27431404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Destroy Undead",
+      27431405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Armageddon",
+      27431406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Shield",
+      27431407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Air Shield",
+      27431408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fire Shield",
+      27431409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Protection from Air",
+      27431410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Protection from Fire",
+      27431411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Protection from Water",
+      27431412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Protection from Earth",
+      27431413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Anti Magic",
+      27431414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Dispel",
+      27431415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Magic Mirror",
+      27431416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Cure",
+      27431417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Resurrection",
+      27431418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Animate Dead",
+      27431419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Sacrifice",
+      27431420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Bless",
+      27431421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Curse",
+      27431422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Bloodlust",
+      27431423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Precision",
+      27431424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Weakness",
+      27431425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Stone Skin",
+      27431426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Disrupting Ray",
+      27431427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Prayer",
+      27431428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Mirth",
+      27431429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Sorrow",
+      27431430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fortune",
+      27431431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Misfortune",
+      27431432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Haste",
+      27431433,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Slow",
+      27431434,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Slayer",
+      27431435,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Frenzy",
+      27431436,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Titan's Lighting Bolt",
+      27431437,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Counterstrike",
+      27431438,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Berserk",
+      27431439,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Hypnotize",
+      27431440,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Forgetfulness",
+      27431441,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Blind",
+      27431442,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Teleport",
+      27431443,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Remove Obstacle",
+      27431444,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Clone",
+      27431445,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Fire Elemental",
+      27431446,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Earth Elemental",
+      27431447,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Water Elemental",
+      27431448,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spell Air Elemental",
+      27431449,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Attack",
+      27431450,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Def",
+      27431451,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Spellpower",
+      27431452,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Ignissa Knowledge",
+      27431453,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

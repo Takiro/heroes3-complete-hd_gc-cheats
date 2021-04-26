@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Merist Name",
+      27423323,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Movement",
+      27423365,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist EXP",
+      27423369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 1",
+      27423433,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 2",
+      27423437,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 3",
+      27423441,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 4",
+      27423445,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 5",
+      27423449,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 6",
+      27423453,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Type Slot 7",
+      27423457,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 1",
+      27423461,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 2",
+      27423465,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 3",
+      27423469,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 4",
+      27423473,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 5",
+      27423477,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 6",
+      27423481,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Unit Count Slot 7",
+      27423485,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Pathfinding",
+      27423489,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Archery",
+      27423490,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Logistics",
+      27423491,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Scouting",
+      27423492,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Diplomacy",
+      27423493,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Navigation",
+      27423494,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Leadership",
+      27423495,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Wisdom",
+      27423496,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Mysticism",
+      27423497,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Luck",
+      27423498,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Ballistics",
+      27423499,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Eagle Eye",
+      27423500,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Necromancy",
+      27423501,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Estates",
+      27423502,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Fire Magic",
+      27423503,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Air Magic",
+      27423504,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Water Magic",
+      27423505,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Earth Magic",
+      27423506,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Scholar",
+      27423507,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Tactics",
+      27423508,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Artillery",
+      27423509,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Learning",
+      27423510,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Offence",
+      27423511,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Armourer",
+      27423512,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Intelligence",
+      27423513,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Sorcery",
+      27423514,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Resistance",
+      27423515,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist First Aid",
+      27423516,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Pathfinding Slot",
+      27423517,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Archery Slot",
+      27423518,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Logistics Slot",
+      27423519,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Scouting Slot",
+      27423520,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Diplomacy Slot",
+      27423521,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Navigation Slot",
+      27423522,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Leadership Slot",
+      27423523,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Wisdom Slot",
+      27423524,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Mysticism Slot",
+      27423525,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Luck Slot",
+      27423526,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Ballistics Slot",
+      27423527,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Eagle Eye Slot",
+      27423528,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Necromancy Slot",
+      27423529,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Estates Slot",
+      27423530,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Fire Magic Slot",
+      27423531,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Air Magic Slot",
+      27423532,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Water Magic Slot",
+      27423533,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Earth Magic Slot",
+      27423534,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Scholar Slot",
+      27423535,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Tactics Slot",
+      27423536,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Artillery Slot",
+      27423537,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Learning Slot",
+      27423538,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Offense Slot",
+      27423539,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Armourer Slot",
+      27423540,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Intelligence Slot",
+      27423541,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Sorcery Slot",
+      27423542,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Resistance Slot",
+      27423543,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist First Aid Slot",
+      27423544,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Skill Count",
+      27423545,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Ballista equipped (4 or -1)",
+      27423693,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Ammo Cart equipped (5 or -1)",
+      27423701,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist First Aid equipped Item (6 or -1)",
+      27423709,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Catapult equipped (3 or -1)",
+      27423717,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spellbook equipped (0 or -1)",
+      27423725,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 1",
+      27423756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 2",
+      27423764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 3",
+      27423772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 4",
+      27423780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 5",
+      27423788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 6",
+      27423796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 7",
+      27423804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 8",
+      27423812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 9",
+      27423820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 10",
+      27423828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 11",
+      27423836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 12",
+      27423844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 13",
+      27423852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 14",
+      27423860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 15",
+      27423868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 16",
+      27423876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 17",
+      27423884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 18",
+      27423892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 19",
+      27423900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 20",
+      27423908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 21",
+      27423916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 22",
+      27423924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 23",
+      27423932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 24",
+      27423940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 25",
+      27423948,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 26",
+      27423956,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 27",
+      27423964,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 28",
+      27423972,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 29",
+      27423980,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 30",
+      27423988,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 31",
+      27423996,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 32",
+      27424004,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 33",
+      27424012,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 34",
+      27424020,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 35",
+      27424028,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 36",
+      27424036,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 37",
+      27424044,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 38",
+      27424052,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 39",
+      27424060,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 40",
+      27424068,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 41",
+      27424076,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 42",
+      27424084,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 43",
+      27424092,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 44",
+      27424100,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 45",
+      27424108,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 46",
+      27424116,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 47",
+      27424124,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 48",
+      27424132,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 49",
+      27424140,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 50",
+      27424148,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 51",
+      27424156,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 52",
+      27424164,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 53",
+      27424172,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 54",
+      27424180,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 55",
+      27424188,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 56",
+      27424196,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 57",
+      27424204,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 58",
+      27424212,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 59",
+      27424220,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 60",
+      27424228,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 61",
+      27424236,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 62",
+      27424244,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 63",
+      27424252,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Backpack Slot 64",
+      27424260,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Summon Boat",
+      27424360,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Scuttle Boat",
+      27424361,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Visions",
+      27424362,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell View Earth",
+      27424363,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Disguise",
+      27424364,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell View Air",
+      27424365,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fly",
+      27424366,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Water Walk",
+      27424367,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Dimension Door",
+      27424368,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Town Portal",
+      27424369,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Quicksand",
+      27424370,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Land Mine",
+      27424371,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Force Field",
+      27424372,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fire Wall",
+      27424373,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Earthquake",
+      27424374,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Magic Arrow",
+      27424375,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Ice Bolt",
+      27424376,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Lightning Bolt",
+      27424377,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Implosion",
+      27424378,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Chain Lightning",
+      27424379,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Frost Ring",
+      27424380,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fireball",
+      27424381,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Inferno",
+      27424382,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Meteor Shower",
+      27424383,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Death Ripple",
+      27424384,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Destroy Undead",
+      27424385,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Armageddon",
+      27424386,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Shield",
+      27424387,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Air Shield",
+      27424388,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fire Shield",
+      27424389,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Protection from Air",
+      27424390,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Protection from Fire",
+      27424391,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Protection from Water",
+      27424392,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Protection from Earth",
+      27424393,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Anti Magic",
+      27424394,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Dispel",
+      27424395,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Magic Mirror",
+      27424396,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Cure",
+      27424397,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Resurrection",
+      27424398,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Animate Dead",
+      27424399,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Sacrifice",
+      27424400,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Bless",
+      27424401,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Curse",
+      27424402,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Bloodlust",
+      27424403,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Precision",
+      27424404,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Weakness",
+      27424405,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Stone Skin",
+      27424406,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Disrupting Ray",
+      27424407,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Prayer",
+      27424408,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Mirth",
+      27424409,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Sorrow",
+      27424410,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fortune",
+      27424411,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Misfortune",
+      27424412,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Haste",
+      27424413,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Slow",
+      27424414,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Slayer",
+      27424415,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Frenzy",
+      27424416,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Titan's Lighting Bolt",
+      27424417,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Counterstrike",
+      27424418,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Berserk",
+      27424419,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Hypnotize",
+      27424420,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Forgetfulness",
+      27424421,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Blind",
+      27424422,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Teleport",
+      27424423,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Remove Obstacle",
+      27424424,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Clone",
+      27424425,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Fire Elemental",
+      27424426,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Earth Elemental",
+      27424427,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Water Elemental",
+      27424428,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spell Air Elemental",
+      27424429,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Attack",
+      27424430,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Def",
+      27424431,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Spellpower",
+      27424432,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Merist Knowledge",
+      27424433,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

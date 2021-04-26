@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Gird Name",
+      27399923,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Movement",
+      27399965,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird EXP",
+      27399969,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 1",
+      27400033,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 2",
+      27400037,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 3",
+      27400041,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 4",
+      27400045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 5",
+      27400049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 6",
+      27400053,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Type Slot 7",
+      27400057,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 1",
+      27400061,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 2",
+      27400065,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 3",
+      27400069,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 4",
+      27400073,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 5",
+      27400077,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 6",
+      27400081,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Unit Count Slot 7",
+      27400085,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Pathfinding",
+      27400089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Archery",
+      27400090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Logistics",
+      27400091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Scouting",
+      27400092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Diplomacy",
+      27400093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Navigation",
+      27400094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Leadership",
+      27400095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Wisdom",
+      27400096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Mysticism",
+      27400097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Luck",
+      27400098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Ballistics",
+      27400099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Eagle Eye",
+      27400100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Necromancy",
+      27400101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Estates",
+      27400102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Fire Magic",
+      27400103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Air Magic",
+      27400104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Water Magic",
+      27400105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Earth Magic",
+      27400106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Scholar",
+      27400107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Tactics",
+      27400108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Artillery",
+      27400109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Learning",
+      27400110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Offence",
+      27400111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Armourer",
+      27400112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Intelligence",
+      27400113,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Sorcery",
+      27400114,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Resistance",
+      27400115,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird First Aid",
+      27400116,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Pathfinding Slot",
+      27400117,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Archery Slot",
+      27400118,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Logistics Slot",
+      27400119,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Scouting Slot",
+      27400120,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Diplomacy Slot",
+      27400121,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Navigation Slot",
+      27400122,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Leadership Slot",
+      27400123,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Wisdom Slot",
+      27400124,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Mysticism Slot",
+      27400125,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Luck Slot",
+      27400126,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Ballistics Slot",
+      27400127,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Eagle Eye Slot",
+      27400128,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Necromancy Slot",
+      27400129,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Estates Slot",
+      27400130,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Fire Magic Slot",
+      27400131,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Air Magic Slot",
+      27400132,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Water Magic Slot",
+      27400133,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Earth Magic Slot",
+      27400134,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Scholar Slot",
+      27400135,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Tactics Slot",
+      27400136,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Artillery Slot",
+      27400137,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Learning Slot",
+      27400138,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Offense Slot",
+      27400139,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Armourer Slot",
+      27400140,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Intelligence Slot",
+      27400141,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Sorcery Slot",
+      27400142,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Resistance Slot",
+      27400143,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird First Aid Slot",
+      27400144,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Skill Count",
+      27400145,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Ballista equipped (4 or -1)",
+      27400293,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Ammo Cart equipped (5 or -1)",
+      27400301,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird First Aid equipped Item (6 or -1)",
+      27400309,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Catapult equipped (3 or -1)",
+      27400317,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spellbook equipped (0 or -1)",
+      27400325,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 1",
+      27400356,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 2",
+      27400364,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 3",
+      27400372,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 4",
+      27400380,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 5",
+      27400388,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 6",
+      27400396,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 7",
+      27400404,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 8",
+      27400412,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 9",
+      27400420,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 10",
+      27400428,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 11",
+      27400436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 12",
+      27400444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 13",
+      27400452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 14",
+      27400460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 15",
+      27400468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 16",
+      27400476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 17",
+      27400484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 18",
+      27400492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 19",
+      27400500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 20",
+      27400508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 21",
+      27400516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 22",
+      27400524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 23",
+      27400532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 24",
+      27400540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 25",
+      27400548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 26",
+      27400556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 27",
+      27400564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 28",
+      27400572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 29",
+      27400580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 30",
+      27400588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 31",
+      27400596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 32",
+      27400604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 33",
+      27400612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 34",
+      27400620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 35",
+      27400628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 36",
+      27400636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 37",
+      27400644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 38",
+      27400652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 39",
+      27400660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 40",
+      27400668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 41",
+      27400676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 42",
+      27400684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 43",
+      27400692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 44",
+      27400700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 45",
+      27400708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 46",
+      27400716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 47",
+      27400724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 48",
+      27400732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 49",
+      27400740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 50",
+      27400748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 51",
+      27400756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 52",
+      27400764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 53",
+      27400772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 54",
+      27400780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 55",
+      27400788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 56",
+      27400796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 57",
+      27400804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 58",
+      27400812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 59",
+      27400820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 60",
+      27400828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 61",
+      27400836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 62",
+      27400844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 63",
+      27400852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Backpack Slot 64",
+      27400860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Summon Boat",
+      27400960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Scuttle Boat",
+      27400961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Visions",
+      27400962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell View Earth",
+      27400963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Disguise",
+      27400964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell View Air",
+      27400965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fly",
+      27400966,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Water Walk",
+      27400967,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Dimension Door",
+      27400968,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Town Portal",
+      27400969,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Quicksand",
+      27400970,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Land Mine",
+      27400971,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Force Field",
+      27400972,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fire Wall",
+      27400973,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Earthquake",
+      27400974,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Magic Arrow",
+      27400975,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Ice Bolt",
+      27400976,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Lightning Bolt",
+      27400977,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Implosion",
+      27400978,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Chain Lightning",
+      27400979,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Frost Ring",
+      27400980,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fireball",
+      27400981,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Inferno",
+      27400982,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Meteor Shower",
+      27400983,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Death Ripple",
+      27400984,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Destroy Undead",
+      27400985,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Armageddon",
+      27400986,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Shield",
+      27400987,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Air Shield",
+      27400988,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fire Shield",
+      27400989,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Protection from Air",
+      27400990,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Protection from Fire",
+      27400991,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Protection from Water",
+      27400992,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Protection from Earth",
+      27400993,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Anti Magic",
+      27400994,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Dispel",
+      27400995,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Magic Mirror",
+      27400996,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Cure",
+      27400997,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Resurrection",
+      27400998,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Animate Dead",
+      27400999,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Sacrifice",
+      27401000,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Bless",
+      27401001,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Curse",
+      27401002,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Bloodlust",
+      27401003,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Precision",
+      27401004,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Weakness",
+      27401005,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Stone Skin",
+      27401006,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Disrupting Ray",
+      27401007,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Prayer",
+      27401008,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Mirth",
+      27401009,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Sorrow",
+      27401010,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fortune",
+      27401011,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Misfortune",
+      27401012,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Haste",
+      27401013,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Slow",
+      27401014,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Slayer",
+      27401015,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Frenzy",
+      27401016,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Titan's Lighting Bolt",
+      27401017,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Counterstrike",
+      27401018,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Berserk",
+      27401019,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Hypnotize",
+      27401020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Forgetfulness",
+      27401021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Blind",
+      27401022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Teleport",
+      27401023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Remove Obstacle",
+      27401024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Clone",
+      27401025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Fire Elemental",
+      27401026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Earth Elemental",
+      27401027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Water Elemental",
+      27401028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spell Air Elemental",
+      27401029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Attack",
+      27401030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Def",
+      27401031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Spellpower",
+      27401032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Gird Knowledge",
+      27401033,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

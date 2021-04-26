@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Malcom Name",
+      27311003,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Movement",
+      27311045,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom EXP",
+      27311049,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 1",
+      27311113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 2",
+      27311117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 3",
+      27311121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 4",
+      27311125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 5",
+      27311129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 6",
+      27311133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Type Slot 7",
+      27311137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 1",
+      27311141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 2",
+      27311145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 3",
+      27311149,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 4",
+      27311153,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 5",
+      27311157,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 6",
+      27311161,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Unit Count Slot 7",
+      27311165,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Pathfinding",
+      27311169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Archery",
+      27311170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Logistics",
+      27311171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Scouting",
+      27311172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Diplomacy",
+      27311173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Navigation",
+      27311174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Leadership",
+      27311175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Wisdom",
+      27311176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Mysticism",
+      27311177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Luck",
+      27311178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Ballistics",
+      27311179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Eagle Eye",
+      27311180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Necromancy",
+      27311181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Estates",
+      27311182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Fire Magic",
+      27311183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Air Magic",
+      27311184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Water Magic",
+      27311185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Earth Magic",
+      27311186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Scholar",
+      27311187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Tactics",
+      27311188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Artillery",
+      27311189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Learning",
+      27311190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Offence",
+      27311191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Armourer",
+      27311192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Intelligence",
+      27311193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Sorcery",
+      27311194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Resistance",
+      27311195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom First Aid",
+      27311196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Pathfinding Slot",
+      27311197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Archery Slot",
+      27311198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Logistics Slot",
+      27311199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Scouting Slot",
+      27311200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Diplomacy Slot",
+      27311201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Navigation Slot",
+      27311202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Leadership Slot",
+      27311203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Wisdom Slot",
+      27311204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Mysticism Slot",
+      27311205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Luck Slot",
+      27311206,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Ballistics Slot",
+      27311207,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Eagle Eye Slot",
+      27311208,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Necromancy Slot",
+      27311209,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Estates Slot",
+      27311210,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Fire Magic Slot",
+      27311211,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Air Magic Slot",
+      27311212,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Water Magic Slot",
+      27311213,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Earth Magic Slot",
+      27311214,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Scholar Slot",
+      27311215,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Tactics Slot",
+      27311216,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Artillery Slot",
+      27311217,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Learning Slot",
+      27311218,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Offense Slot",
+      27311219,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Armourer Slot",
+      27311220,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Intelligence Slot",
+      27311221,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Sorcery Slot",
+      27311222,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Resistance Slot",
+      27311223,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom First Aid Slot",
+      27311224,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Skill Count",
+      27311225,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Ballista equipped (4 or -1)",
+      27311373,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Ammo Cart equipped (5 or -1)",
+      27311381,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom First Aid equipped Item (6 or -1)",
+      27311389,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Catapult equipped (3 or -1)",
+      27311397,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spellbook equipped (0 or -1)",
+      27311405,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 1",
+      27311436,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 2",
+      27311444,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 3",
+      27311452,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 4",
+      27311460,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 5",
+      27311468,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 6",
+      27311476,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 7",
+      27311484,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 8",
+      27311492,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 9",
+      27311500,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 10",
+      27311508,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 11",
+      27311516,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 12",
+      27311524,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 13",
+      27311532,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 14",
+      27311540,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 15",
+      27311548,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 16",
+      27311556,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 17",
+      27311564,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 18",
+      27311572,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 19",
+      27311580,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 20",
+      27311588,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 21",
+      27311596,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 22",
+      27311604,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 23",
+      27311612,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 24",
+      27311620,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 25",
+      27311628,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 26",
+      27311636,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 27",
+      27311644,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 28",
+      27311652,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 29",
+      27311660,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 30",
+      27311668,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 31",
+      27311676,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 32",
+      27311684,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 33",
+      27311692,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 34",
+      27311700,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 35",
+      27311708,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 36",
+      27311716,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 37",
+      27311724,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 38",
+      27311732,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 39",
+      27311740,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 40",
+      27311748,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 41",
+      27311756,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 42",
+      27311764,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 43",
+      27311772,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 44",
+      27311780,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 45",
+      27311788,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 46",
+      27311796,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 47",
+      27311804,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 48",
+      27311812,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 49",
+      27311820,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 50",
+      27311828,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 51",
+      27311836,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 52",
+      27311844,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 53",
+      27311852,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 54",
+      27311860,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 55",
+      27311868,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 56",
+      27311876,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 57",
+      27311884,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 58",
+      27311892,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 59",
+      27311900,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 60",
+      27311908,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 61",
+      27311916,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 62",
+      27311924,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 63",
+      27311932,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Backpack Slot 64",
+      27311940,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Summon Boat",
+      27312040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Scuttle Boat",
+      27312041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Visions",
+      27312042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell View Earth",
+      27312043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Disguise",
+      27312044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell View Air",
+      27312045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fly",
+      27312046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Water Walk",
+      27312047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Dimension Door",
+      27312048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Town Portal",
+      27312049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Quicksand",
+      27312050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Land Mine",
+      27312051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Force Field",
+      27312052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fire Wall",
+      27312053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Earthquake",
+      27312054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Magic Arrow",
+      27312055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Ice Bolt",
+      27312056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Lightning Bolt",
+      27312057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Implosion",
+      27312058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Chain Lightning",
+      27312059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Frost Ring",
+      27312060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fireball",
+      27312061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Inferno",
+      27312062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Meteor Shower",
+      27312063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Death Ripple",
+      27312064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Destroy Undead",
+      27312065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Armageddon",
+      27312066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Shield",
+      27312067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Air Shield",
+      27312068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fire Shield",
+      27312069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Protection from Air",
+      27312070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Protection from Fire",
+      27312071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Protection from Water",
+      27312072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Protection from Earth",
+      27312073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Anti Magic",
+      27312074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Dispel",
+      27312075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Magic Mirror",
+      27312076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Cure",
+      27312077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Resurrection",
+      27312078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Animate Dead",
+      27312079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Sacrifice",
+      27312080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Bless",
+      27312081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Curse",
+      27312082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Bloodlust",
+      27312083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Precision",
+      27312084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Weakness",
+      27312085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Stone Skin",
+      27312086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Disrupting Ray",
+      27312087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Prayer",
+      27312088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Mirth",
+      27312089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Sorrow",
+      27312090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fortune",
+      27312091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Misfortune",
+      27312092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Haste",
+      27312093,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Slow",
+      27312094,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Slayer",
+      27312095,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Frenzy",
+      27312096,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Titan's Lighting Bolt",
+      27312097,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Counterstrike",
+      27312098,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Berserk",
+      27312099,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Hypnotize",
+      27312100,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Forgetfulness",
+      27312101,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Blind",
+      27312102,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Teleport",
+      27312103,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Remove Obstacle",
+      27312104,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Clone",
+      27312105,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Fire Elemental",
+      27312106,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Earth Elemental",
+      27312107,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Water Elemental",
+      27312108,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spell Air Elemental",
+      27312109,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Attack",
+      27312110,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Def",
+      27312111,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Spellpower",
+      27312112,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Malcom Knowledge",
+      27312113,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}

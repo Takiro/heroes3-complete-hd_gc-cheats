@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Clancy Name",
+      27303983,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Movement",
+      27304025,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy EXP",
+      27304029,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 1",
+      27304093,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 2",
+      27304097,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 3",
+      27304101,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 4",
+      27304105,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 5",
+      27304109,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 6",
+      27304113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Type Slot 7",
+      27304117,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 1",
+      27304121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 2",
+      27304125,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 3",
+      27304129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 4",
+      27304133,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 5",
+      27304137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 6",
+      27304141,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Unit Count Slot 7",
+      27304145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Pathfinding",
+      27304149,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Archery",
+      27304150,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Logistics",
+      27304151,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Scouting",
+      27304152,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Diplomacy",
+      27304153,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Navigation",
+      27304154,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Leadership",
+      27304155,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Wisdom",
+      27304156,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Mysticism",
+      27304157,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Luck",
+      27304158,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Ballistics",
+      27304159,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Eagle Eye",
+      27304160,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Necromancy",
+      27304161,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Estates",
+      27304162,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Fire Magic",
+      27304163,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Air Magic",
+      27304164,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Water Magic",
+      27304165,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Earth Magic",
+      27304166,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Scholar",
+      27304167,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Tactics",
+      27304168,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Artillery",
+      27304169,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Learning",
+      27304170,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Offence",
+      27304171,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Armourer",
+      27304172,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Intelligence",
+      27304173,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Sorcery",
+      27304174,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Resistance",
+      27304175,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy First Aid",
+      27304176,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Pathfinding Slot",
+      27304177,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Archery Slot",
+      27304178,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Logistics Slot",
+      27304179,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Scouting Slot",
+      27304180,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Diplomacy Slot",
+      27304181,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Navigation Slot",
+      27304182,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Leadership Slot",
+      27304183,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Wisdom Slot",
+      27304184,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Mysticism Slot",
+      27304185,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Luck Slot",
+      27304186,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Ballistics Slot",
+      27304187,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Eagle Eye Slot",
+      27304188,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Necromancy Slot",
+      27304189,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Estates Slot",
+      27304190,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Fire Magic Slot",
+      27304191,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Air Magic Slot",
+      27304192,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Water Magic Slot",
+      27304193,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Earth Magic Slot",
+      27304194,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Scholar Slot",
+      27304195,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Tactics Slot",
+      27304196,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Artillery Slot",
+      27304197,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Learning Slot",
+      27304198,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Offense Slot",
+      27304199,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Armourer Slot",
+      27304200,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Intelligence Slot",
+      27304201,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Sorcery Slot",
+      27304202,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Resistance Slot",
+      27304203,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy First Aid Slot",
+      27304204,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Skill Count",
+      27304205,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Ballista equipped (4 or -1)",
+      27304353,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Ammo Cart equipped (5 or -1)",
+      27304361,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy First Aid equipped Item (6 or -1)",
+      27304369,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Catapult equipped (3 or -1)",
+      27304377,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spellbook equipped (0 or -1)",
+      27304385,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 1",
+      27304416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 2",
+      27304424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 3",
+      27304432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 4",
+      27304440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 5",
+      27304448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 6",
+      27304456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 7",
+      27304464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 8",
+      27304472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 9",
+      27304480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 10",
+      27304488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 11",
+      27304496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 12",
+      27304504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 13",
+      27304512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 14",
+      27304520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 15",
+      27304528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 16",
+      27304536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 17",
+      27304544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 18",
+      27304552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 19",
+      27304560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 20",
+      27304568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 21",
+      27304576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 22",
+      27304584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 23",
+      27304592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 24",
+      27304600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 25",
+      27304608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 26",
+      27304616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 27",
+      27304624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 28",
+      27304632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 29",
+      27304640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 30",
+      27304648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 31",
+      27304656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 32",
+      27304664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 33",
+      27304672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 34",
+      27304680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 35",
+      27304688,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 36",
+      27304696,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 37",
+      27304704,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 38",
+      27304712,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 39",
+      27304720,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 40",
+      27304728,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 41",
+      27304736,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 42",
+      27304744,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 43",
+      27304752,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 44",
+      27304760,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 45",
+      27304768,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 46",
+      27304776,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 47",
+      27304784,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 48",
+      27304792,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 49",
+      27304800,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 50",
+      27304808,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 51",
+      27304816,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 52",
+      27304824,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 53",
+      27304832,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 54",
+      27304840,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 55",
+      27304848,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 56",
+      27304856,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 57",
+      27304864,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 58",
+      27304872,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 59",
+      27304880,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 60",
+      27304888,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 61",
+      27304896,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 62",
+      27304904,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 63",
+      27304912,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Backpack Slot 64",
+      27304920,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Summon Boat",
+      27305020,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Scuttle Boat",
+      27305021,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Visions",
+      27305022,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell View Earth",
+      27305023,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Disguise",
+      27305024,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell View Air",
+      27305025,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fly",
+      27305026,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Water Walk",
+      27305027,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Dimension Door",
+      27305028,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Town Portal",
+      27305029,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Quicksand",
+      27305030,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Land Mine",
+      27305031,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Force Field",
+      27305032,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fire Wall",
+      27305033,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Earthquake",
+      27305034,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Magic Arrow",
+      27305035,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Ice Bolt",
+      27305036,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Lightning Bolt",
+      27305037,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Implosion",
+      27305038,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Chain Lightning",
+      27305039,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Frost Ring",
+      27305040,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fireball",
+      27305041,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Inferno",
+      27305042,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Meteor Shower",
+      27305043,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Death Ripple",
+      27305044,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Destroy Undead",
+      27305045,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Armageddon",
+      27305046,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Shield",
+      27305047,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Air Shield",
+      27305048,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fire Shield",
+      27305049,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Protection from Air",
+      27305050,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Protection from Fire",
+      27305051,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Protection from Water",
+      27305052,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Protection from Earth",
+      27305053,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Anti Magic",
+      27305054,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Dispel",
+      27305055,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Magic Mirror",
+      27305056,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Cure",
+      27305057,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Resurrection",
+      27305058,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Animate Dead",
+      27305059,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Sacrifice",
+      27305060,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Bless",
+      27305061,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Curse",
+      27305062,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Bloodlust",
+      27305063,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Precision",
+      27305064,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Weakness",
+      27305065,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Stone Skin",
+      27305066,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Disrupting Ray",
+      27305067,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Prayer",
+      27305068,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Mirth",
+      27305069,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Sorrow",
+      27305070,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fortune",
+      27305071,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Misfortune",
+      27305072,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Haste",
+      27305073,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Slow",
+      27305074,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Slayer",
+      27305075,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Frenzy",
+      27305076,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Titan's Lighting Bolt",
+      27305077,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Counterstrike",
+      27305078,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Berserk",
+      27305079,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Hypnotize",
+      27305080,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Forgetfulness",
+      27305081,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Blind",
+      27305082,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Teleport",
+      27305083,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Remove Obstacle",
+      27305084,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Clone",
+      27305085,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Fire Elemental",
+      27305086,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Earth Elemental",
+      27305087,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Water Elemental",
+      27305088,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spell Air Elemental",
+      27305089,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Attack",
+      27305090,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Def",
+      27305091,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Spellpower",
+      27305092,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Clancy Knowledge",
+      27305093,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}
