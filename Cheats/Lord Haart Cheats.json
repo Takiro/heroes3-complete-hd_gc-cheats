@@ -4,7 +4,7 @@
       "=",
       false,
       "Lord Haart Name",
-      27453743,
+      27282923,
       "string",
       "             ",
       true
@@ -13,7 +13,7 @@
       "=",
       false,
       "Lord Haart Movement",
-      27453785,
+      27282965,
       "int32",
       "0",
       true
@@ -22,7 +22,7 @@
       "=",
       false,
       "Lord Haart EXP",
-      27453789,
+      27282969,
       "int32",
       "0",
       true
@@ -31,7 +31,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 1",
-      27453853,
+      27283033,
       "int32",
       "0",
       true
@@ -40,7 +40,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 2",
-      27453857,
+      27283037,
       "int32",
       "0",
       true
@@ -49,7 +49,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 3",
-      27453861,
+      27283041,
       "int32",
       "0",
       true
@@ -58,7 +58,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 4",
-      27453865,
+      27283045,
       "int32",
       "0",
       true
@@ -67,7 +67,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 5",
-      27453869,
+      27283049,
       "int32",
       "0",
       true
@@ -76,7 +76,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 6",
-      27453873,
+      27283053,
       "int32",
       "0",
       true
@@ -85,7 +85,7 @@
       "=",
       false,
       "Lord Haart Unit Type Slot 7",
-      27453877,
+      27283057,
       "int32",
       "0",
       true
@@ -94,7 +94,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 1",
-      27453881,
+      27283061,
       "int32",
       "0",
       true
@@ -103,7 +103,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 2",
-      27453885,
+      27283065,
       "int32",
       "0",
       true
@@ -112,7 +112,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 3",
-      27453889,
+      27283069,
       "int32",
       "0",
       true
@@ -121,7 +121,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 4",
-      27453893,
+      27283073,
       "int32",
       "0",
       true
@@ -130,7 +130,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 5",
-      27453897,
+      27283077,
       "int32",
       "0",
       true
@@ -139,7 +139,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 6",
-      27453901,
+      27283081,
       "int32",
       "0",
       true
@@ -148,7 +148,7 @@
       "=",
       false,
       "Lord Haart Unit Count Slot 7",
-      27453905,
+      27283085,
       "int32",
       "0",
       true
@@ -157,7 +157,7 @@
       "=",
       false,
       "Lord Haart Pathfinding",
-      27453909,
+      27283089,
       "int8",
       "0",
       true
@@ -166,7 +166,7 @@
       "=",
       false,
       "Lord Haart Archery",
-      27453910,
+      27283090,
       "int8",
       "0",
       true
@@ -175,7 +175,7 @@
       "=",
       false,
       "Lord Haart Logistics",
-      27453911,
+      27283091,
       "int8",
       "0",
       true
@@ -184,7 +184,7 @@
       "=",
       false,
       "Lord Haart Scouting",
-      27453912,
+      27283092,
       "int8",
       "0",
       true
@@ -193,7 +193,7 @@
       "=",
       false,
       "Lord Haart Diplomacy",
-      27453913,
+      27283093,
       "int8",
       "0",
       true
@@ -202,7 +202,7 @@
       "=",
       false,
       "Lord Haart Navigation",
-      27453914,
+      27283094,
       "int8",
       "0",
       true
@@ -211,7 +211,7 @@
       "=",
       false,
       "Lord Haart Leadership",
-      27453915,
+      27283095,
       "int8",
       "0",
       true
@@ -220,7 +220,7 @@
       "=",
       false,
       "Lord Haart Wisdom",
-      27453916,
+      27283096,
       "int8",
       "0",
       true
@@ -229,7 +229,7 @@
       "=",
       false,
       "Lord Haart Mysticism",
-      27453917,
+      27283097,
       "int8",
       "0",
       true
@@ -238,7 +238,7 @@
       "=",
       false,
       "Lord Haart Luck",
-      27453918,
+      27283098,
       "int8",
       "0",
       true
@@ -247,7 +247,7 @@
       "=",
       false,
       "Lord Haart Ballistics",
-      27453919,
+      27283099,
       "int8",
       "0",
       true
@@ -256,7 +256,7 @@
       "=",
       false,
       "Lord Haart Eagle Eye",
-      27453920,
+      27283100,
       "int8",
       "0",
       true
@@ -265,7 +265,7 @@
       "=",
       false,
       "Lord Haart Necromancy",
-      27453921,
+      27283101,
       "int8",
       "0",
       true
@@ -274,7 +274,7 @@
       "=",
       false,
       "Lord Haart Estates",
-      27453922,
+      27283102,
       "int8",
       "0",
       true
@@ -283,7 +283,7 @@
       "=",
       false,
       "Lord Haart Fire Magic",
-      27453923,
+      27283103,
       "int8",
       "0",
       true
@@ -292,7 +292,7 @@
       "=",
       false,
       "Lord Haart Air Magic",
-      27453924,
+      27283104,
       "int8",
       "0",
       true
@@ -301,7 +301,7 @@
       "=",
       false,
       "Lord Haart Water Magic",
-      27453925,
+      27283105,
       "int8",
       "0",
       true
@@ -310,7 +310,7 @@
       "=",
       false,
       "Lord Haart Earth Magic",
-      27453926,
+      27283106,
       "int8",
       "0",
       true
@@ -319,7 +319,7 @@
       "=",
       false,
       "Lord Haart Scholar",
-      27453927,
+      27283107,
       "int8",
       "0",
       true
@@ -328,7 +328,7 @@
       "=",
       false,
       "Lord Haart Tactics",
-      27453928,
+      27283108,
       "int8",
       "0",
       true
@@ -337,7 +337,7 @@
       "=",
       false,
       "Lord Haart Artillery",
-      27453929,
+      27283109,
       "int8",
       "0",
       true
@@ -346,7 +346,7 @@
       "=",
       false,
       "Lord Haart Learning",
-      27453930,
+      27283110,
       "int8",
       "0",
       true
@@ -355,7 +355,7 @@
       "=",
       false,
       "Lord Haart Offence",
-      27453931,
+      27283111,
       "int8",
       "0",
       true
@@ -364,7 +364,7 @@
       "=",
       false,
       "Lord Haart Armourer",
-      27453932,
+      27283112,
       "int8",
       "0",
       true
@@ -373,7 +373,7 @@
       "=",
       false,
       "Lord Haart Intelligence",
-      27453933,
+      27283113,
       "int8",
       "0",
       true
@@ -382,7 +382,7 @@
       "=",
       false,
       "Lord Haart Sorcery",
-      27453934,
+      27283114,
       "int8",
       "0",
       true
@@ -391,7 +391,7 @@
       "=",
       false,
       "Lord Haart Resistance",
-      27453935,
+      27283115,
       "int8",
       "0",
       true
@@ -400,7 +400,7 @@
       "=",
       false,
       "Lord Haart First Aid",
-      27453936,
+      27283116,
       "int8",
       "0",
       true
@@ -409,7 +409,7 @@
       "=",
       false,
       "Lord Haart Pathfinding Slot",
-      27453937,
+      27283117,
       "int8",
       "0",
       true
@@ -418,7 +418,7 @@
       "=",
       false,
       "Lord Haart Archery Slot",
-      27453938,
+      27283118,
       "int8",
       "0",
       true
@@ -427,7 +427,7 @@
       "=",
       false,
       "Lord Haart Logistics Slot",
-      27453939,
+      27283119,
       "int8",
       "0",
       true
@@ -436,7 +436,7 @@
       "=",
       false,
       "Lord Haart Scouting Slot",
-      27453940,
+      27283120,
       "int8",
       "0",
       true
@@ -445,7 +445,7 @@
       "=",
       false,
       "Lord Haart Diplomacy Slot",
-      27453941,
+      27283121,
       "int8",
       "0",
       true
@@ -454,7 +454,7 @@
       "=",
       false,
       "Lord Haart Navigation Slot",
-      27453942,
+      27283122,
       "int8",
       "0",
       true
@@ -463,7 +463,7 @@
       "=",
       false,
       "Lord Haart Leadership Slot",
-      27453943,
+      27283123,
       "int8",
       "0",
       true
@@ -472,7 +472,7 @@
       "=",
       false,
       "Lord Haart Wisdom Slot",
-      27453944,
+      27283124,
       "int8",
       "0",
       true
@@ -481,7 +481,7 @@
       "=",
       false,
       "Lord Haart Mysticism Slot",
-      27453945,
+      27283125,
       "int8",
       "0",
       true
@@ -490,7 +490,7 @@
       "=",
       false,
       "Lord Haart Luck Slot",
-      27453946,
+      27283126,
       "int8",
       "0",
       true
@@ -499,7 +499,7 @@
       "=",
       false,
       "Lord Haart Ballistics Slot",
-      27453947,
+      27283127,
       "int8",
       "0",
       true
@@ -508,7 +508,7 @@
       "=",
       false,
       "Lord Haart Eagle Eye Slot",
-      27453948,
+      27283128,
       "int8",
       "0",
       true
@@ -517,7 +517,7 @@
       "=",
       false,
       "Lord Haart Necromancy Slot",
-      27453949,
+      27283129,
       "int8",
       "0",
       true
@@ -526,7 +526,7 @@
       "=",
       false,
       "Lord Haart Estates Slot",
-      27453950,
+      27283130,
       "int8",
       "0",
       true
@@ -535,7 +535,7 @@
       "=",
       false,
       "Lord Haart Fire Magic Slot",
-      27453951,
+      27283131,
       "int8",
       "0",
       true
@@ -544,7 +544,7 @@
       "=",
       false,
       "Lord Haart Air Magic Slot",
-      27453952,
+      27283132,
       "int8",
       "0",
       true
@@ -553,7 +553,7 @@
       "=",
       false,
       "Lord Haart Water Magic Slot",
-      27453953,
+      27283133,
       "int8",
       "0",
       true
@@ -562,7 +562,7 @@
       "=",
       false,
       "Lord Haart Earth Magic Slot",
-      27453954,
+      27283134,
       "int8",
       "0",
       true
@@ -571,7 +571,7 @@
       "=",
       false,
       "Lord Haart Scholar Slot",
-      27453955,
+      27283135,
       "int8",
       "0",
       true
@@ -580,7 +580,7 @@
       "=",
       false,
       "Lord Haart Tactics Slot",
-      27453956,
+      27283136,
       "int8",
       "0",
       true
@@ -589,7 +589,7 @@
       "=",
       false,
       "Lord Haart Artillery Slot",
-      27453957,
+      27283137,
       "int8",
       "0",
       true
@@ -598,7 +598,7 @@
       "=",
       false,
       "Lord Haart Learning Slot",
-      27453958,
+      27283138,
       "int8",
       "0",
       true
@@ -607,7 +607,7 @@
       "=",
       false,
       "Lord Haart Offense Slot",
-      27453959,
+      27283139,
       "int8",
       "0",
       true
@@ -616,7 +616,7 @@
       "=",
       false,
       "Lord Haart Armourer Slot",
-      27453960,
+      27283140,
       "int8",
       "0",
       true
@@ -625,7 +625,7 @@
       "=",
       false,
       "Lord Haart Intelligence Slot",
-      27453961,
+      27283141,
       "int8",
       "0",
       true
@@ -634,7 +634,7 @@
       "=",
       false,
       "Lord Haart Sorcery Slot",
-      27453962,
+      27283142,
       "int8",
       "0",
       true
@@ -643,7 +643,7 @@
       "=",
       false,
       "Lord Haart Resistance Slot",
-      27453963,
+      27283143,
       "int8",
       "0",
       true
@@ -652,7 +652,7 @@
       "=",
       false,
       "Lord Haart First Aid Slot",
-      27453964,
+      27283144,
       "int8",
       "0",
       true
@@ -661,7 +661,7 @@
       "=",
       false,
       "Lord Haart Skill Count",
-      27453965,
+      27283145,
       "int8",
       "0",
       true
@@ -670,7 +670,7 @@
       "=",
       false,
       "Lord Haart Ballista equipped (4 or -1)",
-      27454113,
+      27283293,
       "int32",
       "0",
       true
@@ -679,7 +679,7 @@
       "=",
       false,
       "Lord Haart Ammo Cart equipped (5 or -1)",
-      27454121,
+      27283301,
       "int32",
       "0",
       true
@@ -688,7 +688,7 @@
       "=",
       false,
       "Lord Haart First Aid equipped Item (6 or -1)",
-      27454129,
+      27283309,
       "int32",
       "0",
       true
@@ -697,7 +697,7 @@
       "=",
       false,
       "Lord Haart Catapult equipped (3 or -1)",
-      27454137,
+      27283317,
       "int32",
       "0",
       true
@@ -706,7 +706,7 @@
       "=",
       false,
       "Lord Haart Spellbook equipped (0 or -1)",
-      27454145,
+      27283325,
       "int32",
       "0",
       true
@@ -715,7 +715,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 1",
-      27454176,
+      27283356,
       "int32",
       "0",
       true
@@ -724,7 +724,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 2",
-      27454184,
+      27283364,
       "int32",
       "0",
       true
@@ -733,7 +733,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 3",
-      27454192,
+      27283372,
       "int32",
       "0",
       true
@@ -742,7 +742,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 4",
-      27454200,
+      27283380,
       "int32",
       "0",
       true
@@ -751,7 +751,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 5",
-      27454208,
+      27283388,
       "int32",
       "0",
       true
@@ -760,7 +760,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 6",
-      27454216,
+      27283396,
       "int32",
       "0",
       true
@@ -769,7 +769,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 7",
-      27454224,
+      27283404,
       "int32",
       "0",
       true
@@ -778,7 +778,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 8",
-      27454232,
+      27283412,
       "int32",
       "0",
       true
@@ -787,7 +787,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 9",
-      27454240,
+      27283420,
       "int32",
       "0",
       true
@@ -796,7 +796,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 10",
-      27454248,
+      27283428,
       "int32",
       "0",
       true
@@ -805,7 +805,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 11",
-      27454256,
+      27283436,
       "int32",
       "0",
       true
@@ -814,7 +814,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 12",
-      27454264,
+      27283444,
       "int32",
       "0",
       true
@@ -823,7 +823,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 13",
-      27454272,
+      27283452,
       "int32",
       "0",
       true
@@ -832,7 +832,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 14",
-      27454280,
+      27283460,
       "int32",
       "0",
       true
@@ -841,7 +841,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 15",
-      27454288,
+      27283468,
       "int32",
       "0",
       true
@@ -850,7 +850,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 16",
-      27454296,
+      27283476,
       "int32",
       "0",
       true
@@ -859,7 +859,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 17",
-      27454304,
+      27283484,
       "int32",
       "0",
       true
@@ -868,7 +868,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 18",
-      27454312,
+      27283492,
       "int32",
       "0",
       true
@@ -877,7 +877,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 19",
-      27454320,
+      27283500,
       "int32",
       "0",
       true
@@ -886,7 +886,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 20",
-      27454328,
+      27283508,
       "int32",
       "0",
       true
@@ -895,7 +895,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 21",
-      27454336,
+      27283516,
       "int32",
       "0",
       true
@@ -904,7 +904,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 22",
-      27454344,
+      27283524,
       "int32",
       "0",
       true
@@ -913,7 +913,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 23",
-      27454352,
+      27283532,
       "int32",
       "0",
       true
@@ -922,7 +922,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 24",
-      27454360,
+      27283540,
       "int32",
       "0",
       true
@@ -931,7 +931,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 25",
-      27454368,
+      27283548,
       "int32",
       "0",
       true
@@ -940,7 +940,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 26",
-      27454376,
+      27283556,
       "int32",
       "0",
       true
@@ -949,7 +949,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 27",
-      27454384,
+      27283564,
       "int32",
       "0",
       true
@@ -958,7 +958,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 28",
-      27454392,
+      27283572,
       "int32",
       "0",
       true
@@ -967,7 +967,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 29",
-      27454400,
+      27283580,
       "int32",
       "0",
       true
@@ -976,7 +976,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 30",
-      27454408,
+      27283588,
       "int32",
       "0",
       true
@@ -985,7 +985,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 31",
-      27454416,
+      27283596,
       "int32",
       "0",
       true
@@ -994,7 +994,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 32",
-      27454424,
+      27283604,
       "int32",
       "0",
       true
@@ -1003,7 +1003,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 33",
-      27454432,
+      27283612,
       "int32",
       "0",
       true
@@ -1012,7 +1012,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 34",
-      27454440,
+      27283620,
       "int32",
       "0",
       true
@@ -1021,7 +1021,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 35",
-      27454448,
+      27283628,
       "int32",
       "0",
       true
@@ -1030,7 +1030,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 36",
-      27454456,
+      27283636,
       "int32",
       "0",
       true
@@ -1039,7 +1039,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 37",
-      27454464,
+      27283644,
       "int32",
       "0",
       true
@@ -1048,7 +1048,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 38",
-      27454472,
+      27283652,
       "int32",
       "0",
       true
@@ -1057,7 +1057,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 39",
-      27454480,
+      27283660,
       "int32",
       "0",
       true
@@ -1066,7 +1066,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 40",
-      27454488,
+      27283668,
       "int32",
       "0",
       true
@@ -1075,7 +1075,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 41",
-      27454496,
+      27283676,
       "int32",
       "0",
       true
@@ -1084,7 +1084,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 42",
-      27454504,
+      27283684,
       "int32",
       "0",
       true
@@ -1093,7 +1093,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 43",
-      27454512,
+      27283692,
       "int32",
       "0",
       true
@@ -1102,7 +1102,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 44",
-      27454520,
+      27283700,
       "int32",
       "0",
       true
@@ -1111,7 +1111,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 45",
-      27454528,
+      27283708,
       "int32",
       "0",
       true
@@ -1120,7 +1120,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 46",
-      27454536,
+      27283716,
       "int32",
       "0",
       true
@@ -1129,7 +1129,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 47",
-      27454544,
+      27283724,
       "int32",
       "0",
       true
@@ -1138,7 +1138,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 48",
-      27454552,
+      27283732,
       "int32",
       "0",
       true
@@ -1147,7 +1147,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 49",
-      27454560,
+      27283740,
       "int32",
       "0",
       true
@@ -1156,7 +1156,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 50",
-      27454568,
+      27283748,
       "int32",
       "0",
       true
@@ -1165,7 +1165,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 51",
-      27454576,
+      27283756,
       "int32",
       "0",
       true
@@ -1174,7 +1174,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 52",
-      27454584,
+      27283764,
       "int32",
       "0",
       true
@@ -1183,7 +1183,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 53",
-      27454592,
+      27283772,
       "int32",
       "0",
       true
@@ -1192,7 +1192,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 54",
-      27454600,
+      27283780,
       "int32",
       "0",
       true
@@ -1201,7 +1201,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 55",
-      27454608,
+      27283788,
       "int32",
       "0",
       true
@@ -1210,7 +1210,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 56",
-      27454616,
+      27283796,
       "int32",
       "0",
       true
@@ -1219,7 +1219,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 57",
-      27454624,
+      27283804,
       "int32",
       "0",
       true
@@ -1228,7 +1228,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 58",
-      27454632,
+      27283812,
       "int32",
       "0",
       true
@@ -1237,7 +1237,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 59",
-      27454640,
+      27283820,
       "int32",
       "0",
       true
@@ -1246,7 +1246,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 60",
-      27454648,
+      27283828,
       "int32",
       "0",
       true
@@ -1255,7 +1255,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 61",
-      27454656,
+      27283836,
       "int32",
       "0",
       true
@@ -1264,7 +1264,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 62",
-      27454664,
+      27283844,
       "int32",
       "0",
       true
@@ -1273,7 +1273,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 63",
-      27454672,
+      27283852,
       "int32",
       "0",
       true
@@ -1282,7 +1282,7 @@
       "=",
       false,
       "Lord Haart Backpack Slot 64",
-      27454680,
+      27283860,
       "int32",
       "0",
       true
@@ -1291,7 +1291,7 @@
       "=",
       false,
       "Lord Haart Spell Summon Boat",
-      27454780,
+      27283960,
       "int8",
       "0",
       true
@@ -1300,7 +1300,7 @@
       "=",
       false,
       "Lord Haart Spell Scuttle Boat",
-      27454781,
+      27283961,
       "int8",
       "0",
       true
@@ -1309,7 +1309,7 @@
       "=",
       false,
       "Lord Haart Spell Visions",
-      27454782,
+      27283962,
       "int8",
       "0",
       true
@@ -1318,7 +1318,7 @@
       "=",
       false,
       "Lord Haart Spell View Earth",
-      27454783,
+      27283963,
       "int8",
       "0",
       true
@@ -1327,7 +1327,7 @@
       "=",
       false,
       "Lord Haart Spell Disguise",
-      27454784,
+      27283964,
       "int8",
       "0",
       true
@@ -1336,7 +1336,7 @@
       "=",
       false,
       "Lord Haart Spell View Air",
-      27454785,
+      27283965,
       "int8",
       "0",
       true
@@ -1345,7 +1345,7 @@
       "=",
       false,
       "Lord Haart Spell Fly",
-      27454786,
+      27283966,
       "int8",
       "0",
       true
@@ -1354,7 +1354,7 @@
       "=",
       false,
       "Lord Haart Spell Water Walk",
-      27454787,
+      27283967,
       "int8",
       "0",
       true
@@ -1363,7 +1363,7 @@
       "=",
       false,
       "Lord Haart Spell Dimension Door",
-      27454788,
+      27283968,
       "int8",
       "0",
       true
@@ -1372,7 +1372,7 @@
       "=",
       false,
       "Lord Haart Spell Town Portal",
-      27454789,
+      27283969,
       "int8",
       "0",
       true
@@ -1381,7 +1381,7 @@
       "=",
       false,
       "Lord Haart Spell Quicksand",
-      27454790,
+      27283970,
       "int8",
       "0",
       true
@@ -1390,7 +1390,7 @@
       "=",
       false,
       "Lord Haart Spell Land Mine",
-      27454791,
+      27283971,
       "int8",
       "0",
       true
@@ -1399,7 +1399,7 @@
       "=",
       false,
       "Lord Haart Spell Force Field",
-      27454792,
+      27283972,
       "int8",
       "0",
       true
@@ -1408,7 +1408,7 @@
       "=",
       false,
       "Lord Haart Spell Fire Wall",
-      27454793,
+      27283973,
       "int8",
       "0",
       true
@@ -1417,7 +1417,7 @@
       "=",
       false,
       "Lord Haart Spell Earthquake",
-      27454794,
+      27283974,
       "int8",
       "0",
       true
@@ -1426,7 +1426,7 @@
       "=",
       false,
       "Lord Haart Spell Magic Arrow",
-      27454795,
+      27283975,
       "int8",
       "0",
       true
@@ -1435,7 +1435,7 @@
       "=",
       false,
       "Lord Haart Spell Ice Bolt",
-      27454796,
+      27283976,
       "int8",
       "0",
       true
@@ -1444,7 +1444,7 @@
       "=",
       false,
       "Lord Haart Spell Lightning Bolt",
-      27454797,
+      27283977,
       "int8",
       "0",
       true
@@ -1453,7 +1453,7 @@
       "=",
       false,
       "Lord Haart Spell Implosion",
-      27454798,
+      27283978,
       "int8",
       "0",
       true
@@ -1462,7 +1462,7 @@
       "=",
       false,
       "Lord Haart Spell Chain Lightning",
-      27454799,
+      27283979,
       "int8",
       "0",
       true
@@ -1471,7 +1471,7 @@
       "=",
       false,
       "Lord Haart Spell Frost Ring",
-      27454800,
+      27283980,
       "int8",
       "0",
       true
@@ -1480,7 +1480,7 @@
       "=",
       false,
       "Lord Haart Spell Fireball",
-      27454801,
+      27283981,
       "int8",
       "0",
       true
@@ -1489,7 +1489,7 @@
       "=",
       false,
       "Lord Haart Spell Inferno",
-      27454802,
+      27283982,
       "int8",
       "0",
       true
@@ -1498,7 +1498,7 @@
       "=",
       false,
       "Lord Haart Spell Meteor Shower",
-      27454803,
+      27283983,
       "int8",
       "0",
       true
@@ -1507,7 +1507,7 @@
       "=",
       false,
       "Lord Haart Spell Death Ripple",
-      27454804,
+      27283984,
       "int8",
       "0",
       true
@@ -1516,7 +1516,7 @@
       "=",
       false,
       "Lord Haart Spell Destroy Undead",
-      27454805,
+      27283985,
       "int8",
       "0",
       true
@@ -1525,7 +1525,7 @@
       "=",
       false,
       "Lord Haart Spell Armageddon",
-      27454806,
+      27283986,
       "int8",
       "0",
       true
@@ -1534,7 +1534,7 @@
       "=",
       false,
       "Lord Haart Spell Shield",
-      27454807,
+      27283987,
       "int8",
       "0",
       true
@@ -1543,7 +1543,7 @@
       "=",
       false,
       "Lord Haart Spell Air Shield",
-      27454808,
+      27283988,
       "int8",
       "0",
       true
@@ -1552,7 +1552,7 @@
       "=",
       false,
       "Lord Haart Spell Fire Shield",
-      27454809,
+      27283989,
       "int8",
       "0",
       true
@@ -1561,7 +1561,7 @@
       "=",
       false,
       "Lord Haart Spell Protection from Air",
-      27454810,
+      27283990,
       "int8",
       "0",
       true
@@ -1570,7 +1570,7 @@
       "=",
       false,
       "Lord Haart Spell Protection from Fire",
-      27454811,
+      27283991,
       "int8",
       "0",
       true
@@ -1579,7 +1579,7 @@
       "=",
       false,
       "Lord Haart Spell Protection from Water",
-      27454812,
+      27283992,
       "int8",
       "0",
       true
@@ -1588,7 +1588,7 @@
       "=",
       false,
       "Lord Haart Spell Protection from Earth",
-      27454813,
+      27283993,
       "int8",
       "0",
       true
@@ -1597,7 +1597,7 @@
       "=",
       false,
       "Lord Haart Spell Anti Magic",
-      27454814,
+      27283994,
       "int8",
       "0",
       true
@@ -1606,7 +1606,7 @@
       "=",
       false,
       "Lord Haart Spell Dispel",
-      27454815,
+      27283995,
       "int8",
       "0",
       true
@@ -1615,7 +1615,7 @@
       "=",
       false,
       "Lord Haart Spell Magic Mirror",
-      27454816,
+      27283996,
       "int8",
       "0",
       true
@@ -1624,7 +1624,7 @@
       "=",
       false,
       "Lord Haart Spell Cure",
-      27454817,
+      27283997,
       "int8",
       "0",
       true
@@ -1633,7 +1633,7 @@
       "=",
       false,
       "Lord Haart Spell Resurrection",
-      27454818,
+      27283998,
       "int8",
       "0",
       true
@@ -1642,7 +1642,7 @@
       "=",
       false,
       "Lord Haart Spell Animate Dead",
-      27454819,
+      27283999,
       "int8",
       "0",
       true
@@ -1651,7 +1651,7 @@
       "=",
       false,
       "Lord Haart Spell Sacrifice",
-      27454820,
+      27284000,
       "int8",
       "0",
       true
@@ -1660,7 +1660,7 @@
       "=",
       false,
       "Lord Haart Spell Bless",
-      27454821,
+      27284001,
       "int8",
       "0",
       true
@@ -1669,7 +1669,7 @@
       "=",
       false,
       "Lord Haart Spell Curse",
-      27454822,
+      27284002,
       "int8",
       "0",
       true
@@ -1678,7 +1678,7 @@
       "=",
       false,
       "Lord Haart Spell Bloodlust",
-      27454823,
+      27284003,
       "int8",
       "0",
       true
@@ -1687,7 +1687,7 @@
       "=",
       false,
       "Lord Haart Spell Precision",
-      27454824,
+      27284004,
       "int8",
       "0",
       true
@@ -1696,7 +1696,7 @@
       "=",
       false,
       "Lord Haart Spell Weakness",
-      27454825,
+      27284005,
       "int8",
       "0",
       true
@@ -1705,7 +1705,7 @@
       "=",
       false,
       "Lord Haart Spell Stone Skin",
-      27454826,
+      27284006,
       "int8",
       "0",
       true
@@ -1714,7 +1714,7 @@
       "=",
       false,
       "Lord Haart Spell Disrupting Ray",
-      27454827,
+      27284007,
       "int8",
       "0",
       true
@@ -1723,7 +1723,7 @@
       "=",
       false,
       "Lord Haart Spell Prayer",
-      27454828,
+      27284008,
       "int8",
       "0",
       true
@@ -1732,7 +1732,7 @@
       "=",
       false,
       "Lord Haart Spell Mirth",
-      27454829,
+      27284009,
       "int8",
       "0",
       true
@@ -1741,7 +1741,7 @@
       "=",
       false,
       "Lord Haart Spell Sorrow",
-      27454830,
+      27284010,
       "int8",
       "0",
       true
@@ -1750,7 +1750,7 @@
       "=",
       false,
       "Lord Haart Spell Fortune",
-      27454831,
+      27284011,
       "int8",
       "0",
       true
@@ -1759,7 +1759,7 @@
       "=",
       false,
       "Lord Haart Spell Misfortune",
-      27454832,
+      27284012,
       "int8",
       "0",
       true
@@ -1768,7 +1768,7 @@
       "=",
       false,
       "Lord Haart Spell Haste",
-      27454833,
+      27284013,
       "int8",
       "0",
       true
@@ -1777,7 +1777,7 @@
       "=",
       false,
       "Lord Haart Spell Slow",
-      27454834,
+      27284014,
       "int8",
       "0",
       true
@@ -1786,7 +1786,7 @@
       "=",
       false,
       "Lord Haart Spell Slayer",
-      27454835,
+      27284015,
       "int8",
       "0",
       true
@@ -1795,7 +1795,7 @@
       "=",
       false,
       "Lord Haart Spell Frenzy",
-      27454836,
+      27284016,
       "int8",
       "0",
       true
@@ -1804,7 +1804,7 @@
       "=",
       false,
       "Lord Haart Spell Titan's Lighting Bolt",
-      27454837,
+      27284017,
       "int8",
       "0",
       true
@@ -1813,7 +1813,7 @@
       "=",
       false,
       "Lord Haart Spell Counterstrike",
-      27454838,
+      27284018,
       "int8",
       "0",
       true
@@ -1822,7 +1822,7 @@
       "=",
       false,
       "Lord Haart Spell Berserk",
-      27454839,
+      27284019,
       "int8",
       "0",
       true
@@ -1831,7 +1831,7 @@
       "=",
       false,
       "Lord Haart Spell Hypnotize",
-      27454840,
+      27284020,
       "int8",
       "0",
       true
@@ -1840,7 +1840,7 @@
       "=",
       false,
       "Lord Haart Spell Forgetfulness",
-      27454841,
+      27284021,
       "int8",
       "0",
       true
@@ -1849,7 +1849,7 @@
       "=",
       false,
       "Lord Haart Spell Blind",
-      27454842,
+      27284022,
       "int8",
       "0",
       true
@@ -1858,7 +1858,7 @@
       "=",
       false,
       "Lord Haart Spell Teleport",
-      27454843,
+      27284023,
       "int8",
       "0",
       true
@@ -1867,7 +1867,7 @@
       "=",
       false,
       "Lord Haart Spell Remove Obstacle",
-      27454844,
+      27284024,
       "int8",
       "0",
       true
@@ -1876,7 +1876,7 @@
       "=",
       false,
       "Lord Haart Spell Clone",
-      27454845,
+      27284025,
       "int8",
       "0",
       true
@@ -1885,7 +1885,7 @@
       "=",
       false,
       "Lord Haart Spell Fire Elemental",
-      27454846,
+      27284026,
       "int8",
       "0",
       true
@@ -1894,7 +1894,7 @@
       "=",
       false,
       "Lord Haart Spell Earth Elemental",
-      27454847,
+      27284027,
       "int8",
       "0",
       true
@@ -1903,7 +1903,7 @@
       "=",
       false,
       "Lord Haart Spell Water Elemental",
-      27454848,
+      27284028,
       "int8",
       "0",
       true
@@ -1912,7 +1912,7 @@
       "=",
       false,
       "Lord Haart Spell Air Elemental",
-      27454849,
+      27284029,
       "int8",
       "0",
       true
@@ -1921,7 +1921,7 @@
       "=",
       false,
       "Lord Haart Attack",
-      27454850,
+      27284030,
       "int8",
       "0",
       true
@@ -1930,7 +1930,7 @@
       "=",
       false,
       "Lord Haart Def",
-      27454851,
+      27284031,
       "int8",
       "0",
       true
@@ -1939,7 +1939,7 @@
       "=",
       false,
       "Lord Haart Spellpower",
-      27454852,
+      27284032,
       "int8",
       "0",
       true
@@ -1948,7 +1948,7 @@
       "=",
       false,
       "Lord Haart Knowledge",
-      27454853,
+      27284033,
       "int8",
       "0",
       true
