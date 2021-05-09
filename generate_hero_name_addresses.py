@@ -16,7 +16,7 @@ number_of_heroes = 156
 
 with open("hero_addresses.json", mode='w') as f:
     characters = []
-    for i in range(0, 156):
+    for i in range(0, number_of_heroes):
         # `" "*13` ist to work around a limitation of Game Conqueror that string types have no length
         # but use whatever length the value has
         characters.append(["=", False, "Name", address, 'string', " "*13, True])
