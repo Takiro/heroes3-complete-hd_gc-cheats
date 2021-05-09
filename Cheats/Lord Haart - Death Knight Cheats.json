@@ -1,0 +1,1957 @@
+{
+  "cheat_list": [
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Name",
+      27453743,
+      "string",
+      "             ",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Movement",
+      27453785,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight EXP",
+      27453789,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 1",
+      27453853,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 2",
+      27453857,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 3",
+      27453861,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 4",
+      27453865,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 5",
+      27453869,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 6",
+      27453873,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Type Slot 7",
+      27453877,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 1",
+      27453881,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 2",
+      27453885,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 3",
+      27453889,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 4",
+      27453893,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 5",
+      27453897,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 6",
+      27453901,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Unit Count Slot 7",
+      27453905,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Pathfinding",
+      27453909,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Archery",
+      27453910,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Logistics",
+      27453911,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Scouting",
+      27453912,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Diplomacy",
+      27453913,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Navigation",
+      27453914,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Leadership",
+      27453915,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Wisdom",
+      27453916,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Mysticism",
+      27453917,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Luck",
+      27453918,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Ballistics",
+      27453919,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Eagle Eye",
+      27453920,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Necromancy",
+      27453921,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Estates",
+      27453922,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Fire Magic",
+      27453923,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Air Magic",
+      27453924,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Water Magic",
+      27453925,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Earth Magic",
+      27453926,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Scholar",
+      27453927,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Tactics",
+      27453928,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Artillery",
+      27453929,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Learning",
+      27453930,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Offence",
+      27453931,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Armourer",
+      27453932,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Intelligence",
+      27453933,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Sorcery",
+      27453934,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Resistance",
+      27453935,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight First Aid",
+      27453936,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Pathfinding Slot",
+      27453937,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Archery Slot",
+      27453938,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Logistics Slot",
+      27453939,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Scouting Slot",
+      27453940,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Diplomacy Slot",
+      27453941,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Navigation Slot",
+      27453942,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Leadership Slot",
+      27453943,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Wisdom Slot",
+      27453944,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Mysticism Slot",
+      27453945,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Luck Slot",
+      27453946,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Ballistics Slot",
+      27453947,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Eagle Eye Slot",
+      27453948,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Necromancy Slot",
+      27453949,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Estates Slot",
+      27453950,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Fire Magic Slot",
+      27453951,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Air Magic Slot",
+      27453952,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Water Magic Slot",
+      27453953,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Earth Magic Slot",
+      27453954,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Scholar Slot",
+      27453955,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Tactics Slot",
+      27453956,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Artillery Slot",
+      27453957,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Learning Slot",
+      27453958,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Offense Slot",
+      27453959,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Armourer Slot",
+      27453960,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Intelligence Slot",
+      27453961,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Sorcery Slot",
+      27453962,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Resistance Slot",
+      27453963,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight First Aid Slot",
+      27453964,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Skill Count",
+      27453965,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Ballista equipped (4 or -1)",
+      27454113,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Ammo Cart equipped (5 or -1)",
+      27454121,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight First Aid equipped Item (6 or -1)",
+      27454129,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Catapult equipped (3 or -1)",
+      27454137,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spellbook equipped (0 or -1)",
+      27454145,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 1",
+      27454176,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 2",
+      27454184,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 3",
+      27454192,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 4",
+      27454200,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 5",
+      27454208,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 6",
+      27454216,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 7",
+      27454224,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 8",
+      27454232,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 9",
+      27454240,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 10",
+      27454248,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 11",
+      27454256,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 12",
+      27454264,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 13",
+      27454272,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 14",
+      27454280,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 15",
+      27454288,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 16",
+      27454296,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 17",
+      27454304,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 18",
+      27454312,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 19",
+      27454320,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 20",
+      27454328,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 21",
+      27454336,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 22",
+      27454344,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 23",
+      27454352,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 24",
+      27454360,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 25",
+      27454368,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 26",
+      27454376,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 27",
+      27454384,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 28",
+      27454392,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 29",
+      27454400,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 30",
+      27454408,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 31",
+      27454416,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 32",
+      27454424,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 33",
+      27454432,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 34",
+      27454440,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 35",
+      27454448,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 36",
+      27454456,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 37",
+      27454464,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 38",
+      27454472,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 39",
+      27454480,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 40",
+      27454488,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 41",
+      27454496,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 42",
+      27454504,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 43",
+      27454512,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 44",
+      27454520,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 45",
+      27454528,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 46",
+      27454536,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 47",
+      27454544,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 48",
+      27454552,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 49",
+      27454560,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 50",
+      27454568,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 51",
+      27454576,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 52",
+      27454584,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 53",
+      27454592,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 54",
+      27454600,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 55",
+      27454608,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 56",
+      27454616,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 57",
+      27454624,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 58",
+      27454632,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 59",
+      27454640,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 60",
+      27454648,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 61",
+      27454656,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 62",
+      27454664,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 63",
+      27454672,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Backpack Slot 64",
+      27454680,
+      "int32",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Summon Boat",
+      27454780,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Scuttle Boat",
+      27454781,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Visions",
+      27454782,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell View Earth",
+      27454783,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Disguise",
+      27454784,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell View Air",
+      27454785,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fly",
+      27454786,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Water Walk",
+      27454787,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Dimension Door",
+      27454788,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Town Portal",
+      27454789,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Quicksand",
+      27454790,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Land Mine",
+      27454791,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Force Field",
+      27454792,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fire Wall",
+      27454793,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Earthquake",
+      27454794,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Magic Arrow",
+      27454795,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Ice Bolt",
+      27454796,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Lightning Bolt",
+      27454797,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Implosion",
+      27454798,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Chain Lightning",
+      27454799,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Frost Ring",
+      27454800,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fireball",
+      27454801,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Inferno",
+      27454802,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Meteor Shower",
+      27454803,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Death Ripple",
+      27454804,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Destroy Undead",
+      27454805,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Armageddon",
+      27454806,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Shield",
+      27454807,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Air Shield",
+      27454808,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fire Shield",
+      27454809,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Protection from Air",
+      27454810,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Protection from Fire",
+      27454811,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Protection from Water",
+      27454812,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Protection from Earth",
+      27454813,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Anti Magic",
+      27454814,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Dispel",
+      27454815,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Magic Mirror",
+      27454816,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Cure",
+      27454817,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Resurrection",
+      27454818,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Animate Dead",
+      27454819,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Sacrifice",
+      27454820,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Bless",
+      27454821,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Curse",
+      27454822,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Bloodlust",
+      27454823,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Precision",
+      27454824,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Weakness",
+      27454825,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Stone Skin",
+      27454826,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Disrupting Ray",
+      27454827,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Prayer",
+      27454828,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Mirth",
+      27454829,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Sorrow",
+      27454830,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fortune",
+      27454831,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Misfortune",
+      27454832,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Haste",
+      27454833,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Slow",
+      27454834,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Slayer",
+      27454835,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Frenzy",
+      27454836,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Titan's Lighting Bolt",
+      27454837,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Counterstrike",
+      27454838,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Berserk",
+      27454839,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Hypnotize",
+      27454840,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Forgetfulness",
+      27454841,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Blind",
+      27454842,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Teleport",
+      27454843,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Remove Obstacle",
+      27454844,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Clone",
+      27454845,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Fire Elemental",
+      27454846,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Earth Elemental",
+      27454847,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Water Elemental",
+      27454848,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spell Air Elemental",
+      27454849,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Attack",
+      27454850,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Def",
+      27454851,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Spellpower",
+      27454852,
+      "int8",
+      "0",
+      true
+    ],
+    [
+      "=",
+      false,
+      "Lord Haart - Death Knight Knowledge",
+      27454853,
+      "int8",
+      "0",
+      true
+    ]
+  ]
+}
